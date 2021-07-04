@@ -1,0 +1,32 @@
+Acquaintance with the commander
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+I am Jor, the garrison commander of this outpost of the Kanian Empire.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Significant forces of the Khadagan invaders are concentrated in this area.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Our outpost is like a bone in their throat! However, the personnel entrusted to me is extremely small.
+#CAMERA 3 20 3 1
+#phrase Djor 4
+Now the Khadagans are probably planning an attack on our outpost. In their place, I would have done the same!
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 5
+Wait, and you, in fact, why are you hanging around here idle?
+#CAMERA 5
+#phrase Hero 6
+I…
+#CAMERA 3 20 3.5 1
+#phrase Djor 7
+Set aside!
+#CAMERA 3
+#phrase Djor 8
+You are at my disposal!
+#CAMERA 5
+#ANIMATION 24
+#phrase Hero 9
+There is!

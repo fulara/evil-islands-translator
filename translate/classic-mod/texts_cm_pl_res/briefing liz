@@ -1,0 +1,58 @@
+Dowiedz się, czego potrzebuje Jaszczurka
+#show OLIZ
+#show Hero
+#CAMERA 9
+#phrase OLIZ 1
+Przyszedłeś, człowieku. To jest dobre.
+#CAMERA 5
+#ANIMATION 45
+#phrase Hero 2
+Czy to wszystko, co chciałeś mi powiedzieć?
+#CAMERA 3
+#phrase OLIZ 3
+Znowu się spieszysz. Zapamiętam Twoje pytania i odpowiem na nie. Teraz musisz zwrócić wodę do kanału. Orki ukradły nam wodę.
+#show DumbLever 7
+#phrase Oliz 4
+Kieruj się na południe wzdłuż wody. Zobaczysz tamę i kanał. Trzeba podnieść tamę. Dźwignia. Dam to. Kanał musi być wypełniony. Złóg. Kamienia nie dam. Jest już na skraju kanału. Przed tamą. Kamień jest ciężki. Kiedy orki kopały, długo go podnosiły. Jeśli go popchniesz, szybko się cofnie.
+#CAMERA 11 10 5 2
+#phrase Oliz 5
+Potem wróć, a dam ci złoto, które mam.
+#CAMERA 11 10 5 2
+#ANIMATION 15
+#phrase Hero 6
+Hmm... Złoto - na pewno nie zaszkodzi, ale jest jeszcze coś, w czym mógłbyś mi pomóc. W Dalekich Górach jest plemię jaszczurek jeziornych, czy mógłbyś się z nimi zgodzić, żeby wpuściły mnie do… kawałka niebieskiego kamienia, który leży w wąwozie pod wodą?
+#CAMERA 11 10 5 2
+#phrase OLIZ 7
+Nie lubią rozmawiać. W ogóle niczego nie lubią. Tylko zabijaj.
+#CAMERA 11 10 5 2
+#phrase Hero 8
+W takim razie mógłbym skorzystać z pomocy twoich bardziej przychylnych krewnych, aby oczyścić drogę do wąwozu. Pomożesz?
+#CAMERA 9
+#phrase OLIZ 9
+W porządku. Czy zgadzasz się na wykonanie mojego zadania?
+#CAMERA 10 -20 5 2
+#ANIMATION 3
+#phrase Hero 10
+Weź pod uwagę, że wszystko już zostało zrobione.
+#CAMERA 11 10 5 2
+#phrase OLIZ 11
+Już zrobione? Chcesz mnie oszukać?
+#CAMERA 5
+#ANIMATION 9
+#phrase Hero 12
+Właściwie chciałem zażartować, inaczej jesteś zbyt poważny.
+#CAMERA 9
+#phrase Oliz 13
+Rozumiesz. To jest żart. Chyba też potrafię żartować. Później.
+#CAMERA 10 -20 5 2
+#ANIMATION 15
+#hide DumbLever
+#phrase Hero 14
+Rozdać! A tak przy okazji, jeśli dodasz kilka monet, wcale się nie obrażę.
+#CAMERA 9
+#phrase Oliz 15
+Idź do moich krewnych, którzy mieszkają na płyciznach dalej na południe po monety. Udaj się na najdalszą piaszczystą wyspę, trzecią z rzędu. Skarb będzie Twój!
+#NOLIPS
+#CAMERA 11 10 5 2
+#phrase OLIZ 16
+To jest dziwne. Ta osoba uwielbia humor. Żartowałem. Mężczyzna się nie śmiał. Bardzo dziwny.

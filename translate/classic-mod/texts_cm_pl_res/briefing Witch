@@ -1,0 +1,15 @@
+Poznaj Esterę
+#show Witch
+#show Hero
+#CAMERA 11
+#ANIMATION 46
+#phrase Witch 1
+Prawdopodobnie nie spodziewasz się? To prawda, dawno mnie tu nie było – i nie byłoby jej od wieków, gdyby nie kłopoty. Nie wiemy, co to jest, ale pojawiła się tylko nowa siła, straszna i niezwykła. Na Gipacie nie było takiej magii!
+#CAMERA 10
+#ANIMATION 61
+#phrase Hero 2
+Chodź babciu. Może marzyłeś już o czymś na starość?
+#CAMERA 11
+#ANIMATION 43
+#phrase Witch 3
+Tak, jakbym naprawdę nie osłabił się psychicznie! Będę mądrzejszy niż niektóre cycuszki. Ponadto ludzie zaczęli znikać. Czy to przypadek? Zbiegł się? Módlcie się do wielkich potęg, aby tak się stało. Nic tam, naczelnik stoi i zajmiemy się nim.

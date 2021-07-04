@@ -1,0 +1,7 @@
+[Death reward penalty: -10%] [Reward: + 100%]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Deduction of money from rewards for tasks: -10%.
+Cash reward for tasks: + 100%.

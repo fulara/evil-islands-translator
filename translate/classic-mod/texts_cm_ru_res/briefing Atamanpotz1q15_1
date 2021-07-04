@@ -1,0 +1,82 @@
+Союз за золото
+#show Ataman
+#show Hero
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 1
+Приветствую, Атаман! Я к вам с важным предложением.
+#ANIMATION 11
+#CAMERA 3
+#phrase Ataman 2
+И что же ты можешь мне предложить?
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 3
+Союз с Посёлком против общего врага. Знахарка Эстера видела вещий сон о грядущем. Армия демонов вторгнется на Гипат и уничтожит всё живое.
+#CAMERA 3
+#NOLIPS
+#phrase Ataman 4
+(молча смотрит)
+#CAMERA 3
+#ANIMATION 45
+#phrase Ataman 5
+ХА-ХА-ХА! Погодь, ты что, серьезно?!
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 6
+Да.
+#CAMERA 3
+#ANIMATION 46
+#phrase Ataman 7
+А-ХА-ХА-ХА-ХА-ХА!
+#show sackofgold 4
+#CAMERA 10
+#ANIMATION 43
+#phrase Hero 8
+Прекращай ржать, верить в это или нет - твоё дело, однако Посёлок предлагает золото в качестве платы за союз.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 9
+Ну, золото - это, конечно, хорошо. Однако этого маловато будет.
+#hide sackofgold
+#CAMERA 10
+#ANIMATION 14
+#phrase Hero 10
+Чего же ты ещё хочешь?
+#CAMERA 3
+#ANIMATION 44
+#phrase Ataman 11
+Я хочу хорошее оружие - железное.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 12
+Да где же я тебе его возьму на Гипате?
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 13
+Знамо где - в Мёртвом Городе! Вот прямо на верхушке Одинокой Горы оно и есть.
+#CAMERA 10
+#ANIMATION 73
+#phrase Hero 14
+Из Мёртвого Города ещё никто не возвращался. Ты моей смерти хочешь?
+#CAMERA 3
+#ANIMATION 14
+#phrase Ataman 15
+Как это никто? А Избранный как же? Он оттуда с железным оружием вернулся. Выходит, не всё так страшно, как кажется.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 16
+Что ты, со скелетами не справишься? Возьми что-нибудь потяжелее и проруби себе дорогу: кости они хрупкие, если у тебя есть дубина.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 17
+Ну, со скелетами, я думаю, справлюсь.
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 18
+Ага, удачи.
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 19
+Она тебе понадобится. Вряд ли я тебя ещё увижу.

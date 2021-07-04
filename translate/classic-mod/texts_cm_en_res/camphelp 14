@@ -1,0 +1,2 @@
+Drawing
+This section contains a drawing for assembling an item. After the drawing is put here, you need to put the required amount of material in the "Material" section. After that it will be possible to collect a new item (it will appear in the "Finished Item" section). You can also disassemble an already finished item - its drawing will appear in this section.

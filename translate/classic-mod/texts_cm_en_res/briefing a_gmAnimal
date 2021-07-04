@@ -1,0 +1,37 @@
+Hire: Tuzik [damage] (50)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Hello, I want to buy your fighting dog Tuzik!
+#CAMERA 3
+#phrase Posrednik 2
+Okay! This is a great fighting dog, you can't find a better one! With you 800 gold, you can take him, there he runs in the yard.
+#CAMERA 10
+#phrase Hero 3
+800 gold for that bald skinny dog? Is this your best fighting dog ?! Why is he so shabby?
+#CAMERA 3
+#phrase Posrednik 4
+These are battle scars!
+#CAMERA 10
+#phrase Hero 5
+It looks like lichen.
+#CAMERA 3
+#phrase Posrednik 6
+Okay, 300 gold and you can take it.
+#CAMERA 10
+#phrase Hero 7
+50 gold.
+#CAMERA 3
+#phrase Posrednik 8
+Okay, take it!
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 9
+Great, dropped the price by 750 gold!
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Posrednik 10
+Great, sold someone else's dog! It's good that I didn't remove the ad after selling my dog.

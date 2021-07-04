@@ -1,0 +1,5 @@
+[Shooter] (Sh.11) (D.3) [solo] Turniej
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

@@ -1,0 +1,26 @@
+Dossier: Urshak Shaman [Healer] (2,250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": empowers the player (15-30) for 66-93 seconds.
+[1] Heal: Every 10 sec. - heals 1 ally (20-30).
+[2] "Healing +": 5% chance - "Regeneration" (10) for 24 sec.
+#CAMERA 7
+#phrase Hero 3
+Urshak Shaman look for work! I climbed out of the cave.
+#phrase Hero 4
+God Malacath say go, I don't want to.
+#phrase Hero 5
+I anger god and get lightning in the ass.
+#phrase Hero 6
+I go and treat a dirty man, and his ass hurt from lightning.
+#phrase Hero 7
+Smear a soft place with healing ointment.
+#phrase Hero 8
+To heal, to make a great friend, to make an enemy small - I can do everything.
+#phrase Hero 9
+Just don't hit your ass with lightning.

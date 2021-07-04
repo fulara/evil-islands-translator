@@ -1,0 +1,18 @@
+O życiu w Ostatnim Schronieniu
+#show Hero
+#show Kuzn
+#CAMERA 3 30 3 1
+#phrase Kuzn 1
+Hmm... Nowa twarz? To jest dobre! W końcu brat Khatul pozbył się podejrzeń i zaczął ufać tym, którzy przybyli do Schronienia.
+#CAMERA 3 20 3.5 1
+#phrase Kuzn 2
+Jednak bardzo łatwo stracić zaufanie Khatula i posłuchać mojej rady: jeśli prosi o zrobienie czegoś lub radzi, żeby czegoś nie robił, lepiej zrobić to, czego potrzebuje. W przeciwnym razie twoje życie tutaj będzie znacznie trudniejsze!
+#CAMERA 3 0 3.5 1
+#phrase Kuzn 3
+Chociaż to nie moja sprawa. Młotek i szczypce to moja sprawa, a teraz także zaklęcia. Wcześniej rozdał mi je mój brat Kehel, ale teraz go tu nie ma.
+#CAMERA 3 -10 3 1
+#phrase Kuzn 4
+Był długo chory, nasz czarownik, i zmarł na krótko przed twoim pojawieniem się. Nigdy się z nim nie przyjaźniliśmy ... I ogólnie rzecz biorąc, na całym świecie jest mało prawdopodobne, aby miał przynajmniej jednego przyjaciela!
+#CAMERA 3 0 3.5 1
+#phrase Kuzn 5
+Ale z jakiegoś powodu brat Kehel przekazał mi przed śmiercią zaklęcia i runy, które pozostały po nim!

@@ -1,0 +1,11 @@
+Recruit: Striped Tiger [Damage] (1000)
+#show Hero
+#show PosrednikIngos
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 1
+I see your tyrenok has grown up, you are taking good care of him! I can teach him a couple of new commands for a nominal sum, what do you think?
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 2
+Great, of course I agree.

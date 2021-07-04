@@ -1,0 +1,39 @@
+A lesson from Babur!
+#show Hero
+#show Smith
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 1
+Babur, I want to do a craft, but I do not have enough knowledge about materials, can you help me with that?
+#ANIMATION 30
+#CAMERA 3 30 3 1
+#phrase Smith 2
+And what will I get from this? I don't need competitors in the Village.
+#ANIMATION 46
+#CAMERA 10
+#phrase Hero 3
+I am still very far from your skill level, and I simply don’t have time to do it so hard, so you don’t have to worry about it.
+#ANIMATION 11
+#CAMERA 5
+#phrase Smith 4
+Okay ... I'll tell you about the materials you can use to create armor, listen. There are 4 types of armor material on Hypatha: Fur, Leather, Skin, and Bone.
+#CAMERA 5
+#NOLIPS
+#phrase Hero 5
+Fur: piercing and fire damage (armor -25%), bludgeoning and acid damage (armor + 25%).
+Leather: slashing and acid damage (armor -25%), bludgeoning and fire damage (armor + 25%).
+#CAMERA 5
+#NOLIPS
+#phrase Hero 6
+Skin: slashing and acid damage (armor -10%), piercing and fire damage (armor + 10%).
+Bone: bludgeoning and acid damage (armor -25%), electric and piercing damage (armor + 25%).
+#ANIMATION 30
+#CAMERA 3
+#phrase Smith 7
+Outside of Gipat, there are other materials that can be used to create armor: Cloth and Metal.
+It is better not to consider fabric as armor, but almost any spells can be inserted into it.
+Metal: You have to find out for yourself.
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero 8
+Thank you Babur.

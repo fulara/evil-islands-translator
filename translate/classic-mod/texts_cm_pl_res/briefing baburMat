@@ -1,0 +1,39 @@
+Lekcja od Babura!
+#show Hero
+#show Smith
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 1
+Babur, chcę robić rzemiosło, ale nie mam wystarczającej wiedzy o materiałach, czy możesz mi w tym pomóc?
+#ANIMATION 30
+#CAMERA 3 30 3 1
+#phrase Smith 2
+A co z tego dostanę? Nie potrzebuję konkurentów w Wiosce.
+#ANIMATION 46
+#CAMERA 10
+#phrase Hero 3
+Nadal jestem bardzo daleko od twojego poziomu umiejętności i po prostu nie mam czasu, aby to zrobić tak ciężko, więc nie musisz się tym martwić.
+#ANIMATION 11
+#CAMERA 5
+#phrase Smith 4
+Dobra... Opowiem ci o materiałach, których możesz użyć do stworzenia zbroi, posłuchaj. Na Hypatha występują 4 rodzaje materiałów zbroi: futro, skóra, skóra i kość.
+#CAMERA 5
+#NOLIPS
+#phrase Hero 5
+Futro: obrażenia przebijające i od ognia (pancerz -25%), tłuczenie i obrażenia od kwasu (pancerz + 25%).
+Skóra: obrażenia cięte i kwasowe (pancerz -25%), tłuczenie i obrażenia od ognia (pancerz + 25%).
+#CAMERA 5
+#NOLIPS
+#phrase Hero 6
+Skóra: obrażenia cięte i kwasowe (pancerz -10%), obrażenia przebijające i od ognia (pancerz + 10%).
+Bone: obrażenia tłuczone i kwasowe (pancerz -25%), obrażenia elektryczne i przebijające (pancerz + 25%).
+#ANIMATION 30
+#CAMERA 3
+#phrase Smith 7
+Poza Hypatusem istnieją inne materiały, które można wykorzystać do tworzenia zbroi: tkanina i metal.
+Lepiej nie uważać tkaniny za zbroję, ale można w nią umieścić prawie każde zaklęcie.
+Metal: Musisz sam się przekonać.
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero 8
+Dziękuję Babur.

@@ -1,0 +1,2 @@
+Max. reserve of strength
+The maximum stamina that spells can require, currently available in the constructor. You cannot collect spells that none of your characters will be able to use due to insufficient stamina.

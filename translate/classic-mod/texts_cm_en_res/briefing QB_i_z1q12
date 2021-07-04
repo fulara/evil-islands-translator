@@ -1,0 +1,5 @@
+[Training] (0) Damage per second [24 Armor, 55 Defense]
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

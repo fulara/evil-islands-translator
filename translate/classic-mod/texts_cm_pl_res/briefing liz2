@@ -1,0 +1,48 @@
+Skarbie jaszczurek!
+#show OLIZ
+#show Hero
+#CAMERA 9
+#phrase OLIZ 1
+Człowieku, zdobyłeś już skarb raptorów? Czy jesteś szczęśliwy?
+#CAMERA 6
+#ANIMATION 43
+#phrase Hero 2
+Żartujesz?! Dlaczego mnie oszukałeś?
+#CAMERA 11 5 5 2
+#phrase OLIZ 3
+Czy cię oszukałem? Kochasz humor. Żartowałem. Nie jesteś zabawny?
+#CAMERA 5
+#ANIMATION 7
+#phrase Hero 4
+Ani trochę. Wiesz co, Pustelniku... Może ci odpowiada poważny ton. Nie żartuj już, dobrze?
+#CAMERA 9
+#phrase OLIZ 5
+W porządku. Wypełniłeś swój koniec umowy. Robię swoje.
+#CAMERA 9
+#phrase OLIZ 6
+Człowieku, chcę powiedzieć. Czeka na Ciebie wiele niebezpieczeństw.
+#CAMERA 5
+#ANIMATION 11
+#phrase Hero 7
+Tak? Możesz pomyśleć, że o tym nie wiem.
+#CAMERA 3
+#phrase OLIZ 8
+Więc teraz to wiesz. Chcę, żebyś się nimi zajął. To ci pomoże.
+#show DragonWand 7
+#CAMERA 6
+#ANIMATION 6
+#phrase Hero 9
+I co to jest? Albo róg, albo muszla ... Ten, który to zrobił, prawdopodobnie nie wiedział, co zrobi!
+#CAMERA 11 10 5 2
+#phrase OLIZ 10
+Może tak. Albo może nie. Ale bierzesz to. Ona ci pomoże.
+#CAMERA 2 25 6 3
+#ANIMATION 32
+#phrase Hero 11
+W jaki sposób? Co z tym zrobić?
+#CAMERA 1 0 4 4
+#phrase OLIZ 12
+Nie znam tego. Jesteś mężczyzną, jesteś mądry. Sam to zrozumiesz.
+#CAMERA 3
+#phrase OLIZ 13
+Powiedziałem wszystko. Transakcja została sfinalizowana.

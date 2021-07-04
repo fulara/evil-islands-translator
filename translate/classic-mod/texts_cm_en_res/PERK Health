@@ -1,0 +1,2 @@
+Health
+Health determines how much damage a character can take. When a character is damaged, his health deteriorates. When health becomes 0 or below, the character dies.

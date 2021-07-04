@@ -1,0 +1,5 @@
+(ciąg dalszy 15) (D.5) Zwróć starożytny naszyjnik
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

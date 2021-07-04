@@ -1,0 +1,4 @@
+Scrolling border setting
+Changes the distance the cursor should
+get close to the edge of the screen to start
+scrolling the camera in the direction of the cursor.

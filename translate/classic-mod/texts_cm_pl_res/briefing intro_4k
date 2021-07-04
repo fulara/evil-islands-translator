@@ -1,0 +1,15 @@
+Jestem mechanicznym sługą
+#show Hero
+#show Golem
+#CAMERA 3 30 8 2
+#phrase Golem 1
+Jestem golemem. Jestem mechanicznym sługą. Służę Wielkiemu Magowi.
+#CAMERA 3 20 6 3
+#phrase Golem 2
+Jeśli rozkaże cię zabić, zabiję cię. Jeśli każe mi umrzeć za ciebie, umrę za ciebie.
+#CAMERA 3 10 5 4
+#phrase Golem 3
+Teraz Wielki Mag kazał mi pracować dla ciebie - a ja będę pracować dla ciebie.
+#CAMERA 3 30 8 2
+#phrase Golem 4
+Jestem golemem. Jestem mechanicznym sługą. Gotowy do wyjścia!

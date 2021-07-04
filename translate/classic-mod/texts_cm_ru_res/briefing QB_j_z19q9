@@ -1,0 +1,5 @@
+(Сл.32)(Дл.6) Коготь ведьмы
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

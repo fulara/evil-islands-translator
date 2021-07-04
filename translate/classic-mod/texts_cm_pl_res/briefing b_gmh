@@ -1,0 +1,18 @@
+Wynajem: Szaman Urshak [Uzdrowiciel] (2250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Witam, chcę zatrudnić szamana Urshaka. Mam nadzieję, że nie jest tak tchórzliwy jak Anira?
+#CAMERA 3
+#phrase Posrednik 2
+Orki ze swej natury nie boją się, a ten nie jest wyjątkiem.
+#CAMERA 10
+#phrase Hero 3
+Co on może zrobić?
+#CAMERA 3
+#phrase Posrednik 4
+Uzdrawiaj, wzmacniaj i osłabiaj wrogów swoją magiczną kością. Będzie cię to kosztować 750 sztuk złota.
+#CAMERA 10
+#phrase Hero 5
+To idzie!

@@ -1,0 +1,14 @@
+Dossier: Felisha [Healer] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": empowers the player (30-45) by 66-93 sec.
+[1] Heal: Every 10 sec. - heals 1 ally (30-40).
+[2] "Healing +": 5% chance - "Regeneration" (10) for 24 sec.
+#CAMERA 3
+#phrase Hero 3
+A very talented sorceress healer is looking for adventure, that is, work. In addition to healing, I can make you stronger and faster and lighter and lighter, that is, they will not pierce you with lightning. And you don't have to call me for boring guarding your house or hunting. I want real battles and travels !!

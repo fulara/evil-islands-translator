@@ -1,0 +1,37 @@
+[Więzień czasu nr 2] (1) Pieczarkowa wędrówka
+#show Hero
+#show Sigrid
+#show Yar
+#CAMERA 10
+#phrase Hero 1
+Cześć ludzie! Jak się masz?
+#CAMERA 3
+#phrase Sigrid 2
+Cześć. W porządku.
+#CAMERA 5
+#ANIMATION 9
+#phrase Yar 3
+Nie narzekać. Czy przez godzinę nie kręcisz się o jedną rzecz Orcish, która daje niewidzialność?
+#CAMERA 10
+#phrase Hero 4
+Wow, nie. Skąd to wiesz?
+#CAMERA 3
+#ANIMATION 44
+#phrase Sigrid 5
+Powiedziałem mu to i podsłuchałem rozmowę strażników. Mówiono, że orkowie zaatakowali patrol w pobliżu Jaskiń na Pogórzu. Tak więc szamana nie było wśród nich, a ogniste strzały znikąd spadły na nas.
+#CAMERA 5
+#ANIMATION 73
+#phrase Yar 6
+Może zaatakowało światło lasu zza drzew?
+#CAMERA 3
+#ANIMATION 11
+#phrase Sigrid 7
+Bardziej jak zaplanowany atak niż wypadek.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 8
+Jadę na Pogórze po grzyby, więc zajrzę do Jaskini - może coś się dowiem. Przyjaciele będą zaskoczeni, gdy ciasto pojawi się znikąd.
+#CAMERA 10
+#phrase Hero 9
+Dobra, szukam grzybów.

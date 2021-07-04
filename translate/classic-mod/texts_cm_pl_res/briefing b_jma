@@ -1,0 +1,6 @@
+Wynajem: Łowca [obrażenia] (4 500 000)
+#show Hero
+#show PosrednikJig
+#CAMERA 10
+#phrase PosrednikJig 1
+Najemnik jest opłacony.

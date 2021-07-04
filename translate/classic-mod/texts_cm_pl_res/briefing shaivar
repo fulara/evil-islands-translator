@@ -1,0 +1,29 @@
+Zgadzam się z orkami
+#show OrcC
+#show Hero
+#CAMERA 3
+#ANIMATION 4
+#phrase OrcC 1
+Coś często, często ludzie zaczęli do nas przychodzić. Czego tu chcesz?
+#CAMERA 10
+#ANIMATION 45
+#phrase Hero 2
+Jestem tutaj, aby poprosić o pomoc. Nasz szaman miał wizję demonicznej inwazji na Gipat i staram się zjednoczyć jak najwięcej osób przeciwko temu zagrożeniu.
+#CAMERA 3
+#ANIMATION 5
+#phrase OrcC 3
+Nie mogę ci pomóc, mamy już wiele, wiele problemów. Pomóż nam, najpierw pomóż nam, a potem porozmawiamy.
+#CAMERA 10
+#phrase Hero 4
+To idzie. Jaki jest problem?
+#CAMERA 3
+#ANIMATION 6
+#phrase OrcC 5
+Jestem najbogatszy w Piaskach, ale nie wszyscy mnie słuchają. W pobliżu mieszka i mieszka szaman, orkowie go słuchają, bo jest silny, silny. Pokonaj go - porozmawiamy.
+#CAMERA 10
+#phrase Hero 6
+Cóż, poradzę sobie z szamanem.
+#CAMERA 3
+#ANIMATION 9
+#phrase OrcC 7
+Na próżno, na próżno tak myślisz, on jest zawsze, zawsze gotowy. Uderza mocno ogniem. A jego golem jest okropny, okropny, trzymaj się od niego z daleka.

@@ -1,0 +1,13 @@
+Akta: żołnierz normański [czołg] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] Pije Eliksir Leczenia: Co 180 sek. - jeśli zdrowie jest <25%.
+#CAMERA 3
+#phrase Hero 3
+Doświadczony żołnierz szuka pracy. Posiadam doskonałe umiejętności walki mieczem i pięścią. Zabił bandę złodziei, walczył z trollem. Bezpieczeństwo czy kłopoty - zawsze gotowi do pomocy.

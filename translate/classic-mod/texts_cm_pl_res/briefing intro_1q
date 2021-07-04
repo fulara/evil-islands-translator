@@ -1,0 +1,14 @@
+O życiu na wsi
+#show Hero
+#show Nsheriff
+#CAMERA 9
+#phrase NSheriff 1
+Kiedyś myślałem, że prowadzenie Wioski to pestka! Poznaj siebie rano, kiedy wydałeś rozkazy i siedź w cieniu do wieczora.
+#CAMERA 7
+#phrase NSheriff 2
+A kiedy sam to wypróbował, od razu zaczął myśleć inaczej: nie jeden problem, tylko inny. Albo rabusiów, orków, albo goblinów… Teraz nie jest jasne z jaszczurkami: albo mamy z nimi pokój, albo wrogość.
+#CAMERA 3 15 3 2
+#phrase NSheriff 3
+Co więcej, Wybraniec nas opuścił, a my musimy polegać tylko na własnej sile!
+#phrase NSheriff 4
+Myślałem, że splunę na przełożonych, ale nie odważyłem się: przecież ludzie powierzyli mi biznes, a okazuje się, że jeśli zrezygnuję ze wszystkiego, to wygląda na to, że ich zdradzę. I nie stać mnie na to!

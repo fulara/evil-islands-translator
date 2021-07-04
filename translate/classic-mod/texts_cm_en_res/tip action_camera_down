@@ -1,0 +1,5 @@
+Camera back
+The camera scrolls back. When you press
+the same key + <CTRL> the camera will move down
+below, keeping the direction to the previously selected
+point.

@@ -1,0 +1,37 @@
+Dossier: High Healer [Healer] (4,500,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[-] The growth of the Mercenary's Power is not displayed in the info window, but it can be viewed in the console ("~") after the enemy dies.
+[~] "Armor": <PP / 21: Dr> "Increase Strength" (70) for 67 sec.
+[~] "Armor": <1 R / 5: Dr> "Heal" (100)
+[~] "Armor": <PP / 9: Dr> "Haste" (6) for 43 sec.
+#CAMERA 3
+#phrase Hero 3
+[1] "Gain": empowers the player (130-150) for 400 sec.
+[1] Heal: Every 10 sec. - heals 1 ally (110-150).
+[1] Mass Heal: Every 180-45 sec. - heals all allies (110-150) in the 20m area, if the health of the ally is <33%.
+[1] Mass Heal +: 25 sec. area 2-10m - "Regeneration" (2).
+[2] "Healing +": 15% chance - "Regeneration" (9) for 5 sec.
+[4] "Heal +": 30% chance - "Protection from magic" (109) for 10 sec.
+#CAMERA 3
+#phrase Hero 4
+[1] "Hypnosis": Upon completion of the spell, paralyze the enemy for 30 seconds under the following conditions:
+1) if the mercenary is out of combat,
+2) if the target is visible and located at a distance of 20 to 50 meters,
+3) if the target's Power Reserve <(the player's power reserve * 0.5 + (the player's power reserve * 0.5 * the level of the mercenary)).
+If the target has been "hypnotized", the spell can be repeated after 180 seconds - 20 seconds * the level of the mercenary.
+#CAMERA 3
+#phrase Hero 5
+[1] "Submission": The mercenary subjugates the victim to hypnosis, under the following conditions:
+1) if the mercenary is out of combat,
+2) if the target is visible,
+3) if the Power of the target + Power of subordinate creatures <(Power of the player * 0.5 + (Power of the player * 0.5 * level of the mercenary)).
+4) Maintaining hypnosis with the above conditions for 20 seconds.
+#CAMERA 3
+#phrase Hero 6
+Hint: use the "Clairvoyance" spell to comply with all the conditions of submission.

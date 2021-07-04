@@ -1,0 +1,5 @@
+[UV # 19] (Sl.14) (D.4) Hunting for hunters
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

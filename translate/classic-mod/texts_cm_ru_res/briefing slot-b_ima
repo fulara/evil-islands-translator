@@ -1,0 +1,6 @@
+Наёмник: Лесовик-стрелок Сазару [урон]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+...

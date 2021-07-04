@@ -1,0 +1,5 @@
+(Sl.32) (D.6) The invasion of Gipat!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

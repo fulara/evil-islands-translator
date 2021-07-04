@@ -1,0 +1,5 @@
+[UV # 3] (Sl.2) (D.4) [solo] Dirty work
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

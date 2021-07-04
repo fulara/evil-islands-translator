@@ -1,0 +1,48 @@
+Meeting with the Witch Doctor
+#show Hero
+#show Witch
+#CAMERA 3
+#ANIMATION 43
+#phrase Witch 1
+Who are you? Something all sorts of things are frequenting here!
+#CAMERA 10
+#phrase Hero 2
+I…
+#CAMERA 3
+#ANIMATION 11
+#phrase Witch 3
+Now I myself will find out who you are - wait calmly.
+#CAMERA 3
+#ANIMATION 54
+#phrase Witch 4
+What? How can this be? I see in your past pictures of things that could not have happened. Who are you?
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 5
+There is nothing to hide from Granny Estera, she has the gift of clairvoyance. Apparently, there is no point in hiding something from her, I'll tell you everything as it is.
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 6
+I was transported into the past by the Great Magician, and I need to get to him as soon as possible in this time in order to warn him. Unfortunately, now I cannot get to him, since the path to his shelter is very dangerous, and I do not want to throw my corpses on the road to him, and it hurts.
+#CAMERA 3
+#ANIMATION 11
+#phrase Witch 7
+So much for you! Understood nothing. If I had not seen the images of your past with my own eyes, I would have thought that a troll hit you on the head. What do you want from me? I'm already too old to go to dangerous places with you.
+#show OrcLicense00 5
+#CAMERA 10
+#phrase Hero 8
+Look at this skin with letters. Can you translate it? It has something to do with the Headman, and I would like to know what he is looking for.
+#CAMERA 3
+#ANIMATION 29
+#phrase Witch 9
+If you need to bother the Headman - I'm all for it! Only I cannot translate this without the Orcish primer. Follow him to the Sands if you like.
+#CAMERA 3
+#ANIMATION 44
+#phrase Witch 10
+The safest way is to follow the northern part of the Rivers and Islands until you enter the Sands in the east. Take the primer from the orc shaman there. I have marked on your map the place where he lives.
+#hide OrcLicense00
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 11
+Thank you, grandma, I’m in a flash.

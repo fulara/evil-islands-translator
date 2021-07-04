@@ -1,0 +1,28 @@
+Akta: Żaba Frosy [Uzdrowiciel] (2250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[~] „Broń”: <R> „spowolnienie” (5) na 10 sek.
+[~] "Pancerz": <1 R> "Uzdrowienie" (40)
+[1] „Gain”: wzmacnia gracza (50-60) na 400 sek.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (20-30).
+[2] "Leczenie +": 20% szansa - "Regeneracja" (5) przez 15 sek.
+[4] "Leczenie +": 20% szansy - "Ochrona przed magią" (33) przez 10 sek.
+[4] "Leczenie +": 10% szansy - "Przyspieszenie" (8) przez 10 sek.
+#CAMERA 3
+#phrase Hero 3
+Doświadczony szamański lekarz szuka pracy.
+#CAMERA 3
+#phrase Hero 4
+Ogień mi się nie podoba, ale nie mam sobie równych w traktowaniu: jeśli twoja ręka zostanie odcięta, wyczaruję nową.
+#CAMERA 3
+#phrase Hero 5
+Uwierz mi, ze mną staniesz się silniejszy, a twoi wrogowie słabsi, i to dosłownie. Podróżowanie ze zwierzakiem.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 6
+Nabazgrał: „obrzydliwa ropucha”.

@@ -1,0 +1,6 @@
+Delay for prompts
+Delay time is configurable
+for a tooltip to appear
+next to the element you are hovering over
+cursor. This time varies within
+from 0 to 5 sec.

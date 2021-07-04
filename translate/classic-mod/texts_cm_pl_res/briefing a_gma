@@ -1,0 +1,22 @@
+Wynajem: Kylie Mazila [obrażenia] (250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Chcę zatrudnić Kylie, czy możesz nam o niej powiedzieć więcej?
+#ANIMATION 30
+#CAMERA 3
+#phrase Posrednik 2
+Nie jest w moim interesie mówić źle o najemnikach, których proponuję, ale lubię cię!
+#ANIMATION 9
+#CAMERA 7
+#phrase Posrednik 3
+Wcześniej biegle posługiwała się magią ognia, stąd jej drugie imię – Fire Fox. Chociaż może to był po prostu kolor jej włosów… To nie ma znaczenia.
+#ANIMATION 44
+#CAMERA 3
+#phrase Posrednik 4
+Ale raz w jednej bitwie została mocno uderzona w głowę, po czym wyobrażała sobie, że jest „Robinem Gadem”. Za jej oczami wszyscy nazywają ją „Mufką Kylie” - nietrudno zgadnąć, dlaczego. Przydomek „mufka” dokładnie odzwierciedla jej umiejętności w posługiwaniu się bronią ręczną.
+#ANIMATION 61
+#CAMERA 7
+#phrase Posrednik 5
+Ogólnie dziewczyna nie jest zła. Może po prostu brakuje jej doświadczenia.

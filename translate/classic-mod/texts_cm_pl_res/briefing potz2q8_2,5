@@ -1,0 +1,15 @@
+Strażnik niebieskiego klanu
+#show Hero
+#show YCFBlue
+#show Zak2
+#CAMERA 3
+#phrase YCFBlue 1
+Witaj stary, słyszałem o tym, jak pomogłeś zielonemu klanowi, może ty też możesz pomóc nam. Nasz obóz znajduje się w zachodniej części Opuszczonych Kopalni.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 2
+Obóz leśny, czego teraz potrzebujemy. Możemy się tam ukryć, szukając zbiega.
+#ANIMATION 15
+#CAMERA 5
+#phrase Hero 3
+Chętnie pomożemy Twojemu klanowi Guardian.

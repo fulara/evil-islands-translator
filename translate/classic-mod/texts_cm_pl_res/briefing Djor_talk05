@@ -1,0 +1,39 @@
+Znajomość z dowódcą
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Widzisz tam mistrza Starka?
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Jestem pewien, że jest szkodnikiem i szpiegiem Hadagan.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Nie chce dostarczać moim żołnierzom broni i amunicji za darmo!
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 4
+I widziałem, jak się z nim porozumiewałeś.
+#CAMERA 3 20 3.5 1
+#phrase Djor 5
+Co, chcesz zdradzić wrogowi tajemnice powierzone ci przez ojczyznę?
+#CAMERA 3
+#phrase Djor 6
+Odpowiadać!
+#CAMERA 5
+#phrase Hero 7
+Słuchaj, to jest trochę ...
+#CAMERA 3 20 3 1
+#phrase Djor 8
+Daj spokój ... Nie rozumiesz żartu, czy co?
+#CAMERA 3 20 3.5 1
+#phrase Djor 9
+Gha ha ha ha! Hm!
+#CAMERA 3 20 3 1
+#phrase Djor 10
+Wojskowy humor.
+#CAMERA 6
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 11
+Tak ... będziesz się śmiać.

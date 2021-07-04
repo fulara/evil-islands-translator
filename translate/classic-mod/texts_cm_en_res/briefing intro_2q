@@ -1,0 +1,15 @@
+About life in the city of Ingos
+#show Hero
+#show Huber
+#CAMERA 3 30 3 1
+#phrase Huber 1
+Oh, new faces in our city? This does not happen often! And besides, it seems to me that you belong to the category of the so-called "adventurers"?
+#CAMERA 3 20 3.5 1
+#phrase Huber 2
+Well, in this case, you got exactly where you need to! In our province you will find what you are looking for, in excess rather than insufficient!
+#CAMERA 3 -10 3 1
+#phrase Huber 3
+On the other hand, an enterprising person who does not shy away from risk is very useful to me in the city. My faithful assistant, Captain Tilvar, went missing along with his squad, and since then I have no one to send even to get a new sample for my collection!
+#CAMERA 3 0 3.5 1
+#phrase Huber 4
+However, there are other, not so interesting things for you. Such as: robbers, rioters, hostile creatures ... In a word, you will not be bored, you can be sure!

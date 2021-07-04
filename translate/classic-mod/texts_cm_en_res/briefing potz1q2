@@ -1,0 +1,37 @@
+[Prisoner of Time # 2] (1) Mushroom Hike
+#show Hero
+#show Sigrid
+#show Yar
+#CAMERA 10
+#phrase Hero 1
+Hey guys! How are you?
+#CAMERA 3
+#phrase Sigrid 2
+Hello. All right.
+#CAMERA 5
+#ANIMATION 9
+#phrase Yar 3
+Not complaining. Do you, for an hour, not vkur about one thing Orcish, which gives invisibility?
+#CAMERA 10
+#phrase Hero 4
+Wow, no. How do you know that?
+#CAMERA 3
+#ANIMATION 44
+#phrase Sigrid 5
+I told him this, and I overheard the conversation of the vigilantes. Orcs were said to have attacked the patrol near the Caverns in the Foothills. So, the shaman was not among them, and fiery arrows from nowhere fell upon ours.
+#CAMERA 5
+#ANIMATION 73
+#phrase Yar 6
+Maybe a forest light from behind the trees attacked?
+#CAMERA 3
+#ANIMATION 11
+#phrase Sigrid 7
+More like a planned attack than an accident.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 8
+I'm heading to the Foothills for mushrooms, so I can look into the Cave - maybe I can find out something. Friends will be surprised when a cake comes from nowhere.
+#CAMERA 10
+#phrase Hero 9
+Okay, I'm looking for mushrooms.

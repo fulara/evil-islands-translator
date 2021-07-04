@@ -1,0 +1,12 @@
+Znajomość z dowódcą
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+To niesamowite, jak udało im się zbudować tu fort tuż pod samymi nosami Khadagan, tak że nawet się nie podrapali?
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Ta osoba musi mieć świetne znajomości!
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Mówię o Radzie, sprzedawcy słodyczy.

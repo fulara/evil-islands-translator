@@ -1,0 +1,5 @@
+[Event] (С.19) (Д5) An unforgettable holiday
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

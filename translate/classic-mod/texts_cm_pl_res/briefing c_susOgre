@@ -1,0 +1,13 @@
+Dossier: Oswojony zjadacz [czołg] (300.000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] „Masowa prowokacja”: co 60 sek. - prowokuje wszystkich wrogów, których gracz widzi, jeśli jest > 2 wrogów.
+[1] „Tupnięcie”: co 180-60 sekund. - "Paraliż" przez 10 sek. na terenie 4-8m.
+[2] „Stomp +”: „Slow” (5) przez 21 sek.
+[3] „Tupnięcie +”: „Osłabienie” (90) przez 50 sek.

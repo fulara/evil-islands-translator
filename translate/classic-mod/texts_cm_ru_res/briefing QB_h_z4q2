@@ -1,0 +1,5 @@
+(Сл.8)(Дл.2-3) Живые камни
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

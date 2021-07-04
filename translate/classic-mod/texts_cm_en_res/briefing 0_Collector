@@ -1,0 +1,9 @@
+Dossier: Gatherer Marauder
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+The Collector brings loot from the corpses of slain enemies.
+#CAMERA 3
+#phrase Hero 2
+With each hired mercenary, the chance of a collector spawning increases by 33% - up to 99% with 3 mercenaries.

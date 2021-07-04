@@ -1,0 +1,13 @@
+(3) Outlaw's Treasure
+#show Hero
+#show Nsheriff
+#CAMERA 9
+#phrase Nsheriff 1
+It seems that our Village will never get rid of the neighborhood with robbers! No matter how much I made plans, I cannot completely destroy them! But now I have a new good idea.
+#phrase Hero 2
+Hmm ... Actually, when they say the words "new good idea" in front of me, I immediately expect some kind of catch!
+#phrase Nsheriff 3
+No catch! I just want to ask you to take the loot from the robbers. You don't even have to fight them, because the main goal is a bag of gold that they have in their camp.
+#CAMERA 9
+#phrase Nsheriff 4
+True, the approaches to the camp are guarded, but the guards can be deceived.

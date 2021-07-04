@@ -1,0 +1,9 @@
+Acquaintance with the commander
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+We need a magician.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Are you a magician?

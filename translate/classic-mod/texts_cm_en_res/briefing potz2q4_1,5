@@ -1,0 +1,48 @@
+[Prisoner of Time # 20] (12-13) Informant
+#show Hero
+#show Detective
+#show Zak 
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero 1
+Here you are, thank you Chosen One.
+#ANIMATION 11
+#CAMERA 5
+#phrase Zak 2
+Glad you got out of town. Call me Zach. I was called the Chosen One on Gipat, but now it's superfluous.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 3
+Okay. With the Guardian sorted out, now to the point. Detective, who say you ambushed you?
+#ANIMATION 44
+#CAMERA 3
+#phrase Detective 4
+One hunter from a northwestern settlement in the vicinity of the city. He said, they say, he saw how the red-skinned girl was led towards the settlement of miners in the east.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero 5
+Did he have any special signs?
+#ANIMATION 29
+#CAMERA 3
+#phrase Detective 6
+He is dressed in fur armor and was carrying a bow. I think it won't be difficult to recognize him.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 7
+Clearly, I’ll shake everything I can out of him.
+#ANIMATION 44
+#CAMERA 5
+#phrase Zak 8
+After the assassination attempt on the detective, I chased the intruder, but could not catch up. The tracks end in Kharansul's Domain.
+#ANIMATION 30
+#CAMERA 5
+#phrase Zak 9
+Since the tracks lead to the Domain of Karansul, it means that we will have to look for clues there.
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 10
+It may not be necessary if the informant tells us who ordered the detective.
+#ANIMATION 29
+#CAMERA 5
+#phrase Zak 11
+Okay, deal with the informant while I find out about Kharansul's Domain.

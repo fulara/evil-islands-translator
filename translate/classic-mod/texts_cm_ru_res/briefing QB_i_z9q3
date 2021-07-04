@@ -1,0 +1,5 @@
+(Сл.9)(Дл.3-4) Королева блуждающих огоньков
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,2 @@
+Load
+Load: how heavily loaded the character is. The more the character carries armor and weapons and the heavier they are, the greater his load. If the load exceeds the "maximum load" value determined by the character's "strength", that character cannot run.

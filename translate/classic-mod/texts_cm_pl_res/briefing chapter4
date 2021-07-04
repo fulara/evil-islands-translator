@@ -1,0 +1,26 @@
+[Więzień czasu] Rozdział 4 (# 13-16)
+#show Hero
+#show Nsheriff
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+Próbując znaleźć wsparcie w osobie Atamana i Wolnych Łowców, zostałem wciągnięty na wojnę, aby założyć nowy obóz na terytorium orków.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 2
+Po zakończeniu wojny postanowiliśmy uczcić tę sprawę. Potem wszystko było jak mgła: cyklop, zamknięte wejście do tunelu, Khadagans, wybawienie Wybrańca z niewoli ...
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 3
+Z wdzięcznością Wybraniec powiedział, jak dostać się do Tunelu. A ode mnie nauczył się, jak dotrzeć do Wielkiego Maga.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 4
+Dowiedziawszy się o zbliżającym się niebezpieczeństwie, Wielki Mag wyjawił mi lokalizację upadłego meteorytu - bardzo niebieskiego kamienia, którego tak długo szukałem. Po zdobyciu fragmentu meteorytu z jego pomocą będę mógł zwabić na Gipat ludzi z innych krajów. Mam nadzieję, że pomoże nam to w walce z demonami.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 5
+Gdy Wielki Mag nabiera siły i bada moją nową zdolność odrodzenia, dążę do zjednoczenia wszystkich mieszkańców Gipat przeciwko nadchodzącemu zagrożeniu.

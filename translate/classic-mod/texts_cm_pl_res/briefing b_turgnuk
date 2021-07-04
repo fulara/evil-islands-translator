@@ -1,0 +1,23 @@
+Dossier: Turgnuk-Żelazna Czaszka [Czołg] (2250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[~] „Broń”: <1 R> „Sparaliż” na 3 sek.
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] "Regeneracja (siebie)": otrzymywanie obrażeń, (10-20)% szansy - "Regeneracja" (3-9) przez 15-5 sek.
+#CAMERA 3
+#phrase Hero 3
+Turgnuk-żelazna czaszka biła pyskiem dla pieniędzy.
+#CAMERA 3
+#phrase Hero 4
+Pobiłem pysk syna plemienia. Plemię mnie wykopuje, wyrzuca mnie!
+#CAMERA 3
+#phrase Hero 5
+Turgnuk uwielbiają bić po twarzy, uwielbiają jeść i ładnie jeść.
+#CAMERA 3
+#phrase Hero 6
+Turgnuk jest głodny i zły. Dajesz pieniądze-pieniądze - pokonałem pysk-kaganiec.

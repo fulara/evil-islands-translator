@@ -1,0 +1,24 @@
+Akta: Robin Gad [obrażenia] (2250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Zdradziecki Strzał: Co 50-30 sek. - obrażenia przebijające pancerz (80% twojego zdrowia + 2 na poziom).
+[1] "Złowrogi Strzał +": "Osłabienie" (45) na 24 sek.
+[2] „Podstępny Strzał +”: „Slow” (3) przez 24 sek.
+[3] Zdradziecki Strzał +: Paraliż na 4,5 sekundy.
+#CAMERA 3
+#phrase Hero 3
+Uwaga: za popełnienie serii napadów poszukiwany jest niebezpieczny przestępca o pseudonimie gad Robin.
+#CAMERA 3
+#phrase Hero 4
+Różni się skradaniem, zaradnością, przebiegłością i umiejętnym posługiwaniem się bronią strzelecką.
+#CAMERA 3
+#phrase Hero 5
+Znaki specjalne: wygląda na 30-80 lat, mocną budowę, średni wzrost, ubrany w ubranie, nieświeży oddech, uwielbia cebulę.
+#CAMERA 3
+#phrase Hero 6
+Nagroda za głowę przestępcy wynosi 500 sztuk złota.

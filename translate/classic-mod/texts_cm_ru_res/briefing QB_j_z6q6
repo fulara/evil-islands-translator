@@ -1,0 +1,5 @@
+[Триумвират №12](Сл.11)(Дл.3-4) Право прохода
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

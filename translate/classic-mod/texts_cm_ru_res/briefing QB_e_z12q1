@@ -1,0 +1,5 @@
+(Сл.15)(Дл.4-5) Старые карьеры
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

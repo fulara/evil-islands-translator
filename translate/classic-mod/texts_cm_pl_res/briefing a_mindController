@@ -1,0 +1,29 @@
+Akta: Władca Umysłu Glizdoga [obrażenia] (35,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[-] Wzrost Siły Najemnika nie jest wyświetlany w oknie informacyjnym, ale można go zobaczyć w konsoli („~”) po śmierci podwładnego wroga.
+[1] „Osłabienie”: „Osłabienie” (60) przez 40 sek.
+[2] "Obrażenia - Strzała": 100 obrażeń od kwasu.
+[3] Obrażenia - c. Mgła: 150 obrażeń od kwasu.
+#CAMERA 3
+#phrase Hero 3
+[1] Hipnoza: Po zakończeniu zaklęcia sparaliżuje wroga na 30 sekund pod następującymi warunkami:
+1) jeśli najemnik jest poza walką,
+2) jeżeli cel jest widoczny i znajduje się w odległości od 20 do 50 metrów,
+3) jeśli rezerwa chodu celu <(rezerwa chodu gracza * 0,5 + (rezerwa chodu gracza * 0,5 * poziom najemnika)).
+Jeśli cel został "zahipnotyzowany", zaklęcie można powtórzyć po 180 sekundach - 20 sekundach * poziom najemnika (gwiazda nad głową najemnika symbolizuje gotowość umiejętności).
+#CAMERA 3
+#phrase Hero 4
+[1] "Poddanie": Najemnik poddaje ofiarę hipnozie pod następującymi warunkami:
+1) jeśli najemnik jest poza walką,
+2) jeśli cel jest widoczny,
+3) jeśli Siła celu + Siła podległych stworzeń <(Moc gracza * 0,5 + (Moc gracza * 0,5 * poziom najemnika)).
+4) Utrzymywanie hipnozy w powyższych warunkach przez 20 sekund.
+#CAMERA 3
+#phrase Hero 5
+Wskazówka: użyj zaklęcia "Jasnowidzenie", aby spełnić wszystkie warunki poddania się.

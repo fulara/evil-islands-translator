@@ -1,0 +1,24 @@
+Akta: Żywiołak Kamienia [czołg] (2250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] „Tupnięcie”: co 180-60 sekund. - "Paraliż" przez 10 sek. na terenie 4-8m.
+[2] „Stomp +”: „Slow” (5) przez 21 sek.
+[3] „Tupnięcie +”: „Osłabienie” (40) na 50 sek.
+#CAMERA 3
+#phrase Hero 3
+Sprzedam duży żywy kamienny blok.
+#CAMERA 3
+#phrase Hero 4
+Umie bić, miażdżyć, łamać, deptać. Przebiera się w górach, a także zastępuje krzemień do zapłonu.
+#CAMERA 3
+#phrase Hero 5
+Jedna wada: podczas chodzenia dudni, aby cały Gipat wiedział o twoim podejściu.
+#CAMERA 3
+#phrase Hero 6
+W sprawie zatrudnienia skontaktuj się z Vanirem.

@@ -1,0 +1,15 @@
+Orkowie pomogą
+#show OrcC
+#show Hero
+#CAMERA 3
+#ANIMATION 4
+#phrase OrcC 1
+Tak, człowiek-człowiek dobrze zrobił Shai-Varu! Teraz możesz - możesz do nas zadzwonić po pomoc.
+#CAMERA 5
+#ANIMATION 31
+#phrase Hero 2
+Dziękuję Ci. Aby sprowadzić więcej ludzi do Gipat dla ochrony, będziemy musieli oczyścić drogę w kanionie Gór Dalekich z jaszczurek - pomoc twoich wojowników byłaby dla nas przydatna.
+#CAMERA 3
+#ANIMATION 9
+#phrase OrcC 3
+Dobra, dobra, przyjedziemy.

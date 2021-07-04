@@ -1,0 +1,14 @@
+Akta: Felisha [Uzdrowicielka] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": wzmacnia gracza (30-45) o 66-93 sek.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (30-40).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.
+#CAMERA 3
+#phrase Hero 3
+Bardzo utalentowana uzdrowicielka czarodziejka poszukuje przygody, czyli pracy. Oprócz uzdrawiania mogę sprawić, że będziesz silniejszy i szybszy oraz lżejszy i lżejszy, czyli nie przebiją cię piorunem. I nie musisz do mnie dzwonić za nudne pilnowanie domu lub polowanie. Chcę prawdziwych bitew i podróży !!

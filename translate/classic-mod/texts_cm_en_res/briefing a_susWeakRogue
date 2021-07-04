@@ -1,0 +1,14 @@
+Dossier: Assassin [damage] (35,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Backstab: Every 60-30 sec. - armor-piercing damage (80% of your health + 15 per level).
+[1] "Backstab +": "Weaken" (130) for 33 sec.
+[2] "Backstab +": "Slow" (5) for 21 sec.
+[3] Backstab +: Dementia for 15 sec.
+[4] Backstab +: Paralyze for 4 sec.
+[5] "Backstab +": "Weaken" (170) for 33 sec.

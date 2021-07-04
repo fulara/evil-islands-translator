@@ -1,0 +1,5 @@
+[Group] (Sl.31) (D.3-4) Astral storm
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

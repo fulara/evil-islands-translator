@@ -1,0 +1,30 @@
+Wynajem: Valeer Vigilante [Czołg] (250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Chcę zatrudnić strażnika Valira.
+#CAMERA 3
+#ANIMATION 11
+#phrase Posrednik 2
+(sarkazm) A czym cię interesował?
+#CAMERA 10
+#phrase Hero 3
+Ma bogate doświadczenie w służbie w drużynie i zna taktykę walki z goblinami.
+#CAMERA 3
+#ANIMATION 46
+#phrase Posrednik 4
+(poprzez śmiech) "Zna taktykę walki z goblinami..." Ha ha ha! Tak, z pewnością wie, jak przed nimi uciec!
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 5
+(z niedowierzaniem) Ale co z dziesięcioma bardzo dużymi okazami, z którymi miał do czynienia?
+#CAMERA 3
+#ANIMATION 15
+#phrase Posrednik 6
+Posłuchaj, powiem ci teraz. Tak było, pijany jak diabli, postanowił udać się na noc do wychodka i usiadł niedaleko bandy goblinów pilnujących mostu.
+#phrase Posrednik 7
+Cóż, gobliny albo coś usłyszały, albo powąchały, przez wychodzący zapach, ogólnie rzecz biorąc, przed nami pojawił się obraz: Valeer biegnie ze spuszczonymi spodniami od stada goblinów. Śmialiśmy się długo z tym dupkiem.
+#ANIMATION 61
+#phrase Posrednik 8
+Cóż, to dobry facet, więc w razie niebezpieczeństwa może osłonić twoje plecy.

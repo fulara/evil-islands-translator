@@ -1,0 +1,5 @@
+[Group] (Sl.40) (D.4) New information
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

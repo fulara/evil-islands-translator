@@ -1,0 +1,5 @@
+(Сл.3)(Дл.2) Волк-вожак
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

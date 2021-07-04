@@ -1,0 +1,39 @@
+Get to know Sver
+#show Hero
+#show Trapper
+#ANIMATION 44
+#CAMERA 10
+#phrase Hero 1
+Hello dear! Captain Tilvar advised me to speak to you about a stranger with blond hair. Do you by any chance know where he could have gone?
+#ANIMATION 29
+#CAMERA 3
+#phrase Trapper 2
+I know. He searches for the missing princess, as does the detective from the capital hired by the governor Valrasian. This stranger followed the detective to the east of the city's outskirts.
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 3
+Speaking of the governor, do you know how to get his attention? I urgently need to talk to him.
+#ANIMATION 30
+#CAMERA 3
+#phrase Trapper 4
+I could put in a good word for you, but I don't know anything about you ... let's do this: you will do one job for me, and I will arrange a meeting with the governor?
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 5
+What kind of work?
+#ANIMATION 44
+#CAMERA 3
+#phrase Trapper 6
+Soon a buyer will come to us, who gives a normal price for skins and rare trophies, not like Kararansul. So, if you get me a werewolf's head and kill a dozen tigers in the outskirts of the city so that it is safe to get skins, I will put in a word for you to the governor.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero 7
+Werewolf?! What kind of beast is this and where to look for it?
+#ANIMATION 11 
+#CAMERA 3
+#phrase Trapper 8
+The man who turns into a black wolf at night. Only the wolf is not simple, but very large, and it will not be easy to kill such a person. Where exactly he lives, I will not say, but they say that they saw him in the south of the outskirts of the city.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 9
+Okay, I'll try to get you his head and kill the tigers.

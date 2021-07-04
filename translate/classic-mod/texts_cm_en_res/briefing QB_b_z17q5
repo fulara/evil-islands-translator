@@ -1,0 +1,5 @@
+[Murderer] (Sl.23) (D.4-5) With one blow
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

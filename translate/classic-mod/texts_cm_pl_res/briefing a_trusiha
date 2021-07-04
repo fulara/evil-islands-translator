@@ -1,0 +1,20 @@
+Akta: Anira [Uzdrowicielka] (250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] „Zysk”: wzmacnia gracza (10-30) na 66-93 sekundy.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (10-20).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.
+#CAMERA 3
+#phrase Hero 3
+Lekarz szuka pracy.
+#CAMERA 3
+#phrase Hero 4
+Rany o łatwej złożoności leczę niedrogo.
+#CAMERA 3
+#phrase Hero 5
+Nienawidzę przemocy, zajmuję się wyłącznie uzdrawianiem.

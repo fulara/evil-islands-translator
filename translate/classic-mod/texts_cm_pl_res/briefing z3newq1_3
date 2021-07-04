@@ -1,0 +1,10 @@
+Zadanie wykonane!
+#show Hero
+#show Nsheriff
+#CAMERA 9
+#phrase Nsheriff 1
+Doskonały! Trochę mi nawet żal rabusiów: stracili prawie wszystko, co udało im się zrabować!
+#phrase Hero 2
+Czy nie zdarzy się, że po prostu zdecydują się jak najszybciej odrobić straty na koszt Wioski?
+#phrase Nsheriff 3
+W takim razie zwrócę się do ciebie ponownie, ponownie wykonasz to zadanie i wszyscy będą szczęśliwi ... A raczej wszyscy oprócz rabusiów, hehe!

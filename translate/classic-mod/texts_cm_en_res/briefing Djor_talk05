@@ -1,0 +1,39 @@
+Acquaintance with the commander
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+See Master Stark there?
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+I'm sure he is a pest and a Hadagan spy.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+He refuses to supply my soldiers with weapons and ammunition for free!
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 4
+And I saw how you communicated with him.
+#CAMERA 3 20 3.5 1
+#phrase Djor 5
+What, do you want to give the enemy the secrets entrusted to you by your homeland?
+#CAMERA 3
+#phrase Djor 6
+Respond!
+#CAMERA 5
+#phrase Hero 7
+Listen, this is some ...
+#CAMERA 3 20 3 1
+#phrase Djor 8
+Come on ... You don’t understand a joke, or what?
+#CAMERA 3 20 3.5 1
+#phrase Djor 9
+Gha ha ha ha ha! Hrm!
+#CAMERA 3 20 3 1
+#phrase Djor 10
+Army humor.
+#CAMERA 6
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 11
+Yeah ... you will laugh.

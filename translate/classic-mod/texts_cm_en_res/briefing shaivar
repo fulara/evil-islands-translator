@@ -1,0 +1,29 @@
+Agree with the orcs
+#show OrcC
+#show Hero
+#CAMERA 3
+#ANIMATION 4
+#phrase OrcC 1
+Something often, often people began to come to us. What do you want here?
+#CAMERA 10
+#ANIMATION 45
+#phrase Hero 2
+I am here to ask for help. Our witch doctor had a vision of the demonic invasion of Gipat, and I am trying to unite as many as I can against this threat.
+#CAMERA 3
+#ANIMATION 5
+#phrase OrcC 3
+I can’t help you, we already have many, many problems. You help us, help us first, and then we'll talk.
+#CAMERA 10
+#phrase Hero 4
+It goes. What is the problem?
+#CAMERA 3
+#ANIMATION 6
+#phrase OrcC 5
+I am the richest in the Sands, but not everyone listens to me. A shaman lives and lives nearby, the orcs listen to him, because he is strong, strong. Defeat him - we will talk.
+#CAMERA 10
+#phrase Hero 6
+Well, I can handle the shaman.
+#CAMERA 3
+#ANIMATION 9
+#phrase OrcC 7
+In vain, in vain you think so, he is always, always ready. It hits hard with fire. And his golem is terrible, terrible, stay away from him.

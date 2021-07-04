@@ -1,0 +1,4 @@
+Punch to the head
+The character, when attacking the enemy, will aim to beat
+into his head. When the health of the head becomes
+equal to 0, the enemy will die.

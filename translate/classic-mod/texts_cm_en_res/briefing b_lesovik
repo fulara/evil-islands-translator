@@ -1,0 +1,17 @@
+Dossier: Archer Sazaru [damage] (15,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Treacherous Shot: Every 60-30 sec. - armor-piercing damage (80% of your health + 5 per level).
+[1] "Sinister Shot +": "Weaken" (72) for 33 sec.
+[2] "Sneaky Shot +": "Slow" (5) for 21 sec.
+[3] Treacherous Shot +: Dementia for 15 sec.
+[4] Treacherous Shot +: Paralyze for 4 sec.
+[5] "Sinister Shot +": "Weaken" (104) for 33 sec.
+#CAMERA 3
+#phrase Hero 3
+A real logger, with a pipe and arrows. No Ingos archer can match the foresters in accuracy. You yourself know that. Call him Sazar. For 15,000 gold, it will provide you with combat support.

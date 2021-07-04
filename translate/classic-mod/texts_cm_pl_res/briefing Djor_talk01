@@ -1,0 +1,32 @@
+Znajomość z dowódcą
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Jestem Jor, dowódca garnizonu tej placówki Imperium Kanian.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Na tym obszarze skoncentrowane są znaczne siły najeźdźców Khadagan.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Nasza placówka jest jak kość w gardle! Jednak powierzony mi personel jest niezwykle mały.
+#CAMERA 3 20 3 1
+#phrase Djor 4
+Teraz Khadaganowie prawdopodobnie planują atak na naszą placówkę. Na ich miejscu zrobiłbym to samo!
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 5
+Czekaj, a właściwie, dlaczego kręcisz się tutaj bezczynnie?
+#CAMERA 5
+#phrase Hero 6
+JA…
+#CAMERA 3 20 3.5 1
+#phrase Djor 7
+Odłożyć na bok!
+#CAMERA 3
+#phrase Djor 8
+Jesteś do mojej dyspozycji!
+#CAMERA 5
+#ANIMATION 24
+#phrase Hero 9
+Jest!

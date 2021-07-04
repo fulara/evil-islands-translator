@@ -1,0 +1,9 @@
+Buy materials for weapons and armor
+#show Hero
+#show Smith
+#CAMERA 10
+#phrase Hero 1
+Hi, can you sell me better materials?
+#CAMERA 3
+#phrase Smith 2
+Okay.

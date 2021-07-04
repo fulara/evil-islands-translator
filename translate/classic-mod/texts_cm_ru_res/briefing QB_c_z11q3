@@ -1,0 +1,5 @@
+(Сл.13)(Дл.3) Предотвратить войну с лесовиками
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,6 @@
+Нанять: Ручной людоед [танк](300 000)
+#show Hero
+#show PosrednikSus
+#CAMERA 3
+#phrase PosrednikSus 1
+Наёмник оплачен.

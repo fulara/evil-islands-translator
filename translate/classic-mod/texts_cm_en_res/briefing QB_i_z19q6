@@ -1,0 +1,5 @@
+(Sl.30) (D.3-4) The village is in danger!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

@@ -1,0 +1,10 @@
+Autofilters
+In the "train" you can use filters to
+to see only one specific type
+items. These filters can be turned on or
+only manually, or both automatically and manually.
+On: filters will switch automatically,
+when the next item will be put into the "train"
+according to the type of this item.
+Off: filters will toggle
+only manually.

@@ -1,0 +1,26 @@
+Acquaintance with the commander
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+These merchants are of no use!
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+None of them knows how to fight, and my soldiers can no longer look at sweets.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+To get some more serious food. But in general…
+#CAMERA 3 20 3 1
+#phrase Djor 4
+Set aside! Listen to the new order! Take a crossbow - and on the walls! The offensive of Khadagan is on the nose!
+#CAMERA 5
+#phrase Hero 5
+But I…
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 6
+Execute!
+#CAMERA 5
+#ANIMATION 24
+#phrase Hero 7
+I am listening!

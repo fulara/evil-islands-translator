@@ -1,0 +1,14 @@
+Akta: Łucznik Pokoju [obrażenia] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Sokole Oko: Wszyscy sojusznicy mają Sokole Oko (4-7) przez 666-999 sekund.
+[1] "Osłabienie": zadawanie obrażeń, (40-60)% szans - "Osłabienie" (104) przez 6 sek.
+[3] "Obrażenia +": zadawanie obrażeń, (10-20)% szansy - 42 obrażenia od kwasu.
+#CAMERA 3
+#phrase Hero 3
+Najlepszy strzelec armii Kanian, mam na koncie ponad 10 wygranych turniejów. U mnie nigdy Cię nie zaskoczą, 300 metrów dalej w śniegu ujrzę zająca. Bardzo dobrze gotuję i śpiewam. Oferuję swoje usługi za niewielką opłatą.

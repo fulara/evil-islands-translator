@@ -1,0 +1,5 @@
+[Рейд](Сл.45)(Дл.2) Людоед-Вождь
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

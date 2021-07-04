@@ -1,0 +1,8 @@
+[Prisoner of Time] go to quests 19 and 20
+#show Hero
+#show Rick
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+...

@@ -1,0 +1,5 @@
+[Shooter] (Sh.11) (D.3) [solo] Tournament
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

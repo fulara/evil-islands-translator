@@ -1,0 +1,19 @@
+Dossier: Tamed Harpy [damage] (2,250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Damage - O. Arrow: 32-48 fire damage.
+[1] "Damage +": dealing damage, (30-50)% chance - "Wall of Fire" (36) for 7 sec.
+[2] "Damage +": dealing damage, (30-50)% chance - 32 fire damage.
+[4] Damage - o. Ball: 70 fire damage (area 7m).
+[5] Paralyze: Damage, 15% chance - Paralyze for 4 sec.
+#CAMERA 3
+#phrase Hero 3
+The only harpy on Gipata that doesn't want to kill you. Turn any foe of yours to ash or make a crispy hog for lunch. In hot weather, it blows perfectly with wings.
+#CAMERA 3
+#phrase Hero 4
+Don't even try to fly it. For hiring, contact Vanir.

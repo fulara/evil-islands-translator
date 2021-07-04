@@ -1,0 +1,15 @@
+Znajomość z wujkiem Rad
+#show Hero
+#show Rad
+#ANIMATION 62
+#CAMERA 5
+#phrase Rad 1
+Witamy w naszym forcie. Moi zwiadowcy donieśli, że przybyłeś tu na polecenie barona Virilla.
+#ANIMATION 6
+#CAMERA 2
+#phrase Hero 2
+Tak to jest. Jestem tutaj, aby pomóc w każdy możliwy sposób.
+#ANIMATION 46
+#CAMERA 3
+#phrase Rad 3
+Dobra, zjedz trochę cukierków. Nie mamy wystarczającej liczby ludzi, a dla każdego jest praca.

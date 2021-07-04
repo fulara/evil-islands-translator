@@ -1,0 +1,39 @@
+Poznaj Sver
+#show Hero
+#show Trapper
+#ANIMATION 44
+#CAMERA 10
+#phrase Hero 1
+Witam drodzy! Kapitan Tilvar poradził mi, żebym porozmawiał o nieznajomym o blond włosach. Czy przypadkiem wiesz, gdzie mógł się udać?
+#ANIMATION 29
+#CAMERA 3
+#phrase Trapper 2
+Wiem. Poszukuje zaginionej księżniczki, podobnie jak detektyw ze stolicy wynajęty przez gubernatora Valrasiana. Ten nieznajomy podążał za detektywem na wschód od obrzeży miasta.
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 3
+A propos gubernatora, czy wiesz, jak zwrócić jego uwagę? Muszę z nim pilnie porozmawiać.
+#ANIMATION 30
+#CAMERA 3
+#phrase Trapper 4
+Mógłbym ci powiedzieć dobre słowo, ale nic o tobie nie wiem... zróbmy tak: zrobisz dla mnie jedną robotę, a ja umówię się na spotkanie z gubernatorem?
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 5
+Jaki rodzaj pracy?
+#ANIMATION 44
+#CAMERA 3
+#phrase Trapper 6
+Wkrótce przyjdzie do nas kupiec, który podaje normalną cenę za skórki i rzadkie trofea, a nie jak Kararansul. Tak więc, jeśli zdobędziesz mi głowę wilkołaka i zabijesz tuzin tygrysów na obrzeżach miasta, żeby bezpiecznie zdobyć skóry, przekażę ci słowo do gubernatora.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero 7
+Wilkołak?! Co to za bestia i gdzie jej szukać?
+#ANIMATION 11 
+#CAMERA 3
+#phrase Trapper 8
+Człowiek, który w nocy zamienia się w czarnego wilka. Tylko wilk nie jest prosty, ale bardzo duży i nie będzie łatwo zabić taką osobę. Gdzie dokładnie mieszka, nie powiem, ale mówią, że widzieli go na południowych obrzeżach miasta.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 9
+Dobra, spróbuję zdobyć jego głowę i zabić tygrysy.

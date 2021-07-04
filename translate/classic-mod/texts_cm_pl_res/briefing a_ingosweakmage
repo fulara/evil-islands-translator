@@ -1,0 +1,14 @@
+Akta: Yaznis - wrzód, mag [obrażenia] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Obrażenia od błyskawic: 40-60 obrażeń od błyskawic.
+[1] "Obrażenia +": zadawanie obrażeń, (30-70)% szansy - 40 obrażeń od błyskawic.
+[3] "Obrażenia +": zadawanie obrażeń, (15-25)% szans - "Ściana Błyskawic" (45) przez 8 sek.
+#CAMERA 3
+#phrase Hero 3
+Mag bitewny szuka pracy. Przez lata służby w armii Kanian dobrze opanowałem magię błyskawicy. Nie znoszę idiotów i kobieciarzy, jeśli zdecydujesz się mnie łapać, zaatakuję mnie piorunem prosto w czoło. Jeśli potrzebujesz towarzysza w kampanii wojskowej, zawsze jest gotowa do pomocy.

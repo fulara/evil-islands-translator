@@ -1,0 +1,5 @@
+(Сл.5)(Дл.3) Королева крыс
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

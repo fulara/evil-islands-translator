@@ -1,0 +1,5 @@
+(Сл.28)(Дл.3-4) Дракон-Повелитель
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

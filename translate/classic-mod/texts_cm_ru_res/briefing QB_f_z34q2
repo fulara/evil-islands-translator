@@ -1,0 +1,5 @@
+(Сл.40)(Дл.3) Вампиры
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,77 @@
+Zgłoś się do Atamana
+#show Ataman
+#show spy
+#show Hero
+#CAMERA 5
+#ANIMATION 43
+#phrase spy 1
+Ataman, przyjechaliśmy z raportem o ataku na Wybrańca.
+#CAMERA 3
+#ANIMATION 45
+#phrase Ataman 2
+Cóż, co tam jest? Czy są jakieś straty?
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 3
+Wszyscy Wolni Łowcy nie żyją.
+#CAMERA 3
+#ANIMATION 63
+#phrase Ataman 4
+Co?! Czy to jakiś głupi żart? Jak martwy, co się stało?
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 5
+Nie wiem, sama walka odbyła się beze mnie. Musiałem wyjechać i nie zdążyłem na czas.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 6
+Silniejszy niż parweniusze takie jak Wybraniec, nienawidzę tchórzy! Zabiłbym cię teraz, gdybym tak bardzo nie potrzebował ludzi! Nie możemy już ponosić strat w pogoni za Wybrańcem przez Hypatus. Czas lizać nasze rany, a ty nam w tym pomożesz.
+#CAMERA 10
+#phrase Hero 7
+Co mogę zrobić?
+#CAMERA 3
+#ANIMATION 30
+#phrase Ataman 8
+Potrzebujemy nowej broni, a dostaniesz do niej materiały. Spójrz gdzie chcesz! Czy rozumiesz?
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 9
+Ataman w duchu - wyjmij go i odłóż! Nieważne, że mogą mnie zabić. Nic dziwnego, że rodzice opuścili Wolnych Łowców - nie mieszkają tu długo, zwłaszcza z takim atamanem. Dobrze, że nie mogę umrzeć.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 10
+Myślę, że uda mi się upiec dwie pieczenie na jednym kamieniu, jeśli pójdę do Jaskini, w której znaleziono niebieski kamień. Wezmę materiały i wszystko tam sprawdzę w tym samym czasie.
+#CAMERA 10
+#ANIMATION 44
+#phrase Hero 11
+Co powiesz na jaskiniowe orki i pancerze? Możesz z nich zebrać dobre materiały. Ale jaki z nich pożytek, jeśli Babur nie podejmie się produkcji dla nas broni?
+#CAMERA 5
+#ANIMATION 9
+#phrase spy 12
+A my tego nie potrzebujemy. Złapaliśmy jego ucznia, teraz zrobi dla nas broń.
+#CAMERA 10
+#ANIMATION 30
+#phrase Hero 13
+I zgodził się nam pomóc? Trudno w to uwierzyć.
+#CAMERA 5
+#phrase spy 14
+Powiedzmy, że złożono mu ofertę, której nie mógł odrzucić.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 15
+Czy muszę iść po same materiały? Karapaksy i orki jaskiniowe to poważni przeciwnicy, nie mówiąc już o królowej pancerzy...
+#CAMERA 3
+#ANIMATION 29
+#phrase Ataman 16
+Wysłałem już dwóch dzielnych facetów do Jaskini, żeby zbadali sytuację, tam ich znajdziesz.
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 17
+Albo to, co z nich zostało... Od dawna coś od nich nie słychać.
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 18
+W porządku.

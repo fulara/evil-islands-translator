@@ -1,0 +1,26 @@
+Akta: Szaman Urshak [Uzdrowiciel] (2250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Zysk": wzmacnia gracza (15-30) na 66-93 sekundy.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (20-30).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.
+#CAMERA 7
+#phrase Hero 3
+Urshak Szaman szuka pracy! Wyszedłem z jaskini.
+#phrase Hero 4
+Bóg Malacat mówi idź, nie chcę.
+#phrase Hero 5
+Gniewam boga i wsadzam się w dupę.
+#phrase Hero 6
+Chodzę i leczę brudnego człowieka, a jego tyłek bolał od pioruna.
+#phrase Hero 7
+Posmaruj miękkie miejsce maścią leczniczą.
+#phrase Hero 8
+Uzdrowić, zaprzyjaźnić się, sprawić, by wróg był mały – mogę zrobić wszystko.
+#phrase Hero 9
+Tylko nie uderzaj w dupę piorunem.

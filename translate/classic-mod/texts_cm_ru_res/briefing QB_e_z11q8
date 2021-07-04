@@ -1,0 +1,5 @@
+[Триумвират №16](Сл.15)(Дл.3) Засада
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

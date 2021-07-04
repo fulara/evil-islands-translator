@@ -1,0 +1,9 @@
+Dossier: Zbieracz Marauder
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Z każdym wynajętym najemnikiem istnieje 33% szansa na pojawienie się w twojej grupie kolekcjonera, który przyniesie łupy ze zwłok zabitych wrogów.
+#CAMERA 3
+#phrase Hero 2
+Zatrudniając 3 najemników, kolekcjoner dołączy do twojej grupy z 99% prawdopodobieństwem.

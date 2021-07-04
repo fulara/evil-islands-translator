@@ -1,0 +1,5 @@
+[Триумвират №10](Сл.10)(Дл.4) Альянс
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

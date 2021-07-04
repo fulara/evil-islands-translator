@@ -1,0 +1,34 @@
+Akta: Ognista Lis Kylie [obrażenia] (250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Sokole Oko: Wszyscy sojusznicy mają Sokole Oko (2-6) przez 66 sek.
+[2] "Osłabienie": zadawanie obrażeń, (45-50)% szans - "Osłabienie" (45) przez 40 sek.
+[3] "Obrażenia +": zadawanie obrażeń, (50-70)% szansy - 25 obrażeń od ognia.
+#CAMERA 3
+#phrase Hero 3
+Ognisty lis szuka pracy.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 4
+Nad frazą „ognisty lis” znajduje się napis: „stłumiony!”
+#CAMERA 3
+#phrase Hero 5
+Wykwalifikowany łucznik szuka pracy w zawodzie.
+#CAMERA 3
+#phrase Hero 6
+Mimo niewielkiego doświadczenia zawodowego jestem dokładna.
+#CAMERA 3
+#phrase Hero 7
+Mogę trafić w żabie oko z odległości 100 kroków.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 8
+Przed napisem „Mogę” namalowano: „Nie”.
+#CAMERA 3
+#phrase Hero 9
+Własny sprzęt, opłata za 1 wypad jest symboliczna. Rozważę wszelkie opcje. Nie oferuj intymności!

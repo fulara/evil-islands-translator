@@ -1,0 +1,14 @@
+Dossier: Striped Tiger [damage]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Healing": out of combat, quickly regenerates health up to 50% of the maximum.
+[1] "Damage +": dealing damage, (35-45)% chance - armor-piercing damage (20% of your health) and "Slow" (5) for 10 sec.
+[1] "Haste": dealing damage, (10-20)% chance - on yourself "Haste" (5) for 10 sec.
+#CAMERA 3
+#phrase Hero 3
+A fiery tiger, a nightmare offspring of the astral. Strikes terror into the hearts of enemies, with only one appearance. Hearing his heartbreaking roar, people scatter in panic. Well, the daredevils who decided to slay the beast are doomed to a painful death. For just 15,000, you can become the master of this incarnation of fire and death.

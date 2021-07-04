@@ -1,0 +1,12 @@
+Dossier: Strzelec [obrażenia] (500.000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Zdradziecki Strzał: Co 50-30 sek. - obrażenia przebijające pancerz (80% twojego zdrowia + 20 na poziom).
+[1] "Podstępny Strzał +": "Osłabienie" (90) przez 40 sek.
+[2] „Podstępny Strzał +”: „Slow” (5) przez 24 sek.
+[3] Zdradziecki Strzał +: Paraliż na 6,5 sek.

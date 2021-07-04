@@ -1,0 +1,28 @@
+Zadanie wykonane!
+#show Hero
+#show Ataman
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero 1
+Atamanie, powiedziano mi, że obóz potrzebuje materiałów na zbroję - oto one.
+#ANIMATION 43
+#CAMERA 3
+#phrase Ataman 2
+Kto powiedział?
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 3
+Wirth ...
+#ANIMATION 48
+#CAMERA 3
+#phrase Ataman 4
+No tak ... chodź tutaj! Zostaw część dla siebie - zamówisz u naszego nowego mistrza coś lepszego niż odrzuty.
+#ANIMATION 46
+#CAMERA 3
+#phrase Ataman 5
+Wyjdź stąd!
+#ANIMATION 30
+#CAMERA 10
+#NOLIPS
+#phrase Hero 6
+Och… Ataman jest w dobrym humorze, tak rzadko.

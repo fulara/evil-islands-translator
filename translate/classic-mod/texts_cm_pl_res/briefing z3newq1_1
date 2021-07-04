@@ -1,0 +1,13 @@
+(3) Skarb banitów
+#show Hero
+#show Nsheriff
+#CAMERA 9
+#phrase Nsheriff 1
+Wygląda na to, że nasza Wioska nigdy nie pozbędzie się okolicy z rabusiami! Bez względu na to, jak wiele robiłem planów, nie mogę ich całkowicie zniszczyć! Ale teraz mam nowy dobry pomysł.
+#phrase Hero 2
+Hmm… Właściwie, kiedy wypowiadają przede mną słowa „nowy dobry pomysł”, od razu spodziewam się jakiegoś haczyka!
+#phrase Nsheriff 3
+Bez haczyka! Chcę cię tylko prosić o odebranie łupu rabusiom. Nie musisz nawet z nimi walczyć, bo głównym celem jest worek złota, który mają w swoim obozie.
+#CAMERA 9
+#phrase Nsheriff 4
+Co prawda podejścia do obozu są strzeżone, ale strażników można oszukać.

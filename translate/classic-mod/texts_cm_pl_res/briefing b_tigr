@@ -1,0 +1,14 @@
+Dossier: Pasiasty Tygrys [obrażenia]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Leczenie": poza walką, szybko regeneruje zdrowie do 50% maksymalnego.
+[1] "Obrażenia +": zadawanie obrażeń, (35-45)% szansy - obrażenia przebijające pancerz (20% twojego zdrowia) i "Slow" (5) na 10 sek.
+[1] "Pośpiech": zadawanie obrażeń, (10-20)% szansy - na sobie "Pośpiech" (5) przez 10 sek.
+#CAMERA 3
+#phrase Hero 3
+Ognisty tygrys, koszmarne potomstwo astralnego. Sieje przerażenie w sercach wrogów, tylko z jednym wyglądem. Słysząc jego rozdzierający serce ryk, ludzie uciekają w panice. Cóż, śmiałkowie, którzy postanowili zabić bestię, są skazani na bolesną śmierć. Za jedyne 15 000 możesz stać się panem tego ucieleśnienia ognia i śmierci.

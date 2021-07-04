@@ -1,0 +1,21 @@
+The Great Magician summons heroes!
+#show Hero
+#show Rick
+#CAMERA 3
+#phrase Rick 1
+Greetings. I am the Great Magician Gipata.
+#CAMERA 3 -10 3 1
+#phrase Rick 2
+Earlier, in search of my Jun tribesmen, I did not think about people of other races at all!
+#CAMERA 3 20 3.5 1
+#phrase Rick 3
+But, by the cruel irony of fate, in my blindness, I did not recognize the one I was looking for, although he was standing next to me, and his true appearance was hidden by a simple spell!
+#CAMERA 3 20 3 1
+#phrase Rick 4
+Not recognizing him, I sent the young june to Suslanger, practically to certain death. And I was surprised when he finally managed to return. And amazed when he found out who he really is.
+#CAMERA 3 0 3.5 1
+#phrase Rick 5
+But I'm not going to repeat my mistakes. I am glad to greet the heroes who are not indifferent to the fate of Gipat.
+#CAMERA 3 20 3.5 1
+#phrase Rick 6
+A formidable danger looms over Gipat, and I need strong and loyal people to ward off it.

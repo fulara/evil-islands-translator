@@ -1,0 +1,5 @@
+(Сл.12)(Дл.4) Волшебный цветок
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

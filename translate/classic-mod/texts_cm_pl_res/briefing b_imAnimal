@@ -1,0 +1,11 @@
+Rekrut: Pasiasty Tygrys [Obrażenia] (1000)
+#show Hero
+#show PosrednikIngos
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 1
+Widzę, że twój tyrenok dorósł, dobrze się nim opiekujesz! Mogę go nauczyć kilku nowych poleceń za symboliczną sumę, jak myślisz?
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 2
+Świetnie, oczywiście się zgadzam.

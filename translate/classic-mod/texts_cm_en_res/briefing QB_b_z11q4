@@ -1,0 +1,5 @@
+[Magician] (С.12) (D.3) [solo] Path of lightning №1
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

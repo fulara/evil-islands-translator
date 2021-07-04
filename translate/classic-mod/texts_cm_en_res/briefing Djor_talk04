@@ -1,0 +1,12 @@
+Acquaintance with the commander
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+It's amazing how they managed to build a fort here right under the very noses of the Khadagans, so that they didn't even scratch themselves?
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+This person must have great connections!
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+I'm talking about Rada, the candy merchant.

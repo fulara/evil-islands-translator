@@ -1,0 +1,5 @@
+(С.12) (D.4) Magic flower
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

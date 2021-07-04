@@ -1,0 +1,32 @@
+Meeting with Wirth
+#show Hero
+#show spy
+#CAMERA 3
+#ANIMATION 32
+#phrase spy 1
+Hey, you're not from the Village! Are you from Ataman? Call me Virt.
+#CAMERA 10
+#ANIMATION 60
+#phrase Hero 2
+I ... uh ... yeah ...
+#CAMERA 3
+#ANIMATION 29
+#phrase spy 3
+It's good that they sent me a replacement. I must tell our people that the Chosen One has appeared in the Village.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 4
+Chosen One? It seems that I was transported at the moment of the coming of the Chosen One to the Village. So my parents and friends are still alive. Wait a minute, he's babbling ...
+#ANIMATION 3
+#phrase Hero 5
+No, I'm not here to replace you.
+#CAMERA 3
+#ANIMATION 11
+#phrase spy 6
+So you were sent to inquire about business in the Village? Come on, help me find out what kind of fruit this Chosen One is, and then you will go with a report to the Ataman. Come to me a little later, I'll give you an assignment. In the meantime, I'll tell Warlord Gort that you will help me.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 7
+What should I do? It is necessary to somehow warn the Great Magician about the impending threat, but now I will not be able to get there. I no longer have the invisibility artifact. Apparently, it fell out when I had to escape from the cave with demons. And the path to the cave of the Magician is now more dangerous than after the demons burned out all living things. So, while I have to play along with this Virt, and then I'll come up with something.
+#phrase Hero 8
+Okay.

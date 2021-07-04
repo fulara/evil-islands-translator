@@ -1,0 +1,5 @@
+[UV no. 4] (Sl.3) (D.5) [solo] Tipping point
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

@@ -1,0 +1,5 @@
+(Сл.4)(Дл.4) Магическая Пирамида
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

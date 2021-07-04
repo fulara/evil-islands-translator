@@ -1,0 +1,5 @@
+(Сл.30)(Дл.3-4) Посёлок в опасности!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,6 @@
+Recruit: Archer [damage] (100,000)
+#show Hero
+#show PosrednikSus
+#CAMERA 3
+#phrase PosrednikSus 1
+The mercenary is paid.

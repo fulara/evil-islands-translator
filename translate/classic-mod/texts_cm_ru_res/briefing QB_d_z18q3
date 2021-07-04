@@ -1,0 +1,5 @@
+(Сл.25)(Дл.3) Среди рабов - предатель
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

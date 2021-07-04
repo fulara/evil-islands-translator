@@ -1,0 +1,5 @@
+(Сл.9)(Дл.4) Соревнование по разведению жаб
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

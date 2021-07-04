@@ -1,0 +1,7 @@
+[Craft Unique Items] Armor
+#show Hero
+#show Smith
+#phrase Hero 1
+Hi, can you make me a unique piece of armor.
+#phrase Smith 2
+Hmm ... this is a difficult job, I need to think if I can do it now. Just think for what part of the body you need armor.

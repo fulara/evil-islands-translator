@@ -1,0 +1,11 @@
+Akta: Adept Uzdrowiciel [Uzdrowiciel] (500.000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": wzmacnia gracza (75-90) o 66-93 sek.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (120-160).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.

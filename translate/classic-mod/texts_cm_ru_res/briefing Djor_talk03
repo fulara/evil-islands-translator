@@ -1,0 +1,9 @@
+Знакомство с командиром
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Нам нужен маг.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Ты маг?

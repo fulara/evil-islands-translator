@@ -1,0 +1,5 @@
+[Warrior] (Sl.4-10) (Dl.2-3) [solo] The path of a warrior
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

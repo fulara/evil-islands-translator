@@ -1,0 +1,53 @@
+Conversation with the Dragon [1]
+#show SKD 1
+#show Hero 2
+#CAMERA 10
+#ANIMATION 54
+#phrase Hero 1
+Oh! My dear mother ...
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD 2
+Who is it? Human? Why are you here?
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 3
+Damn it! The chieftain said nothing about the hefty dragon. Here is a bastard.
+#CAMERA 5
+#phrase SKD 4
+So?
+#CAMERA 10
+#ANIMATION 31
+#phrase Hero 5
+I apologize for disturbing you, and it was not in your thoughts to disturb you. I was told that here I could get an iron weapon, but nothing was said about the dragon.
+#CAMERA 5
+#phrase SKD 6
+The man was looking for a weapon, but he came to me. What am I to do with you now?
+#CAMERA 10
+#ANIMATION 63
+#phrase Hero 7
+You can let me go, as an option.
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD 8
+Alas, this is impossible. I respect traditions, and according to them, you cannot just leave.
+#CAMERA 3
+#phrase SKD 9
+You can challenge me to battle. You can demand the release of the girl. Finally, you can claim a task for yourself. I have no girls in captivity now.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 10
+It is unlikely that I will overcome this whopper, although you can take the risk ... But first you need to find out what kind of task, and then we will see.
+#CAMERA 5
+#ANIMATION 11
+#phrase Hero 11
+What is the task I need to complete?
+#CAMERA 5
+#ANIMATION 5
+#phrase SKD 12
+This area is all permeated with caves, and there, below, nasty creatures live and breed. When night falls, their cubs climb up and even climb into my den. They annoy me.
+#CAMERA 3
+#phrase SKD 13
+Find and kill the womb of these creatures, and do not return before that. Although, I confess to you honestly, I can't believe that you can.

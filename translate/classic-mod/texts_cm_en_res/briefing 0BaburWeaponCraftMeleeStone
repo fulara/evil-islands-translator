@@ -1,0 +1,9 @@
+[Craft Unique Weapon] Made of Stone
+#show Hero
+#show Smith
+#phrase Smith 1
+Well, what material to make a weapon from?
+#phrase Hero 2
+Made of stone.
+#phrase Smith 3
+I need to see if I have this material available. Prepare the gold for now, I’m taking it forward because I don’t know how good the enchantment will turn out to be, and the work is difficult. The quality will depend on the amount.

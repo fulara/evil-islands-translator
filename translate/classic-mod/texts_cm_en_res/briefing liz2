@@ -1,0 +1,48 @@
+O treasure of the lizards
+#show OLIZ
+#show Hero
+#CAMERA 9
+#phrase OLIZ 1
+Man, have you gotten the raptor treasure yet? Are you happy?
+#CAMERA 6
+#ANIMATION 43
+#phrase Hero 2
+Are you kidding?! Why did you deceive me?
+#CAMERA 11 5 5 2
+#phrase OLIZ 3
+Have I deceived you? You love humor. I was kidding. Aren't you funny?
+#CAMERA 5
+#ANIMATION 7
+#phrase Hero 4
+Not a bit. You know what, Hermit ... Perhaps a serious tone suits you. Don't joke anymore, okay?
+#CAMERA 9
+#phrase OLIZ 5
+Okay. You have fulfilled your end of the bargain. I'm doing mine.
+#CAMERA 9
+#phrase OLIZ 6
+Man, I want to say. Many dangers await you.
+#CAMERA 5
+#ANIMATION 11
+#phrase Hero 7
+Yah? You might think I don't know about this.
+#CAMERA 3
+#phrase OLIZ 8
+So now you know it. I want you to handle them. This will help you.
+#show DragonWand 7
+#CAMERA 6
+#ANIMATION 6
+#phrase Hero 9
+And what is it? Either a horn, or a shell ... The one who made it, probably, did not know what he would do!
+#CAMERA 11 10 5 2
+#phrase OLIZ 10
+Maybe so. Or maybe not. But you take this thing. She will help you.
+#CAMERA 2 25 6 3
+#ANIMATION 32
+#phrase Hero 11
+How? What should be done with it?
+#CAMERA 1 0 4 4
+#phrase OLIZ 12
+I do not know this. You are a man, you are smart. You will figure it out yourself.
+#CAMERA 3
+#phrase OLIZ 13
+I said everything. The deal has been completed.

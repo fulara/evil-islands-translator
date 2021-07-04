@@ -1,0 +1,5 @@
+[Training] (0) Damage per second [0 armor, 0 defense]
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

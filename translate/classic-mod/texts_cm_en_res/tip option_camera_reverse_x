@@ -1,0 +1,8 @@
+Invert camera rotation
+When panning the camera using
+right mouse button rotation direction can
+to be changed:
+Off: The camera will pan towards the horizontal
+mouse shift.
+On: The camera will rotate in the opposite direction
+to move the mouse horizontally.

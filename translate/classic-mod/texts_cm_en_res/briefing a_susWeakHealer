@@ -1,0 +1,11 @@
+Dossier: Weak Healer [Healer] (35,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": empowers the player (45-60) for 66-93 seconds.
+[1] Heal: Every 10 sec. - heals 1 ally (60-80).
+[2] "Healing +": 5% chance - "Regeneration" (10) for 24 sec.

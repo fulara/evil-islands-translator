@@ -1,0 +1,5 @@
+Camera forward
+The camera scrolls forward. When you press
+the same key + <CTRL> the camera will rise
+higher, keeping the direction to the previously selected
+point.

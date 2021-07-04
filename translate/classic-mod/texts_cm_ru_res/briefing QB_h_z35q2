@@ -1,0 +1,5 @@
+(Сл.43)(Дл.6) Повторное спасение джунов
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

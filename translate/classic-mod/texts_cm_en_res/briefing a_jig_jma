@@ -1,0 +1,12 @@
+Dossier: Shooter [damage] (500,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Treacherous Shot: Every 50-30 sec. - armor-piercing damage (80% of your health + 20 per level).
+[1] "Sneaky Shot +": "Weaken" (90) for 40 sec.
+[2] "Sneaky Shot +": "Slow" (5) for 24 sec.
+[3] Treacherous Shot +: Paralyze for 6.5 seconds.

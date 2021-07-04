@@ -1,0 +1,5 @@
+[УВ №28](Сл.18)(Дл.4-5) Развязка
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

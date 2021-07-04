@@ -1,0 +1,82 @@
+Union for gold
+#show Ataman
+#show Hero
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 1
+Greetings, Ataman! I am to you with an important proposal.
+#ANIMATION 11
+#CAMERA 3
+#phrase Ataman 2
+And what can you offer me?
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 3
+Alliance with the Village against a common enemy. The witch doctor Estera had a prophetic dream about the future. An army of demons will invade Gipat and destroy all living things.
+#CAMERA 3
+#NOLIPS
+#phrase Ataman 4
+(looks silently)
+#CAMERA 3
+#ANIMATION 45
+#phrase Ataman 5
+HA-HA-HA! Wait, are you serious ?!
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 6
+Yes.
+#CAMERA 3
+#ANIMATION 46
+#phrase Ataman 7
+A-HA-HA-HA-HA-HA!
+#show sackofgold 4
+#CAMERA 10
+#ANIMATION 43
+#phrase Hero 8
+Stop laughing, whether you believe it or not is up to you, but the Village offers gold as payment for the union.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 9
+Well, gold is, of course, good. However, this will not be enough.
+#hide sackofgold
+#CAMERA 10
+#ANIMATION 14
+#phrase Hero 10
+What more do you want?
+#CAMERA 3
+#ANIMATION 44
+#phrase Ataman 11
+I want a good weapon - iron.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 12
+Where can I get it for you on Gipat?
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 13
+I know where - in the Dead City! Right at the top of the Lonely Mountain it is.
+#CAMERA 10
+#ANIMATION 73
+#phrase Hero 14
+No one has returned from the Dead City yet. Do you want my death?
+#CAMERA 3
+#ANIMATION 14
+#phrase Ataman 15
+How is it nobody? And what about the Chosen One? He returned from there with iron weapons. It turns out that not everything is as scary as it seems.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 16
+Why can't you handle skeletons? Take something heavier and cut your way: bones are fragile if you have a club.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 17
+Well, with skeletons, I think I can handle it.
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 18
+Yeah, good luck.
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 19
+You will need it. I’m unlikely to see you again.

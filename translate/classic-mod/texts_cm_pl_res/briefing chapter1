@@ -1,0 +1,21 @@
+[Więzień czasu] Rozdział 1 (nr 1-4)
+#show Hero
+#show Nsheriff
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+Nie tak dawno, moi rodzice i ja przeprowadziliśmy się do wioski, wcześniej mieszkaliśmy wśród Wolnych Łowców.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 2
+Nie mówię, że było źle, ale moi rodzice uważają, że ludzie w Wiosce nie są tacy okrutni, a tu będę lepszy.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 3
+Po tym, jak Wybrany opuścił Gipat, niektórzy z Wolnych Łowców postanowili dołączyć do Wioski. A potem rozpoczęła się aktywna budowa i rozbudowa ogrodzenia sztachetowego.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 4
+Teraz wraz z przyjaciółmi staramy się udowodnić, że jesteśmy dobrzy do czegoś więcej niż do usuwania świńskiego nawozu.

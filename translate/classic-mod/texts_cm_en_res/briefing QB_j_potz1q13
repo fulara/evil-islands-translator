@@ -1,0 +1,5 @@
+[UV # 13] (Sl.10) (D.4) Supporting the orcs
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

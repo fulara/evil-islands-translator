@@ -1,0 +1,15 @@
+Znajomość z dowódcą
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Coś, co wróg spóźnia się z atakiem.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Cisza dookoła.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Ptaki ćwierkają.
+#CAMERA 3 20 3 1
+#phrase Djor 4
+Idź na piwo!

@@ -1,0 +1,9 @@
+Run (stand)
+When running, the character emits
+more noise than walking before
+attracts the attention of an enemy who is not
+discovered it through sight.
+The movement speed is fast.
+When running, the "reserve of strength" is consumed,
+and when it ends the character
+independently switches to walking.

@@ -1,0 +1,28 @@
+Dossier: Frosy the Frog [Healer] (2,250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[~] "Weapon": <R> "Slowdown" (5) for 10 sec.
+[~] "Armor": <1 R> "Heal" (40)
+[1] "Gain": empowers the player (50-60) for 400 sec.
+[1] Heal: Every 10 sec. - heals 1 ally (20-30).
+[2] "Healing +": 20% chance - "Regeneration" (5) for 15 sec.
+[4] "Heal +": 20% chance - "Protection from magic" (33) for 10 sec.
+[4] "Heal +": 10% chance - "Haste" (8) for 10 sec.
+#CAMERA 3
+#phrase Hero 3
+An experienced shamanic doctor is looking for a job.
+#CAMERA 3
+#phrase Hero 4
+Fire is not to my liking, but I have no equal in treatment: if your hand is cut off, I will conjure a new one.
+#CAMERA 3
+#phrase Hero 5
+Believe me, with me you will become stronger, and your enemies are weaker, and this is literally. Traveling with a pet.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 6
+Scribbled: "disgusting toad."

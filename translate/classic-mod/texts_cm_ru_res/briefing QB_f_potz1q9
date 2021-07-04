@@ -1,0 +1,5 @@
+[УВ №9](Сл.6-7)(Дл.3) В новый лагерь
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

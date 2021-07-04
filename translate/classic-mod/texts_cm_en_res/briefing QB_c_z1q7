@@ -1,0 +1,5 @@
+(Sl.2-3) (D.3) Collusion at the gate
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

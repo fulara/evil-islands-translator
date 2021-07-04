@@ -1,0 +1,12 @@
+[Quality] 1000 gold
+#show Hero
+#show Smith
+#ANIMATION 30
+#CAMERA 10
+#NOLIPS
+#phrase Hero 1
+After some time.
+#ANIMATION 11
+#CAMERA 3
+#phrase Smith 2
+Take the job.

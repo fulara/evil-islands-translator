@@ -1,0 +1,26 @@
+Conversation with the Great Magician
+#show Rick2
+#show Hero
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 1
+I have a meteorite, and Gipata now has resistance in case of an invasion of demons.
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 2
+It's good. Now, following the Chosen One, you have to go to Ingos and try to convince people to equip an expedition to Gipat.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 3
+Understand. But how do I get back when the job is done?
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 4
+The Chosen One will have a teleportation amulet with him. You have to find him and return with him.
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 5
+It is clear, then we will not hesitate.
+#CAMERA 3
+#phrase Rick2 6
+Yes, I see your willingness to face difficulties on another land. Now get ready, now I will send you to Ingos.

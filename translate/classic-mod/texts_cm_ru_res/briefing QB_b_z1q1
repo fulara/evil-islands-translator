@@ -1,0 +1,5 @@
+(Сл.2)(Дл.3) Гоблины в Развалинах
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

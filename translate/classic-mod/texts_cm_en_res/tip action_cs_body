@@ -1,0 +1,4 @@
+Body punch
+The character, when attacking the enemy, will aim to beat
+into his body. When body health reaches 0,
+the enemy will die.

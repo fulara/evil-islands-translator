@@ -1,0 +1,15 @@
+Orcs will help
+#show OrcC
+#show Hero
+#CAMERA 3
+#ANIMATION 4
+#phrase OrcC 1
+Ay, man-man did Shai-Varu well! Now you can - you can call us for help.
+#CAMERA 5
+#ANIMATION 31
+#phrase Hero 2
+Thank you. To bring more people to Gipat for protection, we will need to clear the way in the canyon of the Far Mountains from lizards - the help of your warriors would be useful to us.
+#CAMERA 3
+#ANIMATION 9
+#phrase OrcC 3
+Okay, okay, we'll come.

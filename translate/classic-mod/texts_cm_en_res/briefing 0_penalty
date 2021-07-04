@@ -1,0 +1,7 @@
+[Death Reward Penalty]: 0%
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Deduction of money from rewards for tasks: -0%.
+Cash reward for tasks: + 0%.

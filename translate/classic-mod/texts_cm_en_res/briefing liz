@@ -1,0 +1,58 @@
+Find out what the Lizard needs
+#show OLIZ
+#show Hero
+#CAMERA 9
+#phrase OLIZ 1
+You came, man. It's good.
+#CAMERA 5
+#ANIMATION 45
+#phrase Hero 2
+Is that all you wanted to tell me?
+#CAMERA 3
+#phrase OLIZ 3
+You are in a hurry again. I remember your questions and I will answer them. Now I need you to return the water to the canal. The orcs have stolen the water from us.
+#show DumbLever 7
+#phrase Oliz 4
+Head south along the water. You will see the dam and the canal. The dam must be raised. Lever. I'll give it. The channel needs to be filled up. Stone. I will not give a stone. He is already at the edge of the canal. Upstream of the dam. The stone is heavy. When the orcs dug, they lifted it for a long time. If you push him, he will fall back quickly.
+#CAMERA 11 10 5 2
+#phrase Oliz 5
+Then come back and I will give you the gold that I have.
+#CAMERA 11 10 5 2
+#ANIMATION 15
+#phrase Hero 6
+Hmm ... Gold - it certainly won't hurt, but there is something else you could help me with. There is a tribe of lake lizards in the Far Mountains, could you agree with them so that they let me in to ... a piece of blue stone that lies in a gorge under water?
+#CAMERA 11 10 5 2
+#phrase OLIZ 7
+They don't like to talk. They don't like anything at all. Only kill.
+#CAMERA 11 10 5 2
+#phrase Hero 8
+In that case, I could use the help of your more accommodating relatives to clear the way to the gorge. You will help?
+#CAMERA 9
+#phrase OLIZ 9
+Okay. Do you agree to complete my task?
+#CAMERA 10 -20 5 2
+#ANIMATION 3
+#phrase Hero 10
+Consider that everything has already been done.
+#CAMERA 11 10 5 2
+#phrase OLIZ 11
+Already done? Do you want to deceive me?
+#CAMERA 5
+#ANIMATION 9
+#phrase Hero 12
+Actually, I wanted to joke, otherwise you're too serious.
+#CAMERA 9
+#phrase Oliz 13
+Understand. This is a joke. I guess I can joke too. Later.
+#CAMERA 10 -20 5 2
+#ANIMATION 15
+#hide DumbLever
+#phrase Hero 14
+Deal! And by the way, if you add a few coins, I will not be offended at all.
+#CAMERA 9
+#phrase Oliz 15
+Go to my kinsmen who live in the shallows further south for coins. Go to the farthest sandy island, the third in a row. The treasure will be yours!
+#NOLIPS
+#CAMERA 11 10 5 2
+#phrase OLIZ 16
+It’s strange. This person loves humor. I was kidding. The man didn't laugh. Very strange.

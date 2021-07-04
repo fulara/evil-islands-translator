@@ -1,0 +1,15 @@
+Acquaintance with Uncle Rad
+#show Hero
+#show Rad
+#ANIMATION 62
+#CAMERA 5
+#phrase Rad 1
+Welcome to our fort. My scouts reported that you are here at the behest of Baron Virill.
+#ANIMATION 6
+#CAMERA 2
+#phrase Hero 2
+Yes it is. I'm here to help any way I can.
+#ANIMATION 46
+#CAMERA 3
+#phrase Rad 3
+Okay, eat some candy. We don't have enough people, and there is work for everyone.

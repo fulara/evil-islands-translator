@@ -1,0 +1,9 @@
+Private server
+The closed server does not inform the master server about
+his work and is visible only within the local
+networks. You can connect to it from an external network
+only those who know his address.
+Open server (if unchecked) registers
+yourself in the list of the master server, the list is available to everyone
+players. Direct access is required for registration
+to the Internet.

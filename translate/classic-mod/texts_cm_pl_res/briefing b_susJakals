@@ -1,0 +1,15 @@
+Akta: Szakale [obrażenia] (100 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[-] Szakale 2 sztuki. Są takie same, ale na 4 poziomie każdy ma unikalną umiejętność.
+[1] "Leczenie": poza walką, szybko regeneruje zdrowie do 50% maksymalnego.
+[1] "Pośpiech": zadawanie obrażeń, (20-40)% szans - na sobie "Pośpiech" (5) przez 10 sek.
+[2] Demencja: Zadawanie obrażeń, (20-50)% szansy - Demencja przez 7 sek.
+[3] "Wściekłość": zadawanie obrażeń, (10-20)% szansy - na sobie "Zwiększ Siłę" (300) przez 6 sek.
+[4-1] Paraliż: Obrażenia, (5-10)% szansy - Paraliż na 4 sek.
+[4-2] "Osłabienie": zadawanie obrażeń, (10-15)% szans - "Osłabienie" (130) przez 33 sek.

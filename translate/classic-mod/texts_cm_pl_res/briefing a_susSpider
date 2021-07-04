@@ -1,0 +1,10 @@
+Akta: Pająk [obrażenia]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Leczenie": poza walką, szybko regeneruje zdrowie do 50% maksymalnego.
+[1] "Trucizna": zadawanie obrażeń (30-40)% szansy - obrażenia przebijające pancerz (20% twojego zdrowia) i "Slow" (5) na 10 sek.

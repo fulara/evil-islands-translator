@@ -1,0 +1,29 @@
+Dossier: Wormface Mind Lord [damage] (35,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[-] The growth of the Mercenary's Power is not displayed in the info window, but it can be viewed in the console ("~") after the death of a subordinate enemy.
+[1] "Weakening": "Weakening" (60) for 40 sec.
+[2] "Damage - Arrow": 100 acid damage.
+[3] Damage - c. Fog: 150 acid damage.
+#CAMERA 3
+#phrase Hero 3
+[1] "Hypnosis": Upon completion of the spell, paralyze the enemy for 30 seconds under the following conditions:
+1) if the mercenary is out of combat,
+2) if the target is visible and located at a distance of 20 to 50 meters,
+3) if the power reserve of the target <(the player's power reserve * 0.5 + (the player's power reserve * 0.5 * the level of the mercenary)).
+If the target has been "hypnotized", the spell can be repeated after 180 seconds - 20 seconds * the level of the mercenary (the star above the mercenary's head symbolizes the readiness of the skill).
+#CAMERA 3
+#phrase Hero 4
+[1] "Submission": The mercenary subjugates the victim to hypnosis, under the following conditions:
+1) if the mercenary is out of combat,
+2) if the target is visible,
+3) if the Power of the target + Power of subordinate creatures <(Power of the player * 0.5 + (Power of the player * 0.5 * level of the mercenary)).
+4) Maintaining hypnosis with the above conditions for 20 seconds.
+#CAMERA 3
+#phrase Hero 5
+Hint: use the "Clairvoyance" spell to comply with all the conditions of submission.

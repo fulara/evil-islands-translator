@@ -1,0 +1,48 @@
+[Więzień Czasu # 20] (12-13) Informator
+#show Hero
+#show Detective
+#show Zak 
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero 1
+Proszę bardzo, dziękuję Wybrańcowi.
+#ANIMATION 11
+#CAMERA 5
+#phrase Zak 2
+Cieszę się, że wyjechałeś z miasta. Mów mi Zach. Na Gipacie nazywano mnie Wybrańcem, ale teraz jest to zbyteczne.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 3
+W porządku. Po uporządkowaniu Guardiana, teraz do rzeczy. Detektywie, kto powiedział, że wpadłeś na ciebie w zasadzkę?
+#ANIMATION 44
+#CAMERA 3
+#phrase Detective 4
+Jeden myśliwy z północno-zachodniej osady w okolicach miasta. Powiedział, że podobno widział, jak czerwonoskóra dziewczyna została poprowadzona w kierunku osady górników na wschodzie.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero 5
+Czy miał jakieś specjalne znaki?
+#ANIMATION 29
+#CAMERA 3
+#phrase Detective 6
+Jest ubrany w futrzaną zbroję i niósł łuk. Myślę, że nie będzie trudno go rozpoznać.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 7
+Rozumiem, otrząsnę z niego wszystko, co mogę.
+#ANIMATION 44
+#CAMERA 5
+#phrase Zak 8
+Po zamachu na detektywa ścigałem intruza, ale nie mogłem go dogonić. Ślady kończą się w Domenie Kharansula.
+#ANIMATION 30
+#CAMERA 5
+#phrase Zak 9
+Ponieważ ślady prowadzą do Domen Karansul, oznacza to, że będziemy musieli szukać tam wskazówek.
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 10
+Może nie być konieczne, jeśli informator powie nam, kto zamówił detektywa.
+#ANIMATION 29
+#CAMERA 5
+#phrase Zak 11
+Dobra, zajmij się informatorem, kiedy dowiem się o Dominie Kharansula.

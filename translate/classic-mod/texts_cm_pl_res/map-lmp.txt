@@ -1,0 +1,860 @@
+## format:
+## 
+## #zone zone_name allod_name type // types can be: game, brief, edge
+## #res
+## MprFile MobFile                 // files to load
+## #maps
+## Xsize Ysize                     // size in sectors
+## MinimapTexture ObjTexture       // textures to load: for minimap and objectives screen
+## #figure
+## FigureName                      // for single player only: figure to load
+## #position
+## x y z                           // for single player only: position on global map
+## #weather
+## none | rain | snow              // weather type in this zone. default: rain
+## #sky
+## normal | cave                   // sky type in this zone. default: normal
+## #exit 1
+## neighbour_zone_name NExit       // neighbour zone for this exit and corresponding exit there
+## #deploy
+## x1 y1 x2 y2                     // deploy rectangle for this exit
+## #remove
+## x1 y1 x2 y2                     // remove rectangle for this exit
+## #passtime
+## PassTime                        // for single player only: default pass time 
+## #view
+## Angle                           // camera rotate angle of this entrance
+## #exit 2
+## ...
+##
+## #quest quest_name
+## x y z                           // for single player only: position on global map
+##
+
+###############################################################################
+
+## Briefing Gipath LMP
+#zone bz1mpg gipat brief
+#res
+new-gipat basecam-mp
+#camera
+bz1g
+#figure
+ingm2base
+#position
+-2.749 -0.186 0.261
+#restrict
+80 80 40
+
+## To Test
+#exit 1
+MPGame1 1
+#deploy
+57 53 63 56
+#remove
+57 47 63 53
+#view
+135.2
+
+## New Gipat
+#exit 2
+old-gipat 1
+#deploy
+9 22 11 24
+#remove
+9 20 11 22
+#view
+135.2
+
+
+###############################################################################
+
+## Briefing Gipath LMP
+#zone old-gipat gipat brief
+#res
+basegipat basecam-old
+#camera
+bz1g
+#figure
+ingm2base
+#position
+-2.749 -0.186 0.261
+#restrict
+60 60 30
+
+## To Test
+#exit 1
+MPGame1 1
+#deploy
+57 53 63 56
+#remove
+57 47 63 53
+#view
+135.2
+
+## To Test
+#exit 2
+MPGame1 1
+#deploy
+42 64 44 66
+#remove
+57 47 63 53
+#view
+135.2
+
+###############################################################################
+
+#zone potzone3 gipat game
+#res
+zone3 potzone3
+#maps
+9 10
+zone3obrmap zone3questM
+
+## To Base
+#exit 1
+bz1mpg 1
+#deploy
+20 130 26 147
+#remove
+2 137 5 143
+#view
+336.9
+
+###############################################################################
+
+#zone zone5 gipat game
+#res
+zone5 zone5-LMP
+#maps
+8 5
+zone5_1map zone5questm
+#weather
+none
+#sky
+cave
+
+## To Ruins
+#exit 1
+bz1mpg 1
+#deploy
+20 82 22 83
+#remove
+8 80 12 87
+#view
+90
+
+############################################################
+
+#zone potzone6 gipat game
+#res
+zone6 potzone6
+#maps
+7 12
+zone6map zone6questM
+
+## To Base
+#exit 1
+bz1mpg 1
+#deploy
+12 23 15 25
+#remove
+2 23 4 25
+#view
+293.346
+
+## To Grave
+#exit 2
+bz1mpg 1
+#deploy
+150 80 150.5 80.5
+#remove
+2 23 4 25
+#view
+293.346
+
+## To Highlands
+#exit 3
+bz1mpg 1
+#deploy
+214 185 217 189
+#remove
+217 185 219 189
+#view
+293.346
+
+############################################################
+
+#zone potzone1 gipat game
+#res
+zone1 potzone1burned
+#maps
+8 6
+zone1map zone1quest
+#weather
+rain
+
+## To Ruins
+#exit 1
+bz1mpg 1
+#deploy
+242 102 246 106
+#remove
+251 102 253 106
+#view
+90
+
+## To Mother
+#exit 2
+bz1mpg 1
+#deploy
+199 97 201 99
+#remove
+251 102 253 106
+#view
+90
+
+############################################################
+
+#zone potzone4 gipat game
+#res
+zone4 potzone4
+#maps
+16 10
+zone4map zone4quest
+
+## Base
+#exit 1
+bz1mpg 1
+#deploy
+20 60 30 68
+#remove
+2 55 4 57
+#view
+279.09
+
+##To Cave
+#exit 2
+bz1mpg 1
+#deploy
+110 195 111 196
+#remove
+115 198 117 200
+#view
+279.09
+
+############################################################
+
+#zone potzone10 gipat game
+#res
+zone10 potzone10
+#maps
+8 6
+zone10map zone10quest
+#weather
+none
+#sky
+cave
+
+## To Ruins
+#exit 1
+bz1mpg 1
+#deploy
+122 10 125 20
+#remove
+113 1 117 2
+#view
+349.289
+
+## To Rift 2
+#exit 2
+bz1mpg 1
+#deploy
+234.4 137.4 244.2 159.8
+#remove
+244.4 150.23 256 163.8 45
+#view
+186.734
+
+##############################################################
+
+## Rick-Briefing
+#zone potrick gipat brief
+#res
+zone0 potrick
+#camera
+bz1mpg 1
+#figure
+ingm2rick
+#position
+-0.24 0.691 0.272
+#weather
+none
+#sky
+cave
+#restrict
+58 72 25
+
+## To Rift
+#exit 1
+bz1mpg 1
+#deploy
+48 84 54 90
+#remove
+36.3 94.1 57.6 99.5
+
+## To Rift
+#exit 2
+bz1mpg 1
+#deploy
+62 66 64 68
+#remove
+36.3 94.1 57.6 99.5
+
+
+###############################################################################
+
+## Briefing Gipath LMP
+#zone potzone2 gipat brief
+#res
+bz2 potzone2
+#camera
+bz2g
+#figure
+ingm2witchhouse
+#position
+-2.785 0.435 0.363
+#restrict
+64 82 15
+
+## To Witch
+#exit 1
+MPGame1 1
+#deploy
+55 84 57 87
+#remove 
+52.6 80.1 55.4 85.4 30
+#view
+95.5
+
+###############################################################################
+
+## Briefing Gipath LMP
+#zone atamanCamp gipat brief
+#res
+zone3 atamanCamp
+
+## To Base
+#exit 1
+bz1mpg 1
+#deploy
+156 181 157 183
+#remove
+156 176 158 178
+#view
+336.9
+
+######################################################
+
+## Briefing Gipath LMP
+#zone newAtamanCamp gipat brief
+#res
+zone7 newAtamanCamp
+#maps
+15 10
+zone7map zone7questM
+
+## To Base
+#exit 1
+MPGame1 1
+#deploy
+340 281 350 282
+#remove
+340 272 350 280
+#view
+0
+
+######################################################
+
+#zone potzone7old gipat game
+#res
+zone7 potzone7old
+#maps
+15 10
+zone7map zone7questM
+
+## To Base
+#exit 1
+bz1mpg 1
+#deploy
+152 300 161 305
+#remove
+152 305 161 319
+#view
+183.929
+
+## To Orc-Lizardmans
+#exit 2
+gz7g_gz8g 1
+#deploy
+453 173 458 178
+#remove
+476 188 479 192
+#view
+104.04
+#passtime
+14
+
+###########################################################################
+
+#zone potzone8 gipat game
+#res
+zone8 potzone8
+#maps
+11 11
+zone8map zone8quest
+
+## To Ruins
+#exit 1
+MPGame1 1
+#deploy
+001 235 014 250
+#remove
+001 235 014 250
+#view
+90
+
+###############################################################################
+
+## Briefing Gipath LMP
+#zone old-gipat2 gipat brief
+#res
+basegipat basecam-old2
+#camera
+bz1g
+#figure
+ingm2base
+#position
+-2.749 -0.186 0.261
+#restrict
+60 60 30
+
+## To Test
+#exit 1
+MPGame1 1
+#deploy
+57 53 63 56
+#remove
+57 47 63 53
+#view
+135.2
+
+## To Test
+#exit 2
+MPGame1 1
+#deploy
+42 64 44 66
+#remove
+57 47 63 53
+#view
+135.2
+
+############################################################
+
+#zone potzone4old gipat game
+#res
+zone4 potzone4old
+#maps
+16 10
+zone4map zone4quest
+
+## Base
+#exit 1
+bz1mpg 1
+#deploy
+20 60 30 68
+#remove
+2 55 4 57
+#view
+279.09
+
+##To Cave
+#exit 2
+bz1mpg 1
+#deploy
+110 195 111 196
+#remove
+115 198 117 200
+#view
+279.09
+
+##To Rick
+#exit 3
+bz1mpg 1
+#deploy
+245 255 245 255
+#remove
+243 257 247 260
+#view
+279.09
+
+############################################################
+
+#zone potzone10old gipat game
+#res
+zone10 potzone10old
+#maps
+8 6
+zone10map zone10quest
+#weather
+none
+#sky
+cave
+
+## To Ruins
+#exit 1
+bz1mpg 1
+#deploy
+122 10 125 20
+#remove
+113 1 117 2
+#view
+279.09
+
+## To Rift 2
+#exit 2
+bz1mpg 1
+#deploy
+234.4 137.4 244.2 159.8
+#remove
+244.4 150.23 256 163.8 45
+#view
+279.09
+
+##############################################################
+
+## Rick-Briefing
+#zone potrickOld gipat brief
+#res
+zone0 potrickOld
+#camera
+bz7g
+#figure
+ingm2rick
+#position
+-0.24 0.691 0.272
+#weather
+none
+#sky
+cave
+#restrict
+58 72 25
+
+## To Rift
+#exit 1
+MPGame1 1
+#deploy
+48 84 54 90
+#remove
+36.3 94.1 57.6 99.5
+
+
+##############################################################
+
+
+## Liz-Briefing
+#zone liz-home gipat brief
+#res
+liz-home liz-home
+#camera
+bz5g
+#position
+0 0 0
+#restrict
+60 75 35
+
+## To Orcs-Lizards
+#exit 1
+MPGame1 1
+#deploy
+66.4 76.6 70.2 81
+#remove
+70.2 74.7 74 81
+
+##deploy 42 15.4 45.9 20.4
+##remove 45.9 15.4 49.4 20.7
+
+##############################################################
+
+## Dragon-Briefing
+#zone dragon-home gipat brief
+#res
+dragon-home dragon-home
+#camera
+bz3g
+#position
+0 0 0
+#restrict
+61 60 10
+
+## To City of Dead
+#exit 1
+MPGame1 1
+#deploy
+52.6 59 56.4 63 
+#remove
+52.6 63 56.4 66
+
+
+###########################################################################
+
+## Orcs-Briefing
+#zone shaivar-home gipat brief
+#res
+zone1bz shaivar-home
+#camera
+bz6g
+#position
+0 0 0
+#restrict
+78 65 25
+
+## To Orcs-Lizards
+#exit 1
+MPGame1 1
+#deploy
+60 62 62.11 66.13
+#remove
+55.1 60 60.4 66
+
+
+#############################################################
+
+
+## Briefing Ingos LMP
+#zone bz2mpg ingos brief
+#res
+bz8k bz8k-LMP
+#camera
+bz8k
+#figure
+ingm5base
+#position
+-1.097 -0.285 -0.163
+#weather
+snow
+#restrict
+63 63 30
+
+## To TownDr
+#exit 1
+MPGame1 1
+#deploy
+82.5 39.5 85.6 47.2
+#remove
+85 34.5 89.4 44.3 45
+
+#############################################################
+
+
+## Briefing Ingos LMP
+#zone potzingosbase ingos brief
+#res
+bz8k potzingosbase
+#camera
+bz8k
+#figure
+ingm5base
+#position
+-1.097 -0.285 -0.163
+#weather
+snow
+#restrict
+63 63 30
+
+## To TownDr
+#exit 1
+MPGame1 1
+#deploy
+82.5 39.5 85.6 47.2
+#remove
+85 34.5 89.4 44.3 45
+
+#############################################################
+
+## Dr1
+#zone potzingosbase2 ingos brief
+#res
+potzingosbase2 potzingosbase2
+#camera
+bz9k
+#figure
+ingm5drbase
+#position
+-1.513 -1.143 -0.078
+#weather
+snow
+#restrict
+69 52 30
+
+## To Dr1
+#exit 1
+MPGame1 1
+#deploy
+68 59 75.5 62
+#remove
+68 62 75.5 66
+
+##deploy 39.8 6.8 42.65 12
+##remove 39.8 2 45 6.8
+
+#############################################################
+
+#zone potzingosbase3 ingos brief
+#res
+zone13 potzingosbase3
+
+#exit 1
+MPGame1 1
+#deploy
+83 185 83 185
+#remove
+85 183 90 190
+
+#############################################################
+
+#zone potzingosbase4 ingos brief
+#res
+zone12 potzingosbase4
+
+#exit 1
+MPGame1 1
+#deploy
+78 208 79 208
+#remove
+76 200 81 205
+
+#############################################################
+
+#zone potzingosbase5 ingos brief
+#res
+zone14 potzingosbase5
+
+#exit 1
+MPGame1 1
+#deploy
+64 161 64 161
+#remove
+68 156 73 161
+
+#############################################################
+
+#zone JunDeva-home ingos brief
+#res
+JunDeva-home JunDeva-home
+
+#exit 1
+MPGame1 1
+#deploy
+92 40 92 40
+#remove
+87 52 91 55
+
+#############################################################
+
+#zone potzingosbase6 ingos brief
+#res
+zone25 potzingosbase6
+
+#exit 1
+MPGame1 1
+#deploy
+45 98 45 98
+#remove
+51 92 58 100
+
+###########################################################################
+
+## Briefing Suslanger LMP
+#zone bz3mpg suslanger brief
+#res
+bz14h bz14h-LMP
+#camera
+bz14h
+#figure
+ingm6base
+#position
+-2.128 1.315 0.109
+#weather
+none
+#sky
+cave
+#restrict
+58 37 25
+
+## To Desert
+#exit 1
+MPGame1 1
+#deploy
+64.4 39.4 69.6 45.5
+#remove
+69.6 39.6 73 45.5
+
+###########################################################################
+
+#zone potzsuslangerbase suslanger brief
+#res
+bz14h potzsuslangerbase
+#camera
+bz14h
+#figure
+ingm6base
+#position
+-2.128 1.315 0.109
+#weather
+none
+#sky
+cave
+#restrict
+58 37 25
+
+## To Desert
+#exit 1
+MPGame1 1
+#deploy
+64.4 39.4 69.6 45.5
+#remove
+69.6 39.6 73 45.5
+
+#############################################################
+
+## Briefing Uncle Rad LMP
+#zone bz4mpg jigran brief 
+#res 
+bz32j bz32j  
+#camera  
+bz32j  
+#figure 
+ingm8spy 
+#position 
+0.893 -0.109 -0.204 
+#weather 
+rain 
+#sky 
+normal 
+#restrict  
+354 153 10 
+
+## To Rift 
+#exit 1 
+MPGame1 1 
+#deploy 
+353 150 358 152
+#remove  
+348 154 358 161 
+#deployangle 
+1 
+#view 
+1 
+
+##############################################################

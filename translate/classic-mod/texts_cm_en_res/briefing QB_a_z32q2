@@ -1,0 +1,5 @@
+(Sh.32) (D.3) Defector
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

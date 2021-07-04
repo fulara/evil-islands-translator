@@ -1,0 +1,9 @@
+Купить материалы для оружия и брони
+#show Hero
+#show Smith
+#CAMERA 10
+#phrase Hero 1
+Привет, можешь продать мне материлов получше?
+#CAMERA 3
+#phrase Smith 2
+Хорошо.

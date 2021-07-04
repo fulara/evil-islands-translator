@@ -1,0 +1,21 @@
+Unia broni
+#show Ataman
+#show Hero
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+Wódz oczywiście będzie udawał kikut i nie przyzna, że wysłał mnie na śmierć. Dlatego nie ma sensu eskalować sytuacji. Najważniejsze teraz jest dojście do porozumienia.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 2
+Oto twoja broń! Teraz zgadzasz się zjednoczyć?
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 3
+Kto to jest? Ach... Cholera, miałam nadzieję, że więcej cię nie zobaczę. Cóż, troll jest z tobą, nadal nikomu nie pomogę.
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 4
+Oczywiście podaj to tutaj. Możesz iść.

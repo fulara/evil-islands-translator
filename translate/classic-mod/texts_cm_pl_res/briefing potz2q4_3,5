@@ -1,0 +1,11 @@
+Kupujący futra
+#show Hero
+#show Zak2
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 1
+Więc to jest obóz, w którym musimy pracować?
+#ANIMATION 60
+#CAMERA 3
+#phrase Zak2 2
+Tak, a tamten gość jest naszym pracodawcą, wykonamy jego polecenia i po drodze dowiemy się wszystkiego, co się da, o tej szumowinie z podbitym okiem, za którą goniłem.

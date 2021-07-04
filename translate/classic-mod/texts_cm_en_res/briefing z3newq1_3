@@ -1,0 +1,10 @@
+The task is completed!
+#show Hero
+#show Nsheriff
+#CAMERA 9
+#phrase Nsheriff 1
+Excellent! I even feel a little sorry for the robbers: they have lost almost everything that they managed to plunder!
+#phrase Hero 2
+Will it not happen that they simply decide to make up for their losses as soon as possible at the expense of the Village?
+#phrase Nsheriff 3
+In this case, I will turn to you again, you will complete this task again, and everyone will be happy ... Or rather, everyone except the robbers, hehe!

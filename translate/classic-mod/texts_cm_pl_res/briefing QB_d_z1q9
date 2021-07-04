@@ -1,0 +1,5 @@
+[Wojownik] (Śl.4-10) (Dl.2-3) [solo] Ścieżka wojownika
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

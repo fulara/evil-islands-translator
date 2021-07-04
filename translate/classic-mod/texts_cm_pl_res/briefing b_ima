@@ -1,0 +1,42 @@
+Rekrut: Łucznik Sazaru [obrażenia] (15 000)
+#show Hero
+#show PosrednikIngos
+#CAMERA 10
+#phrase Hero 1
+Łał! Lesowik? Ciekawe, jak znalazł się wśród twoich chłopaków. Myślałem, że nie są zainteresowani pieniędzmi.
+#ANIMATION 15
+#CAMERA 3
+#phrase PosrednikIngos 2
+Pieniądze są im naprawdę niepotrzebne. Pieniądze przydadzą się na nasz obóz, a leśnicy pomagają nam z wdzięczności.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero 3
+A jak zdobyłeś uznanie leśników? Ja też nie miałbym nic przeciwko nawiązaniu takiej przyjaźni.
+#ANIMATION 43
+#CAMERA 3
+#phrase PosrednikIngos 4
+Tak, to stara rzecz. Wkrótce po tym, jak opuściliśmy kontrolę nad Valrasianem, wysłał do naszych dusz oddział żołnierzy, chciał nas ujarzmić siłą. Byłoby lepiej, gdyby sprzedawał swoje głupie bibeloty i płacił ludziom pensje, ty nadęty głupcze!
+#ANIMATION 60
+#CAMERA 10
+#phrase Hero 5
+Hej, hej, bądź cicho. Jest tu bardzo blisko. Całkowicie się z Tobą zgadzam, ale takie rozmowy należy prowadzić poza tymi murami.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 6
+Tak masz rację. Podekscytowałem się. Ogólnie rzecz biorąc, mieliśmy w mieście własnych ludzi i z góry dowiedzieliśmy się o tym haniebnym planie gubernatora. Nasi ludzie zaatakowali ich obóz w nocy iw ciągu kilku chwil pokonali wroga. O dziwo mieli w niewoli dwóch leśników. Troll domyśli się, co chciał z nimi zrobić, ale my też ich nie potrzebowaliśmy, więc chłopaki pozwolili im odejść.
+#ANIMATION 44
+#CAMERA 3
+#phrase PosrednikIngos 7
+A po kilku dniach do naszego obozu przyszli ci dwaj leśnicy. Powiedzieli, że teraz są nam winni nasze zbawienie i są gotowi spełnić każde z naszych życzeń. Cóż, myśleliśmy, w życiu codziennym są bezużyteczne, odmawiają polowania, mają to zakazane, coś o harmonii i naturze. Ogólnie mogą być przydatne tylko w walce. Teraz zapewniamy im służbę wojskową, aby spłacić dług.
+#ANIMATION 14
+#CAMERA 10
+#phrase Hero 8
+Tak. Los wie, jak zaskoczyć. Znam leśników z pierwszej ręki, są świetnymi strzelcami, niebezpiecznymi stworzeniami. Taki wojownik w drużynie by mi się przydał.
+#ANIMATION 61
+#CAMERA 3
+#phrase PosrednikIngos 9
+Nie powinieneś taki być. To nie są stworzenia, bardzo dobre maluchy. Pod wieloma względami są podobni do ludzi. Gdy rozmawialiśmy z nimi bliżej, zdaliśmy sobie sprawę, że tak wiele głupstw i przesądów różnego rodzaju zostało wymyślonych ich kosztem, że to już wstyd dla naszych gęstych dusz. I kampanie karne na rozkaz Tilvara, i boli pamiętać, że to my mamy u nich dług, a nie oni są z nami. Dobra, rozmawiałem. Służenie Sazarowi będzie cię kosztować 15 000 złota.
+#ANIMATION 46
+#CAMERA 10
+#phrase Hero 10
+Tak, są tacy jak my. Nieco na ich terytorium natychmiast zostaniesz wypchany strzałami, a także potraktują cię piorunem. I właśnie do tego biznesu go potrzebuję, więc znajdę kogoś, z kim mogę porozmawiać. Tu są pieniadze.

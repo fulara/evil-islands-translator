@@ -1,0 +1,6 @@
+Damage
+The info window will show the damage
+parts of the character's body, which is pointed
+cursor. If the cursor is not hovering over any
+character, damage will be shown
+the currently selected character.

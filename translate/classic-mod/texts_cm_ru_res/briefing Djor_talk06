@@ -1,0 +1,15 @@
+Знакомство с командиром
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Что-то враг запаздывает с атакой.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Тишина кругом.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Птички чирикают.
+#CAMERA 3 20 3 1
+#phrase Djor 4
+А сгоняй-ка за элем!

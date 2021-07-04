@@ -1,0 +1,1 @@
+Po trafieniu broń ta zada obrażenia wrogowi w zakresie od minimalnej do maksymalnej wartości parametru „obrażenia”. Jeśli wróg jest chroniony przez zbroję, to obrażenia zadane wrogowi są pomniejszane o wartość jego pancerza. Jeśli zbroja wroga przekracza maksymalną wartość obrażeń broni, oznacza to, że jest on bezsilny przeciwko takiemu wrogowi.

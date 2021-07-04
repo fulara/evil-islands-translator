@@ -1,0 +1,5 @@
+[UV no. 30] (Sl.19) (D.4) Blacksmith's assignment
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

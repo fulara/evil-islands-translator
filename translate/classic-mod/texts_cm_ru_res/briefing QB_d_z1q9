@@ -1,0 +1,5 @@
+[Воин](Сл.4-10)(Дл.2-3)[соло] Путь воина
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

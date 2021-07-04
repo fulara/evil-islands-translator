@@ -1,0 +1,33 @@
+Zadanie wykonane!
+#show Hero
+#show Rick
+#CAMERA 3
+#phrase Rick 1
+Jestem Wielkim Magiem Gipatem, ale nawet ja nie mogę powstrzymać hord tych demonicznych stworzeń, a zniszczenie Gipat to tylko kwestia czasu...
+#CAMERA 10
+#phrase Hero 2
+Zniszczyli Wioskę i całą moją rodzinę. Skąd pochodzą te stworzenia?
+#CAMERA 3
+#phrase Rick 3
+Naszą rasę nawiedzała klątwa, z którą ja i At-Zako poradziliśmy sobie nie tak dawno… Myśleliśmy, że to zrobiliśmy… Ale nie brałem pod uwagę tego, że klątwy nie da się zniszczyć – po prostu się zmienia swoją formę i ponownie spada na nas. Nic dziwnego, cały wyścig nie był w stanie sobie z tym poradzić i uznaliśmy, że mamy szansę. Głupcy.
+#CAMERA 3
+#phrase Rick 4
+Po pokonaniu tego potwora nie zauważyliśmy, jak w głębi lochów, gdzie rozegrała się ostatnia bitwa, narodziło się coś w rodzaju bramy. Kiedy wyczułem, że coś jest nie tak, dolną salę wypełniły już hordy demonów.
+#CAMERA 3
+#phrase Rick 5
+Nie było gdzie czekać na pomoc i nie było czasu. At-Zako i ja zaczęliśmy przygotowywać się do decydującej bitwy, ale nie doceniliśmy przebiegłości tych stworzeń. Kiedy At-Zako aktywował ołtarz golemów w celu zorganizowania obrony przed wejściem do dolnego holu, jeden z demonów zakradł się do mojego schronienia i zabił Luę… dziewczynę At-Zako, nie miałem czasu na Chroń ją.
+#CAMERA 3
+#phrase Rick 6
+At-Zako, dowiedziawszy się o tym, co się stało, we wściekłości rzucił się do zemsty. Wtedy wiesz, co się stało.
+#CAMERA 10
+#phrase Hero 7
+Czy nic więcej nie możemy zrobić?
+#CAMERA 3
+#phrase Rick 8
+Nie doceniłem zagrożenia i straciłem nadzieję na odrodzenie naszej rasy, ale wciąż jest szansa, aby wszystko naprawić. Z całych sił mogę cofnąć cię w czasie. Ta rzadka wiedza nie mogła mi się przydać, ponieważ zabiera życie rzucającemu, a moja siła wystarczy, by wysłać cię zaledwie kilka miesięcy temu.
+#CAMERA 10
+#phrase Hero 9
+Co powinno być zrobione?
+#CAMERA 3
+#phrase Rick 10
+Po tym, jak znajdziesz się w przeszłości, spróbuj mnie znaleźć i powiedz mi, co się stało, a teraz poczekaj spokojnie, muszę się skoncentrować. Nie czytałem wcześniej tego zaklęcia, a błąd może prowadzić do niezamierzonych konsekwencji.

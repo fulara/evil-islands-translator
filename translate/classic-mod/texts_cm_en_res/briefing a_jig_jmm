@@ -1,0 +1,11 @@
+Dossier: Adept Mage [damage] (500,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Lightning Damage: 143-221 Lightning Damage.
+[1] "Damage +": dealing damage, (30-70)% chance - 144 damage with astral magic.
+[3] "Damage +": dealing damage, (15-25)% chance - "Wall of Fire" (143) for 7 sec.

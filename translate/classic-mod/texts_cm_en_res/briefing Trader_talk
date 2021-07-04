@@ -1,0 +1,16 @@
+Acquaintance with the master
+#DESC
+#show Hero
+#show Trader
+#ANIMATION 9
+#CAMERA 3
+#phrase Trader 1
+Hello. I am Master Stark. Without undue modesty, I will say that I know all the secrets and wisdom of blacksmithing, spelling and making complex potions! I am a very good master - hereditary!
+#ANIMATION 62
+#CAMERA 4
+#phrase Trader 2
+I am a very busy person - I have a whole garrison of soldiers. And everyone needs something to patch up, undermine, heal.
+#ANIMATION 44
+#CAMERA 5
+#phrase Trader 3
+Although I will not refuse and just chat a little, otherwise they come only when something is needed.

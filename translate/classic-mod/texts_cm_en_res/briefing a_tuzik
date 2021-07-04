@@ -1,0 +1,27 @@
+Dossier: Tuzik [damage]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Healing": out of combat, quickly regenerates health up to 50% of the maximum.
+[1] "Haste": dealing damage, (20-40)% chance - on yourself "Haste" (5) for 10 sec.
+[2] Dementia: Dealing damage, (20-50)% chance - Dementia for 7 sec.
+#CAMERA 3
+#phrase Hero 3
+The fighting dog named "Tuzik" is on sale.
+#CAMERA 3
+#phrase Hero 4
+A battle-hardened war dog will tear to shreds anyone who attacks its master!
+#CAMERA 3
+#phrase Hero 5
+A hardy and loyal war animal, it will be a good competitor to any mercenary.
+#CAMERA 3
+#phrase Hero 6
+For all questions, contact Vanir the mediator.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 7
+The caption below: "Missing dog, nicknamed Sharik."

@@ -1,0 +1,5 @@
+(Arkusz 18) (Przykład 4) Zaginiony Mistrz
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

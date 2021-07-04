@@ -1,0 +1,5 @@
+(Sl.6) (D.3) Vigilantes disappeared
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

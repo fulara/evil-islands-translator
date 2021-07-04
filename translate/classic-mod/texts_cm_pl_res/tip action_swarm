@@ -1,0 +1,4 @@
+Atak / Obrona
+Przełączanie zachowania postaci między „atak” i „obrona”.
+W trybie „ataku” postać sama atakuje wrogów, którzy go zauważyli.
+W trybie „obrony” postać bez drużyny nie atakuje nikogo.

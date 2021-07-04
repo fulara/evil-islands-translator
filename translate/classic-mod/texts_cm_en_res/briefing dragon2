@@ -1,0 +1,48 @@
+Conversation with the Dragon [2]
+#show SKD 1
+#show Hero 2
+#CAMERA 1
+#ANIMATION 5
+#phrase SKD 1
+I'm pleased with you, man. So far, everything is going as it should be according to custom.
+#CAMERA 3
+#phrase SKD 2
+Take this weapon and try to find a job for him!
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 3
+Thank you! At first I was not aware of your existence. But now, knowing that there is such a strong Dragon on Gipat, I cannot but ask you for help.
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 4
+The fact is that powerful demons will soon attack Gipat. Even the Great Magician himself will not be able to deal with them if I do not find allies who will help us.
+#CAMERA 5
+#ANIMATION 5
+#phrase SKD 5
+Well, that was reasonable enough reasoning - for a human. Perhaps you should try to leave Gipat and seek help in other lands.
+#CAMERA 5
+#ANIMATION 29
+#phrase Hero 6
+This is exactly what I'm going to do. The Great Magician has already figured out how to bring people from other lands. It remains only to unite everyone on Gipat and clear the path to the gorge in the Far Mountains from the lizards.
+#CAMERA 3
+#phrase SKD 7
+Why do you need this?
+#CAMERA 10
+#ANIMATION 44
+#phrase Hero 8
+Lizards guard a meteorite hidden under water. I need it as proof: having learned about it, people from other lands will flock to Gipat, like flies to ... In general, it will not take long to convince them.
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 9
+I am afraid that if you do not help us, then all life on Gipata will perish.
+#CAMERA 5
+#ANIMATION 5
+#phrase SKD 10
+Hmm ... You're right. I agree.
+#CAMERA 10
+#ANIMATION 31
+#phrase Hero 11
+Thank you.
+#CAMERA 5
+#phrase SKD 12
+Goodbye man. You can go.

@@ -1,0 +1,35 @@
+Hire: Black Wolf [damage] (500)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Hi Vanir! I want to buy a black wolf, tell me more about it.
+#CAMERA 3
+#phrase Posrednik 2
+This is a unique ferocious animal you won't find anywhere else!
+#CAMERA 10
+#phrase Hero 3
+Indeed, I have never seen black wolves on Gipata yet.
+#CAMERA 3
+#phrase Posrednik 4
+He is the best choice as a combat companion! I like you, so I will only charge 1500 gold for it.
+#CAMERA 10
+#phrase Hero 5
+It's a fortune! I need him as a war animal, and for such a sum it is more profitable for me to risk my hump than to allow this precious animal to be injured!
+#CAMERA 3
+#phrase Posrednik 6
+Okay ... as a permanent employer, I will sell it for only 800!
+#CAMERA 10
+#phrase Hero 7
+500!
+#CAMERA 3
+#phrase Posrednik 8
+It goes!
+#CAMERA 10
+#NOLIPS
+#phrase Hero 9
+Great, we managed to reduce the price by 3 times!
+#CAMERA 3
+#NOLIPS
+#phrase Hero 10
+Great, rubbing the wolf with charcoal was a brilliant idea!

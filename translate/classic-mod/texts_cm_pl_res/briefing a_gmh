@@ -1,0 +1,33 @@
+Zatrudnij: Tchórz Anira [Uzdrowiciel] (250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Witam, chcę zatrudnić lekarkę Anirę.
+#CAMERA 3
+#phrase Posrednik 2
+Cenię swoją reputację jako pośrednik, dlatego muszę przekazać ci informacje o dostarczonych najemnikach.
+#CAMERA 3
+#phrase Posrednik 3
+Anira jest również nazywana "tchórzem" i nie bez powodu - nie znosi przemocy i może dać dyru, jeśli pachnie smażonym zapachem.
+#CAMERA 10
+#phrase Hero 4
+Dlaczego więc nadal oferuje swoje usługi jako najemnik? Żadna wyprawa nie jest kompletna bez przemocy!
+#CAMERA 3
+#phrase Posrednik 5
+Faktem jest, że choć Anira ucieka przed potyczkami, zawsze wraca i leczy pracodawcę. Ta taktyka ma swoje plusy i minusy.
+#CAMERA 10
+#phrase Hero 6
+A jakie są wady?
+#CAMERA 3
+#phrase Posrednik 7
+Cóż, może uciekając jeszcze bardziej zwrócić uwagę na swoją osobę, a wtedy albo będziesz musiał sam zabłysnąć obcasami, albo uratować niedoszłego lekarza.
+#CAMERA 10
+#phrase Hero 8
+Hmm… trudny wybór!
+#CAMERA 3
+#phrase Posrednik 9
+Cóż, rzuca również zaklęcie wzmacniające na sojuszników.
+#CAMERA 10
+#phrase Hero 10
+Ok, sprzedałem!

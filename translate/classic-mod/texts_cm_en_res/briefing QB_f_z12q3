@@ -1,0 +1,5 @@
+(Sl.16) (D.4-5) Captain Tilvar is missing!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

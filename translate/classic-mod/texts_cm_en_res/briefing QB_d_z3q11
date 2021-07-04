@@ -1,0 +1,5 @@
+[Magician] (Sl.4-10) (D.3-4) [solo] The path of fire
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

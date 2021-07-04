@@ -1,0 +1,24 @@
+Dossier: Robin Gad [damage] (2,250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Treacherous Shot: Every 50-30 sec. - armor-piercing damage (80% of your health + 2 per level).
+[1] "Sinister Shot +": "Weaken" (45) for 24 sec.
+[2] "Sneaky Shot +": "Slow" (3) for 24 sec.
+[3] Treacherous Shot +: Paralyze for 4.5 seconds.
+#CAMERA 3
+#phrase Hero 3
+Attention: for committing a series of robberies, a dangerous criminal nicknamed Robin the reptile is wanted.
+#CAMERA 3
+#phrase Hero 4
+Differs in stealth, resourcefulness, cunning and skillful use of small arms.
+#CAMERA 3
+#phrase Hero 5
+Special signs: he looks 30-80 years old, strong constitution, medium height, dressed in clothes, bad breath, loves onions.
+#CAMERA 3
+#phrase Hero 6
+The bounty for the head of the criminal is 500 gold.

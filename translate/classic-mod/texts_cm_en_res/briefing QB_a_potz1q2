@@ -1,0 +1,5 @@
+[UV # 2] (Sl.1) (D.3-4) [solo] Mushroom hunting
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

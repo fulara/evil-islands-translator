@@ -1,0 +1,37 @@
+The task is completed!
+#show Ataman
+#show Hero
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 1
+Here are obsidian and shell bones.
+#ANIMATION 3
+#CAMERA 3
+#phrase Ataman 2
+Who are you?
+#ANIMATION 60
+#CAMERA 10
+#phrase Hero 3
+In what sense? You yourself sent me to get materials for weapons.
+#NOLIPS
+#CAMERA 10
+#phrase Hero 4
+The chieftain too often got hit on the head, it is not surprising that he forgot me. It's for the best.
+#ANIMATION 11
+#CAMERA 3
+#phrase Ataman 5
+Oh, yes! Give them here, you can take some of the materials for yourself.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero 6
+What a generosity ... They certainly will not be superfluous, but I still wanted to find a blue stone, but it was not in the cave. What to do next? Granny Estera said that the stone could be brought by the current.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero 7
+The shape of the blue stone is round, and this usually happens after prolonged exposure to water. If you think about it, groundwater comes from the distant mountains. The stone could well have been brought from there, but lake lizards live there, and without an army I will not poke my head on them.
+#ANIMATION 46
+#CAMERA 3
+#phrase Ataman 8
+You can go if they call you.

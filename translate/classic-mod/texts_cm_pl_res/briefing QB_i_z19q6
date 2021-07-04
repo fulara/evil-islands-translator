@@ -1,0 +1,5 @@
+(Śl.30) (D.3-4) Wioska jest w niebezpieczeństwie!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

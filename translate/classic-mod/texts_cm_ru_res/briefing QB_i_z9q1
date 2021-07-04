@@ -1,0 +1,5 @@
+(Сл.9)(Дл.5) Правда и сказки о Мёртвом Городе
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

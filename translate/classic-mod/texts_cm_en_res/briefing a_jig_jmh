@@ -1,0 +1,11 @@
+Dossier: Adept Healer [Healer] (500,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": empowers the player (75-90) by 66-93 sec.
+[1] Heal: Every 10 sec. - heals 1 ally (120-160).
+[2] "Healing +": 5% chance - "Regeneration" (10) for 24 sec.

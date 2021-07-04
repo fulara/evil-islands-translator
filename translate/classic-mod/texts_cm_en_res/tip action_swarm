@@ -1,0 +1,4 @@
+Attack / Defense
+Switching character behavior between "attack" and "defense".
+In the "attack" mode, the character himself attacks the enemies who have noticed him.
+In the "defense" mode, a character without a team does not attack anyone.

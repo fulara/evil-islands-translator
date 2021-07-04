@@ -1,0 +1,5 @@
+(Cont. 40) (D.3) Vampires
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

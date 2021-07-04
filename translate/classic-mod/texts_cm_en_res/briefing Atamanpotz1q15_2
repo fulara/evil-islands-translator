@@ -1,0 +1,21 @@
+Union for arms
+#show Ataman
+#show Hero
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+The chieftain, of course, will pretend to be a stump and will not admit that he sent me to my death. Therefore, it makes no sense to escalate the situation. The main thing now is to come to an agreement.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 2
+Here is your weapon! Now you agree to unite?
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 3
+Who is this? Ah ... Damn it, I was hoping I wouldn't see you again. Well, the troll is with you, I'm still not going to help anyone.
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 4
+Of course, give it here. You can go.

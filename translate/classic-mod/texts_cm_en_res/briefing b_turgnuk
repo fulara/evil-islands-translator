@@ -1,0 +1,23 @@
+Dossier: Turgnuk-Iron Skull [Tank] (2,250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[~] "Weapon": <1 R> "Paralyze" for 3 sec.
+[1] Taunt: Every 14 sec. - provokes the seen enemy, if the enemy is closer to the player than to the mercenary.
+[1] "Regeneration (yourself)": receiving damage, (10-20)% chance - "Regeneration" (3-9) for 15-5 sec.
+#CAMERA 3
+#phrase Hero 3
+Turgnuk-iron skull beat the muzzle for money-money.
+#CAMERA 3
+#phrase Hero 4
+I have beat the muzzle son of the tribe. The tribe kick me out, kick me out!
+#CAMERA 3
+#phrase Hero 5
+Turgnuk love to beat the face, love to eat and eat nicely.
+#CAMERA 3
+#phrase Hero 6
+Turgnuk is hungry and angry. You give money-money - I beat the muzzle-muzzle.

@@ -1,0 +1,16 @@
+Znajomość z mistrzem
+#DESC
+#show Hero
+#show Trader
+#ANIMATION 9
+#CAMERA 3
+#phrase Trader 1
+Cześć. Jestem Mistrzem Starkiem. Bez nadmiernej skromności powiem, że znam wszystkie sekrety i mądrość kowalstwa, ortografii i tworzenia skomplikowanych mikstur! Jestem bardzo dobrym mistrzem - dziedziczna!
+#ANIMATION 62
+#CAMERA 4
+#phrase Trader 2
+Jestem bardzo zajętą osobą - mam cały garnizon żołnierzy. A każdy potrzebuje czegoś, co można załatać, podważyć, uzdrowić.
+#ANIMATION 44
+#CAMERA 5
+#phrase Trader 3
+Chociaż nie odmówię i tylko trochę pogadam, inaczej przychodzą tylko wtedy, gdy coś jest potrzebne.

@@ -1,0 +1,34 @@
+Meet Airi
+#show Daughter
+#show NSheriff
+#show Hero
+#ANIMATION 73
+#phrase NSheriff 1
+Meet my wife, Airi.
+#ANIMATION 3
+#CAMERA 5
+#phrase Daughter 2
+Welcome to our Village. I didn't live here before, but everything changes once. Rivar and I met when I wanted to steal… uh… borrow some healing herb from an orc shaman near the village.
+#phrase Daughter 3
+Well, in general, I had to get away until I ran into Rivar.
+#ANIMATION 70
+#CAMERA 7
+#phrase NSheriff 4
+Now it is clear why this shaman is so angry with you.
+#ANIMATION 43
+#CAMERA 7
+#phrase Daughter 5
+Do you think I wouldn't give him back his grass?
+#CAMERA 5
+#phrase NSheriff 6
+Yes.
+#ANIMATION 43
+#CAMERA 5
+#phrase Daughter 7
+And you think right! And in general, these stupid orcs have nothing to hang around with us!
+#CAMERA 5
+#phrase NSheriff 8
+Really. In general, Airi helps me manage the Village.
+#CAMERA 5
+#phrase Daughter 9
+Yes, if you need work, come to me with Rivar, we will give you a chance to prove yourself.

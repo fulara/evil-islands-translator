@@ -1,0 +1,15 @@
+Akta: Zabójcza Blizna [obrażenia] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Cios w plecy: Co 50-30 sek. - obrażenia przebijające pancerz (80% twojego zdrowia + 5 na poziom).
+[1] "Backstab +": "Slow" (5) przez 24 sek.
+[2] Cios w plecy +: Paraliż na 6,5 sek.
+[3] „Dźgnięcie w plecy +”: „Osłabienie” (90) przez 40 sek.
+#CAMERA 3
+#phrase Hero 3
+Potrafię po cichu zarżnąć, rabować, bezgłośnie wyrywać, otwierać zamek - posiadam wszystkie niezbędne na co dzień umiejętności. Pracuję za tanio. Nawet nie radzę myśleć o pokonaniu mnie - surowo cię ukarzę.

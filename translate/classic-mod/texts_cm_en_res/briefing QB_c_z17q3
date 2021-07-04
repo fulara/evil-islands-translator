@@ -1,0 +1,5 @@
+(Sl.24) (Dl.2) Leaving the Shelter is dangerous!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

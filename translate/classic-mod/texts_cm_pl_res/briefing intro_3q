@@ -1,0 +1,15 @@
+O życiu w Ostatnim Schronieniu
+#show Glav
+#show Hero
+#CAMERA 3 30 3 1.5
+#phrase Glav 1
+Ostatnie Schronienie jest gotowe przyjąć każdego, kto tu przyjdzie z otwartym sercem i czystą duszą. Nie pytamy kim jesteś i skąd jesteś, co masz w przeszłości i czego oczekujesz od przyszłości.
+#CAMERA 3 20 3.5 1.5
+#phrase Glav 2
+Co więcej, byli wśród nas tacy, którzy po prostu nie znali swojej przeszłości i nie było sensu zadawać pytań. Na przykład Brat Żółtowłosy - przybył po ucieczce z Wąwozu Śmierci i wyszedł, wchodząc do Portalu prowadzącego do Bezużytecznych Ziem.
+#CAMERA 3 20 3 1.5
+#phrase Glav 3
+Tak, Brat Żółtowłosy był niezwykłą osobą! Nie bał się wyjść na otwartą bitwę z oddziałami strażników i nie wahał się dźgnąć rozdziawionego wroga w plecy ...
+#CAMERA 3 0 3.5 1.5
+#phrase Glav 4
+Jednak dość o nim. Ktoś, kto zbyt często spogląda wstecz, prawdopodobnie nie będzie w stanie posunąć się daleko do przodu!

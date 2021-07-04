@@ -1,0 +1,53 @@
+Rozmowa ze smokiem [1]
+#show SKD 1
+#show Hero 2
+#CAMERA 10
+#ANIMATION 54
+#phrase Hero 1
+O! Moja droga mamo ...
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD 2
+Kto to jest? Człowiek? Dlaczego tu jesteś?
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 3
+Cholera! Wódz nie powiedział nic o potężnym smoku. Oto drań.
+#CAMERA 5
+#phrase SKD 4
+Więc?
+#CAMERA 10
+#ANIMATION 31
+#phrase Hero 5
+Przepraszam, że przeszkadzam i nie było w twoich myślach przeszkadzać. Powiedziano mi, że tutaj mogę zdobyć żelazną broń, ale nic nie powiedziano o smoku.
+#CAMERA 5
+#phrase SKD 6
+Mężczyzna szukał broni, ale przyszedł do mnie. Co mam teraz z tobą zrobić?
+#CAMERA 10
+#ANIMATION 63
+#phrase Hero 7
+Możesz mnie puścić, jako opcję.
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD 8
+Niestety, to niemożliwe. Szanuję tradycje i według nich nie można tak po prostu odejść.
+#CAMERA 3
+#phrase SKD 9
+Możesz mnie wyzwać do walki. Możesz zażądać uwolnienia dziewczyny. Wreszcie możesz odebrać zadanie dla siebie. Nie mam teraz dziewczyn w niewoli.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 10
+Jest mało prawdopodobne, że pokonam tego łobuza, chociaż możesz zaryzykować ... Ale najpierw musisz dowiedzieć się, jakie zadanie, a potem zobaczymy.
+#CAMERA 5
+#ANIMATION 11
+#phrase Hero 11
+Jakie zadanie muszę wykonać?
+#CAMERA 5
+#ANIMATION 5
+#phrase SKD 12
+Cały ten obszar jest przesiąknięty jaskiniami, a poniżej żyją i rozmnażają się paskudne stworzenia. Kiedy zapada noc, ich młode wspinają się, a nawet wspinają do mojego legowiska. Denerwują mnie.
+#CAMERA 3
+#phrase SKD 13
+Znajdź i zabij łono tych stworzeń, a wcześniej nie wracaj. Chociaż, przyznaję ci szczerze, nie mogę uwierzyć, że możesz.

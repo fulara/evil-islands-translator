@@ -1,0 +1,7 @@
+[Wytwarzaj unikatowe przedmioty] Zbroja
+#show Hero
+#show Smith
+#phrase Hero 1
+Cześć, czy możesz zrobić dla mnie wyjątkową zbroję.
+#phrase Smith 2
+Hmm... to jest trudna praca, muszę się zastanowić, czy teraz dam radę. Pomyśl tylko, do jakiej części ciała potrzebujesz zbroi.

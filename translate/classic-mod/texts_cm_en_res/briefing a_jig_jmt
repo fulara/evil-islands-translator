@@ -1,0 +1,12 @@
+Dossier: Black Knight [tank] (500,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[~] "Weapon": <1 R / 2: Bp> "Weakening" (60) for 33 sec.
+[~] "Armor": <1 R> "Magic protection" (59.5) for 30 sec.
+[1] Taunt: Every 14 sec. - provokes the seen enemy, if the enemy is closer to the player than to the mercenary.
+[1] "Heal (yourself)": every 180-60 sec. - heals (220-500) if health is <25%.

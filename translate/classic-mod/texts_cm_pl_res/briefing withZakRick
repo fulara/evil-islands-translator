@@ -1,0 +1,67 @@
+Dowiedz się o Wielkim Magu
+#show Rick2
+#show Zak3
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 1
+Oczekiwałem ciebie, zwany Wybrańcem!
+#CAMERA 5
+#ANIMATION 45
+#phrase Zak3 2
+Czy ty... Znasz mnie?
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 3
+Twój niezwykły wygląd tutaj przyciągnął moją uwagę. A kiedy udało ci się zajrzeć do Magic Ball, zainteresowałeś mnie jeszcze bardziej. Moje smocze dziecko towarzyszyło ci wszędzie, ao ile wiem, czasami nawet go zauważyłeś. A im bliżej sukcesu były twoje poszukiwania, tym bardziej nie mogłem się doczekać naszego spotkania.
+#CAMERA 5
+#ANIMATION 3
+#phrase Zak3 4
+Ale kim jesteś? Jak masz na imię? A jeśli jesteś tak potężny, że mógłbyś mnie obserwować bez wychodzenia z jaskini, czy zgodzisz się pomóc w moich kłopotach? W końcu chyba nie muszę ci o niej opowiadać - już wszystko wiesz...
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 5
+Zadajesz wszystkie pytania na raz i jesteś nieprzemyślany. Nie boisz się, że ja zrobię to samo z odpowiedziami? Twoja ciekawość zostanie jednak częściowo zaspokojona.
+#CAMERA 5
+#ANIMATION 6
+#phrase Rick2 6
+Moje imię będzie dla ciebie brzmiało jak Tka-a-Litan Rich-ti-a-Nick. Dla takiej niecierpliwej osoby jak ty jest to prawdopodobnie niepotrzebnie długi czas. Dlatego mów do mnie krótko: Tka-Rik. Jeśli chcesz, możesz dodać do tego imienia słowa „Wielki Magik”, ale ja sam nie potrzebuję takiej powagi.
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 7
+Mogę pomóc w twoich kłopotach, ale to będzie rodzaj układu. Ja z kolei będę również potrzebował twojej pomocy.
+#CAMERA 5
+#ANIMATION 32
+#phrase Zak3 8
+Ty? Wielki Magik? Żartujesz!
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 9
+Nie mam czasu na żarty, wcale. Wszystko na świecie ma swoją cenę i płacę ją w całości. Żaden z Wielkich Magów nie ma prawa opuścić swojej wyspy - tutaj jestem przykuty do opuszczonego Gipat. Dlatego potrzebuję osoby, która wykona moje zadanie na innej ziemi.
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 10
+Będziesz musiał znaleźć i dostarczyć tutaj dwoje młodych ludzi, chłopca i dziewczynkę. Oni, tak jak ja, należą do niegdyś wspaniałego wyścigu czerwcowego, a ja muszę… O tym jednak opowiem później, jeśli zechcesz. Teraz powiedz mi: zgadzasz się?
+#CAMERA 5
+#ANIMATION 32
+#phrase Zak3 11
+Możesz pomyśleć, że nie znasz z góry mojej odpowiedzi. Oczywiście zgadzam się!
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 12
+Kiedy świat był jeden, Gipat był tylko częścią ogromnego kontynentu. Po wyschnięciu potęgi Junów pojawiły się tu stany innych ras.
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 13
+Noc Kłopotów, katastrofa, która podzieliła świat, zniszczyła te kraje: pozostało po nich mniej śladów niż po dawno zapomnianym Junach. Tylko dwa imperia przetrwały Noc Kłopotów, dwaj odwieczni rywale: Kania i Khadagan.
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 14
+Kania, do której trzeba się udać, wydaje mi się krajem, w którym władcy nie okazują nadmiernego okrucieństwa, a ich poddani czują się całkiem wolni. Ale nie poddawaj się pokusie relaksu i nie wymykaj się spod kontroli!
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 15
+Mocą mojej magii wyślę cię do Ingos. Mój amulet pomoże ci wrócić, ale zadziała tylko wtedy, gdy dziewczyna zostanie odnaleziona!
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 16
+Przygotuj się: poczujesz zawroty głowy, a kiedy odzyskasz zmysły, kolejna ziemia już się rozprzestrzeni. Mój smoczątko będzie Ci towarzyszył... I niech Twoje szczęście podąża za Tobą równie nieubłaganie!

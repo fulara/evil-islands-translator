@@ -1,0 +1,7 @@
+[Craft Unique Items] Weapons
+#show Hero
+#show Smith
+#phrase Hero 1
+Hi, can you make me a unique weapon.
+#phrase Smith 2
+Hmm ... this is a difficult job, I need to think if I can do it now. Just think about what kind of weapon you need.

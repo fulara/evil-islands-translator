@@ -1,0 +1,82 @@
+Unia za złoto
+#show Ataman
+#show Hero
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 1
+Pozdrowienia, Atamanie! Jestem do was z ważną propozycją.
+#ANIMATION 11
+#CAMERA 3
+#phrase Ataman 2
+A co możesz mi zaoferować?
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 3
+Sprzymierz się z wioską przeciwko wspólnemu wrogowi. Szamanka Estera miała proroczy sen o przyszłości. Armia demonów zaatakuje Gipat i zniszczy wszystkie żywe istoty.
+#CAMERA 3
+#NOLIPS
+#phrase Ataman 4
+(wygląda cicho)
+#CAMERA 3
+#ANIMATION 45
+#phrase Ataman 5
+HAHAHA! Czekaj, mówisz poważnie?!
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 6
+Tak.
+#CAMERA 3
+#ANIMATION 46
+#phrase Ataman 7
+A-HA-HA-HA-HA-HA!
+#show sackofgold 4
+#CAMERA 10
+#ANIMATION 43
+#phrase Hero 8
+Przestań się śmiać, niezależnie od tego, czy w to wierzysz, czy nie, ale Wioska oferuje złoto jako zapłatę za związek.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 9
+Cóż, złoto jest oczywiście dobre. To jednak nie wystarczy.
+#hide sackofgold
+#CAMERA 10
+#ANIMATION 14
+#phrase Hero 10
+Czego jeszcze chcesz?
+#CAMERA 3
+#ANIMATION 44
+#phrase Ataman 11
+Chcę dobrej broni - żelaza.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 12
+Gdzie mogę to dla ciebie dostać na Gipat?
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 13
+Wiem gdzie - w Martwym Mieście! Jest na samym szczycie Samotnej Góry.
+#CAMERA 10
+#ANIMATION 73
+#phrase Hero 14
+Nikt jeszcze nie wrócił z Martwego Miasta. Czy chcesz mojej śmierci?
+#CAMERA 3
+#ANIMATION 14
+#phrase Ataman 15
+Jak to jest z nikim? A co z Wybrańcem? Wrócił stamtąd z żelazną bronią. Okazuje się, że nie wszystko jest tak przerażające, jak się wydaje.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 16
+Dlaczego nie radzisz sobie ze szkieletami? Weź coś cięższego i tnij sobie drogę: kości są kruche, jeśli masz maczugę.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 17
+Cóż, ze szkieletami myślę, że sobie z tym poradzę.
+#CAMERA 3
+#ANIMATION 15
+#phrase Ataman 18
+Tak, powodzenia.
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 19
+Będziesz tego potrzebował. Raczej cię już nie zobaczę.

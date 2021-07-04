@@ -1,0 +1,8 @@
+[Узник времени] перейти к 19 и 20 квестам
+#show Hero
+#show Rick
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+...

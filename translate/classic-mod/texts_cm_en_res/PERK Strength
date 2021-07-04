@@ -1,0 +1,2 @@
+Force
+Improves health and weight tolerance. If the skills Strength, Regeneration are taken, and the power parameter is 40 or higher, the automatic application of "Battle Regeneration" (once every 3 minutes, if Health is less than 30% significantly accelerates the regeneration).

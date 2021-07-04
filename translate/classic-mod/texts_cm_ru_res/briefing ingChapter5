@@ -1,0 +1,8 @@
+[Узник времени] Глава 5 (№17-20)
+#show Hero
+#show Rick
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+...

@@ -1,0 +1,84 @@
+Rozmowa z magiem w przeszłości Hypata 1
+#show Rick2
+#show Hero
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 1
+O Wielki Magu, jestem tutaj z niepokojącymi wiadomościami...
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 2
+(kaszle) przepraszam... nie codziennie przychodzą do mnie goście z przyszłości, ai to z takiego ponurego.
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 3
+Czy umiesz czytać w myślach? Wtedy nie muszę mówić o mojej przeszłości, już wszystko wiesz.
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 4
+A żeby ocalić Gipat, potrzebuję twojej pomocy.
+#CAMERA 10
+#phrase Hero 5
+Jak mogę pomóc?
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 6
+Będziemy musieli szukać pomocy w innych krajach. Sam jestem przywiązany do Gipat i nie mogę ci w tym pomóc, ale mogę cię tam wysłać w mojej mocy.
+#CAMERA 10
+#ANIMATION 46
+#phrase Hero 8
+Kto przy zdrowych zmysłach chciałby nam pomóc z narażeniem życia?
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 9
+Zgadza się, dlatego będziesz musiał sprytem zwabić do Gipat jak najwięcej żołnierzy z innych krajów, a ja wiem, jak to zrobić.
+#CAMERA 5
+#ANIMATION 6
+#phrase Rick2 10
+Ekspedycja Khadagan, którą ty i twój wybrany wytępiliście, szukała upadłego meteorytu i nie byli tak daleko od celu. Meteoryt leży przed moim mieszkaniem pod wodą i jest otoczony przez jaszczurki, które nikomu nie faworyzują.
+#CAMERA 10
+#ANIMATION 29
+#phrase Hero 11
+Stąd pochodzi niebieski kamień, którego musiałem wcześniej szukać.
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 12
+Tak, będziesz potrzebować sporego kawałka tego meteorytu jako dowodu dla obcych. Dowiedziawszy się, że na Gipacie jest materiał, z którego robią najlepszą zbroję, nie będą musieli długo czekać, będą chcieli go zdobyć.
+#CAMERA 10
+#ANIMATION 73
+#phrase Hero 13
+Jak mogę zdobyć kawałek tego meteorytu? Jest pod wodą i jest strzeżony przez niebieskie smoki.
+#CAMERA 3
+#phrase Rick2 14
+W szczególnie upalne dni woda w zbiorniku spada, a meteoryt staje się widoczny i trzeba sobie radzić z jaszczurkami.
+#CAMERA 5
+#ANIMATION 6
+#phrase Rick2 15
+Teleportacja Wybrańca do Ingos zabrała mi sporo sił i żeby cię wysłać - będę potrzebował czasu i odpoczynku.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 16
+Co się dzieje z Wybrańcem? Czy to jest ważniejsze niż demoniczna inwazja na Gipat?
+#CAMERA 3
+#phrase Rick2 17
+Wybraniec na Gipacie nie ma już żadnych interesów, w przeciwieństwie do ciebie. Kiedy wracam do zdrowia, musisz zjednoczyć każdego, kogo możesz, przeciwko nadchodzącemu zagrożeniu.
+#CAMERA 10
+#ANIMATION 63
+#phrase Hero 18
+Ale Wybraniec mógłby mi pomóc...
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 19
+W przeciwieństwie do ciebie można go zabić, a poza tym nie powinieneś zmieniać przyszłości - może to przerodzić się w katastrofalne konsekwencje. Na podstawie twoich wspomnień wykonał swoje zadanie.
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 20
+Muszę również zbadać twoją zdolność powrotu do przeszłości po śmierci, a w tym celu, jeśli zechcesz, wezmę trochę twojej krwi.
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 21
+Proszę, chciałbym wiedzieć, jak to działa i kiedy przestanie ratować mi życie.
+#CAMERA 10
+#ANIMATION 44
+#phrase Hero 22
+Przede wszystkim udam się do uzdrowicielki i spróbuję przekonać ją do powrotu do Wioski. Wie, co nas czeka i pomoże w zjednoczeniu mieszkańców Gipatu.

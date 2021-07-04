@@ -1,0 +1,5 @@
+(Сл.21)(Дл.5) Освобождение
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,5 @@
+[Group] (Sl.11) (D.3) Deaths near the Dead City!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

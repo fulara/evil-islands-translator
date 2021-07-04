@@ -1,0 +1,5 @@
+(Sheet 18) (Ex.4) The Lost Master
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

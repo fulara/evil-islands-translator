@@ -1,0 +1,29 @@
+Задание выполнено!
+#show Hero
+#show Ataman
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero 1
+Атаман, мне тут сказали, что лагерю нужны материалы для брони-вот они.
+#ANIMATION 43
+#CAMERA 3
+#phrase Ataman 2
+Кто сказал?
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 3
+Вирт...
+#ANIMATION 48
+#CAMERA 3
+#phrase Ataman 4
+А ну да... давай сюда! Оставь себе часть-закажешь у нашего нового мастера что-то получше твоих обносков.
+#ANIMATION 46
+#CAMERA 3
+#phrase Ataman 5
+Все, проваливай!
+#ANIMATION 30
+#CAMERA 10
+#NOLIPS
+#phrase Hero 6
+О... у Атамана хорошее настроение, такая редкость.
+

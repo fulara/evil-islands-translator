@@ -1,0 +1,15 @@
+Dossier: Archer [damage] (100,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[~] "Armor": <1 Pr / 1: Dr> "Regeneration" (4) for 10 sec.
+[1] Treacherous Shot: Every 60-30 sec. - armor-piercing damage (80% of your health + 20 per level).
+[1] "Sinister Shot +": "Weaken" (130) for 33 sec.
+[2] "Sneaky Shot +": "Slow" (5) for 21 sec.
+[3] Treacherous Shot +: Dementia for 15 sec.
+[4] Treacherous Shot +: Paralyze for 4 sec.
+[5] "Sinister Shot +": "Weaken" (170) for 33 sec.

@@ -1,0 +1,11 @@
+[Craft Unique Weapons] Melee
+#show Hero
+#show Smith
+#phrase Smith 1
+I can do it now, what weapon do you need?
+#phrase Hero 2
+For close combat.
+#phrase Smith 3
+What material to make?
+#phrase Hero 4
+Can I even choose the material? Need to think...

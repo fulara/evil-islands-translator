@@ -1,0 +1,14 @@
+Dossier: Prabhu Drwal [obrażenia] (15 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[-] Pioruny łańcuchowe uderzają tylko w tych wrogów, których sojusznicy mogą zobaczyć. Obrażenia spadają o 15% z każdą gałęzią. Nie wykańcza wrogów.
+[1] Obrażenia od błyskawic: 60-80 obrażeń od błyskawic.
+[1] Błyskawica Łańcuchowa: Co 120-30 sek. - 33-63 obrażeń od błyskawic na sekundę na 5 wrogów, jeśli zobaczy > 1 wroga.
+#CAMERA 3
+#phrase Hero 3
+Mądre i potężne lasy opiekuńcze, Prabhu. Posiada taką magię, o jakiej czarodzieje z Ingos nigdy nie śnili. Wyniosła zrzęda Heatha w porównaniu z nim jest nowicjuszem, który odpadł. Jeśli szukasz wykwalifikowanego maga, nie wahaj się, Prabhu spełni Twoje oczekiwania. Jego służba będzie cię kosztować 15 000.

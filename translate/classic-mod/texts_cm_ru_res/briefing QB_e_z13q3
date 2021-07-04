@@ -1,0 +1,5 @@
+(Сл.15)(Дл.3) Губернатор ждёт подношения
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

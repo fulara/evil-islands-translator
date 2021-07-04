@@ -1,0 +1,32 @@
+Отчёт Атаману - Бонус
+#show Ataman
+#show AtamanWife
+#show Hero
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 1
+Атаман, у меня есть магический кристалл, который, возможно, придётся по вкусу вашей жене.
+#CAMERA 3
+#ANIMATION 48
+#phrase Ataman 2
+Ха! Давай его сюда!
+#CAMERA 5
+#ANIMATION 63
+#phrase Ataman 3
+Дорогая, смоти, что я тебе подарю.
+#CAMERA 5
+#ANIMATION 11
+#phrase AtamanWife 4
+Какая прелесть, я давно хотела себе такой! Кому-то сегодня перепадёт!
+#CAMERA 5
+#ANIMATION 9
+#phrase Ataman 5
+Ты моя помпушечка…
+#CAMERA 10
+#ANIMATION 30
+#phrase Hero 6
+Экхем…
+#CAMERA 3
+#ANIMATION 43
+#phrase Ataman 7
+Ты ещё здесь? На вот тебе. И канай отсюда!

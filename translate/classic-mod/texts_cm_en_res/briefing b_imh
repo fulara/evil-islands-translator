@@ -1,0 +1,25 @@
+Hire: Mildrith [Healer] (15,000)
+#show Hero
+#show PosrednikIngos
+#CAMERA 10
+#phrase Hero 1
+I am going to have a serious mess, and without a good doctor I can't take my head off. I'm looking closely at Mildrith, she has impressive combat experience, judging by the announcement.
+#ANIMATION 31
+#CAMERA 3
+#phrase PosrednikIngos 2
+Ooooh, believe me, if Mildrit is in your squad, then you have nothing to fear. The ogre would sooner break a club on your head than Mildrith would let you get stuck. In the army, everyone called her mother. Mildrit fought for the life of every soldier as if it were her own child.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 3
+What troubles she has never been in: ambushes of robbers, trolls, cannibals, even in skirmishes with the forestry! And one day, in the mines that had not yet been abandoned, Captain Brunt disappeared, and Mildrit was in the search party. They went so deep in their search that they stumbled upon wormfaces !!! Oh, as I can imagine, it already throws me into a shiver. However, everyone survived, thanks to Mildrith, and Brant's corpse was found a little further than the battlefield, the troll will take it apart, what he did there.
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 4
+Blimey!! This is the kind of person I need. How much does her service cost?
+#CAMERA 3
+#phrase PosrednikIngos 5
+15,000 gold.
+#ANIMATION 61
+#CAMERA 10
+#phrase Hero 6
+Eeeeh, expensive of course, but cheaper than a new head.

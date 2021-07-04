@@ -1,0 +1,28 @@
+The task is completed!
+#show Hero
+#show Ataman
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero 1
+Ataman, I was told that the camp needs materials for armor - here they are.
+#ANIMATION 43
+#CAMERA 3
+#phrase Ataman 2
+Who said?
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 3
+Wirth ...
+#ANIMATION 48
+#CAMERA 3
+#phrase Ataman 4
+Well yes ... come on here! Leave a part for yourself - you will order from our new master something better than your castoffs.
+#ANIMATION 46
+#CAMERA 3
+#phrase Ataman 5
+Get out of it!
+#ANIMATION 30
+#CAMERA 10
+#NOLIPS
+#phrase Hero 6
+Oh ... Ataman is in a good mood, so rare.

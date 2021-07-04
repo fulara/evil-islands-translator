@@ -1,0 +1,5 @@
+(Сл.5)(Дл.4) Охота
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

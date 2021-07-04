@@ -1,0 +1,5 @@
+Camera left
+The camera scrolls to the left. When you press
+the same key + <CTRL> the camera will unfold
+to the left, keeping the direction to the previously selected
+point.

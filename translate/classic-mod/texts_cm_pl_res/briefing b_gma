@@ -1,0 +1,27 @@
+Wynajem: Robin Gad [obrażenia] (2250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Vanir, czy mogę zatrudnić bękarta Robina?
+#CAMERA 3
+#phrase Posrednik 2
+Myślę, że mogę ci pomóc. Ale najpierw odgadnij zagadkę: „z cebulą i jajkami, ale nie z ciastem”.
+#CAMERA 10
+#phrase Hero 3
+Tak, tak, bardzo zabawne. Wydaje się być dobrym strzelcem.
+#CAMERA 3
+#phrase Posrednik 4
+Zgadza się, Robin po mistrzowsku pachnie nie tylko cebulą, ale także czosnkiem.
+#CAMERA 10
+#phrase Hero 5
+(śmiech) Mam szczęście, że atakuje z dystansu.
+#CAMERA 10
+#phrase Hero 6
+A tak przy okazji, czy nie chciałby mnie też obrabować?
+#CAMERA 3
+#phrase Posrednik 7
+Jest oczywiście rzadkim draniem, ale jeśli chodzi o interesy, nie zawodzi.
+#CAMERA 3
+#phrase Posrednik 8
+Od ciebie 750 sztuk złota - a ja zorganizuję mu spotkanie z tobą.

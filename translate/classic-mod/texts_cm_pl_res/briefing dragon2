@@ -1,0 +1,48 @@
+Rozmowa ze Smokiem [2]
+#show SKD 1
+#show Hero 2
+#CAMERA 1
+#ANIMATION 5
+#phrase SKD 1
+Jestem z ciebie zadowolony, stary. Jak na razie wszystko idzie tak, jak powinno według zwyczaju.
+#CAMERA 3
+#phrase SKD 2
+Weź tę broń i spróbuj znaleźć dla niego pracę!
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 3
+Dziękuję Ci! Na początku nie wiedziałem o twoim istnieniu. Ale teraz, wiedząc, że na Gipacie jest tak silny smok, nie mogę nie poprosić cię o pomoc.
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 4
+Faktem jest, że wkrótce Gipat zaatakują potężne demony. Nawet sam Wielki Mag nie poradzi sobie z nimi, jeśli nie znajdę sojuszników, którzy nam pomogą.
+#CAMERA 5
+#ANIMATION 5
+#phrase SKD 5
+Cóż, to było wystarczająco rozsądne rozumowanie - jak na człowieka. Być może powinieneś spróbować opuścić Gipat i szukać pomocy w innych krajach.
+#CAMERA 5
+#ANIMATION 29
+#phrase Hero 6
+To jest dokładnie to, co zamierzam zrobić. Wielki Mag już wymyślił, jak sprowadzić ludzi z innych krajów. Pozostaje tylko zjednoczyć wszystkich na Gipacie i oczyścić drogę do wąwozu w Dalekich Górach z jaszczurek.
+#CAMERA 3
+#phrase SKD 7
+Dlaczego tego potrzebujesz?
+#CAMERA 10
+#ANIMATION 44
+#phrase Hero 8
+Jaszczurki strzegą meteorytu ukrytego pod wodą. Potrzebuję tego jako dowodu: gdy się o tym dowiedzą, ludzie z innych krajów zbiegną się do Gipatu, jak muchy do… W ogóle nie potrwa długo, aby ich przekonać.
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 9
+Obawiam się, że jeśli nam nie pomożesz, zginie całe życie na Gipacie.
+#CAMERA 5
+#ANIMATION 5
+#phrase SKD 10
+Hmm... Masz rację. Zgadzam się.
+#CAMERA 10
+#ANIMATION 31
+#phrase Hero 11
+Dziękuję Ci.
+#CAMERA 5
+#phrase SKD 12
+Do widzenia człowieku. Możesz iść.

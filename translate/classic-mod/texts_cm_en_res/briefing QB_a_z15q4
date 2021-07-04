@@ -1,0 +1,5 @@
+(Sl.22) (D.4) An Important Newcomer
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

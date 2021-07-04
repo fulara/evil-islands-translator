@@ -1,0 +1,9 @@
+[Stwórz unikalną zbroję] dla głowy
+#show Hero
+#show Smith
+#phrase Smith 1
+Mogę to teraz zrobić, jakiego rodzaju zbroi potrzebujesz?
+#phrase Hero 2
+Na głowę.
+#phrase Smith 3
+Muszę przygotować narzędzia. Na razie przygotujcie złoto, idę dalej, bo nie wiem, jak dobry okaże się zaklęcie, a praca jest trudna. Jakość będzie zależeć od ilości.

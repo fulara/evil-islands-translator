@@ -1,0 +1,1 @@
+When hit, this weapon will inflict damage to the enemy within the range between the minimum and maximum values of the "damage" parameter. If the enemy is protected by armor, then the damage done to the enemy is reduced by the value of his armor. If the enemy's armor exceeds the maximum damage value of the weapon, this means that it is powerless against such an enemy.

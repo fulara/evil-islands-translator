@@ -1,0 +1,11 @@
+O mediacji
+#show Hero
+#show PosrednikSus
+#CAMERA 3
+#phrase PosrednikSus 1
+Hej! Jestem pośrednikiem, potrzebujesz najemników?
+#phrase PosrednikSus 2
+Jeśli są ludzie, którzy chcą zarobić dodatkowe pieniądze, ich ogłoszenia są umieszczane na tablicy ogłoszeń.
+#CAMERA 3
+#phrase PosrednikSus 3
+Zobacz, czy ktoś jest zainteresowany, skontaktuj się ze mną.

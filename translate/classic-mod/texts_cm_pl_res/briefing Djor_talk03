@@ -1,0 +1,9 @@
+Znajomość z dowódcą
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Potrzebujemy maga.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Czy jesteś magikiem?

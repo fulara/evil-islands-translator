@@ -1,0 +1,16 @@
+Dossier: Veteran Healer [Healer] (15,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": empowers the player (45) by 66-93 sec.
+[1] Heal: Every 10 sec. - heals 1 ally (40-50).
+[1] Mass Heal: Every 30 sec. - heals all allies (40-60) in the 20m area, if the health of the ally is <33%.
+[1] Mass Heal +: 25 sec. area 2-10m - "Regeneration" (2).
+[2] "Healing +": 5% chance - "Regeneration" (10) for 24 sec.
+#phrase Hero 3
+An experienced healer is looking for a job. I have 17 years of service in the ranks of the Kanian army, dozens of battles and hundreds of lives saved, so I am ready for missions of any complexity.
+Hire: Mildrith (Experienced Healer) 15,000 gold.

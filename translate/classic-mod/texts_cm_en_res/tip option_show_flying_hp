@@ -1,0 +1,9 @@
+Impact result
+You can see the result of each hit
+in the game: damage received by the character, method
+damage dealt, experience gained by the character,
+etc. This result can be shown as
+numbers and inscriptions flying away from the character when
+blow.
+On: show the result of the hit.
+Off: Do not show the impact result.

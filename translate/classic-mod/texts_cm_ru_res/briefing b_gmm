@@ -1,0 +1,6 @@
+Нанять: Прирученная гарпия [урон](2 250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Беру гарпию.

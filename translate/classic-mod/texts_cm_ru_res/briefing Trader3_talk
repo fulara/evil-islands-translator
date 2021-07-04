@@ -1,0 +1,15 @@
+Знакомство с торговцем
+#show Hero
+#show Trader2
+#ANIMATION 62
+#CAMERA 5
+#phrase Trader2 1
+Приветствую. Не желаете взглянуть на мои "особые" товары?
+#ANIMATION 6
+#CAMERA 2
+#phrase Hero 2
+А что это за "особые" товары?
+#ANIMATION 46
+#CAMERA 3
+#phrase Trader2 3
+Заходите - и узнаете!

@@ -1,0 +1,5 @@
+(Сл.11)(Дл.2-3) Нашествие чёрных оборотней
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

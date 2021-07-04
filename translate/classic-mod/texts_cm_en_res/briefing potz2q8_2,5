@@ -1,0 +1,15 @@
+Guardian of the blue clan
+#show Hero
+#show YCFBlue
+#show Zak2
+#CAMERA 3
+#phrase YCFBlue 1
+Hello man, I heard about how you helped the green clan, maybe you can help us too. Our camp is located in the western area of the Abandoned Mines.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 2
+The forestry camp, what we need now. We can hide there while we look for the fugitive.
+#ANIMATION 15
+#CAMERA 5
+#phrase Hero 3
+We will gladly help your Guardian clan.

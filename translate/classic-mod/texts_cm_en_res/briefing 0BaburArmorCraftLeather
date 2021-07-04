@@ -1,0 +1,9 @@
+[Craft Unique Armor] Leather
+#show Hero
+#show Smith
+#phrase Smith 1
+Well, what material to make the armor from?
+#phrase Hero 2
+Leather.
+#phrase Smith 3
+I need to see if I have this material available. Prepare the gold for now, I’m taking it forward because I don’t know how good the enchantment will turn out to be, and the work is difficult. The quality will depend on the amount.

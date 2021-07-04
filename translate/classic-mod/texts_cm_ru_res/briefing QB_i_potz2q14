@@ -1,0 +1,5 @@
+[УВ №30](Сл.19)(Дл.4) Задание кузнеца
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

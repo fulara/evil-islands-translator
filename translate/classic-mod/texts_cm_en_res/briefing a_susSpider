@@ -1,0 +1,10 @@
+Dossier: Spider [damage]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Healing": out of combat, quickly regenerates health up to 50% of the maximum.
+[1] "Poison": dealing damage, (30-40)% chance - armor-piercing damage (20% of your health) and "Slow" (5) for 10 sec.

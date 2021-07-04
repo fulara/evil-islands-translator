@@ -1,0 +1,74 @@
+Hire: Elverd [Tank] (15,000)
+#show Hero
+#show PosrednikIngos
+#CAMERA 3
+#show Hero
+#show Posrednik
+#ANIMATION 14
+#CAMERA 10
+#phrase Hero 1
+Unbelievable, how did the former Imperial Guardsman get into your gang?
+#ANIMATION 43
+#CAMERA 3
+#phrase PosrednikIngos 2
+Don't you dare call my fighters that! They are all great guys who have found themselves in a difficult life situation, and our governor is to blame for this, not they!
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero 3
+Okay, okay, calm down. It's just a joke. But seriously, how did you snatch such a nugget for your, uh ... Hired squad?
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 4
+Your jokes are stupid, keep them to yourself. And with Elverd I was very lucky. Once a caravan from the Capital arrived in the city and there was a guy in amazing armor among its guards. Steel, made of very high quality, all joints are well closed and do not severely restrict movement. For such you have to give a fortune, I really understand that.
+#ANIMATION 9
+#CAMERA 3
+#phrase PosrednikIngos 5
+In general, I thought it was some kind of officer from Kvatoh, and later I met him in a tavern. There was a crowd of regulars around him and he colorfully talked about his exploits in the service of the emperor himself! Himself a handsome man - young, fair-haired, tall. And how he spoke competently, some of the words I have never heard at all, it is immediately evident, a metropolitan man.
+#ANIMATION 44
+#CAMERA 3
+#phrase PosrednikIngos 6
+And then, it means, he came up to me and asked: "Is it not for the good of me to present his feast-so-well for hired service?" I already dropped my jaw, it's just a great honor to talk to such a person, not to mention to work with him. Well, as the gift of speech returned to me, I immediately agreed, of course, to refuse such a person help is a crime.
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero 7
+Wait a minute. You say that he is young, however, already retired. And why did he suddenly decide to settle on Ingos?
+#CAMERA 3
+#phrase PosrednikIngos 8
+Apparently well preserved. And who knows the regulations of the guards, I did not serve in Kvatokh. All the same, it is not the barn with millet that is guarded, but the emperor, in the imperial guard only the best of the best, and the years do not add strength. And he settled on Ingos, as he was tired of the bustle of the capital, so he decided to move to the province, where a quiet and measured life.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero 9
+Well, yes, it is so calm here that people first shoot, and then ask who is there? Have you seen the imperial reward, which was discussed in the announcement?
+#ANIMATION 9
+#CAMERA 3
+#phrase PosrednikIngos 10
+Noooo, what are you ?! Such a valuable item, from the hands of the Emperor Valir himself, must be safely buried. I will not pester Elverd with a request to show her, it will offend him.
+#CAMERA 10
+#phrase Hero 11
+That is, a young guy in good armor told a story about serving in the emperor's personal guard, and you just believed it like that?
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 12
+Listen, you get out of here with your suspicions. You should have seen him live, you would not have chalked up such nonsense. He has a sharpened marching gait, calloused hands from training with weapons, and speaks like a noble, you can't fake that.
+#NOLIPS
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero 13
+Well, yes, literate speech is the main skill for a guard. Although this is not just a soldier, but an Imperial guard, he may indeed have been in the service of Valir. If so, then I will be guarded as an emperor. Sounds pretty. In the worst case, this is a soldier in excellent armor, which is also not bad.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero 14
+Okay, I believe. And how much will his service cost?
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 15
+In general, his salary is 15,000, but I'm thinking, maybe he can throw in a couple more thousand to teach you respect?
+#CAMERA 10
+#phrase Hero 16
+Well, I'm sorry, it's not easy to believe that the man who guarded the emperor in Kvatoh became a mercenary on Ingos.
+#CAMERA 3
+#phrase PosrednikIngos 17
+Maybe so, but it's true. For 15,000 you can see for yourself
+ #CAMERA 10
+#phrase Hero 18
+Agreed.

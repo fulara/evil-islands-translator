@@ -1,0 +1,5 @@
+(Сл.16)(Дл.4-5) Пропал капитан Тильвар!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

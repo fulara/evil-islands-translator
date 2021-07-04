@@ -1,0 +1,18 @@
+Hire: Urshak Shaman [Healer] (2,250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Hello, I want to hire a Urshak shaman. I hope he's not as cowardly as Anira?
+#CAMERA 3
+#phrase Posrednik 2
+Orcs, by their very nature, have little fear, and this one is no exception.
+#CAMERA 10
+#phrase Hero 3
+What can he do?
+#CAMERA 3
+#phrase Posrednik 4
+Heal, empower and weaken enemies with your magic bone. It will cost you 750 gold.
+#CAMERA 10
+#phrase Hero 5
+It goes!

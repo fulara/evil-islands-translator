@@ -1,0 +1,11 @@
+Akta: Adept Mage [obrażenia] (500.000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Obrażenia od błyskawic: 143-221 obrażeń od błyskawic.
+[1] "Obrażenia +": zadawanie obrażeń, (30-70)% szans - 144 obrażeń magią astralną.
+[3] "Obrażenia +": zadawanie obrażeń, (15-25)% szans - "Ściana Ognia" (143) przez 7 sek.

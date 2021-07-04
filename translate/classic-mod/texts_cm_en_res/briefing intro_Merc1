@@ -1,0 +1,15 @@
+Acquaintance with the voivode
+#show Hero
+#show Merc1
+#CAMERA 3
+#phrase Merc1 1
+Well, I, this, now the governor. And all the warriors now obey me.
+#CAMERA 3 20 3.5 1
+#phrase Merc1 2
+Soon we will go to beat the orcs or hunt the trolls.
+#CAMERA 3 20 3 1
+#phrase Merc1 3
+In the meantime, go to Babur, check your weapon.
+#CAMERA 3 0 3.5 1
+#phrase Merc1 4
+Coming soon!

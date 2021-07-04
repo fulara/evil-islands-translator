@@ -1,0 +1,5 @@
+(Сл.14)(Дл.3) Нападение единорогов!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

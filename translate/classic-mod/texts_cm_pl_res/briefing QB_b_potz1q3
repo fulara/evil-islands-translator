@@ -1,0 +1,5 @@
+[UV # 3] (Sl.2) (D.4) [solo] Brudna robota
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

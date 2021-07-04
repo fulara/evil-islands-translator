@@ -1,0 +1,12 @@
+Akta: Czarny Rycerz [czołg] (500.000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[~] "Weapon": <1 R / 2: Bp> "Debuff" (60) przez 33 sek.
+[~] "Pancerz": <1 R> "Magiczna ochrona" (59.5) przez 30 sek.
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] „Lecz (siebie)”: co 180-60 sek. - leczy (220-500) jeśli zdrowie jest <25%.

@@ -1,0 +1,5 @@
+(Sh.32) (D.6) Witch's claw
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

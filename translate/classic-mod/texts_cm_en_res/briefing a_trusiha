@@ -1,0 +1,20 @@
+Dossier: Anira [Healer] (250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": empowers the player (10-30) for 66-93 seconds.
+[1] Heal: Every 10 sec. - heals 1 ally (10-20).
+[2] "Healing +": 5% chance - "Regeneration" (10) for 24 sec.
+#CAMERA 3
+#phrase Hero 3
+The doctor is looking for a job.
+#CAMERA 3
+#phrase Hero 4
+I treat wounds of easy complexity, inexpensively.
+#CAMERA 3
+#phrase Hero 5
+I hate violence, I am exclusively engaged in healing.

@@ -1,0 +1,5 @@
+(Сл.26)(Дл.3-4) Смерть Айзет-Беку!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,17 @@
+Dossier: Guardsman [tank] (15,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[~] "Weapon": <1 R> "Weakening" (50) for 33 sec.
+[~] "Armor": <2 Pr / 1: Vr> "Slowdown" (5) for 10 sec.
+[~] "Armor": <1 R> "Magic protection" (35) for 18 sec.
+[1] Taunt: Every 14 sec. - provokes the seen enemy, if the enemy is closer to the player than to the mercenary.
+[1] "Mass provocation": every 60 sec. - provokes all enemies that the player can see if enemies> 2.
+[1] "Regeneration (yourself)": receiving damage, (10-20)% chance - "Regeneration" (3-9) for 15-5 sec.
+#phrase Hero 3
+The retired Imperial Guardsman provides his services for an appropriate fee. I was in the personal guard of Emperor Valir for 10 years, and he personally awarded me for services to Kania. So talking about my combat experience is unnecessary.
+Hire: Elverd (Guardsman) 15,000 gold.

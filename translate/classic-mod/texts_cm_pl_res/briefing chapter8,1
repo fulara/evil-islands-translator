@@ -1,0 +1,16 @@
+[Więzień czasu] Rozdział 8 (# 30-32)
+#show Hero
+#show Rick
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+Podążając za strażnikiem niebieskiego klanu, dotarliśmy do ich obozu, gdzie spotkaliśmy rycerza Brissena. Jego celem jest pomoc zielonemu klanowi i zabicie zwiadowcy, który przebywa gdzieś w obozie ludzi. Obóz jest dobrze strzeżony i niełatwo się tam dostać.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 2
+Pomagamy leśnikom i jednocześnie dowiadujemy się, gdzie jest ten, którego szukamy. Po zwabieniu tej osoby i otrzymaniu niezbędnych informacji dowiemy się, kim jest „klient”. Zack podejmuje się tego zadania i dowiaduje się, gdzie ukrywa się dziewczyna Juna, a ja pomagam niebieskiemu klanowi i rycerzowi Brissenowi.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 3
+Załatwiwszy wszystkie zadania, udajemy się do kopalni, by uratować zakładnika.

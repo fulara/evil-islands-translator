@@ -1,0 +1,32 @@
+Zgłoś się do Atamana - Bonus
+#show Ataman
+#show AtamanWife
+#show Hero
+#CAMERA 10
+#ANIMATION 9
+#phrase Hero 1
+Ataman, mam magiczny kryształ, który może się spodobać twojej żonie.
+#CAMERA 3
+#ANIMATION 48
+#phrase Ataman 2
+Ha! Daj to tutaj!
+#CAMERA 5
+#ANIMATION 63
+#phrase Ataman 3
+Kochanie, zobacz co ci dam.
+#CAMERA 5
+#ANIMATION 11
+#phrase AtamanWife 4
+Cóż za urok, od dawna marzyłem o nim! Ktoś to dziś dostanie!
+#CAMERA 5
+#ANIMATION 9
+#phrase Ataman 5
+Jesteś moją ukochaną...
+#CAMERA 10
+#ANIMATION 30
+#phrase Hero 6
+Eckham...
+#CAMERA 3
+#ANIMATION 43
+#phrase Ataman 7
+Nadal tu jesteś? Twoje zdrowie. I wynoś się stąd!

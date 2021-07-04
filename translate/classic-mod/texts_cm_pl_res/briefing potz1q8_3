@@ -1,0 +1,37 @@
+Zadanie wykonane!
+#show Ataman
+#show Hero
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero 1
+Oto kości z obsydianu i muszli.
+#ANIMATION 3
+#CAMERA 3
+#phrase Ataman 2
+Kim jesteś?
+#ANIMATION 60
+#CAMERA 10
+#phrase Hero 3
+W jakim sensie? Sam wysłałeś mnie po materiały do broni.
+#NOLIPS
+#CAMERA 10
+#phrase Hero 4
+Wódz zbyt często trafiał w głowę, nic dziwnego, że o mnie zapomniał. Tak będzie lepiej.
+#ANIMATION 11
+#CAMERA 3
+#phrase Ataman 5
+O tak! Daj je tutaj, część materiałów możesz wziąć dla siebie.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero 6
+Co za hojność... Na pewno nie będą zbyteczne, ale nadal chciałem znaleźć niebieski kamień, ale nie było go w jaskini. Co zrobic nastepnie? Babcia Estera powiedziała, że kamień może przynieść prąd.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero 7
+Kształt niebieskiego kamienia jest okrągły, a dzieje się tak zwykle po dłuższej ekspozycji na wodę. Jeśli się nad tym zastanowić, wody gruntowe pochodzą z odległych gór. Kamień mógł być stamtąd sprowadzony, ale żyją tam jaszczurki jeziorne i bez armii nie dam im głowy.
+#ANIMATION 46
+#CAMERA 3
+#phrase Ataman 8
+Możesz iść, jeśli do ciebie zadzwonią.

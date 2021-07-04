@@ -1,0 +1,5 @@
+(Сл.32)(Дл.2) Бешеные кролики
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

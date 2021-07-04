@@ -1,0 +1,17 @@
+Dossier: Strażnik [czołg] (15 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[~] "Broń": <1 R> "Osłabienie" (50) przez 33 sek.
+[~] "Pancerz": <2 Pr / 1: Vr> "Zwolnienie" (5) przez 10 sek.
+[~] "Pancerz": <1 R> "Magiczna ochrona" (35) przez 18 sek.
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] „Masowa prowokacja”: co 60 sek. - prowokuje wszystkich wrogów, których gracz widzi, jeśli jest > 2 wrogów.
+[1] "Regeneracja (siebie)": otrzymywanie obrażeń, (10-20)% szansy - "Regeneracja" (3-9) przez 15-5 sek.
+#phrase Hero 3
+Emerytowany gwardzista cesarski świadczy swoje usługi za odpowiednią opłatą. Przez 10 lat byłem w osobistej gwardii Valir Emperora, który osobiście nagrodził mnie za zasługi dla Kani. Więc mówienie o moim doświadczeniu bojowym jest niepotrzebne.
+Wynajem: Elverd (Gwardzista) 15 000 złota.

@@ -1,0 +1,5 @@
+[Рейд](Сл.22)(Дл.5) Старый Дракон
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

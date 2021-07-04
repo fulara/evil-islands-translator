@@ -1,0 +1,15 @@
+Dossier: Killer Scar [damage] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Backstab: Every 50-30 sec. - armor-piercing damage (80% of your health + 5 per level).
+[1] "Backstab +": "Slow" (5) for 24 sec.
+[2] Backstab +: Paralyze for 6.5 sec.
+[3] "Backstab +": "Weaken" (90) for 40 sec.
+#CAMERA 3
+#phrase Hero 3
+I can slaughter quietly, rob, snatch away without noise, open the lock - I have all the necessary everyday skills. I work too cheaply. I don’t even advise you to think of beating me - I will severely punish you.

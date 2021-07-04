@@ -1,0 +1,22 @@
+Dossier: Valeer Vigilante [Tank] (250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Taunt: Every 14 sec. - provokes the seen enemy, if the enemy is closer to the player than to the mercenary.
+[1] Drinks Elixir of Healing: Every 180 sec. - if health is <25%.
+#CAMERA 3
+#phrase Hero 3
+Valeer Vigilant is looking for a job.
+#CAMERA 3
+#phrase Hero 4
+A retired druzhinnik is ready to accompany a good person in any endeavors: be it a hike or a fun feast - any whim for your money.
+#CAMERA 3
+#phrase Hero 5
+There is a rich experience of service in the squad. I know the tactics of fighting goblins, I dealt with 10 very large individuals at once.
+#CAMERA 3
+#phrase Hero 6
+I have great endurance and stamina.

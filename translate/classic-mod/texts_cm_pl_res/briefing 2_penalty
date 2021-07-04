@@ -1,0 +1,7 @@
+[Kara nagrody za śmierć: -10%] [Nagroda: + 100%]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Potrącenie pieniędzy z nagród za zadania: -10%.
+Nagroda pieniężna za zadania: + 100%.

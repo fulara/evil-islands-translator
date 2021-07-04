@@ -1,0 +1,37 @@
+Wynajem: Tuzik [obrażenia] (50)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Witam, chcę kupić twojego bojowego psa Tuzika!
+#CAMERA 3
+#phrase Posrednik 2
+W porządku! To świetny pies bojowy, lepszego nie znajdziesz! Mając 800 złota, możesz go zabrać, tam biegnie po podwórku.
+#CAMERA 10
+#phrase Hero 3
+800 złota za tego łysego, chudego psa? Czy to twój najlepszy pies bojowy?! Dlaczego jest taki nędzny?
+#CAMERA 3
+#phrase Posrednik 4
+To są blizny bojowe!
+#CAMERA 10
+#phrase Hero 5
+Wygląda jak porost.
+#CAMERA 3
+#phrase Posrednik 6
+Ok, 300 sztuk złota i możesz je zabrać.
+#CAMERA 10
+#phrase Hero 7
+50 sztuk złota.
+#CAMERA 3
+#phrase Posrednik 8
+Dobra, weź to!
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 9
+Świetnie, cena spadła o 750 sztuk złota!
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Posrednik 10
+Świetnie, sprzedał cudzego psa! Dobrze, że nie usunąłem reklamy po sprzedaży psa.

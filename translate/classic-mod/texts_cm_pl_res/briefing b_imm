@@ -1,0 +1,45 @@
+Rekrut: Strażnik Lasu Prabhu [obrażenia] (15 000)
+#show Hero
+#show PosrednikIngos
+#ANIMATION 46
+#CAMERA 10
+#phrase Hero 1
+Wielkie moce, ha-ha, cóż, jesteś gawędziarzem, wydaje mi się, że oferujesz mi wielkiego maga do wynajęcia, a nie niskiego mężczyznę z fajką.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero 2
+Widziałem strażników lasu w akcji, tak, znają się na magii, ale nie lepsi i nie gorsi od innych magów. Co jest w nim takiego specjalnego?
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 3
+Nigdy nie wiesz, co tam widziałeś. Byli to zwykli strażnicy, a Prabhu jest jednym z najstarszych leśników zielonego klanu. Jego magiczne umiejętności znacznie przewyższają umiejętności zwykłych strażników.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero 4
+Więc co jest w tym takiego specjalnego? Starość to nie talent, to powód do przejścia na emeryturę. Przypuszczam, że musi przenosić swoje konie z dnia na dzień, ponieważ jest taki stary, a ty prosisz o kolejne 15 000 dla niego.
+#ANIMATION 61
+#CAMERA 3
+#phrase PosrednikIngos 5
+Co ty porównujesz, to ludzie, a potem leśnictwo. Może nawet żyć tysiąc lat. Jeśli chodzi o jego umiejętności, taka historia wydarzyła się niedawno. Mężczyźni wyruszyli na polowanie, rozdzielili się w lesie, a wataha wilków zaatakowała Normana. Walczył najlepiej, jak potrafił, ale nie można poradzić sobie z całym stadem, więc zabiliby człowieka, gdyby nie Prabhu. Nie wiem jak się tam dostał, znacznie lepiej orientują się w lesie niż my, może wiedział, że wilki są głodne, może opiekował się naszymi chłopakami i nie o to chodzi. Ogólnie rzecz biorąc, jak on zhahnul piorun, więc upiekł wszystkie wilki na raz, całe stado jednym zaklęciem.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 6
+Norman całe życie służy w wojsku, służyli tu jego rodzice, nauczył się władania mieczem przed łyżką. Brał udział w tak wielu bitwach, że nie można ich już policzyć, z leśnikami, z harpiami i robaczymi twarzami. Ale nigdy nie widziałem takich czarów. A to tylko jeden przypadek, kto wie, do czego jeszcze jest zdolny. Więc przestałbyś się krzywić. Pisałem absolutnie poważnie o jego magicznych zdolnościach.
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero 7
+Tak, historia robi wrażenie. Takiej magii też nie widziałem.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero 8
+Słuchaj, czy może oswoić dla mnie jednorożca? Nie odmówiłbym takiej bestii, a jest ona przyjemna dla oka i przydatna w walce.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 9
+Nie jesteś jedynym tak przebiegłym, poprosiliśmy również Prabhu, aby nauczył nas trenować jednorożce. Ale leśnicy myślą i żyją inaczej. Nasze pupile są dla nich jak więźniowie, a relacje między leśnikami a jednorożcami są równe i wolne. Ogólnie rzecz biorąc, nie da się oswoić jednorożców, tak jak to rozumiemy.
+#CAMERA 10
+#phrase Hero 10
+Szkoda, ale ten mały gość tak bardzo mnie zainteresował. Jeśli naprawdę jest tak potężnym magikiem, to jego usługi przydadzą mi się w przyszłym biznesie. Proszę bardzo, 15 000 do ostatniej monety.
+#CAMERA 3
+#phrase PosrednikIngos 11
+Rozdać. Prabhu jest do twojej dyspozycji.

@@ -1,0 +1,9 @@
+Welcome!
+#show Hero
+#show Shopper
+#CAMERA 3 30 3 1
+#phrase Shopper 1
+Welcome dear buyer!
+#CAMERA 3 0 3.5 1
+#phrase Shopper 2
+My business is set this way: if you have something to pay, then come in. There is nothing to pay - come in anyway. I don’t take money for a look, but I don’t lend. You will earn, then you will take it.

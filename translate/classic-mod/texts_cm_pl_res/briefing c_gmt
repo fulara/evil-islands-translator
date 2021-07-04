@@ -1,0 +1,47 @@
+Wynajem: Przyzwany Żywiołak [Zbiornik] (2250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Skąd wziąłeś tę kamienną ciekawość?
+#CAMERA 3
+#phrase Posrednik 2
+Tak, to nasza stara kobieta, Estera, chciała asystenta do swojego domu, zaczarowała kamienie i gotowe.
+#CAMERA 3
+#phrase Posrednik 3
+Ma w sobie dużo głupoty, ale jest niezdarny jak troll. Wysłała mu drewno na opał do chaty, a on zrobił kilka nowych drzwi w domu.
+#CAMERA 3
+#phrase Posrednik 4
+Estera po tym incydencie chciała go puścić w gruzy, ale mam dobre oko, od razu zrozumiałam, jakie jest jego powołanie. No i sam się o to targowałem. Kosztowny.
+#CAMERA 10
+#phrase Hero 5
+Rozumiem, ale nie zmiażdży mnie w ogniu walki?
+#CAMERA 3
+#phrase Posrednik 6
+Tak, nie, Estera dała mi zwój - kto idzie z nim w kieszeni, jest posłuszny, żeby nie skrzywdzić, nie bój się.
+#CAMERA 3
+#NOLIPS
+#phrase Posrednik 7
+Jeśli się nie zbliżysz.
+#CAMERA 10
+#phrase Hero 8
+Wygadał, ile zapłacisz?
+#CAMERA 3
+#phrase Posrednik 9
+3000 sztuk złota.
+#CAMERA 10
+#phrase Hero 10
+Ile? Za takie pieniądze wykupię cały oddział, a na paru rabusiów starczy.
+#CAMERA 3
+#phrase Posrednik 11
+Dobra, zróbmy tak: 2500, a jeśli się rozpadnie, możesz zachować materiał dla siebie.
+#CAMERA 10
+#phrase Hero 12
+Jeśli będę potrzebował kamienia, podejdę z młotem do najbliższego głazu. 2250 złota.
+#CAMERA 3
+#phrase Posrednik 13
+Ech, weź troll, podaj. 2250 i kamień, jeśli to jest, przynieś mi.
+#CAMERA 3
+#NOLIPS
+#phrase Posrednik 14
+Haha, głupcze. Estera mi go za to dała, gdybym tylko nie natknęła się na to.

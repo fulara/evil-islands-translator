@@ -1,0 +1,5 @@
+(Sl.2) (D.3) New hunter
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

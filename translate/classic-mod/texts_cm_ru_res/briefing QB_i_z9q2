@@ -1,0 +1,5 @@
+(Сл.9)(Дл.3) Умертвия рядом с Мёртвым Городом!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

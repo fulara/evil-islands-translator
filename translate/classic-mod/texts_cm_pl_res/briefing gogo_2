@@ -1,0 +1,60 @@
+Przesłuchaj Go-Go razem z naczelnikiem [2]
+#show bGoblinC
+#show Zak
+#show Hero
+#CAMERA 5
+#ANIMATION 3
+#phrase Zak 1
+Żyjesz wesoło! Ale skąd wziął się Kamień?
+#CAMERA 3
+#phrase bGoblinC 2
+Ork do oddania, gdy Pierwszy Goblin jest bliski przyzwolenia. Ork o Niebieskim Kamieniu na skórze list do napisania skąd pochodzi. Tylko mój list nie wie.
+#CAMERA 5
+#ANIMATION 15
+#phrase Zak 3
+Jasny. Przynieś tę skórkę z literami tutaj, a odzyskasz swojego stracha na wróble, dobrze?
+#CAMERA 3
+#phrase bGoblinC 4
+Och, nie mogę znieść mojej skóry! Gdy Pierwszy Goblin zniknął, mój ork poszedł poprosić o pomoc w powrocie. I ork mnie na Łysej Wyspie, żeby się skończył i mocno mnie pobił. Mówią: "Ty, Go-Go, teraz ..." - i jakieś złe słowo. Mój zapomnij.
+#CAMERA 3
+#phrase bGoblinC 5
+A potem zabierz pieniądze orka, zabierz list ze skóry, włóż go do skrzyni, kopnij i przegoń mnie. Biedny Go-Go! Biedny Go-Go! Był lider, ale żeby stać się… tym. Które słowo nie jest dobre.
+#CAMERA 3
+#phrase bGoblinC 6
+Człowieku, człowieku, daj Pierwszemu Goblinowi! Nie dawaj swojego - mój usiądź tutaj, dawaj i pytaj. Usiądź jutro też, jutro usiądź znowu...
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 7
+Wygląda na to, że chodzi o tę skórkę z literami ze skrzyni na Łysej Wyspie, bardzo ciekawa. Zostawię to sobie. Musisz przekazać go Babci Esterze, aby mogła przeczytać, co tam jest napisane.
+#CAMERA 3
+#ANIMATION 30
+#phrase BGoblinC 8
+Trzymam się, aż Pierwszy Goblin nie da mi głowy. Albo moja jest właśnie tutaj, by umrzeć!
+#CAMERA 5
+#ANIMATION 11
+#phrase Zak 9
+I dlaczego miałbym dać ci twój strach na wróble? Nie powiedziałeś nic użytecznego!
+#CAMERA 3
+#phrase BGoblinC 10
+Co mam wiedzieć, powiedzieć wszystko. To nie moja wina, to, co powiedzieć, jest nieprzydatne!
+#CAMERA 5
+#ANIMATION 43
+#phrase Zak 11
+Cóż, to też nie moja wina. A tak w ogóle, teraz wrzucę twoją tsatkę do ognia - może wtedy w końcu się uwolnisz?
+#show VoodooWand 5
+#CAMERA 3
+#ANIMATION 60
+#phrase BGoblinC 12
+Żadnego ogniska! Nie rzucaj! Go-Go Pierwszy Goblin chce odkupić. Zmień na lalkę - to nie jest prosta lalka, magiczna!
+#CAMERA 5
+#ANIMATION 29
+#phrase Zak 13
+Tak, ty jednooki, jesteś kompletnie szalony! Jak myślisz, co będę bawić się lalkami?
+#CAMERA 3
+#phrase BGoblinC 14
+Ta lalka - nie baw się! Ta lalka jest magiczna! Zredukuj wroga, zabierz moc!
+#CAMERA 5
+#ANIMATION 60
+#phrase Zak 15
+Hmm, to brzmi dobrze. Dobra, przynieś tu swoją lalkę. Ale spójrz, jeśli oszukałeś ...

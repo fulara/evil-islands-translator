@@ -1,0 +1,11 @@
+[Mode: Iron Man]: 1 life, increased drop.
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Enemies: -
+Player: -
+Item drop chance: 15%.
+The chance of falling out of runes and materials: 33%.
+Experience gained: + 0%.
+After death, all privileges of this regime will disappear.

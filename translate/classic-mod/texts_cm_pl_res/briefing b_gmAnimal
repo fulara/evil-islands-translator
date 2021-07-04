@@ -1,0 +1,35 @@
+Wynajem: Czarny Wilk [obrażenia] (500)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Cześć Vanir! Chcę kupić czarnego wilka, powiedz mi o nim więcej.
+#CAMERA 3
+#phrase Posrednik 2
+To wyjątkowe dzikie zwierzę, którego nie znajdziesz nigdzie indziej!
+#CAMERA 10
+#phrase Hero 3
+Rzeczywiście, nigdy jeszcze nie widziałem czarnych wilków na Gipacie.
+#CAMERA 3
+#phrase Posrednik 4
+Jest najlepszym wyborem na towarzysza walki! Lubię Cię, więc pobierze za to tylko 1500 sztuk złota.
+#CAMERA 10
+#phrase Hero 5
+To fortuna! Potrzebuję go jako zwierzęcia bojowego, a za taką sumę bardziej opłaca mi się zaryzykować swój garb, niż pozwolić, aby to cenne zwierzę zostało zranione!
+#CAMERA 3
+#phrase Posrednik 6
+Dobra... jako stały pracodawca sprzedam to za jedyne 800!
+#CAMERA 10
+#phrase Hero 7
+500!
+#CAMERA 3
+#phrase Posrednik 8
+To idzie!
+#CAMERA 10
+#NOLIPS
+#phrase Hero 9
+Świetnie, udało nam się 3 razy obniżyć cenę!
+#CAMERA 3
+#NOLIPS
+#phrase Hero 10
+Świetnie, nacieranie wilka węglem drzewnym było genialnym pomysłem!

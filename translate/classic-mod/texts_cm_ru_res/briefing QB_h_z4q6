@@ -1,0 +1,5 @@
+(Сл.8-9)(Дл.2-3) Матка чёрных панцирников
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

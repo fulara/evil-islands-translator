@@ -1,0 +1,12 @@
+[Качество] 7000 золота
+#show Hero
+#show Smith
+#ANIMATION 30
+#CAMERA 10
+#NOLIPS
+#phrase Hero 1
+Спустя время.
+#ANIMATION 11
+#CAMERA 3
+#phrase Smith 2
+Принимай работу.

@@ -1,0 +1,13 @@
+O mediacji
+#show Hero
+#show PosrednikIngos
+#CAMERA 7
+#phrase PosrednikIngos 1
+Cześć, mów do mnie Eila.
+#phrase PosrednikIngos 2
+Kiedyś służyłem jako kwatermistrz w garnizonie przy kopalniach, ale po tym, jak Valrasian przestał wypłacać żołnierzom pensje, musiałem poszukać nowego zajęcia.
+#phrase PosrednikIngos 3
+W ciągu 12 lat mojej służby zaprzyjaźniłem się z żołnierzami. Czasy są teraz trudne, więc wielu kolegów dołączyło do najemników, a ja połączyłem ich z tymi, którzy potrzebują wojowników.
+#CAMERA 11
+#phrase PosrednikIngos 4
+Od dawna zajmuję się mediacją, więc mam dużo facetów, są nawet leśnicy, wyobrażasz sobie?! Generalnie jest tablica ogłoszeń, wszystko tam jest, jeśli ktoś lubi daj znać.

@@ -1,0 +1,21 @@
+[Więzień czasu] Rozdział 6 (# 21-24)
+#show Hero
+#show Rick
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 1
+Niemal od razu wszystko poszło nie tak, ktoś ukradł gubernatorowi pudełko z trofeami, ale oskarżyli mnie o to, bo znaleźli kawałek meteorytu - rzadki materiał, który nie jest tak łatwy do zdobycia.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 2
+Wsadzili mnie za kratki, ale Wybraniec wyciągnął mnie i musiałem uciekać z miasta. Teraz jestem wyjęty spod prawa i ukrywam się w zielonym lesie klanu. Tam spotkałem detektywa, który powiedział mi, że Wybraniec również go uratował.
+#CAMERA 10
+#NOLIPS
+#phrase Hero 3
+Teraz wspólnie próbujemy znaleźć tych, którzy próbowali detektywa, ponieważ najprawdopodobniej są one związane ze zniknięciem czerwonoskórej dziewczyny, którą Wybraniec i detektyw chcą ocalić.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 4
+Gdy ją uratujemy, detektyw pomoże mi przekazać wiadomość i możemy wrócić do Gipat. Podczas gdy nasze poszukiwania doprowadziły nas do Domeny Karansul, skąd musimy szukać tropu tych, którzy próbowali zabić detektywa.

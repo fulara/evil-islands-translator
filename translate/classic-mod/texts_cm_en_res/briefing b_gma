@@ -1,0 +1,27 @@
+Hire: Robin Gad [damage] (2,250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Vanir, can I hire Robin the bastard?
+#CAMERA 3
+#phrase Posrednik 2
+I think I can help you. But first, guess the riddle: "with onions and eggs, but not a pie."
+#CAMERA 10
+#phrase Hero 3
+Yes, yes, very funny. He seems to be a good shooter.
+#CAMERA 3
+#phrase Posrednik 4
+That's right, Robin masterfully smells not only onions, but also garlic.
+#CAMERA 10
+#phrase Hero 5
+(laughing) Then I'm lucky that he attacks from a distance.
+#CAMERA 10
+#phrase Hero 6
+By the way, wouldn't he want to rob me too?
+#CAMERA 3
+#phrase Posrednik 7
+He is, of course, a rare bastard, but when it comes to deals, he does not fail.
+#CAMERA 3
+#phrase Posrednik 8
+From you 750 gold - and I will arrange for him to meet with you.

@@ -1,0 +1,5 @@
+(Sl.3) (D.2) The Wolf Leader
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

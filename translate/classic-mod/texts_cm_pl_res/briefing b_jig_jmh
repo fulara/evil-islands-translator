@@ -1,0 +1,37 @@
+Akta: Uzdrowiciel [Uzdrowiciel] (4 500 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[-] Wzrost Siły Najemnika nie jest wyświetlany w oknie informacyjnym, ale można go zobaczyć w konsoli („~”) po śmierci wroga.
+[~] "Pancerz": <PP / 21: Dr> "Zwiększenie siły" (70) przez 67 sek.
+[~] "Pancerz": <1 R / 5: Dr> "Leczenie" (100)
+[~] "Pancerz": <PP / 9: Dr> "Przyspieszenie" (6) przez 43 sek.
+#CAMERA 3
+#phrase Hero 3
+[1] "Zysk": wzmacnia gracza (130-150) na 400 sek.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (110-150).
+[1] Masowe leczenie: Co 180-45 sek. - leczy wszystkich sojuszników (110-150) w obszarze 20m, jeśli zdrowie sojusznika jest <33%.
+[1] Masowe Leczenie +: 25 sek. powierzchnia 2-10m - „Regeneracja” (2).
+[2] "Leczenie +": 15% szansa - "Regeneracja" (9) przez 5 sek.
+[4] "Leczenie +": 30% szansy - "Ochrona przed magią" (109) przez 10 sek.
+#CAMERA 3
+#phrase Hero 4
+[1] Hipnoza: Po zakończeniu zaklęcia sparaliżuje wroga na 30 sekund pod następującymi warunkami:
+1) jeśli najemnik jest poza walką,
+2) jeżeli cel jest widoczny i znajduje się w odległości od 20 do 50 metrów,
+3) jeśli rezerwa chodu celu <(rezerwa chodu gracza * 0,5 + (rezerwa chodu gracza * 0,5 * poziom najemnika)).
+Jeśli cel został "zahipnotyzowany", zaklęcie można powtórzyć po 180 sekundach - 20 sekundach * poziom najemnika.
+#CAMERA 3
+#phrase Hero 5
+[1] "Poddanie": Najemnik poddaje ofiarę hipnozie pod następującymi warunkami:
+1) jeśli najemnik jest poza walką,
+2) jeśli cel jest widoczny,
+3) jeśli Siła celu + Siła podległych stworzeń <(Moc gracza * 0,5 + (Moc gracza * 0,5 * poziom najemnika)).
+4) Utrzymywanie hipnozy w powyższych warunkach przez 20 sekund.
+#CAMERA 3
+#phrase Hero 6
+Wskazówka: użyj zaklęcia "Jasnowidzenie", aby spełnić wszystkie warunki poddania się.

@@ -1,0 +1,9 @@
+[Wytwarzanie unikalnej broni] Wykonane z magicznego materiału
+#show Hero
+#show Smith
+#phrase Smith 1
+Z jakiego materiału zrobić broń?
+#phrase Hero 2
+Magicznych rzeczy.
+#phrase Smith 3
+Muszę sprawdzić, czy mam dostęp do tego materiału. Na razie przygotujcie złoto, idę dalej, bo nie wiem, jak dobry okaże się zaklęcie, a praca jest trudna. Jakość będzie zależeć od ilości.

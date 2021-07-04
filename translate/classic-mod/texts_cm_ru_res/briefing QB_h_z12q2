@@ -1,0 +1,5 @@
+(Сл.18)(Дл.4-5) Плешивый взялся за старое!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

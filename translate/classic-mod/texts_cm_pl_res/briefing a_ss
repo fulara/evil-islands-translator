@@ -1,0 +1,6 @@
+Wynajem: Pająk [obrażenia]
+#show Hero
+#show PosrednikSus
+#CAMERA 3
+#phrase PosrednikSus 1
+Najemnik jest opłacony.

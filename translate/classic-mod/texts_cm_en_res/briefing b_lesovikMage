@@ -1,0 +1,14 @@
+Dossier: Prabhu Lumberjack [damage] (15,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[-] Chain lightning strikes only those enemies that can be seen by allies. Damage drops by 15% with each branch. Doesn't finish off enemies.
+[1] Lightning Damage: 60-80 Lightning Damage.
+[1] "Chain Lightning": every 120-30 sec. - 33-63 lightning damage / sec on 5 enemies, if he sees> 1 enemy.
+#CAMERA 3
+#phrase Hero 3
+The wise and powerful guardian forestry, Prabhu. He possesses such magic that the wizards of Ingos never dreamed of. The haughty grouch of Heath compared to him is the newbie dropout. If you are looking for a skilled magician, do not hesitate, Prabhu will more than live up to your expectations. His service will cost you 15,000.

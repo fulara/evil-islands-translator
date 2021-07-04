@@ -1,0 +1,7 @@
+Dossier: War Cyclops [damage]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+[1] Stomp: Cyclops shakes the ground every 180 sec. "Slowing" (5) enemies for 24 sec.
+[3] Stomp: Cyclops shakes the ground every 120 sec. "Slowing down" (5) and "Weakening" (90) enemies for 40 seconds.

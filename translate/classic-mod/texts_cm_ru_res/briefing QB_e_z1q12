@@ -1,0 +1,5 @@
+[Тренировка](0) Урон в секунду [24 броня, 55 защиты]
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

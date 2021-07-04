@@ -1,0 +1,9 @@
+By interacting with the "bulletin board" at the exit from the settlement, you can change some balance settings:
+   Difficulty: affects the drop, experience, progress and difficulty of the mobs. It is no longer possible to change the difficulty by going to the quest map.
+   Penalty for death: it takes away% of the experience not spent, at the same time it gives an increase to the chances of dropping items.
+   
+   When the game starts with a starting character with 600 experience, the "Iron Man Mode" option is available on the bulletin board; you can turn it on before you get experience for the first time. When this mode is activated, the chances of a drop increase until the first death.
+   You can also hire mercenaries by talking to an intermediary near the "bulletin board" (where, after that, you can take them with you to the group). Some mercenaries perform the role of Protection, Healing, and Attack. You can take 2 mercenaries and 1 pet at a time, which is much cheaper than the rest.
+   Mercenaries can use new spells that cannot be bought or knocked out. created using scripts, to familiarize yourself with their skills, see the descriptions on the "bulletin board". The number of mercenaries affects the chances of dropping items.
+
+   If your character is killed, you don't have to run after the corpse - it is assembled automatically (only relevant for the player who created the server, the connected players collect their troupes manually). After entering the task area and completing the next sub-task, markers appear above the character's head, between them you can teleport.

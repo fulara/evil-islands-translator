@@ -1,0 +1,7 @@
+Akta: Cyklop Wojenny [obrażenia]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+[1] Tupnięcie: Cyklop potrząsa ziemią co 180 sekund. „Zwalnianie” (5) wrogów na 24 sek.
+[3] Tupnięcie: Cyklop potrząsa ziemią co 120 sekund. „Zwalnianie” (5) i „Osłabienie” (90) wrogów na 40 sekund.

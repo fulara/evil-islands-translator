@@ -1,0 +1,17 @@
+Akta: Łucznik Sazaru [obrażenia] (15 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Zdradziecki Strzał: Co 60-30 sek. - obrażenia przebijające pancerz (80% twojego zdrowia + 5 na poziom).
+[1] "Złowrogi Strzał +": "Osłabienie" (72) na 33 sek.
+[2] „Podstępny Strzał +”: „Slow” (5) przez 21 sek.
+[3] Zdradziecki Strzał +: Demencja na 15 sek.
+[4] Zdradziecki Strzał +: Paraliż na 4 sek.
+[5] „Złowieszczy Strzał +”: „Osłabienie” (104) przez 33 sek.
+#CAMERA 3
+#phrase Hero 3
+Prawdziwy rejestrator, z fajką i strzałami. Żaden łucznik Ingos nie może dorównać celnością leśnikom. Sam o tym wiesz. Nazywaj go Sazarem. Za 15 000 złota zapewni ci wsparcie bojowe.

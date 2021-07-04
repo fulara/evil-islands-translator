@@ -1,0 +1,14 @@
+Dossier: Yaznis - ulcer, mage [damage] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Lightning Damage: 40-60 Lightning Damage.
+[1] "Damage +": dealing damage, (30-70)% chance - 40 lightning damage.
+[3] "Damage +": dealing damage, (15-25)% chance - "Wall of Lightning" (45) for 8 sec.
+#CAMERA 3
+#phrase Hero 3
+The battle mage is looking for a job. During the years of my service in the Kanian army, I have mastered the magic of lightning well. I can't stand idiots and womanizers, if you decide to paw me, I'll charge me with a lightning bolt right in my forehead. If you need a companion in a military campaign, she is always ready to help.

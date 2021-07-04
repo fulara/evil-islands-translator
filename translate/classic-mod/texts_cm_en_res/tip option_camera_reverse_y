@@ -1,0 +1,8 @@
+Invert camera tilt
+When controlling the tilt of the camera using
+right mouse button tilt direction can
+to be changed:
+Off: The camera tilts towards the vertical
+mouse shift.
+On: The camera tilts to the opposite side
+vertical movement of the mouse.

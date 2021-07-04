@@ -1,0 +1,13 @@
+Akta: Uzdrowiciel [Uzdrowiciel] (100 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": wzmacnia gracza (45-75) o 66-93 sek.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (80-100).
+[1] Masowe leczenie: Co 30 sek. - leczy wszystkich sojuszników (80-120) w obszarze 20m, jeśli zdrowie sojusznika wynosi <33%.
+[1] Masowe Leczenie +: 25 sek. powierzchnia 2-6m - „Regeneracja” (2).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.

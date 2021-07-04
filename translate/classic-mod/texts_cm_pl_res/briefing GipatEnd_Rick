@@ -1,0 +1,26 @@
+Rozmowa z Wielkim Magiem
+#show Rick2
+#show Hero
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 1
+Mam meteoryt, a Gipata ma teraz opór w przypadku inwazji demonów.
+#CAMERA 3
+#ANIMATION 5
+#phrase Rick2 2
+To jest dobre. Teraz, podążając za Wybrańcem, musisz udać się do Ingos i spróbować przekonać ludzi, by wyposażyli ekspedycję na Gipat.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 3
+Rozumiesz. Ale jak mogę wrócić, gdy praca jest skończona?
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick2 4
+Wybraniec będzie miał przy sobie amulet teleportacji. Musisz go znaleźć i wrócić z nim.
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 5
+To jasne, więc nie będziemy się wahać.
+#CAMERA 3
+#phrase Rick2 6
+Tak, widzę twoją gotowość do stawienia czoła trudnościom w innym kraju. A teraz przygotuj się, teraz wyślę cię do Ingos.

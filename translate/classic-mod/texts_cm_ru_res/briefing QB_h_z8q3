@@ -1,0 +1,5 @@
+(Сл.8)(Дл.4) Переговоры
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

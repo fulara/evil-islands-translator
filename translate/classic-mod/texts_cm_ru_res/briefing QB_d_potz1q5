@@ -1,0 +1,5 @@
+[УВ №5](Сл.3-4)(Дл.3) Слежка
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

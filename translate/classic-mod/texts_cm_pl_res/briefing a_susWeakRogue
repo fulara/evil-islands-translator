@@ -1,0 +1,14 @@
+Akta: Zabójca [obrażenia] (35,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Cios w plecy: Co 60-30 sek. - obrażenia przebijające pancerz (80% twojego zdrowia + 15 na poziom).
+[1] „Dźgnięcie w plecy +”: „Osłabienie” (130) na 33 sek.
+[2] „Backstab +”: „Powoli” (5) przez 21 sek.
+[3] Cios w plecy +: Demencja przez 15 sek.
+[4] Cios w plecy +: Paraliż na 4 sek.
+[5] "Backstab +": "Osłabienie" (170) na 33 sek.

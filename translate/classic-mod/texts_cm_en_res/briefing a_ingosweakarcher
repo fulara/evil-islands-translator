@@ -1,0 +1,14 @@
+Dossier: Peace Archer [damage] (5,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Eagle Eye: All allies have Eagle Eye (4-7) for 666-999 seconds.
+[1] "Weakening": dealing damage, (40-60)% chance - "Weakening" (104) for 6 sec.
+[3] "Damage +": dealing damage, (10-20)% chance - 42 acid damage.
+#CAMERA 3
+#phrase Hero 3
+The best shooter of the Kanian army, I have more than 10 won tournaments on my account. With me you will never be taken by surprise, I will see a hare hiding in the snow 300 meters away. I also cook and sing very well. I offer my services for a small fee.

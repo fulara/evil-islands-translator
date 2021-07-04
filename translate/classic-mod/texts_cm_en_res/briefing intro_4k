@@ -1,0 +1,15 @@
+I am a mechanical servant
+#show Hero
+#show Golem
+#CAMERA 3 30 8 2
+#phrase Golem 1
+I am a golem. I am a mechanical servant. I serve the Great Magician.
+#CAMERA 3 20 6 3
+#phrase Golem 2
+If he orders to kill you, I will kill you. If he orders me to die for you, I will die for you.
+#CAMERA 3 10 5 4
+#phrase Golem 3
+Now the Great Magician has ordered me to work for you - and I will work for you.
+#CAMERA 3 30 8 2
+#phrase Golem 4
+I am a golem. I am a mechanical servant. Ready to go!

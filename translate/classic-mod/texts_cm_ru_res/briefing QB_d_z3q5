@@ -1,0 +1,5 @@
+(Сл.4)(Дл.3-4) Убить разбойника Рыжего!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

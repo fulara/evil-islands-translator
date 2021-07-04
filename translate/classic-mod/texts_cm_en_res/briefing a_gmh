@@ -1,0 +1,33 @@
+Hire: Anira the Coward [Healer] (250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Hi, I want to hire a doctor Anira.
+#CAMERA 3
+#phrase Posrednik 2
+I value my reputation as an intermediary, and therefore I must convey to you information about the mercenaries provided.
+#CAMERA 3
+#phrase Posrednik 3
+Anira is also called a "coward" and for good reason - she cannot stand violence and can give dyru if she smells fried.
+#CAMERA 10
+#phrase Hero 4
+Then why is she still offering her services as a mercenary? Not a single sortie is complete without violence!
+#CAMERA 3
+#phrase Posrednik 5
+The fact is that although Anira runs away from skirmishes, she always returns and heals the employer. This tactic has its pros and cons.
+#CAMERA 10
+#phrase Hero 6
+And what are the disadvantages?
+#CAMERA 3
+#phrase Posrednik 7
+Well, she can, while running away, draw even more attention to her person, and then you will either have to shine your heels yourself, or save the would-be doctor.
+#CAMERA 10
+#phrase Hero 8
+Hmm ... a tough choice!
+#CAMERA 3
+#phrase Posrednik 9
+Well, she also casts a boost spell on allies.
+#CAMERA 10
+#phrase Hero 10
+Ok, I'm sold!

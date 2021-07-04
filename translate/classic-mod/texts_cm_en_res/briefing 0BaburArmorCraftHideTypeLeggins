@@ -1,0 +1,9 @@
+[Craft Unique Armor] Heavy Armor (Legs)
+#show Hero
+#show Smith
+#phrase Smith 1
+I can do it now, what kind of armor do you need?
+#phrase Hero 2
+Heavy armor (legs).
+#phrase Smith 3
+I need to get my tools ready. Prepare the gold for now, I’m taking it forward because I don’t know how good the enchantment will turn out to be, and the work is difficult. The quality will depend on the amount.

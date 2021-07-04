@@ -1,0 +1,5 @@
+(Сл.15)(Дл.5) Вернуть древнее ожерелье
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

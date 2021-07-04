@@ -1,0 +1,77 @@
+Report to Ataman
+#show Ataman
+#show spy
+#show Hero
+#CAMERA 5
+#ANIMATION 43
+#phrase spy 1
+Ataman, we have come with a report on the attack on the Chosen One.
+#CAMERA 3
+#ANIMATION 45
+#phrase Ataman 2
+Well, what is there? Are there any losses?
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 3
+All Free Hunters are dead.
+#CAMERA 3
+#ANIMATION 63
+#phrase Ataman 4
+What?! Is this some kind of stupid joke? How dead, what happened?
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 5
+I don't know, the fight itself took place without me. I had to leave, and I didn't manage to get there in time.
+#CAMERA 3
+#ANIMATION 11
+#phrase Ataman 6
+Stronger than upstarts like the Chosen One, I hate cowards! I would kill you right now if I didn’t desperately need people! We can no longer bear losses in pursuit of the Chosen One throughout Hypatus. It's time to lick our wounds, and you will help us with this.
+#CAMERA 10
+#phrase Hero 7
+What can I do?
+#CAMERA 3
+#ANIMATION 30
+#phrase Ataman 8
+We need a new weapon, and you will get the materials for it. Look wherever you want! Do you understand?
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 9
+Ataman in his spirit - take it out and put it down! It doesn't matter that they might kill me. It is not surprising that the parents left the Free Hunters - they do not live here for a long time, especially with such an ataman. It's good that I can't die.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 10
+I think I can kill two birds with one stone if I go to the Cave where the blue stone was found. I'll get the materials and inspect everything there at the same time.
+#CAMERA 10
+#ANIMATION 44
+#phrase Hero 11
+How about cave orcs and carapaces? You can collect good materials from them. But what is the use of them if Babur does not undertake to make weapons for us?
+#CAMERA 5
+#ANIMATION 9
+#phrase spy 12
+And we don't need it. We seized his apprentice, now he will make weapons for us.
+#CAMERA 10
+#ANIMATION 30
+#phrase Hero 13
+And he agreed to help us? It's hard to believe.
+#CAMERA 5
+#phrase spy 14
+Let's just say he was made an offer that he could not refuse.
+#CAMERA 10
+#ANIMATION 11
+#phrase Hero 15
+Do I need to go for the materials alone? Carapaces and cave orcs are serious opponents, not to mention the carapace queen ...
+#CAMERA 3
+#ANIMATION 29
+#phrase Ataman 16
+I have already sent two brave guys to the Cave to scout the situation, you will find them there.
+#CAMERA 3
+#ANIMATION 30
+#NOLIPS
+#phrase Ataman 17
+Or what is left of them ... Something has not been heard from them for a long time.
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 18
+Okay.

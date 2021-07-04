@@ -1,0 +1,10 @@
+Dossier: Weak Tank [Tank] (35,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Taunt: Every 14 sec. - provokes the seen enemy, if the enemy is closer to the player than to the mercenary.
+[1] Drinks Elixir of Healing: Every 180 sec. - if health is <25%.

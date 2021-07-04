@@ -1,0 +1,5 @@
+Undo action
+To perform some actions (conjure, steal, use)
+you must first select the icon, and then move the cursor over the target.
+The button defined in this paragraph cancels this selection. Besides
+Moreover, in any case, the action is canceled by pressing the ESC key.

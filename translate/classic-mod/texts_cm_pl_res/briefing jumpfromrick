@@ -1,0 +1,32 @@
+Spotkanie z Wirth
+#show Hero
+#show spy
+#CAMERA 3
+#ANIMATION 32
+#phrase spy 1
+Hej, nie jesteś z Wioski! Jesteś z Atamana? Mów mi Virt.
+#CAMERA 10
+#ANIMATION 60
+#phrase Hero 2
+Ja ... uh ... tak ...
+#CAMERA 3
+#ANIMATION 29
+#phrase spy 3
+Dobrze, że wysłali mi zastępstwo. Muszę powiedzieć naszym ludziom, że Wybraniec pojawił się w Wiosce.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 4
+Wybraniec? Wygląda na to, że zostałem przetransportowany w momencie przybycia Wybrańca do Wioski. Więc moi rodzice i przyjaciele wciąż żyją. Chwileczkę, on bełkocze...
+#ANIMATION 3
+#phrase Hero 5
+Nie, nie jestem tutaj, aby cię zastąpić.
+#CAMERA 3
+#ANIMATION 11
+#phrase spy 6
+Więc zostałeś wysłany, by zapytać o interesy w wiosce? Chodź, pomóż mi dowiedzieć się, jakim owocem jest ten Wybraniec, a potem udasz się z raportem do Atamana. Przyjdź do mnie trochę później, dam ci zadanie. W międzyczasie powiem Warlordowi Gortowi, że mi pomożesz.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 7
+Co powinienem zrobić? Trzeba jakoś ostrzec Wielkiego Maga przed zbliżającym się zagrożeniem, ale teraz nie będę mógł się tam dostać. Nie mam już artefaktu niewidzialności. Podobno wypadło, gdy musiałem uciekać z jaskini z demonami. A droga do jaskini Maga jest teraz bardziej niebezpieczna niż po tym, jak demony wypaliły wszystkie żywe istoty. Tak więc, podczas gdy muszę grać razem z tym Virtem, a potem coś wymyślę.
+#phrase Hero 8
+W porządku.

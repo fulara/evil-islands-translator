@@ -1,0 +1,34 @@
+Poznaj Airi
+#show Daughter
+#show NSheriff
+#show Hero
+#ANIMATION 73
+#phrase NSheriff 1
+Poznaj moją żonę, Airi.
+#ANIMATION 3
+#CAMERA 5
+#phrase Daughter 2
+Witamy w naszej wiosce. Wcześniej tu nie mieszkałem, ale wszystko się kiedyś zmienia. Rivar i ja spotkaliśmy się, kiedy chciałem ukraść… uh… pożyczyć jakieś lecznicze zioło od szamana orków w pobliżu wioski.
+#phrase Daughter 3
+Cóż, generalnie musiałem uciekać, dopóki nie wpadłem na Rivara.
+#ANIMATION 70
+#CAMERA 7
+#phrase NSheriff 4
+Teraz jest jasne, dlaczego ten szaman jest na ciebie taki zły.
+#ANIMATION 43
+#CAMERA 7
+#phrase Daughter 5
+Myślisz, że nie oddałbym mu trawy?
+#CAMERA 5
+#phrase NSheriff 6
+Tak.
+#ANIMATION 43
+#CAMERA 5
+#phrase Daughter 7
+I dobrze myślisz! Ogólnie rzecz biorąc, te głupie orki nie mają z nami nic wspólnego!
+#CAMERA 5
+#phrase NSheriff 8
+Naprawdę. Generalnie Airi pomaga mi zarządzać wioską.
+#CAMERA 5
+#phrase Daughter 9
+Tak, jeśli potrzebujesz pracy, przyjdź do mnie z Rivarem, damy Ci szansę się wykazać.

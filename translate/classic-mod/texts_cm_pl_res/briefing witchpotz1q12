@@ -1,0 +1,18 @@
+Estera i Airi jadą do wioski
+#show Witch
+#show Hero
+#CAMERA 3
+#phrase Witch 1
+Jak udało ci się dotrzeć do Wielkiego Maga?
+#CAMERA 10
+#phrase Hero 2
+Stało się. Teraz muszę zjednoczyć wszystkich mieszkańców Gipatu. czy możesz mi z tym pomóc?
+#CAMERA 3
+#phrase Witch 3
+Gdzie ja idę? Jeśli czegoś nie zrobimy, możemy zapomnieć o spokojnej przyszłości, a ja nadal chcę opiekować się moimi prawnukami!
+#CAMERA 10
+#phrase Hero 4
+W mojej przyszłości ty i Airi mieszkaliście w Village. I… Cóż, ogólnie rzecz biorąc, dobrze by było, żeby wszyscy trzymali się razem.
+#CAMERA 3
+#phrase Witch 5
+Kiedy Erfar biegł w Wiosce, nawet bym o tym nie pomyślał, ale teraz... Co więcej, jeśli opowiesz tam nowemu naczelnikowi swoją historię, raczej ci nie uwierzy - lepiej to zrobię... Poczekaj minuty, będę pakować swoje rzeczy i ruszył. Hej, Airy, przygotuj się - jedziemy do Wioski!

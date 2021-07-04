@@ -1,0 +1,15 @@
+O życiu w mieście Ingos
+#show Hero
+#show Huber
+#CAMERA 3 30 3 1
+#phrase Huber 1
+Och, nowe twarze w naszym mieście? Nie zdarza się to często! A poza tym wydaje mi się, że należysz do kategorii tzw. „awanturników”?
+#CAMERA 3 20 3.5 1
+#phrase Huber 2
+Cóż, w tym przypadku jesteś dokładnie tam, gdzie potrzebujesz! W naszym województwie znajdziesz to, czego szukasz, raczej w nadmiarze niż w niedostatku!
+#CAMERA 3 -10 3 1
+#phrase Huber 3
+Z drugiej strony osoba żądna przygód, która nie stroni od ryzyka, jest mi bardzo przydatna w mieście. Mój wierny asystent, kapitan Tilvar, zaginął wraz ze swoim oddziałem i od tego czasu nie mam nikogo, kogo mógłbym wysłać nawet po nową próbkę do mojej kolekcji!
+#CAMERA 3 0 3.5 1
+#phrase Huber 4
+Są jednak inne, niezbyt interesujące dla Ciebie rzeczy. Takich jak: rabusie, buntownicy, wrogie stworzenia... Jednym słowem nie będziesz się nudzić, możesz być pewien!

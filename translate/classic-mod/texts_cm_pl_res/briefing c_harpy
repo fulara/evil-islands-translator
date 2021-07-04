@@ -1,0 +1,19 @@
+Dossier: Oswojona harpia [obrażenia] (2250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Obrażenia - O. Strzała: 32-48 obrażeń od ognia.
+[1] "Obrażenia +": zadawanie obrażeń, (30-50)% szans - "Ściana Ognia" (36) przez 7 sek.
+[2] "Obrażenia +": zadawanie obrażeń, (30-50)% szansy - 32 obrażenia od ognia.
+[4] Obrażenia - o. Kula: 70 obrażeń od ognia (obszar 7m).
+[5] Paraliż: Obrażenia, 15% szansy - Paraliż na 4 sek.
+#CAMERA 3
+#phrase Hero 3
+Jedyna harpia na Gipacie, która nie chce cię zabić. Zamień każdego swojego wroga w popiół lub zrób chrupiącą wieprza na lunch. W upały doskonale wieje skrzydłami.
+#CAMERA 3
+#phrase Hero 4
+Nawet nie próbuj nim latać. W sprawie zatrudnienia skontaktuj się z Vanirem.

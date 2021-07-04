@@ -1,0 +1,5 @@
+Right hand blow
+The character, when attacking the enemy, will aim to beat
+in his right hand. When the health of the hand becomes
+equal to 0, the enemy will hit slower and use
+spells.

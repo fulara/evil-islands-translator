@@ -1,0 +1,22 @@
+Hire: Kylie Mazila [damage] (250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+I want to hire Kylie, can you tell us more about her?
+#ANIMATION 30
+#CAMERA 3
+#phrase Posrednik 2
+It's not in my interest to speak ill of the mercenaries I propose, but I like you!
+#ANIMATION 9
+#CAMERA 7
+#phrase Posrednik 3
+Previously, she was fluent in fire magic, which is where her middle name came from - Fire Fox. Although, maybe it was just the color of her hair ... It doesn't matter.
+#ANIMATION 44
+#CAMERA 3
+#phrase Posrednik 4
+But once in one battle she was thoroughly hit on the head, after which she imagined herself to be "Robin Gad". Behind her eyes, everyone calls her "Kylie-muff" - it's not hard to guess why. The nickname "muff" exactly reflects her skill with small arms.
+#ANIMATION 61
+#CAMERA 7
+#phrase Posrednik 5
+In general, the girl is not bad. Perhaps she just lacks experience.

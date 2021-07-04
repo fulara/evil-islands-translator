@@ -1,0 +1,5 @@
+General form
+The info window will show the general view of the character,
+which the cursor is hovering over. If the cursor is not hovering
+on any character, a general view will be shown
+the currently selected character.

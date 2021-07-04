@@ -1,0 +1,5 @@
+[Group] (Sl.9) (D.3-4) Invasion of the trolls
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

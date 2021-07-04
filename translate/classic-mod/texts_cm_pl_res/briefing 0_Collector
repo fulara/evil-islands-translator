@@ -1,0 +1,9 @@
+Dossier: Zbieracz Marauder
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Kolekcjoner przynosi łupy ze zwłok zabitych wrogów.
+#CAMERA 3
+#phrase Hero 2
+Z każdym zatrudnionym najemnikiem szansa na pojawienie się kolekcjonera wzrasta o 33% - do 99% w przypadku 3 najemników.

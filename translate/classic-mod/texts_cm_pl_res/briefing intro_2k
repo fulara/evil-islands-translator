@@ -1,0 +1,9 @@
+Witamy!
+#show Hero
+#show Shopper
+#CAMERA 3 30 3 1
+#phrase Shopper 1
+Witaj drodzy kupujący!
+#CAMERA 3 0 3.5 1
+#phrase Shopper 2
+Mój biznes jest ustawiony tak: jeśli masz czym zapłacić, wejdź. Nie ma nic do płacenia - i tak wejdź. Nie biorę pieniędzy na obejrzenie, ale nie pożyczam. Zarobisz, potem to weźmiesz.

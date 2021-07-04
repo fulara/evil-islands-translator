@@ -1,0 +1,12 @@
+Dossier: Master [damage] (4,500,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Lightning Damage: 390-510 Lightning Damage.
+[1] Chain Lightning: Every 120-84 sec. - continuously strikes 5 enemies with lightning if it sees> 1 enemy.
+[1] "Damage +": dealing damage, (30-70)% chance - 390 lightning damage.
+[3] "Damage +": dealing damage, (15-25)% chance - "Wall of Lightning" (600) for 8 sec.

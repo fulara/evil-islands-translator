@@ -1,0 +1,28 @@
+Ujawnia się sekret nieśmiertelności.
+#show Rivar
+#show Witch2
+#show Hero
+#CAMERA 3
+#ANIMATION 63
+#phrase Rivar 1
+Czy ludzie z pola bitwy przeklinali? że widzieli, jak zostałeś zabity, ale stoisz przed nami. Jak to jest możliwe?
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 2
+Najwyraźniej nie ma już sensu się ukrywać. Jestem z przyszłości, a wizje uzdrowicielki to nic innego jak obrazy z mojej pamięci, które udało jej się odczytać dzięki darowi jasnowidzenia.
+#CAMERA 5
+#ANIMATION 31
+#phrase Witch2 3
+Wybacz mi gołąbko, że musiałam ci to wszystko przedstawić w ten sposób, ale pewnie byś nam nie uwierzyła.
+#CAMERA 3
+#ANIMATION 11
+#phrase Rivar 4
+Tak, wciąż jestem zdezorientowany... Ale nawet jeśli Wielki Mag ci wierzy, to kim mam się spierać? Najwyraźniej nasza Wioska ma teraz dwóch Wybrańców - teraz nie ma dla Ciebie innej nazwy.
+#CAMERA 3
+#ANIMATION 44
+#phrase Rivar 5
+Wybraniec odszedł od nas, a ludzie nie zdążyli nawet podziękować mu za pomoc. Udało ci się uratować życie naszych ludzi w tej okrutnej bitwie w wąwozie, dlatego dziękuję w imieniu wszystkich mieszkańców Wioski!
+#CAMERA 10
+#ANIMATION 31
+#phrase Hero 6
+Dziękuję, znajdę do tego godne zastosowanie.

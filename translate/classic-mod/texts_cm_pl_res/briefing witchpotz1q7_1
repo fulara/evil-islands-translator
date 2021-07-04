@@ -1,0 +1,48 @@
+Spotkanie z szamanem
+#show Hero
+#show Witch
+#CAMERA 3
+#ANIMATION 43
+#phrase Witch 1
+Kim jesteś? Coś tu często się pojawia!
+#CAMERA 10
+#phrase Hero 2
+JA…
+#CAMERA 3
+#ANIMATION 11
+#phrase Witch 3
+Teraz sam dowiem się kim jesteś - czekaj spokojnie.
+#CAMERA 3
+#ANIMATION 54
+#phrase Witch 4
+Co? Jak to może być? Widzę w twojej przeszłości zdjęcia rzeczy, które nie mogły się wydarzyć. Kim jesteś?
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 5
+Nie ma nic do ukrycia przed babcią Esterą, ma dar jasnowidzenia. Najwyraźniej nie ma co ukrywać przed nią, powiem ci wszystko tak, jak jest.
+#CAMERA 10
+#ANIMATION 3
+#phrase Hero 6
+Zostałem przeniesiony w przeszłość przez Wielkiego Maga i muszę w tym czasie jak najszybciej do niego dotrzeć, aby go ostrzec. Niestety teraz nie mogę się do niego dostać, bo droga do jego schronu jest bardzo niebezpieczna, a ja nie chcę rzucać mu na drogę zwłok, a to boli.
+#CAMERA 3
+#ANIMATION 11
+#phrase Witch 7
+Tyle dla Ciebie! Nic nie rozumiem. Gdybym nie widział na własne oczy obrazów twojej przeszłości, pomyślałbym, że troll uderzył cię w głowę. Czego odemnie chcesz? Jestem już za stary, żeby chodzić z tobą w niebezpieczne miejsca.
+#show OrcLicense00 5
+#CAMERA 10
+#phrase Hero 8
+Spójrz na tę skórkę z literami. Czy możesz to przetłumaczyć? Ma to coś wspólnego z naczelnikiem i chciałbym wiedzieć, czego szuka.
+#CAMERA 3
+#ANIMATION 29
+#phrase Witch 9
+Jeśli musisz niepokoić Naczelnika - jestem za tym wszystkim! Tylko ja nie mogę tego przetłumaczyć bez elementarza orków. Podążaj za nim do Piasków, jeśli chcesz.
+#CAMERA 3
+#ANIMATION 44
+#phrase Witch 10
+Najbezpieczniej jest podążać północną częścią Rzek i Wysp, aż wejdziesz do Piasków na wschodzie. Weź podkład od szamana orków. Zaznaczyłem na twojej mapie miejsce, w którym mieszka.
+#hide OrcLicense00
+#CAMERA 10
+#ANIMATION 15
+#phrase Hero 11
+Dziękuję babciu, jestem w mgnieniu oka.

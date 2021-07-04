@@ -1,0 +1,27 @@
+Wynajem: Norman żołnierz [czołg] (5,000)
+#show Hero
+#show PosrednikIngos
+#CAMERA 10
+#phrase Hero 1
+Lubiłem Normana. Sądząc po ogłoszeniu, nie ma doświadczenia.
+#CAMERA 3
+#phrase PosrednikIngos 2
+Tak, Norman jest świetnym facetem, był bardziej w służbie niż ja. W życiu kocha tylko 2 rzeczy: walkę i picie. Pamiętam, że to był kiepski rok na zwierzynę, on i paru innych chłopaków poszli na polowanie, nie było zwierzyny, a Norman upił się z nudów.
+#CAMERA 3
+#phrase PosrednikIngos 3
+Wszyscy już wracają. A potem słyszą głos Normana: „Przygotuj strzały, jedź, jedź!” Wszyscy wstają i czekają usatysfakcjonowani, a po kilku chwilach widzą potężnego złego trolla i Normana, uciekającego przed nim. Uciekali przed nim przez pół godziny, potem śmialiśmy się z całym garnizonem, ha-ha-ha!
+#CAMERA 10
+#phrase Hero 4
+Coś, czego nie jestem już pewien, że tego potrzebuję.
+#CAMERA 3
+#phrase PosrednikIngos 5
+Daj spokój, jest świetnym wojownikiem. Jak myślisz, dlaczego trzymali go w służbie tak długo, zawsze ukośnie? Bez niego żadna kampania karna przeciwko gangom nie była kompletna. Tylko nie pozwól mu pić. Jednak równie dobrze wymachuje mieczem pod wpływem pijaństwa.
+#CAMERA 10
+#phrase Hero 6
+No to chodź, po sprawie zapłacę mu w tawernie kilkoma butelkami piwa.
+#CAMERA 3
+#phrase PosrednikIngos 7
+Nie musisz kpić z moich chłopaków, albo zapłacić 5000, albo wyjść stąd, zanim się wkurzę.
+#CAMERA 10
+#phrase Hero 8
+Przepraszam. Dobra, są pieniądze, weź je.

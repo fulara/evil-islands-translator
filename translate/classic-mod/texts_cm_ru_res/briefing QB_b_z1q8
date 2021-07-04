@@ -1,0 +1,5 @@
+[Триумвират №1](Сл.2)(Дл.3) Пропавшие
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

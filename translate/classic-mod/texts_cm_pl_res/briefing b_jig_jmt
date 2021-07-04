@@ -1,0 +1,12 @@
+Dossier: Strażnik [czołg] (4 500 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] „Masowa prowokacja”: co 60 sek. - prowokuje wszystkich wrogów, których gracz widzi, jeśli jest > 2 wrogów.
+[1] Pije Eliksir Leczenia: Co 180 sek. - jeśli zdrowie jest <25%.
+[1] "Regeneracja (siebie)": otrzymywanie obrażeń, (10-20)% szansy - "Regeneracja" (3-9) przez 15-5 sek.

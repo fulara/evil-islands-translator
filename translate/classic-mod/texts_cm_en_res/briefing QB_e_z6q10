@@ -1,0 +1,5 @@
+(Sl.5) (D.4) Hunting
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

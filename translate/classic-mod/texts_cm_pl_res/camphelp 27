@@ -1,0 +1,2 @@
+Maks. zapas siły
+Maksymalna wytrzymałość, jakiej mogą wymagać zaklęcia, aktualnie dostępna w konstruktorze. Nie możesz zbierać zaklęć, których żadna z twoich postaci nie będzie mogła użyć z powodu niewystarczającej wytrzymałości.

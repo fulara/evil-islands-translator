@@ -1,0 +1,9 @@
+Wchodząc w interakcję z „tablicą ogłoszeń” przy wyjściu z osady, możesz zmienić niektóre ustawienia salda:
+   Trudność: wpływa na drop, doświadczenie, postęp i trudność mobów. Nie można już zmienić poziomu trudności, przechodząc do mapy zadań.
+   Kara za śmierć: zabiera % niewykorzystanego doświadczenia, jednocześnie zwiększa szansę na upuszczenie przedmiotów.
+   
+   Gdy gra rozpoczyna się z postacią początkową, która ma 600 punktów doświadczenia, na tablicy ogłoszeń dostępna jest opcja „Iron Man Mode”, którą możesz włączyć, zanim zdobędziesz doświadczenie po raz pierwszy. Gdy ten tryb jest aktywowany, szanse na upuszczenie rosną aż do pierwszej śmierci.
+   Najemników możesz też zatrudnić rozmawiając z pośrednikiem przy "tablicy ogłoszeń" (gdzie potem możesz ich zabrać ze sobą do grupy). Niektórzy najemnicy pełnią rolę ochrony, leczenia i ataku. Możesz zabrać 2 najemników i 1 zwierzaka na raz, co jest znacznie tańsze niż reszta.
+   Najemnicy mogą używać nowych zaklęć, których nie można kupić ani znokautować. tworzone za pomocą skryptów, aby zapoznać się z ich umiejętnościami, patrz opisy na "tablicy ogłoszeń". Liczba najemników wpływa na szanse upuszczenia przedmiotów.
+
+   Jeśli twoja postać zostanie zabita, nie musisz biegać za zwłokami - są one składane automatycznie (istotne tylko dla gracza, który stworzył serwer, połączeni gracze zbierają swoje drużyny ręcznie). Po wejściu do obszaru zadania i wykonaniu kolejnego podzadania nad głową postaci pojawiają się znaczniki, między którymi można się teleportować.

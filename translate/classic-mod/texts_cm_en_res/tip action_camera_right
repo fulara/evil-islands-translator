@@ -1,0 +1,5 @@
+Camera to the right
+The camera scrolls to the right. When you press
+the same key + <CTRL> the camera will unfold
+to the right, keeping the direction to the previously selected
+point.

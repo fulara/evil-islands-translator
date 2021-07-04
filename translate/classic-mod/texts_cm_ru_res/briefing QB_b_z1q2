@@ -1,0 +1,5 @@
+(Сл.1-2)(Дл.2) Волчья стая
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

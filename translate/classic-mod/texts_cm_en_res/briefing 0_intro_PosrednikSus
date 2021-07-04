@@ -1,0 +1,11 @@
+About mediation
+#show Hero
+#show PosrednikSus
+#CAMERA 3
+#phrase PosrednikSus 1
+Hey! I am a middleman, do you need mercenaries?
+#phrase PosrednikSus 2
+If there are those who want to earn extra money, their ads are posted on the bulletin board.
+#CAMERA 3
+#phrase PosrednikSus 3
+See if someone is interested, contact me.

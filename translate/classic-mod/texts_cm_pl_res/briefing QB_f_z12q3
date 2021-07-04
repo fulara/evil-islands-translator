@@ -1,0 +1,5 @@
+(Sl.16) (D.4-5) Kapitan Tilvar zaginął!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

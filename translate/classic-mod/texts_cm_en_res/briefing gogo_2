@@ -1,0 +1,60 @@
+Interrogate Go-Go together with the headman [2]
+#show bGoblinC
+#show Zak
+#show Hero
+#CAMERA 5
+#ANIMATION 3
+#phrase Zak 1
+You live merrily! But where did the Stone come from in the first place?
+#CAMERA 3
+#phrase bGoblinC 2
+Orc to give, when the First Goblin is near to allow to live. Orc about the Blue Stone on the skin a letter to write where it comes from. Only my letter does not know.
+#CAMERA 5
+#ANIMATION 15
+#phrase Zak 3
+Clear. Bring this skin with the letters here and you get your scarecrow back, okay?
+#CAMERA 3
+#phrase bGoblinC 4
+Oh, I can't bear my skin! As the First Goblin disappeared, my orc went to ask for help to return. And the orc on the Bald Island to wind up and beat me hard. They say: "You, Go-Go, now ..." - and some kind of bad word. My forget.
+#CAMERA 3
+#phrase bGoblinC 5
+And then take away the orc's money, take away the skin-letter, put it in the chest, and kick me and chase me away. Poor Go-Go! Poor Go-Go! There was a leader, but to become ... this one. Which word is not good.
+#CAMERA 3
+#phrase bGoblinC 6
+Man, man, give the First Goblin! Do not give yours - mine sit here, give and ask. Sit tomorrow too, tomorrow sit again ...
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 7
+It looks like it’s about that skin with letters from the chest on Bald Island, very curious. I'll leave it to myself. You will need to give it to Granny Estera so that she can read what is written there.
+#CAMERA 3
+#ANIMATION 30
+#phrase BGoblinC 8
+My hang around until the First Goblin does not give me a head. Or mine is just right here to die!
+#CAMERA 5
+#ANIMATION 11
+#phrase Zak 9
+And why should I give your scarecrow to you? You didn't say anything useful!
+#CAMERA 3
+#phrase BGoblinC 10
+My what to know, to say everything. It's not my fault, what to say is unhelpful!
+#CAMERA 5
+#ANIMATION 43
+#phrase Zak 11
+Well, it's not my fault either. And anyway, I'm now going to throw your trick into the fire - maybe then you will finally get loose?
+#show VoodooWand 5
+#CAMERA 3
+#ANIMATION 60
+#phrase BGoblinC 12
+No bonfire! Don't throw it! Go-Go First Goblin ransom wants. Change for a doll - this is not a simple doll, magical!
+#CAMERA 5
+#ANIMATION 29
+#phrase Zak 13
+Yes, you, one-eyed, are completely crazy! What do you think I'm going to play with dolls?
+#CAMERA 3
+#phrase BGoblinC 14
+This doll - don't play! This doll is magic! Reduce the enemy, take away the power!
+#CAMERA 5
+#ANIMATION 60
+#phrase Zak 15
+Hmm, that sounds good. Okay, bring your doll here. But look, if you cheated ...

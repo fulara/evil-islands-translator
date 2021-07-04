@@ -1,0 +1,5 @@
+(Сл.6)(Дл.3-4) Главный шаман
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

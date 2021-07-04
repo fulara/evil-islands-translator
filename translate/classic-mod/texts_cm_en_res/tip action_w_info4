@@ -1,0 +1,7 @@
+Spells
+The info window will show spells whose effects
+affect the character the cursor is hovering over.
+If the cursor is not hovering over any character,
+spells will be shown, the effects of which
+act on the character selected in the present
+moment.

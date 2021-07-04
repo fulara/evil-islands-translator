@@ -1,0 +1,11 @@
+Akta: Słaby uzdrowiciel [Uzdrowiciel] (35 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] „Zysk”: wzmacnia gracza (45-60) na 66-93 sekundy.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (60-80).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.

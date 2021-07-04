@@ -1,0 +1,20 @@
+Interrogate Go-Go together with the headman [1]
+#show bGoblinC 4
+#show Elder 3
+#CAMERA 3
+#phrase bGoblinC 1
+My bring yours to ask the First Goblin to return. My pig does not steal for two or three weeks. Blue Eye Stone I swear!
+#CAMERA 5
+#ANIMATION 46
+#phrase Elder 2
+Is this an oath? As for your stone, you probably found it in the mud, and now you swear.
+#CAMERA 3
+#phrase bGoblinC 3
+Blue Eye-Stone dirt does not lie! Yours does not say so! The Eye-Stone is given to me by the old leader, when I become weak and eat for soup!
+#CAMERA 5
+#ANIMATION 45
+#phrase Elder 4
+Where did you get the old one?
+#CAMERA 3
+#phrase bGoblinC 5
+The old one, when he broke his leg, and the old leader eat him raw. When my bad becomes, the new leader fry me and take the Eye-Stone. So there is a tradition, goblin chieftain Blue Eye wear! The very First Goblin to receive it!

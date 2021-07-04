@@ -1,0 +1,5 @@
+Left hand punch
+The character, when attacking the enemy, will aim to beat
+in his left hand. When the health of the hand becomes
+equal to 0, the enemy will be slower to hit and use
+spells.

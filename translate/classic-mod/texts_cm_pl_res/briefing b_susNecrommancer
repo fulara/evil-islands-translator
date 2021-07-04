@@ -1,0 +1,12 @@
+Akta: Nekromanta [obrażenia] (100 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Wskrzeszenie umarłych": wskrzesza szkielety, których liczba i siła są równe poziomowi Nekromanty (po rzuceniu należy podnieść zwłoki - cel zaklęcia).
+[1] Obrażenia od błyskawic: 125 obrażeń od błyskawic.
+[2] „Empower”: Wzmacnia sojuszników (90) na 66 sek.
+[3] Obrażenia od kwasu: 150 obrażeń od kwasu.

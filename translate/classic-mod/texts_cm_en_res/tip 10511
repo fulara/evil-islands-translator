@@ -1,0 +1,7 @@
+Rob character / Use object
+If you hover your hand cursor over a live
+character and click, character
+will be robbed (if he has something to steal).
+If you hover your hand cursor over an object
+and click the mouse, the object will be used
+(if possible).

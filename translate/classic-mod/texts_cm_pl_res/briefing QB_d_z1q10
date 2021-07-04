@@ -1,0 +1,5 @@
+[Strzelec] (Sl.4-10) (D.3-4) [solo] Ścieżka myśliwego
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

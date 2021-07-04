@@ -1,0 +1,5 @@
+Camera 2
+When you press this key, + <CTRL>
+the camera position will be remembered as position 2.
+Pressing this key again without <CTRL>
+the camera is instantly set to this position.

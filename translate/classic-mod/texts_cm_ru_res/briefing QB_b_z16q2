@@ -1,0 +1,5 @@
+(Сл.23)(Дл.2) Охота на гарпию
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

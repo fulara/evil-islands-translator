@@ -1,0 +1,28 @@
+The secret of immortality is revealed.
+#show Rivar
+#show Witch2
+#show Hero
+#CAMERA 3
+#ANIMATION 63
+#phrase Rivar 1
+Did the people from the battlefield swear? that they saw how you were killed, but you are standing in front of us. How is this possible?
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 2
+Apparently, there is no point in hiding anymore. I am from the future, and the visions of the healer are nothing more than images from my memory, which she was able to read thanks to her gift of clairvoyance.
+#CAMERA 5
+#ANIMATION 31
+#phrase Witch2 3
+Forgive me, my dove, that I had to present all this to you in such a way, but you probably would not have believed us.
+#CAMERA 3
+#ANIMATION 11
+#phrase Rivar 4
+Yes, I am still in disarray ... But even if the Great Magician believes you, then who am I to argue? Apparently, our Village now has two Chosen Ones - there is no other name for you now.
+#CAMERA 3
+#ANIMATION 44
+#phrase Rivar 5
+The Chosen One left us, and people did not even have time to thank him for his help. You managed to save the lives of our people in this cruel battle in the gorge, therefore, let me thank you on behalf of all the inhabitants of the Village!
+#CAMERA 10
+#ANIMATION 31
+#phrase Hero 6
+Thank you, I will find a worthy use for this.

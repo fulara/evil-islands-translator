@@ -1,0 +1,24 @@
+Dossier: Stone Elemental [Tank] (2,250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Taunt: Every 14 sec. - provokes the seen enemy, if the enemy is closer to the player than to the mercenary.
+[1] "Stomp": every 180-60 seconds. - "Paralysis" for 10 sec. in the area of 4-8m.
+[2] "Stomp +": "Slow" (5) for 21 sec.
+[3] "Stomp +": "Weaken" (40) for 50 sec.
+#CAMERA 3
+#phrase Hero 3
+A hefty living stone block is for sale.
+#CAMERA 3
+#phrase Hero 4
+He knows how to beat, crush, break, trample. Disguises itself in the mountains, and also replaces flint for ignition.
+#CAMERA 3
+#phrase Hero 5
+One drawback: when walking, it rumbles so that the whole Gipat will know about your approach.
+#CAMERA 3
+#phrase Hero 6
+For hiring, contact Vanir.

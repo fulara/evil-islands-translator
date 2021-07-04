@@ -1,0 +1,30 @@
+Hire: Valeer Vigilante [Tank] (250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+I want to hire Valir the vigilante.
+#CAMERA 3
+#ANIMATION 11
+#phrase Posrednik 2
+(sarcasm) And what did he interest you in?
+#CAMERA 10
+#phrase Hero 3
+He has a wealth of experience serving in the squad, and he knows the tactics of fighting against goblins.
+#CAMERA 3
+#ANIMATION 46
+#phrase Posrednik 4
+(through laughter) "Knows the tactics of fighting goblins ..." Ha ha ha! Yes, he certainly knows how to run away from them!
+#CAMERA 10
+#ANIMATION 32
+#phrase Hero 5
+(in disbelief) But what about the ten extra-large specimens he was dealing with?
+#CAMERA 3
+#ANIMATION 15
+#phrase Posrednik 6
+Listen, I'll tell you now. It was like this, being drunk as hell, he decided to go to the outhouse for the night looking and sat down not far from a bunch of goblins guarding the bridge.
+#phrase Posrednik 7
+Well, the goblins either heard something, or smelled it, by the outgoing smell, in general, a picture appeared before us: Valeer was running with his pants down from a pack of goblins. We laughed for a long time with this asshole.
+#ANIMATION 61
+#phrase Posrednik 8
+Well, he’s a good guy so he can cover your back in case of danger.

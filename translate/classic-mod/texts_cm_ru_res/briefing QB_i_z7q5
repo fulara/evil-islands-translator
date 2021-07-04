@@ -1,0 +1,5 @@
+(Сл.9)(Дл.5) Лагерь разбойников
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

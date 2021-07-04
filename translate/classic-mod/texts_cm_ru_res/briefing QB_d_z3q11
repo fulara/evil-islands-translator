@@ -1,0 +1,5 @@
+[Маг](Сл.4-10)(Дл.3-4)[соло] Путь огня
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

@@ -1,0 +1,12 @@
+Dossier: Necromancer [damage] (100,000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Raise the Dead": resurrects skeletons, the number and strength of which are equal to the level of the Necromancer (after casting, you must pick up a corpse - the target of the spell).
+[1] Lightning Damage: 125 Lightning Damage.
+[2] "Empower": Empowers allies (90) for 66 sec.
+[3] Acid Damage: 150 Acid damage.

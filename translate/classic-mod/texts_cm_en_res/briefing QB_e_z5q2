@@ -1,0 +1,5 @@
+(Sheet 5) (DL 3) The rat queen
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

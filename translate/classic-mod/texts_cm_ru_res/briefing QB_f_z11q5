@@ -1,0 +1,5 @@
+[Маг](Сл.16)(Дл.4)[соло] Путь молний №2
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

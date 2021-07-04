@@ -1,0 +1,8 @@
+[Quest difficulty]: +1 (high)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Enemies: "Increased strength [100]" (Physical damage + 30% / Health + 50%).
+Item drop chance: + 50%.
+Experience gained: + 50%.

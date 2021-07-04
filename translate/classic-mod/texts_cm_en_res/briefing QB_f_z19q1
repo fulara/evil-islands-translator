@@ -1,0 +1,5 @@
+(Sl.27) (D.4) Lord of Shadows
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

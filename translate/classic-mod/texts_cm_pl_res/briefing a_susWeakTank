@@ -1,0 +1,10 @@
+Dossier: Słaby czołg [czołg] (35 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] Pije Eliksir Leczenia: Co 180 sek. - jeśli zdrowie jest <25%.

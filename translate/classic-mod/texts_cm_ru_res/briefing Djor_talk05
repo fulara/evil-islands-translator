@@ -1,0 +1,39 @@
+Знакомство с командиром
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Видишь там мастера Старка?
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Я уверен, что он - вредитель и хадаганский шпион.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Он отказывается бесплатно снабжать моих солдат оружием и амуницией!
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 4
+И я видел, как вы с ним общались.
+#CAMERA 3 20 3.5 1
+#phrase Djor 5
+Что, желаешь выдать врагу секреты, доверенные тебе родиной?
+#CAMERA 3
+#phrase Djor 6
+Отвечать!
+#CAMERA 5
+#phrase Hero 7
+Послушайте, это какое-то…
+#CAMERA 3 20 3 1
+#phrase Djor 8
+Да ладно… Шуток не понимаешь, что ли?
+#CAMERA 3 20 3.5 1
+#phrase Djor 9
+Гха-ха-ха-ха-ха! Хрм!
+#CAMERA 3 20 3 1
+#phrase Djor 10
+Армейский юмор.
+#CAMERA 6
+#ANIMATION 30
+#NOLIPS
+#phrase Hero 11
+Да уж… обхохочешься.

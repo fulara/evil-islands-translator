@@ -1,0 +1,47 @@
+Hire: Summoned Elemental [Tank] (2,250)
+#show Hero
+#show Posrednik
+#CAMERA 10
+#phrase Hero 1
+Where did you get this stone curiosity?
+#CAMERA 3
+#phrase Posrednik 2
+Yes, this is our old woman, Estera, she wanted an assistant for her household, she enchanted the stones, and it's done.
+#CAMERA 3
+#phrase Posrednik 3
+He has a lot of foolishness, but clumsy like a troll. She sent him firewood into the hut, and he made a couple of new doors in the house.
+#CAMERA 3
+#phrase Posrednik 4
+Estera wanted to let him go to the rubble after this incident, but I have a good eye, I immediately understood what his vocation was. Well, and bargained for it myself. Expensive.
+#CAMERA 10
+#phrase Hero 5
+I see, but he won't crush me in the heat of a fight?
+#CAMERA 3
+#phrase Posrednik 6
+Yes, no, Estera gave me the scroll - whoever walks with him in his pocket, he obeys, so he won't hurt, don't be afraid.
+#CAMERA 3
+#NOLIPS
+#phrase Posrednik 7
+If you don't get close.
+#CAMERA 10
+#phrase Hero 8
+Blabbed, how much will you pay for?
+#CAMERA 3
+#phrase Posrednik 9
+3000 gold.
+#CAMERA 10
+#phrase Hero 10
+How many? For that kind of money, I’ll buy up the whole squad, and there’s enough for a couple of robbers.
+#CAMERA 3
+#phrase Posrednik 11
+Okay, let's do this: 2500, and if it falls apart, you can keep the material for yourself.
+#CAMERA 10
+#phrase Hero 12
+If I need a stone, I will walk to the nearest boulder with a hammer. 2,250 gold.
+#CAMERA 3
+#phrase Posrednik 13
+Eh, take you troll, hand you. 2250 and a stone, if it is that, bring me.
+#CAMERA 3
+#NOLIPS
+#phrase Posrednik 14
+Haha, you fool. Estera gave it to me for that, if only I did not come across it.

@@ -1,0 +1,9 @@
+[Wytwarzanie unikalnej zbroi] Lekki pancerz (nogi)
+#show Hero
+#show Smith
+#phrase Smith 1
+Mogę to teraz zrobić, jakiego rodzaju zbroi potrzebujesz?
+#phrase Hero 2
+Lekka zbroja (nogi).
+#phrase Smith 3
+Muszę przygotować narzędzia. Na razie przygotujcie złoto, idę dalej, bo nie wiem, jak dobry okaże się zaklęcie, a praca jest trudna. Jakość będzie zależeć od ilości.

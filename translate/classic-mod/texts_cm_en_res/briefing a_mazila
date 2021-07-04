@@ -1,0 +1,34 @@
+Dossier: Fire Fox Kylie [damage] (250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] Eagle Eye: All allies have Eagle Eye (2-6) for 66 sec.
+[2] "Weakening": dealing damage, (45-50)% chance - "Weakening" (45) for 40 sec.
+[3] "Damage +": dealing damage, (50-70)% chance - 25 fire damage.
+#CAMERA 3
+#phrase Hero 3
+The fire fox is looking for a job.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 4
+Above the phrase "fiery fox" the inscription is scrawled: "muffled!"
+#CAMERA 3
+#phrase Hero 5
+A skilled archer is looking for a job in a line of work.
+#CAMERA 3
+#phrase Hero 6
+Despite my little work experience, I am accurate.
+#CAMERA 3
+#phrase Hero 7
+I can hit a frog's eye from a distance of 100 steps.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 8
+Before the word "I can" is painted on: "Not".
+#CAMERA 3
+#phrase Hero 9
+Own equipment, payment for 1 sortie is symbolic. I will consider any options. Do not offer intimacy!

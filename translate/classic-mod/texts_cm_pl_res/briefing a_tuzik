@@ -1,0 +1,27 @@
+Dossier: Tuzik [obrażenia]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Leczenie": poza walką, szybko regeneruje zdrowie do 50% maksymalnego.
+[1] "Pośpiech": zadawanie obrażeń, (20-40)% szans - na sobie "Pośpiech" (5) przez 10 sek.
+[2] Demencja: Zadawanie obrażeń, (20-50)% szansy - Demencja przez 7 sek.
+#CAMERA 3
+#phrase Hero 3
+Sprzedany pies bojowy o imieniu "Tuzik".
+#CAMERA 3
+#phrase Hero 4
+Zahartowany w boju pies bojowy rozerwie na strzępy każdego, kto zaatakuje jego pana!
+#CAMERA 3
+#phrase Hero 5
+Odporne i lojalne zwierzę bojowe, będzie dobrym konkurentem dla każdego najemnika.
+#CAMERA 3
+#phrase Hero 6
+W przypadku wszystkich pytań skontaktuj się z mediatorem Vanirem.
+#CAMERA 3
+#NOLIPS
+#phrase Hero 7
+Podpis poniżej: „Zaginiony pies, nazywany Sharik”.

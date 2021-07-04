@@ -1,0 +1,12 @@
+[Jakość] 12000 złota
+#show Hero
+#show Smith
+#ANIMATION 30
+#CAMERA 10
+#NOLIPS
+#phrase Hero 1
+Po jakimś czasie.
+#ANIMATION 11
+#CAMERA 3
+#phrase Smith 2
+Weź pracę.

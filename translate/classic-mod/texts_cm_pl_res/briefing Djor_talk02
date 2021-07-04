@@ -1,0 +1,26 @@
+Znajomość z dowódcą
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Ci kupcy są bezużyteczni!
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Żaden z nich nie umie walczyć, a moi żołnierze nie mogą już patrzeć na słodycze.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+Żeby zdobyć poważniejsze jedzenie. Ale generalnie…
+#CAMERA 3 20 3 1
+#phrase Djor 4
+Odłożyć na bok! Posłuchaj nowego porządku! Weź kuszę - i na mury! Ofensywa Khadagana jest na nosie!
+#CAMERA 5
+#phrase Hero 5
+Ale ja…
+#CAMERA 3 0 3.5 1
+#ANIMATION 11
+#phrase Djor 6
+Wykonać!
+#CAMERA 5
+#ANIMATION 24
+#phrase Hero 7
+Słucham!

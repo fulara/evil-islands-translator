@@ -1,0 +1,24 @@
+Dossier: Black Wolf [damage]
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Abilities (in square brackets - the minimum level of the mercenary; hyphenated - values depending on the level of the mercenary):
+#CAMERA 3
+#phrase Hero 2
+[1] "Healing": out of combat, quickly regenerates health up to 50% of the maximum.
+[1] "Haste": dealing damage, (20-40)% chance - on yourself "Haste" (5) for 10 sec.
+[2] Dementia: Dealing damage, (20-50)% chance - Dementia for 7 sec.
+[3] "Rage": dealing damage, (10-20)% chance - on yourself "Increase Strength" (240) for 13 sec.
+#CAMERA 3
+#phrase Hero 3
+Announcement: Selling a unique black wolf!
+#CAMERA 3
+#phrase Hero 4
+A one-of-a-kind werewolf!
+#CAMERA 3
+#phrase Hero 5
+The monstrous bites of the black wolf inflict great damage on any enemy!
+#CAMERA 3
+#phrase Hero 6
+For all questions, contact Vanir the intermediary. The price is negotiable.

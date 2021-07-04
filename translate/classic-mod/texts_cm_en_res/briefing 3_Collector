@@ -1,0 +1,9 @@
+Dossier: Gatherer Marauder
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+With each hired mercenary, there is a 33% chance of a collector appearing in your group, which brings loot from the corpses of slain enemies.
+#CAMERA 3
+#phrase Hero 2
+By hiring 3 mercenaries, a collector will join your group with a 99% probability.

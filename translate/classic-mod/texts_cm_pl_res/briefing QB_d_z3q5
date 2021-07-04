@@ -1,0 +1,5 @@
+(Sl.4) (D.3-4) Zabij rabusia Czerwonego!
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+„Przeniesienie do pracodawcy”

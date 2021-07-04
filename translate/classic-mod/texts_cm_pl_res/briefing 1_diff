@@ -1,0 +1,8 @@
+[Trudność zadania]: +1 (wysoki)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Wrogowie: „Zwiększona siła [100]” (Obrażenia fizyczne + 30% / Zdrowie + 50%).
+Szansa na upuszczenie przedmiotu: + 50%.
+Zdobyte doświadczenie: + 50%.

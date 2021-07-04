@@ -1,0 +1,25 @@
+Zatrudnij: Mildrith [Uzdrowiciel] (15 000)
+#show Hero
+#show PosrednikIngos
+#CAMERA 10
+#phrase Hero 1
+Będę miał poważny bałagan, a bez dobrego lekarza nie mogę oderwać głowy. Przyglądam się uważnie Mildrith, ma imponujące doświadczenie bojowe, sądząc po ogłoszeniu.
+#ANIMATION 31
+#CAMERA 3
+#phrase PosrednikIngos 2
+Uwierz mi, jeśli Mildrit jest w twojej drużynie, nie masz się czego obawiać. Ogr prędzej złamałby ci pałkę na głowie, niż Mildrith pozwoliłby ci utknąć. W wojsku wszyscy dzwonili do jej matki. Mildrit walczyła o życie każdego żołnierza jak o własne dziecko.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 3
+W jakie kłopoty nigdy nie była: zasadzki na rabusiów, trolle, kanibale, nawet w potyczkach z leśnikami! I pewnego dnia w kopalniach, które jeszcze nie zostały opuszczone, kapitan Brunt zniknął, a Mildrit był w grupie poszukiwawczej. Poszli tak głęboko w poszukiwaniach, że natknęli się na wormfaces !!! Och, jak mogę sobie wyobrazić, to już przyprawia mnie o dreszcze. Jednak wszyscy przeżyli dzięki Mildrith, a zwłoki Branta zostały odnalezione nieco dalej niż pole bitwy, troll rozbierze je na części, co tam zrobił.
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero 4
+Kurczę!! Takiej osoby potrzebuję. Ile kosztuje jej usługa?
+#CAMERA 3
+#phrase PosrednikIngos 5
+15 000 złota.
+#ANIMATION 61
+#CAMERA 10
+#phrase Hero 6
+Eeeh, drogie oczywiście, ale tańsze niż nowa głowa.

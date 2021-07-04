@@ -1,0 +1,22 @@
+Akta: Valeer Vigilante [Czołg] (250)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] Drwina: Co 14 sek. - prowokuje widzianego wroga, jeśli wróg jest bliżej gracza niż najemnika.
+[1] Pije Eliksir Leczenia: Co 180 sek. - jeśli zdrowie jest <25%.
+#CAMERA 3
+#phrase Hero 3
+Valeer Vigilant szuka pracy.
+#CAMERA 3
+#phrase Hero 4
+Emerytowany druzhinnik jest gotowy towarzyszyć dobrej osobie we wszelkich przedsięwzięciach: czy to wędrówka, czy zabawna uczta - każdy kaprys za twoje pieniądze.
+#CAMERA 3
+#phrase Hero 5
+W drużynie jest bogate doświadczenie służby. Znam taktykę walki z goblinami, miałem do czynienia z 10 bardzo dużymi osobnikami na raz.
+#CAMERA 3
+#phrase Hero 6
+Mam wielką wytrzymałość i wytrzymałość.

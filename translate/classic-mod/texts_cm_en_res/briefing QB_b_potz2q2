@@ -1,0 +1,5 @@
+[UV # 18] (Sl.12) (D.3) Escape
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

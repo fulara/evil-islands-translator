@@ -1,0 +1,5 @@
+[Triumvirate # 16] (Sl.15) (D.3) Ambush
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

@@ -1,0 +1,5 @@
+[UV # 31] (Sl.19) (D.3) Quid pro quo
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

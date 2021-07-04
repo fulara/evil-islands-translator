@@ -1,0 +1,6 @@
+Наёмники: Исключить всех наёмников
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+...

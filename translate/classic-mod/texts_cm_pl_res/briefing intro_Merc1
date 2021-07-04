@@ -1,0 +1,15 @@
+Znajomość z wojewodą
+#show Hero
+#show Merc1
+#CAMERA 3
+#phrase Merc1 1
+No ja, to teraz gubernator. A teraz wszyscy wojownicy są mi posłuszni.
+#CAMERA 3 20 3.5 1
+#phrase Merc1 2
+Niedługo pójdziemy pokonać orków lub polować na trolle.
+#CAMERA 3 20 3 1
+#phrase Merc1 3
+W międzyczasie udaj się do Babura, sprawdź swoją broń.
+#CAMERA 3 0 3.5 1
+#phrase Merc1 4
+Wkrótce!

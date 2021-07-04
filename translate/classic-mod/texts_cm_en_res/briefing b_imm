@@ -1,0 +1,45 @@
+Hire: Prabhu Forest Guardian [damage] (15,000)
+#show Hero
+#show PosrednikIngos
+#ANIMATION 46
+#CAMERA 10
+#phrase Hero 1
+Great powers, ha-ha, well, you are a storyteller, it feels like you are offering me a great magician for hire, and not a short man with a pipe.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero 2
+I saw the guardians of the forest in action, yes, they know magic, but no better and no worse than other magicians. What's so special about him?
+#ANIMATION 11
+#CAMERA 3
+#phrase PosrednikIngos 3
+You never know what you saw there. Those were ordinary guardians, and Prabhu is one of the oldest forestrymen of the green clan. His magical skills are far superior to those of ordinary guardians.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero 4
+So what is he so special about that? Old age is not a talent, it is a reason to retire. I suppose he must move his horses from day to day, since he is so ancient, and you are asking for another 15,000 for him.
+#ANIMATION 61
+#CAMERA 3
+#phrase PosrednikIngos 5
+What are you comparing, then people, and then foresters. He may even live for a thousand years. As for his skills, such a story happened recently. The men went hunting, split up in the forest, and a pack of wolves attacked Norman. He fought back as best he could, but one cannot cope with a whole flock, so they would have killed a man if not for Prabhu. I don’t know how he got there, they orientate themselves in the forest much better than ours, maybe he knew that the wolves were hungry, maybe he looked after our guys, and it’s not the point. In general, as he zhahnul lightning, so all the wolves at once and roasted the whole flock with one spell.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 6
+Norman serves in the army all his life, his parents served here, he learned how to wield the sword before the spoon. He was in such a number of battles that they can not be counted already, with the woodsmen, and with the harpies, and with the wormfaces. But I have never seen such witchcraft. And this is just one case, who knows what else he is capable of. So you would stop grimacing. I wrote absolutely seriously about his magical skills.
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero 7
+Yes, the story makes an impression. I have not seen such magic either.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero 8
+Listen, can he tame a unicorn for me? I would not refuse such a beast, and it is pleasant to the eye, and useful in battle.
+#ANIMATION 63
+#CAMERA 3
+#phrase PosrednikIngos 9
+You are not the only one so cunning, we also asked Prabhu to teach us how to train unicorns. But foresters think and live differently. Our pets are like prisoners for them, while the relationship between foresters and unicorns is equal and free. In general, it is impossible to tame unicorns, as we understand it.
+#CAMERA 10
+#phrase Hero 10
+It's a pity, but this little guy interested me so much. If he really is such a powerful magician, then his services will be useful to me in the future business. Here you go, 15,000 to the last coin.
+#CAMERA 3
+#phrase PosrednikIngos 11
+Deal. Prabhu is at your disposal.

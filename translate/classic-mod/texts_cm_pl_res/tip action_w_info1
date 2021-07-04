@@ -1,0 +1,5 @@
+Ogólna forma
+Okno informacyjne pokaże ogólny widok postaci,
+nad którym znajduje się kursor. Jeśli kursor się nie unosi
+na dowolnym znaku pojawi się widok ogólny
+aktualnie wybrany znak.

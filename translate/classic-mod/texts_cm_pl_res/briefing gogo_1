@@ -1,0 +1,20 @@
+Przesłuchaj Go-Go razem z naczelnikiem [1]
+#show bGoblinC 4
+#show Elder 3
+#CAMERA 3
+#phrase bGoblinC 1
+Przyniosę swoje, aby poprosić Pierwszego Goblina o powrót. Moja świnia nie kradnie przez dwa, trzy tygodnie. Kamień Niebieskiego Oka, przysięgam!
+#CAMERA 5
+#ANIMATION 46
+#phrase Elder 2
+Czy to przysięga? Jeśli chodzi o swój kamień, prawdopodobnie znalazłeś go w błocie, a teraz przysięgasz.
+#CAMERA 3
+#phrase bGoblinC 3
+Brud Blue Eye-stone nie kłamie! Nie możesz tego powiedzieć! Kamień Oka został mi podarowany przez starego przywódcę, kiedy słabnę i jem na zupę!
+#CAMERA 5
+#ANIMATION 45
+#phrase Elder 4
+Skąd masz starą?
+#CAMERA 3
+#phrase bGoblinC 5
+Mieć bardzo starego, kiedy złamał nogę, a stary przywódca zjadł go na surowo. Kiedy staje się moje złe, nowy przywódca usmaży mnie i zabierze Kamień Oka. Tak więc istnieje tradycja, wódz goblinów nosi Niebieskie Oczy! Pierwszy goblin, który go otrzymał!

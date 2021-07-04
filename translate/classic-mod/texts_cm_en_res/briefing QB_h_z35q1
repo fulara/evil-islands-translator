@@ -1,0 +1,5 @@
+(Sl.43) (D.5) Saving the Juns
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

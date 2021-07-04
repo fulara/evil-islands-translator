@@ -1,0 +1,9 @@
+Kupuj materiały do broni i zbroi
+#show Hero
+#show Smith
+#CAMERA 10
+#phrase Hero 1
+Cześć, czy możesz mi sprzedać lepsze materiały?
+#CAMERA 3
+#phrase Smith 2
+W porządku.

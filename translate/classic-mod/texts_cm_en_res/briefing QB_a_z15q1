@@ -1,0 +1,5 @@
+(Sl.21) (D.5) Liberation
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Transfer to the employer"

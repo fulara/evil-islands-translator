@@ -1,0 +1,5 @@
+[Убийца](Сл.23)(Дл.4-5) Одним ударом
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"

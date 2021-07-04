@@ -1,0 +1,15 @@
+Acquaintance with the commander
+#show Hero
+#show Djor
+#CAMERA 3
+#phrase Djor 1
+Something the enemy is late with the attack.
+#CAMERA 3 -10 3 1
+#phrase Djor 2
+Silence all around.
+#CAMERA 3 20 3.5 1
+#phrase Djor 3
+The birds are chirping.
+#CAMERA 3 20 3 1
+#phrase Djor 4
+Go for the ale!

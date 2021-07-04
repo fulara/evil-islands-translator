@@ -1,0 +1,11 @@
+[Stwórz unikalną broń] Walka wręcz
+#show Hero
+#show Smith
+#phrase Smith 1
+Mogę to teraz zrobić, jakiej broni potrzebujesz?
+#phrase Hero 2
+Do walki w zwarciu.
+#phrase Smith 3
+Jaki materiał zrobić?
+#phrase Hero 4
+Czy mogę nawet wybrać materiał? Muszę pomyśleć...

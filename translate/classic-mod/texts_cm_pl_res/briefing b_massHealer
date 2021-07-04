@@ -1,0 +1,16 @@
+Akta: Weteran Uzdrowiciel [Uzdrowiciel] (15 000)
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase Hero 1
+Umiejętności (w nawiasach kwadratowych - minimalny poziom najemnika; myślnik - wartości zależne od poziomu najemnika):
+#CAMERA 3
+#phrase Hero 2
+[1] "Gain": wzmacnia gracza (45) o 66-93 sek.
+[1] Leczenie: Co 10 sek. - leczy 1 sojusznika (40-50).
+[1] Masowe leczenie: Co 30 sek. - leczy wszystkich sojuszników (40-60) w obszarze 20m, jeśli zdrowie sojusznika wynosi <33%.
+[1] Masowe Leczenie +: 25 sek. powierzchnia 2-10m - „Regeneracja” (2).
+[2] "Leczenie +": 5% szansy - "Regeneracja" (10) przez 24 sek.
+#phrase Hero 3
+Doświadczony uzdrowiciel szuka pracy. Mam 17 lat służby w szeregach armii Kanian, dziesiątki bitew i setki uratowanych istnień ludzkich, więc jestem gotowy na misje o dowolnej złożoności.
+Zatrudnij: Mildrit (doświadczony uzdrowiciel) 15 000 złota.

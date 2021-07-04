@@ -1,0 +1,11 @@
+[Tryb: Iron Man]: 1 życie, zwiększony drop.
+#show Hero
+#show merc3
+#CAMERA 3
+#phrase merc3 1
+Wrogowie: -
+Gracz: -
+Szansa na wypadnięcie przedmiotu: 15%.
+Szansa na wypadnięcie run i materiałów: 33%.
+Zdobyte doświadczenie: + 0%.
+Po śmierci wszystkie przywileje tego reżimu znikną.

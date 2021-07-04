@@ -1,0 +1,5 @@
+[Триумвират №7](Сл.7)(Дл.4) Последний штрих
+#show Hero
+#show QuestsBoard
+#phrase QuestsBoard 1
+"Перемещение к работодателю"
