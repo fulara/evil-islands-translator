@@ -1,0 +1,11 @@
+Przyjmij ponownie £ucznika
+#show Hero 
+#show Merc2
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  1
+Co, £uczniku, zmêczony wiejskim ¿yciem? Wyruszam na wycieczkê w ciekawsze okolice. Masz ochotê siê przy³¹czyæ?
+#CAMERA 3
+#ANIMATION 15
+#phrase Merc2  2
+Oczywiœcie! Bêdê przy bramach, jak zwykle.

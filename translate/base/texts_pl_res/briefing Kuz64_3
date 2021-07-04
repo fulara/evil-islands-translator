@@ -1,0 +1,23 @@
+O zabitych poganiaczach niewolników
+#show Hero 3
+#show Kuzn 5
+#ANIMATION 32
+#CAMERA 5
+#phrase Hero  1
+Có¿, trochê by³o zachodu z tymi nadzorcami, Bracie Kowalu!
+#ANIMATION 3
+#CAMERA 11
+#phrase Kuzn  2
+Czy te psy stawia³y jakikolwiek opór?
+#ANIMATION 61
+#CAMERA 10
+#phrase Hero  3
+Nie, nie w tym rzecz. Myœla³em, ¿e ci wieœniacy nienawidz¹ ich tortur, a zamiast mi pomóc, wezwali Stra¿ników i tak siê zachowywali, jakby Whip-Aga i Lash-Aga byli ich najlepszymi przyjació³mi!
+#ANIMATION 14
+#CAMERA 3
+#phrase Kuzn  4
+Gdybyœ mieszka³ w Suslanger ca³e ¿ycie, nie zdziwi³oby ciê to. Wieœniacy którzy nie podnosz¹ alarmu, widz¹c obcego s¹ bici a¿ skonaj¹ - takie jest prawo.
+#ANIMATION 31
+#CAMERA 9
+#phrase Kuzn  5
+Ale teraz pomog³eœ mi zemœciæ siê na braciach nadzorcach, których straszliwie nienawidzi³em i nie pozostanê ci d³u¿ny!

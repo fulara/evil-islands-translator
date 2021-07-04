@@ -1,0 +1,45 @@
+Poproœ o przet³umaczenie notki
+#show Witch 3
+#show Instruction4orcs00 4
+#show Hero 5
+#ANIMATION 61
+#CAMERA 9
+#phrase Witch  1
+No i po co podtykasz mi pod nos te œmiecie? Myœla³am, ¿e powiedzia³am ci, ¿e Orkowie wymyœlili swój w³asny alfabet! Nie ma mowy, ¿eby to odcyfrowaæ bez ksiêgi, której u¿ywa ich Jasnowidz do nauczania innych. Tak wiêc, œliczniutki, musisz udaæ siê na tereny Orków i zdobyæ Ksiêgê ABC.
+#hide Instruction4orcs00
+#show Instruction4orcs00 5
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  2
+A wiêc kolejna wyspa? ¯ebyœ wiedzia³a jak ju¿ mam dosyæ tych wysp! Na ¿abie oczy, jaka nuda...
+#ANIMATION 63
+#CAMERA 11
+#phrase Witch  3
+Niewa¿ne, kochanieñki, niewa¿ne. Tam zapomnisz co to nuda, nie bój siê!
+#DESC (Sweetly, mockingly)
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  4
+Taaaaak... Wygl¹da na to, ¿e stary kruk zamierza sprawiæ mi niespodziankê. W porz¹dku.
+#DESC (To himself. Concerned, like having bad premonition)
+#ANIMATION 44
+#CAMERA 7
+#phrase Witch  5
+Aby znaleŸæ Opiekuna Jasnowidza musisz udaæ siê do po³o¿onego najbardziej na po³udnie punktu Gipath. Zwiemy te tereny "Piaskami", jednak¿e nie ma tam obecnie zbyt wiele piasku.
+#hide Instruction4orcs00
+#show Instruction4orcs00 4
+#ANIMATION 9
+#CAMERA 9
+#phrase Witch  6
+Ale wystêpuj¹ tam obficie wszystkie rodzaje uroczych, s³odziutkich stworzeñ. Orkowie, Ogry, Jaszczury... Towarzystwo akurat aby rozweseliæ znudzonego cz³owieka, he-he-he.
+#hide Instruction4orcs00
+#show Instruction4orcs00 5
+#ANIMATION 3
+#CAMERA 2
+#phrase Hero  7
+Dobra, dobra... wystarczy ju¿ tych ¿artów. Czy mo¿esz byæ powa¿na choæ przez minutê?
+#ANIMATION 9
+#CAMERA 3
+#phrase Witch  8
+Có¿, jeœli chcesz powagi, s³uchaj uwa¿nie... wielki przyl¹dek wchodzi w jezioro blisko tych piasków. To tam znajduje siê chatka Opiekuna Jasnowidza. Zdob¹dŸ Ksi¹¿kê ABC od niego!

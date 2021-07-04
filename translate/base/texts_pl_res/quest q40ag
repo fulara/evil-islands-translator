@@ -1,0 +1,38 @@
+Ogr Utundry
+Shei-Var chce byæ pewien, ¿e demon zostanie pokonany. Aby dowieœæ, ¿e zadanie zosta³o wykonane, musisz przynieœæ zawartoœæ kufra Utundrego - najstarszego z ogrzych braci mieszkaj¹cych w Piaskach. Po spotkaniu z wodzem Shei-Varem, Orkowie zaczn¹ traktowaæ ludzi w neutralny sposób. Misja jednak nie bêdzie ³atwa. Ogrzy bracia wymieniaj¹ miêdzy sob¹  klucze do skrzyñ i trzeba bêdzie za³atwiæ wszystkich trzech.
+#subobj  1
+ZnajdŸ Ogra zwanego Byr
+Byr, pierwszy Ogr, którego musisz pokonaæ, mieszka w okr¹g³ej dolinie na pó³noc od siedziby Shei-Vara. Niedaleko znajduje siê osada Klanu Orków Kharu wrogiego Klanowi Shyvar.
+#subobj  2
+Zabij Byra
+Ogr Byr musi zgin¹æ.
+#subobj  3
+ZnajdŸ kufer Byra
+Byr posiada skrzynie, w której trzyma klucz do kufra Ogra Gyma.
+#subobj  4
+Przeszukaj kufer Byra
+ZnajdŸ Ogra zwanego Byr
+#subobj  5
+ZnajdŸ Ogra zwanego Gym
+Gym, drugi Ogr, którego musisz pokonaæ, mieszka na zachód od wioski Shei-Vara. Aby znaleŸæ jego siedzibê, musisz przejœæ przez groblê Orków i pójœæ kawa³ek na zachód.
+#subobj  6
+Zabij Gyma
+Ogr Gym musi zgin¹æ.
+#subobj  7
+ZnajdŸ kufer nale¿¹cy do Gyma
+Gym posiada kufer, w którym trzyma klucz. Klucz ten pasuje do skrzyni Ogra Utundry.
+#subobj  8
+WeŸ klucz Gyma
+WeŸ klucz do skrzyni Utundry’ego.
+#subobj  9
+ZnajdŸ Ogra zwanego Utundry
+Najstarszy z braci Ogrów, Utundry, mieszka w ma³ej okr¹g³ej dolinie na pó³nocnym brzegu wschodniego jeziora. 
+#subobj  10
+Zabij Utundryego
+Ogr Utundry musi zgin¹æ.
+#subobj  11
+ZnajdŸ skrzyniê nale¿¹c¹ do Utundryego
+Ten kufer jest twoim g³ównym celem.
+#subobj  12
+Przeszukaj skrzyniê nale¿¹c¹ do Utundryego
+Shei-Var chce zawartoœæ kufra nale¿¹cego do Utundry’ego.

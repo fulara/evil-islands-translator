@@ -1,0 +1,17 @@
+Zapytaj wodza o pomoc
+#show Hero 1
+#show YCF 2
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  1
+Chcia³bym ciê prosiæ o pomoc, Wodzu!
+#CAMERA 11
+#phrase YCF  2
+Ka¿da rzeka p³ynie swoim korytem, wszystkie spotykaj¹ siê w wielkim jeziorze. Jednak, nawet z wierzcho³ka najwy¿szej góry nie dojrzysz jeziora... 
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  3
+Jeziora? Czy móg³byœ to powiedzieæ po ludzku?
+#CAMERA 3
+#phrase YCF  4
+Powiedzia³em, cz³owieku, ¿e byæ mo¿e zostaniesz przyjacielem Zielonego Klanu, ale nie mam pojêcia, kiedy to nast¹pi - jeœli w ogóle nast¹pi. Wracaj do miasta, nie masz tu nic do roboty!

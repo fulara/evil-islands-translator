@@ -1,0 +1,17 @@
+Uwolnienie szlachetnego Starca
+Kapitan stra¿y rozpocz¹³ prywatn¹ krucjatê przeciwko Ludziom Lasu i kaza³ swemu szpiegowi porwaæ Szlachetnego Starca. Musisz go uwolniæ.
+#subobj  1
+Odszukaj obóz oddzia³u stra¿ników
+ Po dojœciu do obrze¿y miasta i dotarciu do w³oœci Karansula, idŸ na wschód. Miej siê na bacznoœci… Nie tylko stra¿nicy dzia³aj¹ na tym terenie, równie¿ najemnicy Karansula.
+#subobj  2
+ZnajdŸ Czcigodnego Starszego
+Czcigodny Starszy, z Zielonego Klanu Ludzi Lasu, trzymany jest w niewoli, w klatce w samym œrodku obozu stra¿ników. Klatka jest zamkniêta, a klucz do niej ma dowódca oddzia³u.
+#subobj  3
+ZnajdŸ dowódcê oddzia³u
+ Aby zdobyæ klucz do klatki musisz znaleŸæ Dowódcê oddzia³u - nosi dro¿sz¹ zbrojê i lepsz¹ broñ ni¿ zwykli stra¿nicy. Jeœli nie ma go w obozie, znajdziesz go na patrolu posterunków.
+#subobj  4
+Zdob¹dŸ klucz
+ Nie mo¿esz wypuœciæ Leœnego Cz³owieka z klatki bez klucza, który ma dowódca oddzia³u.
+#subobj  5
+Uwolnij wiêŸnia
+ Aby uwolniæ Czcigodnego Starszego po prostu otwórz drzwi do klatki.

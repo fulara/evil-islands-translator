@@ -1,0 +1,9 @@
+Przyjmij Sahiliê do dru¿yny
+#show Hero 
+#show Merc10
+#ANIMATION 9
+#phrase Hero  1
+Jeœli nadal chcia³abyœ dzieliæ ze mn¹ szczêœcie, przygotuj siê! Chcia³bym, abyœ przy³¹czy³a siê do mnie podczas mojego nastêpnego zadania.
+#ANIMATION 70
+#phrase Merc10  2
+Jesteœ bardzo m¹dr¹ osob¹, lecz mówisz tak, jakbyœ wa¿y³ lekce s³owa, które wypowiadasz. Przygotowaæ mam siê, powiadasz? Ja zawsze noszê przy sobie wszystko, co posiadam... upewnij siê, ¿e sam niczego nie zapomnia³eœ!

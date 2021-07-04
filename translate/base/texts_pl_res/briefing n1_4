@@ -1,0 +1,19 @@
+Zabierz Eilê
+#show Hero 
+#show Merc4
+#CAMERA 3
+#ANIMATION 3
+#phrase Merc4  1
+Szczerze, nawet jeœli Shei-Var mnie nie puœci, i tak pójdê z tob¹ na Piaski. Orkowie nie s¹ Ÿli - na swój sposób - ale mi brakuje ludzi!
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  2
+Mam nadziejê, ¿e mo¿esz udowodniæ, ¿e Jasnowidz naprawdê nauczy³ ciê magii?
+#CAMERA 3
+#ANIMATION 45
+#phrase Merc4  3
+Wci¹¿ ¿yjê. Czy to ci nie wystarczy za dowód?
+#CAMERA 6
+#ANIMATION 30
+#phrase Hero  4
+Hm... wystarczaj¹cy argument. Czekaj na mnie w pobli¿u bram!

@@ -1,0 +1,9 @@
+Zostaw Sahiliê w Kryjówce
+#show Hero 
+#show Merc10
+#ANIMATION 9
+#phrase Hero  1
+Wyruszam w niebezpieczn¹ podró¿, gdzie si³a i magia zadecyduj¹ o wyniku bitwy, a nie zrêcznoœæ i opanowanie. Tym razem, lepiej zostañ tutaj.
+#ANIMATION 70
+#phrase Merc10  2
+Nie zamierzam k³óciæ siê z tob¹, lecz pewna jestem, ¿e powrócisz tu wkrótce, potrzebuj¹c mojej pomocy!

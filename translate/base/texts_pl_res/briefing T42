@@ -1,0 +1,35 @@
+O zaginionej dziewczynie
+#show Hero 1
+#show Trapper 2
+#ANIMATION 62
+#CAMERA 11
+#phrase Trapper  1
+To jest naprawdê niewielkie miasteczko, wiêc wszyscy wiedz¹, ¿e jesteœ jednym z tych, co szukaj¹ Ksiê¿niczki. Dlatego stary Traper Sver powie ci to, synku: to dobry biznes pomagaæ damom w potrzebie, aczkolwiek niebezpieczny. Przed tob¹ by³ inny, który równie¿ wypytywa³ wokó³. I znikn¹³ bez œladu.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+Co siê z nim sta³o? Wiesz?
+#ANIMATION 61
+#CAMERA 11
+#phrase Trapper  3
+Sk¹d móg³bym wiedzieæ? By³ nowy jak ty. Mówi¹ nawet, ¿e przyby³ ze stolicy, ponoæ by³ specjalist¹ od znajdowania zaginionych osób. nazywa³ siê Snoop. Wszêdzie wêszy³, ogl¹da³ odciski stóp przez swoje okr¹g³e szk³o, robi³ du¿o dymu swoj¹ fajk¹ i wypowiada³ wiele m¹drych s³ów.
+#ANIMATION 63
+#CAMERA 3
+#phrase Trapper  4
+Miastowy, ale naprawdê czujny ch³op, w koñcu uda³o mu siê coœ odkryæ. Kiedy ostatni raz go widzia³em by³ taki szczêœliwy z jakiegoœ powodu... ale nie na d³ugo - potem poszed³ na wschód od miasta i to by³ ostatni raz kiedy go widziano. S³ysza³em plotki, ¿e zosta³ zamordowany ...
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  5
+Skoro wiesz gdzie poszed³, to czemu nie próbowa³eœ go odnaleŸæ?
+#ANIMATION 62
+#CAMERA 3
+#phrase Trapper  6
+Nie chcê wiedzieæ, mój drogi towarzyszu. Wiesz, jestem bardzo zajêty. Nasz miejscowy handlarz-nikczemnik Karansul znowu obni¿y³ ceny skór. Muszê wiêcej pracowaæ, ¿eby powi¹zaæ koniec z koñcem!
+#hide Trapper
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2
+#phrase Hero  7
+Hmm... Snoop najwyraŸniej nie znikn¹³ przez przypadek. Byæ mo¿e uda mi siê rozwi¹zaæ t¹ zagadkê, nastêpnie zdobêdê wskazówki, które zaprowadz¹ mnie do Ksiê¿niczki?
+#DESC To himself

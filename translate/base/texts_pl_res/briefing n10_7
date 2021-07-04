@@ -1,0 +1,19 @@
+Po¿egnaj Harada
+#show Hero 
+#show Merc7
+#ANIMATION 15
+#CAMERA 7
+#phrase Merc7  1
+Cieszê siê, ¿e moja pomoc ci siê przyda, Blondynie.
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  2
+S³uchaj Haradzie, dlaczego nie zostaniesz w Gipath? Nie mogê niczego obiecaæ, ale poproszê Wielkiego Maga ¿eby wys³a³ ciê do wioski...
+#CAMERA 7
+#ANIMATION 9
+#phrase Merc7  3
+Nie, Blondynie, moje serce kieruje mnie w rodzinne strony, a chêæ zemsty wci¹¿ pa³a w mojej duszy. Nie mogê opuœciæ moich braci w Ostatniej Kryjówce. Muszê powróciæ do Suslander. Powodzenia!
+#CAMERA 6
+#ANIMATION 31
+#phrase Hero  4
+Tak, rozumiem: obowi¹zki ponad wszystko. Có¿, ¿egnaj i niech szczêœcie ciê nie opuszcza!

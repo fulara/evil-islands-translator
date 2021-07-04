@@ -1,0 +1,30 @@
+O spotkaniu z w³aœcicielem antykwariatu Joona
+#show Hero 1
+#show Glav 2
+#ANIMATION 44
+#CAMERA 3
+#phrase Glav  1
+Wiem, ¿e masz zamiar spotkaæ siê z pewnym cz³owiekiem z miasta. Przyjmij parê rad: jakiekolwiek wybierzesz zaciszne miejsce spotkania, najpierw dobrze siê rozejrzyj dooko³a. Znasz chyba stare powiedzenie... „strze¿onego boskie si³y strzeg¹.”
+#ANIMATION 4
+#CAMERA 9
+#phrase Glav  2
+Bracie Kowalu! Mo¿esz podejœæ?
+#show Hero 3
+#show Glav 4
+#show Kuzn 5
+#ANIMATION 6
+#CAMERA 9
+#phrase Glav  3
+Czy móg³byœ powiedzieæ Bratu Blondynowi gdzie spotykasz siê z kupcami z miasta?
+#ANIMATION 9
+#CAMERA 4
+#phrase Kuzn  4
+£atwo znaleŸæ to miejsce. Gdy opuœcisz nasze katakumby i dotrzesz do przedmieœæ, skieruj siê w stronê wschodu s³oñca, a po pewnym czasie dotrzesz do pustynnej okolicy, otoczonej drzewami palmowymi. To w³aœnie tam, tam robiê interesy z kupcami.
+#ANIMATION 7
+#CAMERA 12
+#phrase Kuzn  5
+Upewnij siê, ¿e nikt ciê po drodze nie widzia³! Stra¿nicy nie podejrzewaj¹ kupców o wymianê towarów z Bractwem, lecz od czasu do czasu wysy³aj¹ patrole na przedmieœcia, tak na wszelki wypadek.
+#ANIMATION 32
+#CAMERA 1
+#phrase Kuzn  6
+Te patrole nigdy nie s¹ za silne, wiêc jeœli natkniesz siê na paru stra¿ników, ³atwiej bêdzie ich zabiæ, ni¿ czekaæ a¿ przejd¹ gdzieœ indziej!

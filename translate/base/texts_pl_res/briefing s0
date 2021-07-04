@@ -1,0 +1,41 @@
+O wiosce
+#show Hero 1
+#show Elder 2
+#ANIMATION 3
+#phrase Hero  1
+Rozumiem, ¿e ty jesteœ Starszym tej wioski?
+#ANIMATION 11
+#CAMERA 3
+#phrase Elder  2
+Och tak. Jestem Starszy Erfar. Mieszkañcy tej wioski zaufali mi, bym nimi rz¹dzi³. Czasami zw¹ mnie Silvertongue, nie przeszkadza mi to. Biorê to za oznakê szacunku z ich strony.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  3
+Naprawdê? W³adca tych ziem pozwala ludziom wybieraæ, kto powinien nimi rz¹dziæ? Zastanawiam siê, co o tym s¹dzi wasz król...
+#ANIMATION 9
+#CAMERA 11
+#phrase Elder  4
+Niestety, Wybrañcze, nie mamy w³adcy ani króla. Nikt nie potrzebuje spustoszonych ziem, takich jak Gipath. Wioska egzystuje samotnie i nikt nie wie jak dotrzeæ do innych ziem.
+#ANIMATION 44
+#CAMERA 3
+#phrase Elder  5
+Tak wiêc, ja tutaj jestem przywódc¹ i podejmujê wszystkie decyzje. To trudne i wymagaj¹ce, ale ktoœ musi wzi¹æ ten ciê¿ar na siebie dla dobra ludzi! Dobrze, ¿e Kapitan jest ca³y czas przy mnie, by mi pomóc. I myœlê, ¿e mogê powiedzieæ, i¿ mamy tutaj wzorowy porz¹dek, nie gorszy ni¿ ustanowiony przez któregokolwiek z królów.
+#ANIMATION 7
+#CAMERA 2
+#phrase Hero  6
+Ale co z pozosta³ymi wioskami - czy one te¿ s¹ zdane same na siebie?
+#ANIMATION 8
+#CAMERA 11
+#phrase Elder  7
+Nie ma innych wiosek. Nasza jest jedyna na Gipath. Bardzo dawno temu ¿yli tu jacyœ ludzie, ale teraz ju¿ o nich zapomniano. Pozosta³y tylko ruiny i opuszczone drogi razem z Goblinami i Orkami wko³o.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  8
+Rozumiem... Có¿, to jest spora niespodzianka. Muszê to przemyœleæ.
+#NOLIPS
+#show Hero 4
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero  9
+£askawe Nieba! Có¿ to za miejsce, co siê ze mn¹ sta³o?! Wiem, ¿e siê tutaj nie urodzi³em - ale gdzie, kiedy? Czujê, ¿e mia³em coœ zrobiæ, ale co? Muszê siê dowiedzieæ, ale któ¿ móg³by mi pomóc?!
+#DESC To himself

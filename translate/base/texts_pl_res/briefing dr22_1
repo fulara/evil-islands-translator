@@ -1,0 +1,21 @@
+Dar smoka
+#show Hero 
+#show SKD
+#CAMERA 3
+#phrase SKD  1
+S³uchaj, cz³owiecze! Udowodni³eœ, ¿e jesteœ dobrym towarzyszem i chcia³bym ciê znów zobaczyæ - kiedyœ. Ale myœlê, ¿e do tej pory mo¿esz zostaæ zabity i staæ siê szkieletem - a có¿ za sens ma rozmowa ze szkieletem?
+#CAMERA 9
+#phrase SKD  3
+Spójrz tam... ten by³ kiedyœ wyæwiczonym dowódc¹ i bardzo m¹dr¹ osob¹. A teraz jest po prostu ghoulem. Mo¿e nadal coœ pamiêta, lecz nic nie zdo³a nam powiedzieæ. Zdecydowa³em zrobiæ coœ, co bardzo utrudni zabicie ciebie.
+#CAMERA 3
+#ANIMATION 1
+#phrase SKD  4
+Nie mam ¿adnej mo¿liwoœci aby ciê ochroniæ. Jednak¿e, wygl¹da na to, ¿e jesteœ ca³kiem uzdolniony. Ale ¿eby zmieniæ to 'ca³kiem' na 'wyœmienicie', musze ofiarowaæ ci pewien podarunek.
+#show Ancientsword 5
+#CAMERA 3
+#phrase SKD  5
+WeŸ t¹ broñ i postaraj siê zrobiæ z niej dobry u¿ytek! Mo¿e i nie wygl¹da teraz imponuj¹co, ale uwierz mi, najlepsi z najlepszych u¿ywali tego miecza w przesz³oœci - ludzie, którzy s¹ teraz szkieletami.
+#ANIMATION 31
+#CAMERA 6
+#phrase Hero  6
+Dziêkujê ci! I przyrzekam, ¿e zrobiê dobry u¿ytek z dobrej broni na tym œwiecie - nie bêdzie z tym ¿adnego problemu!

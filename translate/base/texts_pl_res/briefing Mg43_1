@@ -1,0 +1,11 @@
+O kradzie¿y w domu gubernatora
+#show Hero 1
+#show Magess 2
+#ANIMATION 44
+#CAMERA 3
+#phrase Magess  1
+Mój drogi m³odzieñcze, definitywnie nie podoba mi siê twoje zainteresowanie t¹ walizk¹. Tak, Gubernator Valrasian i ja jesteœmy dobrymi przyjació³mi, i to ja za³o¿y³am w jego domu magiczne pu³apki. Jestem gotowa nawet przyznaæ, i¿ nie zadzia³a³y.
+#ANIMATION 43
+#CAMERA 11
+#phrase Magess  2
+Ale to wszystko dotyczy tylko mnie i Gubernatora. Wybacz mi, ale to nie twoja sprawa nawet jeœli twój intelekt dorównuje ciekawoœci. 

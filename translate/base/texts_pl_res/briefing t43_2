@@ -1,0 +1,39 @@
+Wiêcej o Ludziach Lasu
+#show Hero 1
+#show Trapper 2
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  1
+Chcia³eœ mi opowiedzieæ o Ludziach Lasu i prosi³eœ, ¿ebym ci o tym przypomnia³. Opowiedz!
+#ANIMATION 61
+#CAMERA 3
+#phrase Trapper  2
+Och tak, racja! Ludzie Lasu s¹ bardziej lub mniej "Dzieæmi Matki Natury", no wiesz. Nie buduj¹ domów, nie pracuj¹ na polach i oczywiœcie nie maj¹ swoich miast. Ale wcale nie s¹ g³upi, tylko ich umys³y dzia³aj¹ zgo³a inaczej od naszych.
+#ANIMATION 62
+#CAMERA 11
+#phrase Trapper  3
+Z powodu oczywistych ró¿nic, których ludzie nie rozumiej¹ i zarazem nie lubi¹, boj¹ siê ich. Przyjrzyj siê Kapitanowi Stra¿y: jaki jest dzielny... ci¹gle obiecuje, ¿e raz na zawsze upora siê z LudŸmi Lasu. Jak myœlisz, dlaczego tak mówi? Poniewa¿ siê boi, taka jest prawda...
+#ANIMATION 63
+#CAMERA 3
+#phrase Trapper  4
+Ale nikt nie powinien siê ich baæ! Mo¿emy siê od nich wiele nauczyæ: na przyk³ad, czy którykolwiek cz³owiek potrafi oswoiæ jednoro¿ca? Nie! A Ludzie Lasu robi¹ to bez przerwy. Nawet lasy znaj¹ lepiej ni¿ ja, chocia¿ od dzieciñstwa jestem ³owc¹!
+#ANIMATION 61
+#CAMERA 11
+#phrase Trapper  5
+W rzeczywistoœci, nie s¹ zbyt zainteresowani ludŸmi. Ale jeœli ktoœ ich rozz³oœci, jego widoki na przysz³oœæ bêd¹ naprawdê ponure. Ludzie Lasu mog¹ byæ niewielkich rozmiarów, jednak ciê¿ko siê z nimi walczy. Maj¹ specjaln¹ broñ: tuby, z których wydmuchuj¹ ma³e zatrute strza³ki, w³aœnie takie, jakimi naszpikowali Snoopa. 
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  6
+Jak¹ krzywdê mo¿e wyrz¹dziæ taka ma³a, œmieszna rzecz? Przecie¿ nie przebije nawet skórzanej zbroi, czy¿ nie?
+#ANIMATION 46
+#CAMERA 3
+#phrase Trapper  7
+Mo¿e byæ nawet i z mitrylu! W ka¿dej zbroi s¹ szczeliny, co wykorzystuj¹ Ludzie Lasu, trafiaj¹c w nie. Mo¿esz byæ pewien.
+#ANIMATION 61
+#CAMERA 3
+#phrase Trapper  8
+Tam s¹ ich oswojone jednoro¿ce. Te bestie wygl¹daj¹ naprawdê piêknie, ale jeœli je rozz³oœcisz, bêdziesz ¿a³owa³, ¿e kiedykolwiek je ujrza³eœ! I jest jeszcze jedna sprawa... Ludzie Lasu znaj¹ magiê.
+#ANIMATION 9
+#CAMERA 11
+#phrase Trapper  9
+Takie w³aœnie mamy tutaj towarzystwo. Jeœli z nimi zadrzesz, spodziewaj siê k³opotów, ale jeœli zdo³asz siê zaprzyjaŸniæ, szybko to docenisz. Taka przyjaŸñ mo¿e byæ bardzo przydatna!

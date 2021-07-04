@@ -1,0 +1,19 @@
+O zaginionej dziewczynie
+#show Hero 1
+#show Huber 2
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  1
+Gubernatorze! Jestem nowy w tym mieœcie i chcia³bym ciê o coœ prosiæ...
+#ANIMATION 11
+#CAMERA 3
+#phrase Huber  2
+M³ody cz³owieku, masz niezwyk³e szczêœcie. Mam doskona³y nastrój i jestem sk³onny zrobiæ coœ dobrego. Dlatego pierwszym dobrym uczynkiem bêdzie rada dla ciebie.
+#ANIMATION 63
+#CAMERA 11
+#phrase Huber  3
+Nigdy wiêcej nie przychodŸ do mnie bez zapowiedzi albo zanim ciê poproszê. Tym razem wybaczê ci twoje zuchwalstwo, ale jeœli zdarzy siê to ponownie zawo³am stra¿e i otrzymasz ch³ostê.
+#ANIMATION 44
+#CAMERA 3
+#phrase Huber  4
+Ale proszê, nie myœl, ¿e jestem okrutny. Przeciwnie, jestem doœæ liberalny i nie mam nic przeciwko obywatelom, ale uwa¿am, ¿e tradycje to tradycje. Moim obowi¹zkiem jest je forsowaæ, nawet jeœli wymaga to niezbyt popularnych metod!

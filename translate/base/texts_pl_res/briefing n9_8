@@ -1,0 +1,9 @@
+Przyjmij Fairakha do dru¿yny
+#show Hero 
+#show Merc8
+#ANIMATION 45
+#phrase Merc8  1
+A po co gromadziæ takie t³umy? ¯eby roznieœæ tych œmiesznych ludzi z zewn¹trz?
+#ANIMATION 32
+#phrase Hero  2
+Niektórzy z nich to znakomici wojownicy, wiêc mamy akuratn¹ liczbê ludzi.

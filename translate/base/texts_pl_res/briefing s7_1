@@ -1,0 +1,60 @@
+Wypytaj GoGo wspólnie ze Starcem
+#show bGoblinC 4
+#show Elder 3
+#show Hero 5
+#CAMERA 9
+#phrase bGoblinC  1
+Ja przyjœæ prosiæ, wy daæ Pierwszy Goblin z powrotem. I za to ja nie kraœæ ¿adna œwinia dwa trzy tygodnie. Przysiêgaæ na mój Niebieski Kamieñ Oko!
+#ANIMATION 46
+#CAMERA 4
+#phrase Elder  2
+Có¿ to za przysiêga? Nie zale¿y mi na twoim kamieniu - byæ mo¿e znalaz³eœ go w ziemi, a teraz na niego przysiêgasz.
+#CAMERA 11
+#phrase bGoblinC  3
+Niebieski Kamieñ Oko nie w ziemi! Ty nigdy nie mów tego wiêcej! Stary Wódz daæ mi Kamieñ Oko kiedy byæ s³aby i iœæ do zupy!
+#ANIMATION 45
+#CAMERA 12
+#phrase Elder  4
+I sk¹d stary Wódz go ma?
+#CAMERA 7
+#phrase bGoblinC  5
+Od stary-stary Wódz kiedy on z³amaæ noga i stary Wódz zjeœæ go na surowo. Kiedy ja dostaæ z³e wieœci Wódz upiec mnie i zabraæ Kamieñ Oko. Tradycja - Wódz Goblin nosiæ Kamieñ Oko! Pierwszy Goblin go mieæ!
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  6
+Masz radosne, przyjemne ¿ycie, co? Ale sk¹d ten kamieñ siê wzi¹³ na samym pocz¹tku?
+#CAMERA 9
+#phrase bGoblinC  7
+Ork daæ kiedy Pierwszy Goblin ¿yæ niedaleko. Ork pisaæ list na skóra sk¹d przyszed³. Tylko ja nie znaæ ¿adnego listu.
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  8
+Rozumiem! Teraz wszystko jasne: przynieœ mi tutaj t¹ skórê, a dostaniesz swojego stracha na wróble z powrotem, dobrze?
+#CAMERA 11
+#phrase bGoblinC  9
+Aj, ja nie przynieœæ skóra tutaj! Kiedy Pierwszy Goblin zgin¹æ, ja przyjœæ do Ork prosiæ o pomoc. Ork zabraæ mnie na wyspê Bald i zbiæ mnie, bardzo. Ork powiedzieæ "Ty teraz GoGo..." i powiedzieæ jakieœ s³owo. Z³e s³owo. Ja zapomnieæ.
+#CAMERA 3
+#phrase bGoblinC  10
+Wtedy Ork wzi¹æ moje pieni¹dze, zabraæ moja skóra z listem, w³o¿yæ w kufer, wyrzuciæ mnie. Biedny biedny GoGo! Ja byæ Wódz, teraz ja... ten jeden. Z³e s³owo.
+#CAMERA 7
+#phrase bGoblinC  11
+Cz³owiek, cz³owiek daæ Pierwszy Goblin z powrotem! Wy nie daæ, ja siedzieæ tutaj prosiæ, b³agaæ. Jutro te¿ siedzieæ, jutro-jutro te¿ siedzieæ ...
+#ANIMATION 11
+#CAMERA 8
+#phrase Elder  12
+Och w porz¹dku. Mo¿esz tutaj siedzieæ tak d³ugo, jak zechcesz. Nie widzê powodu, dlaczego mia³bym oddaæ ci bo¿ka: nie powiedzia³eœ nam tego co chcemy wiedzieæ.
+#hide bGoblinC
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  13
+A co z Wysp¹ Bald? Musi byæ jakieœ œmietnisko Orków... Erfarze, czy wiesz coœ o takim miejscu?
+#ANIMATION 44
+#CAMERA 4
+#phrase Elder  14
+Bardzo niewiele: znajduje siê gdzieœ na po³udniowym-wschodzie, zw¹ j¹ tak¿e "ja³ow¹". Ale to dla nas niedu¿a pomoc: nie ma sposobu, by przekroczyæ orkijskie mosty, przez to ludzie nie mog¹ dostaæ siê do wysp!
+#NOLIPS
+#ANIMATION 30
+#CAMERA 6
+#phrase Hero  15
+Mo¿e mog¹, a mo¿e nie mog¹. Jeœli mo¿na przekroczyæ most do jaskini, dlaczego nie mosty do wysp?
+#DESC Under his nose

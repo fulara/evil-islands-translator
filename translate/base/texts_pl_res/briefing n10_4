@@ -1,0 +1,15 @@
+Po¿egnaj Eiliê
+#show Hero 
+#show Merc4
+#ANIMATION 8
+#CAMERA 6
+#phrase Hero  1
+¯egnaj Eilo! Nie spêdziliœmy ze sob¹ zbyt wiele czasu, ale bêdê za tob¹ têskni³. Co zamierzasz teraz robiæ?
+#ANIMATION 9
+#CAMERA 7
+#phrase Merc4  2
+Oh, prawdopodobnie wrócê do Shei-Vara. Myœlê, ¿e jego opinia co do ludzi zmieni³a siê odk¹d ciê pozna³. Mo¿liwe ¿e nawet uda mi siê nak³oniæ go do podpisania traktatu z wiosk¹?
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  3
+O tak, to szlachetny cel... Powodzenia!

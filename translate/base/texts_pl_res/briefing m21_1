@@ -1,0 +1,27 @@
+O chorobie
+#show Smith 1
+#show Hero 2
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  1
+Jak siê czujesz, Baburze?
+#ANIMATION 45
+#CAMERA 7
+#phrase Smith  2
+Nie narzekam, czemu pytasz?
+#ANIMATION 8
+#CAMERA 10
+#phrase Hero  3
+Powiadaj¹, ¿e Jasnowidz Orków rzuci³ zarazê na wioskê. Starzec bardzo siê boi. B³aga³ mnie o przyniesienie mu Bia³ego Kwiatu do leczenia ludzi.
+#ANIMATION 44
+#CAMERA 11
+#phrase Smith  4
+Hmmm... S³uchaj, a mo¿e byœ da³ Kwiat mi? To by by³ dobry interes, ca³a wioska musia³a by do mnie przychodziæ. Zdoby³bym sporo pieniêdzy i podzieli³bym siê z tob¹. A na dodatek pozbylibyœmy siê Erfara - tak bym go oskar¿y³, ¿e ³atwiej by mu by³o umrzeæ, he-he!
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  5
+Ty chyba oszala³eœ?! Twoja chciwoœæ pomiesza³a ci w g³owie! Ludzie mog¹ umrzeæ, a ty myœlisz tylko o pieni¹dzach!
+#ANIMATION 14
+#CAMERA 9
+#phrase Smith  6
+Dobra, dobra, idŸ i zobacz co inni powiedz¹ na twoj¹ mowê "Oh, jestem taaaaaaki uczciwy!". Tylko upewnij siê, ¿e kwiat nie oka¿e siê ostatni¹ rzecz¹ jak¹ ujrzysz w ¿yciu!

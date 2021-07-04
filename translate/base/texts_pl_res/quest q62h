@@ -1,0 +1,32 @@
+Odnalezienie wejœcia jaskini
+Jedynym sposobem, by uciec pogoni stra¿ników jest dotarcie do jaskini. Wejœcie znajduje siê w dalekim koñcu kanionu.
+#subobj  1
+ZnajdŸ oficera na s³u¿bie
+G³ówne wrota po³udniowej czêœci fortecy s¹ zamkniête i aby je otworzyæ, potrzebny jest klucz. Ma go oficer na s³u¿bie; bêdziesz go musia³ odszukaæ (porucznik Karhaur ma dzisiaj byæ na s³u¿bie). Jego posterunek jest niedaleko wrót.
+#subobj  2
+Zdob¹dŸ klucz
+Musisz zabiæ Karhaura aby zdobyæ klucz do wrót.
+#subobj  3
+Otwórz g³ówn¹ bramê
+Aby otworzyæ g³ówne wrota fortecy, u¿yj klucza, który zabra³eœ Karhaurowi. Potem pospiesz siê: otwarte wrota nieuchronnie przyci¹gn¹ uwagê stra¿ników i pogoñ rozpocznie siê natychmiast.
+#subobj  4
+Otwórz klatki
+Stra¿nik bramy jest tak¿e odpowiedzialny za klatki z dzikimi paj¹kami. Naprzeciwko bram znajduje siê dŸwignia, która otwiera wszystkie klatki na raz. Jeœli to zrobisz, uwolnione paj¹ki zaatakuj¹ stra¿ników, a to z pewnoœci¹ zajmie ich na chwilkê.
+#subobj  5
+ZnajdŸ przejœcie do jaskini
+Istnieje w¹skie przejœcie, prowadz¹ce do jaskini, po³o¿onej w pó³nocno-zachodniej czêœci kanionu. Jest ono zagrodzone wrotami, które zazwyczaj s¹ zamkniête na klucz.
+#subobj  6
+OdnajdŸ stra¿nika
+Przejœcie do jaskini jest zamkniête, a klucz posiada stra¿nik.
+#subobj  7
+Zabij stra¿nika
+Stra¿nik musi zostaæ zg³adzony, inaczej podniesie alarm.
+#subobj  8
+WeŸ klucz
+WeŸ z cia³a stra¿nika klucz do przejœcia prowadz¹cego do jaskini.
+#subobj  9
+Otwórz wrota jaskini
+Aby otworzyæ wrota do jaskini, u¿yj klucza, który zabra³eœ z cia³a.
+#subobj  10
+Umknij pogoni
+Rozpocz¹³ siê poœcig!

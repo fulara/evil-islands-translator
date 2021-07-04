@@ -1,0 +1,31 @@
+O zabitym Goblinie
+#show Hero 1
+#show Elder 2
+#ANIMATION 31
+#phrase Elder  1
+Faktycznie, bardzo ci dziêkujê, Wybrañcze! I w imieniu wszystkich mieszkañców równie¿! Teraz mo¿emy zabraæ to co pozosta³o z naszego byd³a na pastwiska bez strachu przed Goblinami. I jeœli niebiosa oka¿¹ ³askê bêdziemy mogli utrzymaæ ma³e stado. Z pewnoœci¹, mam tak¹ nadziejê ...
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  2
+Erfar, nie rozumiem. Gobliny ju¿ wam nie zagra¿aj¹ a ty mówisz tak jakbyœ obawia³ siê ¿e stracisz ostatni¹ œwiniê!
+#ANIMATION 7
+#CAMERA 11
+#phrase Elder  3
+Abstrahuj¹c od Goblinów, s¹ równie¿ Wilki, które co noc poluj¹ na nasze byd³o. Ale byæ mo¿e Wybrañcze móg³byœ zaj¹æ siê równie¿ wilkami?
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  4
+Oczekujesz ¿e bêdê ugania³ siê za nêdznymi wilkami? To zadanie dla psa pasterskiego nie dla mnie!
+#ANIMATION 9
+#CAMERA 3
+#phrase Elder  5
+One nêdzne? O nie! Sfora, która wykrada nasze œwinie, nie jest zwyczajn¹ sfor¹, a jej przywódca, Bia³y Wilk, jest sprytniejszy od ka¿dego psa ... Ile¿ razy wykiwa³ naszych £owców! Tylko ty, Wybrañcze, móg³byœ przechytrzyæ t¹ bestiê. Twoja inteligencja i spryt nie pozostawi Bia³emu Wilkowi ¿adnych szans!
+#ANIMATION 44
+#CAMERA 2
+#phrase Hero  8
+Hm... W porz¹dku. Ale czy to nie ma³y Smok wystraszy³ Bia³ego wilka jakiœ czas temu? Widzia³em ma³ego, szybuj¹cego Smoka kilka razy tu w Gipach. I przybywa³ za ka¿dym razem gdy mia³o siê coœ zdarzyæ!
+#ANIMATION 14
+#CAMERA 7
+#phrase Elder  9
+Nie wiem o czym mówisz, Wybrañcze. Byæ mo¿e widzisz wiêcej, ni¿ my proœci œmiertelnicy. Nigdy czegoœ takiego nie widzia³em!
+#DESC With sincere surprise

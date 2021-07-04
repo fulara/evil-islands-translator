@@ -1,0 +1,27 @@
+O Orkach z podnó¿a góry
+#show Hero 1
+#show Smith 2
+#ANIMATION 6
+#CAMERA 5
+#phrase Hero  1
+Orkowie nie s¹ tacy straszni, jak to opisuje Gort! Dziwi mnie, ¿e nigdy nie zdo³aliœcie sami ich odstraszyæ. 
+#ANIMATION 7
+#CAMERA 7
+#phrase Smith  2
+To nie jest takie proste, wiesz. Rzecz w tym, ¿e szczep, który osiedli³ siê w podgórzach nie jest wcale taki silny, ale ¿yje z nimi bardzo m¹dry Jasnowidz.
+#ANIMATION 9
+#CAMERA 11
+#phrase Smith  4
+Nauczy³ siê kontrolowaæ magiczn¹ piramidê - jedna znajduje siê nieopodal osady. Naprawdê ca³kiem zabawna rzecz - to staro¿ytne urz¹dzenie, ale dzia³a jak nowe, niech je szlag! Wiêc ka¿dy, kto siê do niego zbli¿y zostaje pora¿ony bardzo ³adn¹ b³yskawic¹.
+#ANIMATION 14
+#CAMERA 3
+#phrase Smith  5
+Ale gdyby ktoœ móg³ zabiæ Jasnowidza i wy³¹czyæ piramidê, szczep Orków bardzo szybko zacz¹³by siê zachowywaæ jak nale¿y. Jednak obawiam siê, ¿e nikt nie jest w stanie przedrzeæ siê do Jasnowidza i wiem, ¿e ¿aden z naszych ludzi nie jest w stanie zakraœæ siê tam i cichcem wykonaæ robotê no¿em.
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero  6
+Za³ó¿my, ¿e ja mogê to zrobiæ.
+#ANIMATION 31
+#CAMERA 11
+#phrase Smith  7
+Niech ciê Bóg b³ogos³awi, Wybrañcze! Jeœli to zrobisz, bêdê ci wdziêczny na wiecznoœæ, poniewa¿ chcia³bym móc swobodnie poruszaæ siê poœród pagórków. I oczywiœcie okaza³bym swoj¹ wdziêcznoœæ w ca³kiem dotykalny sposób - gdybyœ tylko móg³ poradziæ sobie z Orkami!

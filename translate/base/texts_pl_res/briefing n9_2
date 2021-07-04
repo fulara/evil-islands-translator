@@ -1,0 +1,11 @@
+Z³ó¿ £ucznikowi propozycjê przy³¹czenia siê
+#show Hero 
+#show Merc2
+#CAMERA 2
+#ANIMATION 45
+#phrase Hero  1
+Co, £uczniku, wiejskie ¿ycie jeszcze ci siê nie znudzi³o? Mam zamiar udaæ siê w ciekawsze okolice. Przy³¹czysz siê?
+#CAMERA 3
+#ANIMATION 14
+#phrase Merc2  2
+Eh... To chyba nie najlepszy pomys³... Masz ju¿ dobre towarzystwo i obawiam siê, ¿e tylko bym przeszkadza³. Mówi siê, ¿e trzy, to najlepsza liczba, jeœli chodzi o niebezpieczne wycieczki. 

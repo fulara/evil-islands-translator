@@ -1,0 +1,19 @@
+Po¿egnaj Fairakha
+#show Hero 
+#show Merc8
+#CAMERA 7
+#ANIMATION 15
+#phrase Merc8  1
+¯egnaj, Blondynie. Dobr¹ zabaw¹ by³o przebywanie z tob¹, chocia¿ czasami rzeczywiœcie by³o niebezpiecznie.
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  2
+Czy wolisz zostaæ tutaj, w Gipath, Fairakh?
+#CAMERA 7
+#ANIMATION 45
+#phrase Merc8  3
+A co ja bym robi³ na tej biednej barbarzyñskiej ziemi? Któ¿ doceni moj¹ sztukê magiczn¹? Nie, w Kryjówce jest mi ca³kiem dobrze. ¯egnaj.
+#CAMERA 6
+#ANIMATION 15
+#phrase Hero  4
+¯egnaj, Fairakh. Wielce mi pomog³eœ i jestem wdziêczny zarówno tobie, jak i twej sztuce.

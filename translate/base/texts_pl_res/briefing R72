@@ -1,0 +1,42 @@
+O Khadagañskim zadaniu
+#show Hero 3
+#show Rick 4
+#show Deva 5
+#CAMERA 1
+#ANIMATION 6
+#phrase Rick  1
+A wiêc powracasz sam. Dragonet widzia³ co ci siê przytrafi³o w Khadaganie, ale jest zbyt m³ody by zrozumieæ znaczenie tych wydarzeñ. Wiêc – oczekujê pe³nego wyjaœnienia!
+#DESC (Severely)
+#ANIMATION 32
+#CAMERA 12
+#phrase Deva  2
+O wielki Tka-Riku! Ty oczekiwa³eœ, ¿e spotkasz twego towarzysza Joona, a ja czeka³am na ukochanego... wiêc powiedz, kto jest teraz bli¿szy rozpaczy? Ale wci¹¿ b³agam ciê, nie b¹dŸ zbyt z³y na tego cz³owieka. Nie wykona³ swego zadania, lecz ledwie uszed³ z ¿yciem. Czy¿ nie jest to warte szacunku?
+#CAMERA 11
+#ANIMATION 3
+#phrase Rick  3
+Dosyæ Lu-a... Obawiam siê, i¿ dopuœci³em do tego, by moje rozczarowanie przeistoczy³o siê w gniew. ¯a³ujê tego Zak, i proszê ciê o wybaczenie. Ale proszê, powiedz mi co siê sta³o?
+#ANIMATION 31
+#CAMERA 6
+#phrase Hero  6
+Obawiam siê, ¿e bêdê musia³ ciê rozczarowaæ! At-Zako nie ma w Khadaganie, u¿y³ amuletu teleportuj¹cego. Nie s¹dzê, by odkrycie gdzie amulet go zabra³ by³oby czymœ trudnym dla Wielkiego Maga. Ale mamy jeszcze inny k³opot. 
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  7
+Cz³owiek ten zosta³ poddany dzia³aniu czaru transformacyjnego, wiêc nikt nie wie jak on teraz wygl¹da! Szczerze mówi¹c, nie mam pojêcia jak móg³bym go odnaleŸæ!
+#CAMERA 11
+#ANIMATION 3
+#phrase Rick  8
+To rzeczywiœcie smutna nowina... ale powiedzia³eœ, ¿e móg³byœ kontynuowaæ swoj¹ misjê. Wiele razy ociera³eœ siê o œmieræ... Nie mogê ciê prosiæ, byœ ryzykowa³ jeszcze wiêcej.
+#ANIMATION 31
+#CAMERA 6
+#phrase Hero  9
+Bêdê z tob¹ szczery: gdyby chodzi³o wy³¹cznie o mnie, zapomnia³bym o ca³ej sprawie. Ale widzieæ ten smutek w oczach Lu-a-Jalli... Zdajê sobie sprawê, ¿e w momencie gdy ujrzy At-Zako zapomni ze szczêœcia o wszystkim, ³¹cznie ze mn¹! Ale ci¹gle chcê to dla niej osi¹gn¹æ!
+#ANIMATION 7
+#CAMERA 8
+#phrase Deva  10
+Nie, nie zapomnê ciê, to mogê ci obiecaæ. Jesteœ silny, jesteœ waleczny, uratowa³eœ mnie i o nic w zamian nie prosi³eœ – jak mog³abym o tym zapomnieæ?
+#ANIMATION 3
+#CAMERA 1
+#phrase Hero  11
+Wiesz, co mam na myœli... ale dosyæ tego!
+#DESC (Bitter, then decisively)

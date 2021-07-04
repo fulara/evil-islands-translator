@@ -1,0 +1,61 @@
+O skradzionej kolekcji
+#show Hero
+#show Vor
+#show Shopper
+#ANIMATION 32
+#CAMERA 4
+#phrase Shopper  1
+Chcia³eœ siê zobaczyæ z Baldim, proszê bardzo. Tylko nie zapomnij o opowieœci!
+#hide Shopper
+#ANIMATION 11
+#CAMERA 7
+#phrase Vor  2
+Mmmm.... Chcia³eœ siê ze mn¹ widzieæ?
+#ANIMATION 62
+#CAMERA 2
+#show GovenorChest00 3
+#phrase Hero  3
+Lepiej wyt³umacz siê, sk¹d masz tê walizkê z herbem Valrasiana. Spokojnie, spokojnie, i tak jest ju¿ pusta, zawartoœæ znajduje siê w bezpiecznym miejscu! Masz przed sob¹ bardzo prosty wybór: albo ze mn¹ szczerze porozmawiasz, albo zawo³am stra¿e i pogawêdzisz sobie z Kapitanem Tilvarem.
+#hide GovenorChest00
+#ANIMATION 43
+#CAMERA 11
+#show GovenorChest00 5
+#phrase Vor  4
+¯eby ci brodawki wyros³y na twarzy! Nie cierpiê goœci z miasta! W porz¹dku, ile chcesz?
+#hide GovenorChest00
+#ANIMATION 11
+#CAMERA 10
+#show GovenorChest00 3
+#phrase Hero  5
+Nie "ile", tylko "co". Wyt³umacz mi, jak to siê sta³o, ¿e strza³ka z tej walizki znalaz³a siê w ciele Snoopa? I dam ci pewn¹ radê, ¿adnych k³amstw.
+#hide GovenorChest00
+#ANIMATION 63
+#CAMERA 3
+#phrase Vor  6
+Hmm... wiêc, ... pokazali mi tego goœcia, i powiedzieli, ¿ebym zrobi³ z niego zw³oki, ca³a wina le¿y po stronie Ludzi Lasu. Wiêc... za³atwi³em go, jeh? I wbi³em w niego tê strza³kê. Sam wpad³em na pomys³ sk¹d tak¹ wytrzasn¹æ. Nie to, ¿ebym chcia³ zadzieraæ z LudŸmi Lasu, dlatego podwêdzi³em j¹ Grubernowi. To by³o œmiertelnie proste, a ten Wielki Szary wiedzia³ jak unikn¹æ magicznych pu³apek. 
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  7
+Co za Wielki Szary?
+#ANIMATION 61
+#CAMERA 3
+#phrase Vor  8
+Nowoprzyby³y. Nigdy go nie widzia³em. Przychodzi ca³y obwiniêty w p³aszczo-kaptur - nic nie da siê zobaczyæ, nawet jego ryja! Zabawnie gada, be³kocze takim dziwnym g³osem. Wywnioskowa³em, ¿e nie chce by go rozpoznano. 
+#ANIMATION 62
+#CAMERA 11
+#phrase Vor  9
+Ja myœlê, ¿e Snoop i Ludzie Lasu coœ odkryli, a jemu siê to nie spodoba³o. Jestem pewien, ¿e Snoop prawie odnalaz³ Ksiê¿niczkê. Co do Ludzi Lasu - to nie mam pojêcia, mo¿e widzieli jak Szary siê przebiera³?
+#hide vor
+#show Hero 4 
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  10
+Acha! Wiêc to znowu Ludzie Lasu! Muszê skorzystaæ z tej "tajnej œcie¿ki", prowadz¹cej do ich nowego schronienia... byæ mo¿e dowiem siê czegoœ o tym cz³owieku.
+#DESC To himself
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2
+#phrase Hero  11
+Ju¿ wczeœniej powinienem ich o to zapytaæ... ale jak, przecie¿ dopiero co siê dowiedzia³em o tym Szarym?!
+#DESC To himself

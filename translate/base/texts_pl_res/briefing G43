@@ -1,0 +1,92 @@
+O strzale
+#show Hero 1
+#show Huber 2
+#show Kapitan
+#ANIMATION 9
+#CAMERA 9
+#phrase Huber  1
+Witaj m³odzieñcze! Twoja twarz wygl¹da znajomo... och tak, Tilvar mi o tobie opowiada³! Szukasz Ksiê¿niczki, hmm? Szczerze ¿yczê ci szczêœcia. Sam bardzo chcia³em... j¹ lepiej poznaæ... ale ci ³ajdacy dopadli j¹ przede mn¹...
+#ANIMATION 11
+#CAMERA 3
+#phrase Huber  2
+Wed³ug Kapitana zdo³a³eœ coœ odkryæ, czy to prawda?
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  3
+Tak. Znalaz³em narzêdzie zbrodni...
+#ANIMATION 14
+#CAMERA 3
+#phrase Huber  4
+Zbrodni?
+#ANIMATION 8
+#CAMERA 10
+#phrase Hero  5
+Broñ, któr¹ zamordowano, Snoopa. Spójrz!
+#show Hero 3
+#show DriadArrow00 5
+#show Huber 5
+#ANIMATION 3
+#CAMERA 3
+#phrase Huber  7
+Na oczy ¿aby, jest piêkna! Có¿ za grot! Cudowne wykonanie...
+#ANIMATION 6
+#CAMERA 2
+#phrase Hero  8
+Zw³oki Snoopa odnalaz³em nieopodal farmy....
+#ANIMATION 9
+#CAMERA 3
+#phrase Huber  9
+Jakie zw³oki? Och te... Powiedz Tilvarowi, ¿eby siê tym zaj¹³. Po to go zatrudniam, ¿eby samemu nie s³uchaæ tych okropnych opowieœci.
+#ANIMATION 14
+#CAMERA 3
+#phrase Huber  10
+Ale strza³ka jest naprawdê piêkna. Byæ mo¿e... och, nie, có¿ za rozczarowanie! Ju¿ tak¹ mam w mojej kolekcji.
+#hide DriadArrow00
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  11
+Twoja kolekcja jest niezwykle s³awna.
+#ANIMATION 63
+#CAMERA 3
+#phrase Huber  12
+Nie bez powodu. Zebra³em wiele bardzo rzadkich eksponatów. Lubiê m³odych ludzi, którzy pokazuj¹ starszym nale¿ny im szacunek. Bêdê zaszczycony pokazaæ ci moje eksponaty.
+#ANIMATION 9
+#CAMERA 11
+#phrase Huber  13
+Mam tutaj bardzo rzadkie egzemplarze. Oto Gobliñska proca, a to Orkijski topór. Czy widzia³eœ kiedykolwiek Orka, m³odzieñcze?
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  14
+Kto, ja? Nie, oczywiœcie, ¿e nie!
+#ANIMATION 61
+#CAMERA 11
+#phrase Huber  15
+Tak myœla³em. Achh, przesz³oœæ, przesz³oœæ..... przypominam sobie... kiedy w wirze walki, zabi³em jednego, a potem nastêpnego i prowadzi³em moje oddzia³y... ufff!
+#show DriadArrow00 4
+#ANIMATION 62
+#CAMERA 9
+#phrase Huber  16
+Powróæmy jednak do strza³ki... ech? ¯abia kl¹twa! Gdzie jest moja walizka z orê¿em Ludzi Lasu?! By³a klejnotem mojej kolekcji! Rabunek! Zdrada!!! Natychmiast sprowadŸ tutaj Kapitana Tilvara!
+#hide DriadArrow00
+#ANIMATION 15
+#CAMERA 4
+#phrase Kapitan  17
+Do us³ug, Ekscelencjo.
+#ANIMATION 61
+#CAMERA 3
+#phrase Huber  18
+Co siê dzieje w mojej prowincji? W mieœcie porywaj¹ dziewczyny, w lasach morduj¹ ludzi i mnie - mnie! - obrabowano w moim w³asnym domu!
+#ANIMATION 31
+#CAMERA 12
+#phrase Kapitan  19
+Byæ mo¿e gdyby Madam Diera za³o¿y³a jej magiczne pu³apki, kiedy moi ludzie stali na stra¿y wokó³ twego domu, nie...
+#ANIMATION 43
+#CAMERA 3
+#phrase Huber  20
+Nie potrzebuje twoich wymówek! Wszyscy wynocha! I odzyskaj te eksponaty!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  21
+Jeœli by³a tam strza³ka identyczna jak moja, mo¿liwe, ¿e w³aœnie ni¹ strzelono do Snoopa ? Muszê odnaleŸæ z³odzieja!
+#DESC To himself

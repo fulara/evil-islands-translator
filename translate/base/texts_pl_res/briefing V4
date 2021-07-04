@@ -1,0 +1,24 @@
+O mechanizmie mostu w jaskini
+#show Hero 1
+#show Sheriff 2
+#ANIMATION 9
+#CAMERA 9
+#phrase Sheriff  1
+Pos≥uchaj, WybraÒcze ... myúla≥em ... to nie w porzπdku. Ja jestem Kapitanem, ale to ty pokona≥eú Gobliny. èle dla mojego prestiøu. Czy mÛg≥byú... jakby ... powiedzieÊ, øe to g≥ownie moja zas≥uga, a ty tylko ... jakby pomog≥eú mi, hmm? Oczywiúcie, wynagrodzÍ ci to.
+#ANIMATION 29
+#CAMERA 6
+#phrase Hero  2
+W porzπdku, w porzπdku, nie jestem ambitny. Ale w zamian bÍdÍ chcia≥ ciÍ o coú prosiÊ. MÛwiπ øe masz mechanizm od mostu ktÛry Gobliny ukrad≥y Orkom z jaskini? Ty go raczej nie potrzebujesz a mnie by siÍ przyda≥.
+#show Hero 3
+#show Sheriff 5
+#show CaveGear00 5
+#CAMERA 3
+#phrase Sheriff  3
+Och, ten ... Oczywiúcie, moøesz go sobie wziπÊ!
+#hide CaveGear00
+#ANIMATION 30
+#NOLIPS
+#CAMERA 3
+#phrase Sheriff  4
+Ha, wychodzi na to, øe Wybraniec naprawdÍ jest wioskowym idiotπ! Myúla≥em, øe poprosi o coú powaønego, ale ten mechanizm nie ma øadnej wartoúci. Wyglπda na to, øe jego przyjaciel Babur nie nauczy≥ go odpowiednio siÍ targowaÊ!
+#DESC To himself

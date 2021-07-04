@@ -1,0 +1,15 @@
+O nowej wyprawie po Kwiat
+#show Smith 1
+#show Hero 2
+#ANIMATION 44
+#CAMERA 5
+#phrase Hero  1
+S³uchaj Babur, wiedŸma powiedzia³a mi gdzie mogê znaleŸæ inny Bia³y Kwiat - w Œrodkowych Szczytach, gdzie wyschniête koryto rzeki ³¹czy siê z rzek¹.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  2
+Tym razem ci go sprzedam. Tylko pamiêtaj, ani mru mru.
+#ANIMATION 15
+#CAMERA 11
+#phrase Smith  3
+Nie musisz mi mówiæ....nie krzywdzi³bym swojej w³asnej kieszeni, nieprawda¿?

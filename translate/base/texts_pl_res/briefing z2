@@ -1,0 +1,55 @@
+U¿yj Magicznej Kuli
+#show Witch 1
+#show Hero 2
+#phrase Witch  1
+Dobrze, teraz daj mi Kulê... Powoli, powoli, prawie j¹ upuœci³eœ! To cenna i wra¿liwa rzecz, a ty jesteœ taki niezdarny!
+#show Witch 3
+#show Palantir 4
+#show Hero 5
+#CAMERA 5
+#phrase Hero  2
+W porz¹dku, w porz¹dku, masz tutaj Kulê, w jednym kawa³ku. I co teraz z tym zrobimy?
+#hide Palantir
+#show Palantir 5
+#ANIMATION 32
+#CAMERA 7
+#phrase Witch  3
+Ty nie robisz nic. Tylko obserwuj i zapamiêtaj co zobaczysz. A teraz spróbujê sprawiæ, aby ten przedmiot pokaza³ nam obrazy z twojej przesz³oœci.
+#ANIMATION 6
+#CAMERA 11
+#phrase Witch  4
+Czas ciszy ju¿ siê koñczy,
+o b³yszcz¹ce szkie³ko, teraz, 
+poka¿ czego nie znaj¹ nasze oczy,
+i do przesz³oœci zabierz nas!
+
+#hide Palantir
+#show PalantirRick00 5
+#show PalantirWork00 12
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  5
+Wielkie nieba! ... Ten starzec - czy to by³a moja przesz³oœæ?
+#hide PalantirRick00
+#hide PalantirWork00
+#show PalantirBroken00 4
+#ANIMATION 11
+#CAMERA 5
+#phrase Hero  6
+Co to by³o? Co siê sta³o z Kul¹? Kim by³ ten cz³owiek, dlaczego go ujrza³em? Mów mi!
+#ANIMATION 9
+#CAMERA 9
+#phrase Witch  7
+Spokojnie, spokojnie, po co siê tak unosiæ... Ja naprawdê nie wiem o co w tym wszystkim chodzi. Mogê tylko siê domyœlaæ. Ten starzec w Kuli to nie ty, ch³opcze, nie martw siê tym. Powiedzia³abym ¿e by³ Mistrzem Kuli, i niech mnie Goblin zje na obiad, jeœli nie jest on wiêkszym magiem ode mnie! Jeœli ktokolwiek mo¿e ci pomóc, to on. Postaraj siê go odszukaæ.
+#hide PalantirBroken00
+#show PalantirBroken00 5
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  8
+Tak wiêc muszê siê dowiedzieæ, gdzie Orkowie przetrzymuj¹ Kulê. Ale jak?
+#hide PalantirBroken00
+#show PalantirBroken00 4
+#ANIMATION 9
+#CAMERA 9
+#phrase Witch  9
+Có¿, s³ysza³am, ¿e ka¿de plemiê Orków ma Jasnowidza, który posiada ich zapiski. Jeœli uda ci siê zdobyæ te, które mówi¹ kto mia³ Kulê, mo¿e uda mi siê ustaliæ sk¹d ta pochodzi. Prawdopodobnie ten kronikarz ¿yje tam, gdzie jest wiêcej Orków ni¿ gdziekolwiek indziej - w delcie rzeki, która mo¿e byæ tylko na wyspie centralnej. Tam musisz siê udaæ!

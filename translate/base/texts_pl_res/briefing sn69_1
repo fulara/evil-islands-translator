@@ -1,0 +1,62 @@
+Porozmawiaj z duchem
+#show Hero
+#show OldNekro
+#show Spirit
+#ANIMATION 6
+#CAMERA 4
+#phrase Spirit  2
+Ja. Tu. Bêdê mówiæ. ¯ywi ludzie zawsze coœ ukrywaj¹, pytaj.
+#ANIMATION 8
+#CAMERA 2
+#phrase Hero  3
+Gdzie jest Joon m³ody cz³owieku?
+#ANIMATION 7
+#CAMERA 12
+#phrase Spirit  4
+Niebezpieczeñstwo. Strach. Horror. Czerwona skóra - przychodzi horror. Horror musi byæ oszukany. Nic wiêcej m³odzieñcze.
+#ANIMATION 32
+#CAMERA 2
+#phrase Hero  5
+Czy on nie ¿yje?!
+#ANIMATION 7
+#CAMERA 4
+#phrase Spirit  6
+Nie ma go poœród martwych. Nie ma poœród ¿ywych. Nie ma go nigdzie. Jest jeszcze inny, inna twarz, inna skóra. Reszta - ¿aden horror. Czerwona skóra - przychodzi horror.
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  7
+Czym jest horror? Dlaczego przyszed³?
+#ANIMATION 15
+#CAMERA 12
+#phrase Spirit  8
+Horror zabija. Horror przyszed³ po Joon. M³ody cz³owiek sta³ siê kimœ innym, m³ody cz³owiek poszed³ gdzieœ poprzez nigdzie. Horror zabi³ mnie, zabi³ wszystkich. Potem odszed³. Zostaw mnie, ¿yj¹cy cz³owieku, torturujesz mnie.
+#hide Spirit
+#ANIMATION 5
+#CAMERA 2
+#phrase Hero  9
+Zaczekaj, wróæ!
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  10
+Na oddech ropuchy! Nic z tego nie mia³o sensu...
+#DESC Resignedly
+#show Hero
+#show OldNekro
+#ANIMATION 59
+#CAMERA 7
+#phrase OldNekro  11
+O wiele trudniej jest rozmawiaæ z duchami ni¿ s³uchaæ plotek na targowisku, m³ody cz³owieku! Ale dzisiaj z radoœci¹ przyczyniê siê do upadku chwa³y Taivo, wiêc zni¿ê siê do twojego poziomu inteligencji i wyt³umaczê, co przed chwil¹ us³ysza³eœ.
+#ANIMATION 58
+#CAMERA 7
+#phrase OldNekro  12
+Coœ przysz³o do twierdzy naukowców ¿eby zniszczyæ m³odego mê¿czyznê Joon. ¯eby tego unikn¹æ, m³ody cz³owiek zosta³ zmieniony w inn¹ osobê i gdzieœ przeteleportowany. Poniewa¿ czar teleportacji zabiera trochê czasu, m³odzieniec musia³ u¿yæ przedmiotu zawieraj¹cego czar.
+#ANIMATION 57
+#CAMERA 11
+#phrase OldNekro  13
+Wiêc jeœli chcesz go odnaleŸæ, odszukaj ten przedmiot, albo jego resztki w ruinach twierdzy. Dobry Mag zdo³a powiedzieæ na podstawie tych szcz¹tków miejsce docelowe teleportu.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2
+#phrase Hero  14
+Dobry Mag? Ciekaw jestem, czy stary Nekromanta w Ostatniej Kryjówce jest tak¹ osob¹? W ka¿dym razie, powinienem spróbowaæ odszukaæ amulet i porozmawiaæ o nim z Kehelem!
+#DESC To himself

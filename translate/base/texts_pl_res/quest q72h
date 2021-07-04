@@ -1,0 +1,77 @@
+Portal
+Ten portal to jedyna droga, by opuœciæ Suslanger i powróciæ do Gipath. Jest dobrze strze¿ony i nie bêdzie ³atwo z niego skorzystaæ.
+#subobj  1
+Zniszcz wrogów
+Erfar poinformowa³ stra¿ników ¿e w jaskini znajduje siê zbieg³y wiêzieñ. Czekaj¹ oni przy wejœciu do jaskini; nie oczekuj od nich litoœci. Jedyny sposób, to zniszczyæ ich wszystkich!
+#subobj  2
+PrzejdŸ przez zachodni most
+Unikaj¹c g³ównej bramy (ta droga jest bardzo niebezpieczna!), wejdŸ do miasta przez most na zachodniej rzece. Jest on pilnowany mniej ni¿ g³ówna brama.
+#subobj  3
+PrzejdŸ przez wschodni most
+Aby opuœciæ miasto, skorzystaj z drugiego mostu w po³udniowym rejonie.
+#subobj  4
+Odszukaj stra¿nika kluczy pu³apek
+Stra¿nik, który od czasu do czasu sprawdza o³tarze, posiada klucze do pu³apek. Jeœli ukryjesz siê blisko o³tarza, móg³byœ pochwyciæ go niezauwa¿enie.
+#subobj  5
+WeŸ klucz
+WeŸ klucz z cia³a stra¿nika kluczy
+#subobj  6
+ZnajdŸ o³tarz pierwszego krêgu pu³apek
+Ka¿de zbli¿enie do o³tarza jest zabezpieczone kilkoma krêgami ochronnymi. Niezale¿nie od uzbrojonych stra¿ników, s¹ to magiczne pu³apki, które zniszcz¹ ka¿dego, kto wejdzie na magiczny teren bez pozwolenia. Pu³apki s¹ kontrolowane przez o³tarze, a do ka¿dego z nich potrzeba specjalnego klucza.
+#subobj  7
+Wy³¹cz pierwszy kr¹g pu³apek
+Dopóki nie zostan¹ wy³¹czone pu³apki pierwszego krêgu, nie bêdziesz móg³ podejœæ do o³tarza.
+#subobj  8
+ZnajdŸ stra¿nika kluczy drugiego krêgu pu³apek
+Drugiego stra¿nika kluczy do krêgu pu³apek mo¿na znaleŸæ na przeciwko o³tarza po drugiej stronie magicznego obszaru. Aby go odszukaæ, u¿yj czaru "Jasnowidzenie" lub "Fajerwerki".
+#subobj  9
+WeŸ klucz
+WeŸ klucz z cia³a stra¿nika kluczy
+#subobj  10
+ZnajdŸ o³tarz drugiego krêgu pu³apek
+Pu³apki portalu drugiego krêgu ochrony s¹ po³o¿one na drodze do po³udniowego mostu po drugiej stronie kanionu.
+#subobj  11
+Wy³¹cz drugi kr¹g pu³apek
+Dopóki nie zostan¹ wy³¹czone pu³apki drugiego krêgu, nie bêdziesz móg³ podejœæ blisko do o³tarza.
+#subobj  15
+Namierz Stra¿nika trzeciego krêgu pu³apek
+Po³udniowy most po drugiej stronie kanionu jest pilnowany przez wielk¹ jednostkê stra¿nicz¹. Ale mo¿esz iœæ wzd³u¿ krawêdzi do pó³nocnego mostu niezauwa¿enie. Znajduj¹ siê tam Pu³apki trzeciego krêgu, ale jest w¹skie przejœcie przez teren magiczny - jest ono u¿ywane przez m³odego wojowniczego Maga, który dogl¹da pu³apek. Musisz namierzyæ tego Maga i zapamiêtaæ dok³adnie jego drogê!
+#subobj  16
+PrzejdŸ przez trzeci kr¹g pu³apek
+Nie ma sposobu na wy³¹czenie trzeciego krêgu pu³apek, ale mo¿esz je omin¹æ, jeœli pod¹¿ysz t¹ sam¹ drog¹, co Stra¿nik.
+#subobj  20
+ZnajdŸ Dowódcê stra¿y portalu
+Aby znaleŸæ jego dom, idŸ na wschód od miejsca, gdzie rzeka zawraca na zachód. Dom Dowódcy stoi na wzgórku obok muru, wyznaczaj¹cego krawêdŸ pierwszego krêgu ochrony portalu.
+#subobj  21
+Zdob¹dŸ klucz
+Aby uruchomiæ portal, u¿yj klucza, który ma dowódca stra¿y.
+#subobj  22
+PrzejdŸ kanion
+Aby dostaæ siê do portalu, przekrocz kanion jednym z mostów.
+#subobj  23
+ZnajdŸ wschodni kamieñ kontroli
+Aby uruchomiæ portal, musisz u¿yæ klucza na dwóch kamieniach kontroli - wschodnim i zachodnim. Te s¹ umieszczone niedaleko wejœcia do portalu.
+#subobj  24
+Obróæ wschodni kamieñ kontroli
+Portal nie zadzia³a, dopóki kamieñ nie zostanie obrócony.
+#subobj  25
+ZnajdŸ zachodni kamieñ kontroli
+Aby uruchomiæ portal, musisz u¿yæ klucza na dwóch kamieniach kontroli - wschodnim i zachodnim. Te s¹ umieszczone niedaleko wejœcia do portalu.
+#subobj  26
+Obróæ zachodni kamieñ kontroli
+Portal nie zadzia³a, dopóki kamieñ nie zostanie obrócony.
+#subobj  27
+PrzejdŸ przez portal
+Aby wróciæ do Gipath, po prostu wejdŸ w portal (strefa teleportacji).
+#subobj  34
+Ucieczka przed stra¿¹ miasta
+Stra¿ miejska zosta³a zaalarmowana!
+#subobj  35
+Ucieczka przed stra¿¹ g³ównych bram
+Stra¿ g³ównych bram zosta³a zaalarmowana!
+#subobj  36
+Ucieczka przed stra¿¹ portalu
+Stra¿ portalu zosta³a zaalarmowana!
+#subobj  37
+Ucieczka przed stra¿¹ portalu
+Stra¿ portalu zosta³a zaalarmowana!

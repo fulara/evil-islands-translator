@@ -1,0 +1,24 @@
+O wnuczce Estery, zachowano
+#show Hero
+#show Daughter
+#show Witch
+#ANIMATION 61
+#CAMERA 4
+#phrase Witch  1
+To jest przyk³ad wstrêtnej, bezwstydnej dziewczyny - ludzie ryzykuj¹ ¿ycie by j¹ ocaliæ i nawet nie us³ysz¹ w zamian kilku s³ów podziêkowania! Niewa¿ne, wynagrodzê ci to.
+#ANIMATION 63
+#CAMERA 12
+#phrase Witch  2
+Nie b¹dŸ taki sceptyczny, to bardzo rzadko spotykana rzecz! I mam dla ciebie jeszcze jedn¹ proœbê - porozmawiasz z t¹ przeklêt¹ dziewczyn¹? W ogóle nie jest sob¹.
+#DESC Shows item
+#hide Witch 
+#show Hero 1
+#ANIMATION 11
+#CAMERA 11
+#phrase Daughter  3
+Dlaczego nie mo¿esz na mnie spojrzeæ inaczej? Czy coœ jest ze mn¹ nie tak?
+#DESC (Guiltily but challenging)
+#ANIMATION 62
+#CAMERA 10
+#phrase Hero  4
+Nie chodzi o ciebie, Airy. Widzisz... chocia¿ nie pamiêtam swojej przesz³oœci, ci¹gle czuje coœ w moim sercu. Wiem to, ja... ja czujê, ¿e kocham inn¹ osobê, ¿e ona czeka na mnie nawet teraz! Ale nie pamiêtam gdzie ona jest, ani jak j¹ odnaleŸæ. Jesteœ bardzo mi³¹ i ³adn¹ dziewczyn¹, Airy, ale nie chcê ciê oszukiwaæ, ani nikogo innego. I proszê, nie rób wiêcej g³upich rzeczy. Nastêpnym razem mogê nie zd¹¿yæ na czas.

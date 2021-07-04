@@ -1,0 +1,51 @@
+O opuszczonych kopalniach
+#show Hero 1
+#show Huber 2
+#ANIMATION 11
+#CAMERA 11
+#phrase Huber  1
+Ach, m³ody cz³owieku, dlaczego tak ci siê spieszy? Co jest powodem takiego przyspieszenia?
+#ANIMATION 43
+#CAMERA 10
+#phrase Hero  2
+Kopalnia!
+#ANIMATION 45
+#CAMERA 3
+#phrase Huber  3
+Jaka kopalnia? Co to znaczy "kopalnia"? A gdzie dzieñ dobry, gdzie twoje maniery?
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  4
+Wasza Wysokoœæ, bardzo przepraszam za mój poœpiech, ale mam wiele wa¿nych powodów, by z Tob¹ porozmawiaæ. Zdecydowa³em, ¿e ju¿ nadszed³ czas. ¯eby rozpocz¹æ interesy. Interesy zwi¹zane z kopalniami.
+#ANIMATION 3
+#CAMERA 3
+#phrase Huber  5
+Och, jak nieznoœnie têpo... i có¿ to za wa¿ne powody?
+#ANIMATION 32
+#CAMERA 2
+#phrase Hero  6
+Có¿, Wasza Wysokoœæ, zauwa¿y³em, ¿e wielbisz piêkno i jestem przekonany, ¿e w opuszczonych kopalniach znajdê wiele przepiêknych rzeczy...
+#show Hero 3
+#show GoldNugget00 4
+#show Huber 5
+#ANIMATION 9
+#CAMERA 5
+#phrase Hero  7
+jak na przyk³ad ten samorodek z³ota. Jeœli przyjmiesz go jako podarunek, bêdzie to dla mnie wielki zaszczyt!
+#ANIMATION 62
+#CAMERA 7
+#hide GoldNugget00
+#show GoldNugget00 5
+#phrase Huber  8
+Hm... Có¿, to rzeczywiœcie wa¿ne powody, najwy¿szej wagi, powiedzia³bym. Teraz dopiero pozna³em twoje maniery i muszê przyznaæ, ¿e jesteœ po trosze romantykiem. W rzeczy samej, co mo¿e byæ bardziej romantycznego od piêknego, ciê¿kiego, z³otego samorodka!
+#show Hero 1
+#hide GoldNugget00
+#show Huber 2
+#ANIMATION 63
+#CAMERA 2
+#phrase Hero  9
+Lecz by rozpocz¹æ interesy, bêdê potrzebowa³ kluczy od kopalñ - a te s¹ pod kontrol¹ Waszej Wysokoœci! Jestem pewien, ¿e znajdê tam mnóstwo innych interesuj¹cych rzeczy, a najlepsze z nich mo¿e nawet zas³u¿¹ na miejsce w kolekcji Waszej Wysokoœci.
+#ANIMATION 9
+#CAMERA 9
+#phrase Huber  10
+Och, klucz? A tak, gdzieœ go mia³em... Có¿, jeœli zamek jest jedyn¹ przeszkod¹ pomiêdzy mn¹ i piêknem, jak móg³bym ci odmówiæ klucza?

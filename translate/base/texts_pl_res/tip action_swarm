@@ -1,0 +1,5 @@
+Tryb Agresywny/Defensywny
+Prze³¹cza tryb zachowania postaci pomiêdzy "agresywnym" i "defensywnym".
+W trybie "Agresywnym" postaæ zaatakuje ka¿dego wroga, który j¹ zauwa¿y³. 
+W trybie "Defensywnym" zaatakuje tylko po wydaniu odpowiedniej 
+komendy.

@@ -1,0 +1,11 @@
+     ¯eby z³o¿yæ czar, kliknij na jego kluczu w swoim inwentarzu (dolny pasek) lub w sklepie (pasek górny). Klucz zostanie umieszczony we w³aœciwym miejscu.
+     Zarezerwowane miejsca zostan¹ wtedy zaznaczone migocz¹c¹ ramk¹. Liczba takich miejsc jest równowa¿na liczbie runów, które s¹ potrzebne do tego zaklêcia. Zmienia siê ona za ka¿dym razem kiedy dodajesz runê w konstruktorze. Aby dodaæ runê, kliknij na jej obrazku w swoim inwentarzu lub w sklepie, a pojawi siê w pierwszym wolnym miejscu.
+     Klucz determinuje jakie runy mog¹ zostaæ u¿yte do danego czaru. Niedostêpne runy bêd¹ przyciemnione.
+
+     Uwaga: nie mo¿esz umieszczaæ runów w konstruktorze dopóki nie zrobisz tego z kluczem. Jeœli zabierzesz klucz z konstruktora i w³o¿ysz spowrotem do inwentarza lub sklepu, wszystkie runy, które dodawa³eœ, tak¿e zostan¹ usuniête i powróc¹ tam, sk¹d zosta³y wziête.
+
+     W³aœciwoœci zaklêcia, które utworzy³eœ, s¹ pokazane w lewym panelu, ³¹cznie z dodatkowymi w³aœciwoœciami, dodanymi dziêki runom, których u¿y³eœ. Ni¿sza czêœæ ekranu pokazuje ca³kowit¹ cenê czaru. Zawiera ona wszystkie zakupione artyku³y.
+
+     Aby z³o¿yæ czar, kliknij na przycisku <V>, aby anulowaæ - <X>.
+
+     Uwaga: jeœli z³o¿ysz czar i zaraz potem go roz³o¿ysz (bez wk³adania do inwentarza), i tak bêdziesz musia³ zap³aciæ za sk³adanie/rozk³adanie, tak wiêc uwa¿aj co robisz!

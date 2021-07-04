@@ -1,0 +1,51 @@
+Domagaj siê przet³umaczenia dokumentu
+#show Elder 3
+#show CodedHadaganNote 4
+#show Hero 5
+#ANIMATION 1
+#CAMERA 5
+#phrase Hero  1
+W porz¹dku, kundlu, dam ci szansê troszeczkê rozjaœniæ twoj¹ przysz³oœæ. Tylko odrobinkê, ale to lepsze ni¿ nic dla kogoœ w twojej sytuacji.
+#hide CodedHadaganNote
+#show CodedHadaganNote 5
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  2
+Mo¿esz przet³umaczyæ tê notatkê, prawda?
+#ANIMATION 15
+#CAMERA 3
+#phrase Elder  3
+Oczywiœcie, oczywiœcie! Natychmiast!
+#ANIMATION 7
+#CAMERA 6
+#phrase Hero  4
+Myœlê, ¿e nie muszê przestrzegaæ ciê przed robieniem jakichkolwiek omy³ek, rozwa¿añ w przeciwnym razie?
+#hide CodedHadaganNote
+#show CodedHadaganNote 4
+#ANIMATION 31
+#CAMERA 9
+#phrase Elder  5
+Nie, nie, Wybrañcze, rozumiem, ¿e mój los jest w twoich rêkach!
+#hide CodedHadaganNote
+#show CodedHadaganNote 5
+#ANIMATION 15
+#CAMERA 11
+#phrase Elder  6
+To urzêdowy alfabet Cesarstwa Khadaganian, te papiery s¹ projektem pewnego raportu. Oddzia³... kilku ¿o³nierzy i urzêdnik... Obozowisko... Nowe obozowisko nieopodal Odleg³ych Szczytów... I tu jest spójny tekst: twierdzi, ¿e we wschodniej czêœci Odleg³ych Szczytów jest w¹ski korytarz pomiêdzy ska³ami, prowadz¹cy na pó³noc. Och, prowadzi do œlepego zau³ka, gdzie znajduje siê dŸwignia.
+#ANIMATION 8
+#CAMERA 7
+#phrase Elder  7
+Ta dŸwignia jest po³¹czona z tunelem na zachodzie w¹wozu. Jeœli naciœniesz dŸwigniê, otworzy siê wejœcie do tunelu. Korytarz jest niebezpieczny, s¹ tutaj wspomniane liczne szczeliny i œlepe zau³ki... Mówi, ¿e zapuszczanie siê zbyt daleko na wschód jest niebezpieczne - ¿yj¹ tam harpie.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  8
+To wszystko?
+#ANIMATION 2
+#CAMERA 7
+#hide CodedHadaganNote 4
+#phrase Elder  9
+Nie, jest wiêcej... w tunelu znajduje siê niebezpieczeñstwo, ale nie okreœla jaki rodzaj niebezpieczeñstwa to jest. To wszystko co mówi.
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  10
+Cha! Czy naprawdê mia³eœ nadzieje, ¿e wypuszczê ciê w zamian za ten stek bzdur? Nie, zostaniesz tutaj dopóki nie zdecyduje co z tob¹ zrobiæ!

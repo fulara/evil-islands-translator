@@ -1,0 +1,27 @@
+O Bandytach i jaskini
+#show Hero 1
+#show Deva 2
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  1
+Kiedy na pocz¹tku wziê³aœ mnie za Rozbójnika, powiedzia³aœ, ¿e wezwiesz W³adców Podziemi na pomoc. Czy mia³aœ na myœli Robalog³owych? Czy naprawdê masz kontrolê nad tymi okropnymi stworzeniami?
+#ANIMATION 63
+#CAMERA 3
+#phrase Deva  4
+Nie, nie mogê im rozkazywaæ... Robalog³owi zwyczajnie szanuj¹ przymierze jakie zawarli z Joonami w zamierzch³ych czasach. Zanikanie naszej rasy, katastrofa, która spotka³a œwiat - W³adców Podziemi nic to nie obchodzi. Po prostu dotrzymuj¹ s³owa.
+#ANIMATION 61
+#CAMERA 11
+#phrase Deva  5
+To w³aœnie dlatego zdo³a³am uciec z podziemnego obozu Rozbójników, unikaj¹c pogoni... oni byli przestraszeni! Wiêc zdziwi³am i przestraszy³am siê zarazem kiedy tu przyby³eœ, nawet pomimo, ¿e nie by³am sama.
+#ANIMATION 61
+#CAMERA 10
+#phrase Hero  6
+To nie by³o ³atwe. I, tak przy okazji, mam nadziejê, ¿e wiesz jak siê wydostaæ z tej jaskini? Czar teleportacji zabierze nas z powrotem do Tka-Ricka, ale tylko nas dwoje. Co z pozosta³ymi?
+#ANIMATION 9
+#CAMERA 3
+#phrase Deva  7
+Och, to proste. W³adcy Podziemi wiedz¹, ¿e wszyscy moi goœcie s¹ godni zaufania.
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  8
+Wyœmienicie! Czy teraz dasz mi piêæ minut? Muszê siê po¿egnaæ...

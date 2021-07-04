@@ -1,0 +1,37 @@
+O kradzie¿y w domu gubernatora
+#show Hero 1
+#show Shopper 2
+#ANIMATION 62
+#CAMERA 11
+#phrase Shopper  1
+Zawsze twierdzi³em, ¿e ¿adna magia nie mo¿e zast¹piæ ¿ywych stra¿ników! Na przyk³ad, dobrze p³ace swoim ludziom i ¿aden nigdy nic mi nie ukrad³. Ale zacznij mówiæ o magii, a twój mózg wybierze siê na wakacje! To wina Gubernatora, ¿e zaufa³ tej Czarodziejce Dierze - nawet taki amator jak Baldie Flein zdo³a³ pokonaæ jej pu³apki!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  2
+Co za Baldie?
+#ANIMATION 11
+#CAMERA 11
+#phrase Shopper  3
+Eeeech... O czym ty mówisz?
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  4
+Powiedzia³eœ, ¿e to jakiœ Baldie obrabowa³ Gubernatora?
+#ANIMATION 61
+#CAMERA 11
+#phrase Shopper  5
+Nic takiego nie mówi³em. Czy aby przypadkiem nie u¿ywasz jakiœ muchomorów albo trawki? Nie? To dobrze, bo kiedy zaczynasz s³yszeæ rzeczy, które nie zosta³y wypowiedziane, nastêpnym etapem bêdzie widzenie rzeczy, których nie ma!
+#hide Shopper
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2
+#phrase Hero  6
+Podstêpny lis z tego Karansula - w podnieceniu coœ mu siê wymsknê³o, jednak natychmiast wszystkiemu zaprzeczy³! On z pewnoœci¹ coœ wie, tylko jak go zmusiæ do mówienia?
+#DESC To himself
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  7
+Z drugiej strony, Sver chyba nie przepada za tym kupcem, mo¿e on móg³by mi pomóc zmusiæ go do mówienia?
+#DESC To himself

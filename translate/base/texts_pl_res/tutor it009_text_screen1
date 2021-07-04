@@ -1,0 +1,8 @@
+     Aby z³o¿yæ przedmiot, kliknij na jego schematcie w swoim inwentarzu (dolny pasek) lub w sklepie (górny pasek). Schemat zostanie umieszczony w odpowiednim miejscu.
+     Zaraz po umieszczeniu schematu, miejsca na materia³y zostan¹ podœwietlone migocz¹c¹ ramk¹. Ich iloœæ odpowiada jednostkom materia³u, o których mówi plan. Kliknij na materiale - czy to w inwentarzu, czy w sklepie - a zostanie przeniesiony na jedno z miejsc. Mo¿esz u¿yæ tylko jednego rodzaju materia³u aby stworzyæ przedmiot. Mieszanie ró¿nych materia³ów nie jest dozwolone nawet, jeœli s¹ tego samego typu.
+
+     Uwaga: zanim umieœcisz materia³ w konstruktorze, musisz tam w³o¿yæ schemat. Jeœli umieœcisz schemat w konstruktorze a potem wyjmiesz go (np. powróci do inwentarza lub sklepu), wszystkie materia³y, które umieszcza³eœ w konstruktorze, zostan¹ automatycznie usuniête i powróc¹ sk¹d zosta³y przeniesione.
+
+     Kiedy wszystkie miejsca na materia³y bêd¹ zajête, lewy panel wyœwietli w³aœciwoœci z³o¿onego przedmiotu. W ni¿szej czêœci ekranu ujrzysz cenê przedmiotu. Zawieraæ ona bêdzie cenê wszystkich zakupionych artyku³ów, jeœli takowe by³y.
+
+     Aby z³o¿yæ przedmiot, u¿yj przycisku <V>, aby anulowaæ - <X>.

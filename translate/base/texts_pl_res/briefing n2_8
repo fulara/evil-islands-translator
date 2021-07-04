@@ -1,0 +1,9 @@
+Zostaw Fairakha w mieœcie
+#show Hero 3
+#show Merc8 5
+#phrase Hero  1
+Nie wygl¹dasz za dobrze, Fairakh... Znaczy, Bracie Fairakh. Czy Ÿle siê czujesz?
+#phrase Merc8  2
+Niezupe³nie... ale potrzebujê paru dni na odzyskanie si³. Czy poradzisz sobie beze mnie?
+#phrase Hero  3
+Uczyniê co w mojej mocy. B¹dŸ zdrów!

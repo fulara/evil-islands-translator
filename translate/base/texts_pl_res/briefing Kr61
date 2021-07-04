@@ -1,0 +1,31 @@
+Porozmawiaj z Odalisk¹
+#show Hero 1
+#show Nalo 2
+#ANIMATION 6
+#CAMERA 2 -30 10 10
+#phrase Nalo  1
+S³uchaj uwa¿nie: na pó³nocnym zachodzie Kanionu jest przejœcie, prowadz¹ce do jaskini. Stra¿nicy nigdy tam nie wchodz¹, obawiaj¹c siê Robalog³owych, lecz wiem, ¿e posiada ona tak¿e wyjœcia na zewn¹trz. Kiedy ciê uwolniê, postaraj siê tam dotrzeæ.
+#ANIMATION 31
+#CAMERA 2 35 6 1.5
+#phrase Nalo  2
+Mój ojciec polowa³ na szczury i czêsto chodzi³ do jaskiñ... jednego dnia nie wróci³... W³aœnie to mi powiedzia³.
+#ANIMATION 9
+#CAMERA 2 -30 7 7
+#phrase Nalo  3
+W jaskini obok Kanionu Œmierci, W³adcy Podziemi wybudowali swoj¹ œwi¹tyniê i dwa mosty poprzez rzeki lawy - wschodni i zachodni. Obs³uguje siê je dziêki dwóm dŸwigniom, wiêc g³ównym celem jest ich odszukanie. Bêdziesz musia³ przemierzyæ ca³e jaskinie z zachodu na wschód; gdzieœ musi byæ wyjœcie!
+#ANIMATION 44
+#CAMERA 2 35 6 1.5
+#phrase Nalo  4
+Kiedy ciê uwolniê, zabierz swoje rzeczy i idŸ na pó³noc do g³ównych bram. Kardaur stoi dzisiaj na stra¿y i bêdzie mia³ klucz. Zabij go, otwórz fortecê i nie marnuj czasu - poœcig wyruszy bardzo szybko!
+#ANIMATION 15
+#CAMERA 2 30 7 7
+#phrase Nalo  5
+Móg³byœ ich przez chwilê zatrzymaæ, jeœli otworzy³byœ wszystkie klatki w zoo - s¹ tutaj, w po³udniowej fortecy. Jest dŸwignia w pobli¿u bram, która otwiera wszystkie klatki naraz. Nie wiem dlaczego jest tam, ale myœlê, ¿e Stra¿nicy maj¹ w tym taki lub inny cel.
+#ANIMATION 31
+#CAMERA 2 0 3 0.8
+#phrase Hero  6
+Mam nadziejê ¿e to dzia³a! A teraz dziêkujê ci, kochanie. Mam nadziejê, ¿e odnajdziesz odpowiedniejsze przeznaczenie...
+#ANIMATION 31
+#CAMERA 2 35 6 1.5
+#phrase Nalo  7
+Ja te¿ ¿yczê ci szczêœcia. A teraz ¿egnaj.

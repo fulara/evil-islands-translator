@@ -1,0 +1,28 @@
+Prezent Hermita
+#show Hero 
+#show OLIZ 
+#CAMERA 9
+#phrase OLIZ  1
+Cz³owiecze, muszê ci powiedzieæ... napotkasz wiele niebezpieczeñstw.
+#ANIMATION 11
+#CAMERA 5
+#phrase Hero  2
+Powa¿nie? Có¿ za niespodzianka!
+#CAMERA 3
+#phrase OLIZ  3
+No to teraz ju¿ wiesz. Chcia³bym, ¿ebyœ prze¿y³ te niebezpieczeñstwa. To ci pomo¿e.
+#show DragonWand 7
+#ANIMATION 6
+#CAMERA 6
+#phrase Hero  4
+A có¿ to? Wygl¹da jak róg albo jakaœ muszla. Ten, który to wykona³ prawdopodobnie nie mia³ pojêcia co to bêdzie ostatecznie!
+#CAMERA 11 10 5 2
+#phrase OLIZ  5
+Mo¿e siê mylisz. Mo¿e mia³. Ale w ka¿dym razie, weŸ to. To ci pomo¿e.
+#ANIMATION 32
+#CAMERA 2 25 6 3
+#phrase Hero  6
+Ale jak? Co ja niby mam z tym zrobiæ?
+#CAMERA 1 0 4 4
+#phrase OLIZ  7
+Tego nie wiem. Jesteœ cz³owiekiem, jesteœ bystry. Wymyœl coœ.

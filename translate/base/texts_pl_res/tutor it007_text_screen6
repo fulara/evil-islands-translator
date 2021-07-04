@@ -1,0 +1,6 @@
+     Pasek na górze ekranu pokazuje które czary bêd¹ dostêpne dla postaci podczas wykonywania zadañ. Pasek na dole pokazuje zawartoœæ inwentarza.
+     
+     Twój inwentarz zawiera kilka gotowych zaklêæ. Aby przekazaæ jedno z nich postaci, po prostu kliknij na jego ikonie w dolnym pasku.
+     Aby czar wróci³ do inwentarza, kliknij na jego ikonie w górnym pasku.
+
+     Uwaga: jeœli czar jest zbyt skomplikowany jak na wiedzê twojej postaci o danym rodzaju magii (Magii ¯ywio³ów, Magii Sensorycznej, Magii Astralnej), bêdzie przyciemniony i nie bêdzie go mo¿na przekazaæ postaci. To samo wyst¹pi w przypadku gdy postaæ nie mo¿e rzuciæ czaru z powodu braku potrzebnej wytrzyma³oœci.

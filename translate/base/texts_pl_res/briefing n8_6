@@ -1,0 +1,27 @@
+Poznaj £ucznika
+#show Hero 1
+#show Merc6 2
+#ANIMATION 11
+#CAMERA 3
+#phrase Merc6  1
+Hej tam! Podobno zamierzasz szukaæ Ksiê¿niczki jak to czyni³ zaginiony Snoop?
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+A gdybym by³? Kim¿e jesteœ w takim razie, i dlaczego chcesz wiedzieæ?
+#ANIMATION 44
+#CAMERA 3
+#phrase Merc6  3
+Mam na imiê Myrana i jestem raczej dobr¹ kuszniczk¹... Przynajmniej tak mi siê wydaje. Jeœli zamierzasz czêsto wyruszaæ poza miasto, myœlê, ¿e mog³abym ci siê przydaæ.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  4
+Czemu tak s¹dzisz?
+#ANIMATION 63
+#CAMERA 3
+#phrase Merc6  5
+Có¿, z pewnoœci¹ jesteœ tu nowy! Gdybyœ by³ miejscowy, nie pyta³byœ. Czy¿by dobry Kapitan nie mówi³ ci o niepokoju na prowincjach? WyjdŸ sto kroków poza miasto, a zrobi¹ z ciebie poduszeczkê do szpilek. Czy wiesz, ¿e nasi ³ucznicy z Ingos to doskonali strzelcy?
+#ANIMATION 9
+#CAMERA 2
+#phrase Hero  6
+Mo¿e i masz racjê, Myrano. Jednak¿e, jakoœ odnios³em wra¿enie, ¿e ludzie z wioski nie s¹ tutaj zbytnio goœcinni. Jeœli bêdê kiedyœ potrzebowa³ kogoœ do kompanii, bêdê o tobie pamiêta³.

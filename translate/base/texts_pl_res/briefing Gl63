@@ -1,0 +1,44 @@
+Porozmawiaj z Khatul
+#show Hero 3
+#show Glav 4
+#show Kuzn 5
+#ANIMATION 61
+#CAMERA 4
+#phrase Kuzn  1
+Bracie Khatul! Znalaz³em tego blondyna g³êboko w Czarnej Jaskini. Mówi, ¿e uda³o mu siê uciec z Kanionu Œmierci, pobity, lecz nie po³amany. Jest wart tego by staæ siê jednym z nas!
+#ANIMATION 11
+#CAMERA 3
+#phrase Glav  2
+Czy nie jesteœ za bardzo ufny, Bracie Kowalu? Czy wiesz jak wiele z³ota zosta³o obiecane ka¿demu, kto zdradzi Stra¿nikom miejsce naszej podziemnej kryjówki?
+#ANIMATION 7
+#CAMERA 3
+#phrase Glav  3
+Nasz goœæ nie wygl¹da na szpiega Aiset-Beka, ale w¹¿ pozostaje wê¿em, niezale¿nie od wzorów na jego skórze!
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  4
+Jedyne, czego chcê od Aiset-Beka, to spotkaæ siê z nim z broni¹, twarz¹ w twarz.
+#ANIMATION 32
+#CAMERA 12
+#phrase Kuzn  5
+Mo¿esz siê przebraæ, mo¿esz udawaæ szramy od ch³osty, ale nie móg³byœ udawaæ nienawiœci, pa³aj¹cej z twoich oczu. Nie wierzê ¿e on k³amie, wiêc proszê ciê o próbê dla niego.
+#ANIMATION 15
+#CAMERA 3
+#phrase Glav  6
+W porz¹dku. Tak wiêc, Blondynie, przyjmiemy ciê do nas... jeœli przyniesiesz mi Sygnet Cesarza. Pos³aniec, który go mia³ by³ na drodze do cesarskiego wezyra w Suslanger... lecz napotka³ Cyklopa. Wiemy, ¿e on teraz posiada Sygnet wœród swych skarbów. Przynieœ go tutaj!
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  7
+A czego to dowiedzie? Mo¿e i siê mylê, mówi¹c to, ale ka¿dy móg³by tego dokonaæ, z ró¿nych powodów...
+#ANIMATION 9
+#CAMERA 8
+#phrase Kuzn  8
+Bracie Khatul, próby w Kanionie Œmierci pomiesza³y temu cz³owiekowi zmys³y! Zapomnia³ nawet, jaka kara spotka tego, który oœmieli siê dotkn¹æ Sygnetu Cesarza!
+#ANIMATION 8
+#CAMERA 7
+#phrase Glav  9
+Bracie Kowalu, pozwól temu mê¿czyŸnie samemu zdecydowaæ co ma robiæ w zwi¹zku z Sygnetem. Powiem mu tylko gdzie odnaleŸæ Cyklopa. Tak wiêc, Blondynie,  musisz dotrzeæ do pustyni Nekromantów i odnaleŸæ parów na pó³nocnym zachodzie.
+#ANIMATION 9
+#CAMERA 7
+#phrase Glav  10
+Tam ¿yje Cyklop, a nie jest sam: z³e oczy rozsiane s¹ wszêdzie dooko³a jego pieczary. Niektóre z nich s¹ leniwe, lecz inne atakuj¹ ka¿dego, kto wydaje im siê wrogiem. Mo¿esz zabijaæ lub oszukiwaæ te z³e oczy, lecz nie radzê ci próbowaæ zabiæ Cyklopa. To wszystko, co mia³em ci do powiedzenia!

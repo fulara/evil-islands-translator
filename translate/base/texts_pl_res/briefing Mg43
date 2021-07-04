@@ -1,0 +1,22 @@
+O znalezionych zw³okach
+#show Hero 1
+#show Magess 2
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  1
+Odnalaz³em zw³oki Snoopa. O czym mówi³aœ, kiedy mnie ostrzega³aœ?
+#ANIMATION 11
+#CAMERA 11
+#phrase Magess  2
+Mój drogi m³odzieñcze, zapamiêtaj jedn¹ rzecz: ja nigdy nikogo nie ostrzegam. Ja tylko stwierdzam fakty.
+#show Hero 3
+#show DriadArrow00 3
+#show Magess 5
+#ANIMATION 32
+#CAMERA 2
+#phrase Hero  3
+Spójrz, tym zosta³ zabity.
+#ANIMATION 11
+#CAMERA 3
+#phrase Magess  4
+Có¿, ludzie s¹ œmiertelni. A czasami bardzo szybko staj¹ siê œmiertelnikami.

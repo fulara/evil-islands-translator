@@ -1,0 +1,14 @@
+Zemsta na porywaczu Starca
+Wódz Zielonego Klanu chce, aby szpieg, który porwa³ Szlachetnego Starca zosta³ zabity. Przynieœ wodzowi odznakê szpiega.
+#subobj  1
+Odszukaj obóz wojskowy
+ Aby znaleŸæ obóz wojskowy, gdzie przebywaj¹ szpiedzy, idŸ wpierw z obrze¿y miasta do opuszczonych kopalni, a nastêpnie na wschód. Obóz le¿y w dolinie miêdzy dwoma wzgórzami. Oba wejœcia do doliny s¹ ogrodzone i pilnowane, ale po³udniowe strze¿one jest bardziej czujnie ni¿ pó³nocne.
+#subobj  2
+ZnajdŸ szpiega
+ Spróbuj poszukaæ go w pobli¿u jego baraku, który znajduje siê w zachodniej czêœci obozu obok zbocza. Pamiêtaj, ¿e w po³udniowo-wschodniej czêœci obozu znajduje siê strzelnica, gdzie trenuj¹ ³ucznicy, tak wiêc unikaj jej.
+#subobj  3
+Zabij
+ Szpieguj¹cy porywacz musi zgin¹æ.
+#subobj  4
+Zabierz z cia³a odznakê
+ Aby dowieœæ Wodzowi Zielonego Klanu, ¿e porywacz dosta³ to, na co zas³u¿y³, powinieneœ przynieœæ jego osobist¹ odznakê.

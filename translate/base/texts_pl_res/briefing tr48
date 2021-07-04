@@ -1,0 +1,87 @@
+O skradzionych zapiskach
+#show Hero 1
+#show Shopper 2
+#ANIMATION 11
+#CAMERA 11
+#phrase Shopper  1
+To znowu ty?! Nic nie wiem o Ksiê¿niczce! Nawet nie musisz pytaæ!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  2
+Nie zamierza³em. Przyszed³em ci opowiedzieæ pewn¹ historyjkê.
+#ANIMATION 43
+#CAMERA 11
+#phrase Shopper  3
+Ca³kiem ci odbi³o? Jestem cz³owiekiem biznesu, mój czas to pieni¹dz. Jak¹ historyjkê? Chyba odjecha³eœ na grzybkach...
+#ANIMATION 44
+#CAMERA 10
+#phrase Hero  4
+Czemu? Pos³uchaj, to zajmie tylko chwilê. Pewnego razu ¿y³ sobie kupiec. Problem tkwi³ w tym, ¿e by³ nieuczciwy i oszukiwa³ Gubernatora. Wszystko sz³o po prostu piêknie, a¿ pewnego dnia...
+#ANIMATION 45
+#CAMERA 11
+#phrase Shopper  5
+Nie rozumiem o co sugerujesz, m³odzieñcze. Oszukiwa³?
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero  6
+Pewnego dnia zgubi³ kilka bardzo wa¿nych dokumentów... Ksiêgi handlowe. W tych ksiêgach by³y opisane jego wszystkie brudne interesy, czarno na bia³ym.
+#ANIMATION 15
+#CAMERA 11
+#phrase Shopper  7
+Co siê póŸniej wydarzy³o?
+#ANIMATION 61
+#CAMERA 10
+#phrase Hero  8
+Nastêpnego dnia do kupca przychodzi cz³owiek i mówi: "Jeœli chcesz odzyskaæ swoje dokumenty, odpowiedz na moje pytania". Ale kupiec by³ g³upcem i nie uwierzy³ mê¿czyŸnie. Jeszcze tego samego dnia dokumenty trafi³y do r¹k Gubernatora, a potem...
+#ANIMATION 62
+#CAMERA 11
+#phrase Shopper  9
+Tak, naprawdê ciekawa opowieœæ. Jesteœ pewien, ¿e dotyczy³a tylko kupca? A co z mê¿czyzn¹? Nie skar¿y³ siê na k³opoty zdrowotne, albo coœ takiego? Sam wiesz, mamy ciê¿kie czasy, dziej¹ siê ró¿ne rzeczy...
+#ANIMATION 63
+#CAMERA 2
+#phrase Hero  10
+Och, historyjkê z pewnoœci¹ mo¿na opowiedzieæ na kilka sposobów. Jest tak¿e smutna wersja - mê¿czyzna narobi³ sobie k³opotów, ale sêk w tym, ¿e Gubernator i tak otrzyma³ dokumenty. Jak widzisz, mê¿czyzna nie by³ na tyle g³upi, ¿eby nosiæ je przy sobie.
+#ANIMATION 11
+#CAMERA 3
+#phrase Shopper  11
+Powtarzasz siê... Gubernator, Gubernator! Nie przepadam za takimi historyjkami, s¹ smutne i takie mêtne. Czemu nie powiesz mi czegoœ innego?
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  12
+¯eby to zrobiæ, najpierw muszê coœ od ciebie us³yszeæ.
+#ANIMATION 46
+#CAMERA 11
+#phrase Shopper  13
+Niech bêdzie, pytaj! Chcia³bym poznaæ szczêœliwe zakoñczenie!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  14
+Powiedz mi kto obrabowa³ Valrasiana. I gdzie znajduje siê ³up z kradzie¿y?
+#ANIMATION 45
+#CAMERA 11
+#phrase Shopper  15
+Sk¹d uczciwy cz³owiek mo¿e wiedzieæ takie rzeczy? Ale plotka g³osi, ¿e pewien z³odziej o imieniu Flein, zwany równie¿ Baldie, dosta³ ataku chciwoœci...
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  16
+Rozumiem. Móg³byœ podaæ jakieœ szczegó³y?
+#ANIMATION 62
+#CAMERA 3
+#phrase Shopper  17
+Czego jeszcze chcesz? Ten osobnik mieszka w opuszczonych kopalniach na farmie po zachodniej stronie jeziora. Jego rodzina... jak by to powiedzieæ... nale¿y do tych niezbyt przyjemnych. Maj¹ tam pewnego rodzaju zoo, w którym trzymaj¹ tygrysy, dziêki temu nikogo siê nie boj¹.
+#ANIMATION 61
+#CAMERA 11
+#phrase Shopper  18
+Ludzie s¹ tacy nieprzewidywalni! Tyle razy proponowa³em ich ojcu, by do³¹czy³ ze swoimi tygrysami do mojej przybocznej stra¿y. Ale siê nie zgodzi³, powiedzia³ tylko: nie bêdê niczyim niewolnikiem! Baldie jest rodzinnym ekspertem specjalizuj¹cym siê w kradzie¿ach. Jednak dopiero obrabowanie domu Gubernatora, uczyni³o go naprawdê grub¹ ryb¹! Jego Ekscelencja by³ taki wstrz¹œniêty...
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  19
+Skoro tak sympatyzujesz ze swoimi przyjació³mi... powiedz mi, gdzie znajduje siê ³up?
+#ANIMATION 45
+#CAMERA 11
+#phrase Shopper  20
+Na farmie oczywiœcie, gdzie¿by indziej? Jestem przekonany, ¿e wszystko jest jakiejœ stodole.
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  21
+Dziêkujê za twe dobre s³owa. Jeszcze jedna sprawa: wyœlij Fleinowi wiadomoœæ, ¿e chcê z nim porozmawiaæ. Jeœli zorganizujesz spotkanie, opowiem ci zakoñczenie ca³ej historyjki. To szczêœliwe zakoñczenie.

@@ -1,0 +1,24 @@
+O papierze, znalezionym w opuszczonym obozie
+#show Elder 3
+#show CodedHadaganNote 4
+#show Hero 5
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  1
+Erfar! Mo¿esz to odczytaæ?
+#hide CodedHadaganNote
+#show CodedHadaganNote 5
+#ANIMATION 44
+#CAMERA 11
+#phrase Elder  2
+Przeciwko tobie zawi¹zano spisek, twoje ¿ycie jest w niebezpieczeñstwie, zapomnij o papierach!
+#hide CodedHadaganNote
+#show CodedHadaganNote 4
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  3
+Nie odpowiedzia³eœ na pytanie - mo¿esz to odczytaæ czy nie?
+#ANIMATION 30
+#CAMERA 9
+#phrase Elder  4
+Dobrze, pomyœle nad tym... mo¿e póŸniej, kiedy niebezpieczeñstwo wisz¹ce nad Wybrañcem minie!

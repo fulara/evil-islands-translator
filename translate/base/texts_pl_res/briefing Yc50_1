@@ -1,0 +1,17 @@
+Jakich nowych rzeczy nauczy³ siê Zielony Klan?
+#show Hero 1
+#show YCF 2
+#CAMERA 3
+#phrase YCF  1
+Cieszê siê, ¿e ciê tutaj widzê, cz³owieku. Pokona³eœ sekretn¹ œcie¿kê - jesteœ odwa¿ny i zwinny!
+#ANIMATION 9
+#CAMERA 2
+#phrase Hero  2
+Powiedz mi, Starcze, nie dowiedzia³eœ siê mo¿e czegoœ, co mog³oby mi pomóc?
+#CAMERA 11
+#phrase YCF  3
+Jak mogê ci powiedzieæ, czy potrafiê ci pomóc, czy te¿ nie? Jeœli chcesz otrzymaæ w³aœciw¹ odpowiedŸ, zadaj najpierw w³aœciwe pytanie!
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  4
+Rozumiem... Wygl¹da na to, ¿e przyszed³em za wczeœnie. Wybacz, ¿e ciê niepokoi³em, Wodzu! Wrócê do miasta i przyjdê, jak bêdê wiedzia³ o co ciê zapytaæ.

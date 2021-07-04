@@ -1,0 +1,14 @@
+O rozmowach z Rzemieœlnikiem
+#show Hero 1
+#show Elder 2
+#ANIMATION 31
+#phrase Elder  1
+Wybrañcze! Pozwól, niech dam ci kilka porad. Mam na myœli Babura i twoje rozmowy z nim. Pamiêtaj, ¿e on pope³ni³ wiele wykroczeñ!
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  2
+Nie rozumiem... Wydajesz mi rozkazy?
+#ANIMATION 9
+#CAMERA 3
+#phrase Elder  3
+Niebiosa, nie! Nic z tych rzeczy, nie, nie. Ale pomyœl, mój drogi Wybrañcze - za ka¿dym razem, kiedy spotykasz siê z Baburem nara¿asz swoj¹ reputacjê. I kiedy wykonujesz jego rozkazy - ojej! Wybrañcze, pokornie ci radzê, ¿ebyœ tego zaprzesta³. Wierz mi, bêdzie to z korzyœci¹ dla wszystkich. W³¹czaj¹c ciebie!

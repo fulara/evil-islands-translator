@@ -1,0 +1,15 @@
+Zabierz Nayê
+#show Hero 1
+#show Merc3 2
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  1
+Có¿, Naya, s³ysza³aœ, co powiedzia³a Estera. Czy to prawda? Czy naprawdê jesteœ sk³onna spróbowaæ swych si³ w prawdziwej przygodzie?
+#ANIMATION 3
+#CAMERA 3
+#phrase Merc3  2
+Ja nie muszê "spróbowaæ swych si³" - Estera jakoœ zapomnia³a wspomnieæ ¿e polowa³am dla niej przez bardzo d³ugi okres. Wiem jak odstraszyæ Gobliny i zdarzy³o mi siê ju¿ stan¹æ oko w oko z Orkami. Tak wiêc, jeœli tylko chcesz przyj¹æ moj¹ pomoc, b¹dŸ spokojny: Jestem odpowiedzialn¹ osob¹.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  30
+W porz¹dku. Stój blisko... nied³ugo opuszczamy to miejsce!

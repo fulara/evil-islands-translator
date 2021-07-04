@@ -1,0 +1,23 @@
+Przyjmij ponownie Rycerza
+#show Hero 
+#show Merc9
+#ANIMATION 61
+#CAMERA 3
+#phrase Merc9  1
+Szary Liœæ powiedzia³ mi, ¿e w mieœcie panuje cisza. Ten, który rzekomo mnie rozpozna³, móg³by przysi¹c, ¿e widzia³ mnie w swym pijackim zwidzie.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+A sk¹d Szary Liœæ mo¿e to wiedzieæ?
+#ANIMATION 62
+#CAMERA 11
+#phrase Merc9  3
+Och, m³ody cz³owieku, widzê, ¿e nie doceniasz si³ dobra! Za³ó¿my, ¿e jakiœ mieszczuch ma posiad³oœæ za miastem. Posiad³oœæ, która mo¿e zostaæ spalona czy zapaœæ siê pod ziemiê w dowolnym momencie. I za³ó¿my dalej, ¿e otrzymuje on wiadomoœæ od Ludzi Lasu. I w tej wiadomoœci grzecznie jest proszony by powiedzieæ to czy tamto. Który z mieszczuchów odmówi³by wyœwiadczenia takiej drobnej, niewa¿nej przys³ugi?
+#ANIMATION 9
+#CAMERA 3
+#phrase Merc9  4
+A jeœli przytrafi siê inna osoba, która nigdy nie zapomina twarzy, te¿ zostanie zapytana o to samo.
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  5
+Tak... Masz ca³kowit¹ racjê, szanowny Rycerzu. Wszystko jest dozwolone na wojnie.

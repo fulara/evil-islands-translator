@@ -1,0 +1,36 @@
+O zadaniu w Obserwatorium
+#show Hero
+#show Daughter
+#ANIMATION 6
+#CAMERA 5
+#phrase Hero  1
+Och Airy! ¯ywi³em nadziejê, ¿e o wiele ³atwiej bêdzie siê dostaæ do Obserwatorium - to, co tam siê dzieje... jak uda³o ci siê powróciæ ze Szczytów Œrodkowych nietkniêt¹?
+#ANIMATION 32
+#CAMERA 3
+#phrase Daughter  2
+A, teraz widzisz? Jestem bardziej uzdolniona od ciebie!
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero  3
+No dobrze ju¿, dobrze. Tak wiêc, co takiego potrafisz, czego ja nie umiem.
+#ANIMATION 11
+#CAMERA 11
+#phrase Daughter  4
+Ha! Nie bez powodu jestem wnuczk¹ WiedŸmy! Wiem, jak pos³ugiwaæ siê Magi¹ Uczuæ szybko i bez ¿adnego wysi³ku...
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  5
+Tak, to chyba bardzo u¿yteczna umiejêtnoœæ. Sam nie mia³bym nic przeciwko ¿eby j¹ posiadaæ.
+#ANIMATION 63
+#CAMERA 7
+#phrase Daughter  6
+Zamknij zatem oczy... w porz¹dku, skoñczy³am! Tylko nie pytaj jak to zrobi³am! I tak ci nie powiem.
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  7
+Dziêkujê ci, s³odziutka dziecinko! Naprawdê du¿o mi pomog³aœ... Hej, co siê sta³o?
+#ANIMATION 11
+#CAMERA 9
+#phrase Daughter  8
+S³odziutka? Dziecinko!! A niech mnie piorun strzeli, jeœli cokolwiek jeszcze dla ciebie uczyniê! Nigdy, przenigdy!!!
+#DESC Indignantly

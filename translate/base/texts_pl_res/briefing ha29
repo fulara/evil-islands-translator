@@ -1,0 +1,23 @@
+Przes³uchanie
+#show Hero 1
+#show HWLeader 2
+#ANIMATION 11
+#CAMERA 5
+#phrase HWLeader  1
+¯a³osny dzikusie, odda³em ci wielki zaszczyt, godz¹c siê z tob¹ rozmawiaæ! Jeœli chcesz ¿yæ, powiedz mi wszystko co wiesz o meteorycie, który spad³ na twoje ziemie. Mów do mnie, ty zwierzaku!
+#CAMERA 2
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  2
+Ten przeklêty urzêdnik wci¹gn¹³ mnie w pu³apkê! Co mam teraz zrobiæ? Ten ¿o³nierz wierzy, ¿e jestem g³upim dzikusem - dobrze, poka¿ê mu dzikusa!
+#DESC To himself
+#show Hero
+#show HWLeader
+#ANIMATION 8
+#CAMERA 2
+#phrase Hero  3
+Ja... Tam... Ja patrzeæ za œwinie, nie wiedzieæ nic o metrycie, nigdy nie s³yszeæ... nie, nie...
+#ANIMATION 14
+#CAMERA 5
+#phrase HWLeader  4
+Nie zgrywaj g³upca! Nie mam w swoim oddziale oprawcy, ale moi ludzie to profesjonalistami. Potrafi¹ zmusiæ ludzi do mówienia!

@@ -1,0 +1,36 @@
+Poznaj Eilê
+#show Hero 
+#show Merc4
+#show OrcC
+#CAMERA 9
+#ANIMATION 4
+#phrase OrcC  1
+O, Piaskowa Pani, mówi³aœ, ¿e ludzie z wioski to tchó... tchórze, ¿e nikt nie przyjdzie. A ten jeden przyszed³! Chce rozma... rozmawiaæ z tob¹.
+#CAMERA 3
+#ANIMATION 30
+#phrase Merc4  2
+Hm, wiêc to ty jesteœ tym Wybrañcem? Orkowie mówili mi o tobie, ale zupe³nie inaczej sobie ciebie wyobra¿a³am.
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  3
+A mi nikt nie powiedzia³ o tobie! Jak to siê sta³o, ¿e trzymasz z Orkami?
+#CAMERA 3
+#ANIMATION 15
+#phrase Merc4  4
+Mam na imiê Eila. Uciek³am z wioski dawno dawno temu ¿eby udaæ siê na s³u¿bê do WiedŸmy. Lecz ta pysza³kowata kobieta powiedzia³a, ¿e nie nadajê siê na jej uczennicê! Wtedy chcia³am wst¹piæ do Rozbójników, ale by³o tak samo jak poprzednio. Ach, ta z³oœliwa kocica, Naczelniczka. Na szczêœcie, Czerwonog³owy wspomnia³ Wodzowi Shei-Var o mnie: on jest prawdziwym Orkiem, ale mogê siê u niego czegoœ nauczyæ.
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  5
+To znaczy, ¿e przyby³aœ tu ¿eby pobieraæ od niego nauki?
+#CAMERA 3
+#ANIMATION 44
+#phrase Merc4  6
+Tak jak widzisz. Orkowie nazwali mnie Piaskow¹ Pani¹, lecz ja nie przyjmujê od nich ¿adnych innych bredni. Jasnowidz uczy mnie magii, a ja w zamian walczê dla niego. Plemiê Sheivar ma wielu wrogów! Tak wiêc, Czerwonog³owy da³ mi dobr¹ radê. Jeœli go zobaczysz, powiedz mu "czeœæ" ode mnie!
+#CAMERA 6
+#ANIMATION 30
+#phrase Hero  7
+Eeee... Jak to mam rozumieæ... znaczy my siê rzeczywiœcie ju¿ spotkaliœmy, ale nigdy wiêcej ju¿ go nie widzia³em.
+#CAMERA 4
+#ANIMATION 6
+#phrase OrcC  8
+Oj ludzie, chodŸcie, porozmawiacie póŸniej. A teraz chcia³em za... zamieniæ z tob¹ s³ówko, Upa... Uparta. Wybraniec chce robiæ dla mnie inte... interesy. Jeœli potrzebuje, ty mu pomo... pomo¿esz, dajê ci zezwolenie.

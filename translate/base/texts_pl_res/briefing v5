@@ -1,0 +1,34 @@
+O nowym mechanizmie
+#show Sheriff 1
+#show Hero 2
+#CAMERA 5
+#phrase Hero  1
+Pos³uchaj Gorcie, pamiêtasz jak da³eœ mi mechanizm do Jaskini Orków? Nie masz mo¿e innego, podobnego do tamtego, ale stworzonego do Wysp Orków, co?
+#ANIMATION 32
+#CAMERA 9
+#phrase Sheriff  2
+Co chcesz z nimi zrobiæ? Robisz zapasy co? He-he-he, to by³o niez³e, prawda?
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  3
+Tak, bardzo zabawne. Masz czy nie?
+#ANIMATION 9
+#CAMERA 7
+#phrase Sheriff  4
+Có¿, jest o nim pewna historyjka... Wolni £owcy ukradli kufer od Orków z Wysp i poœród wielu rupieci by³a tam taka rzecz. Wiêc za³adowali zdobycz na wózek i zaczêli go ci¹gn¹æ, ale pok³ócili siê o coœ. S³owo za s³owo, no wiesz - i w koñcu tylko jeden z nich powróci³, reszta po prostu le¿a³a ko³o wózka.
+#ANIMATION 29
+#CAMERA 5
+#phrase Hero  5
+Tak, widzê ¿e to bardzo mili ludzie, bardzo przyjacielscy. Wiêc mówisz, ¿e gdzie by³a ta skrzynia?
+#ANIMATION 7
+#CAMERA 9
+#phrase Sheriff  6
+W Œrodkowych Szczytach, niedaleko od drogi... £owca, który wygra³ walkê, zabra³ wszystko ze sob¹, ale nie mechanizm - komu potrzebny taki rupieæ?!
+#hide Hero 1
+#show Sheriff 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 11
+#phrase Sheriff  7
+To dziwny jegomoœæ. Zawsze szuka jakiœ g³upich czêœci i ... och, wiêc mo¿e on wcale nie jest Wybrañcem! Niewa¿ne co mówi Starszy!
+#DESC To himself

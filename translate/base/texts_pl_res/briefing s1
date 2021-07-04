@@ -1,0 +1,75 @@
+Spotkanie w wiosce
+#show  Hero 0 weapon
+#show Elder
+#show Sheriff
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  1
+Ojej! Wygl¹da na to, ¿e ca³a wioska jest tutaj!
+#DESC Do siebie
+#ANIMATION 29
+#CAMERA 8
+#phrase Sheriff  2
+Dobrze, wszyscy s¹? Cisza, teraz! Starszy bêdzie mówi³!
+#ANIMATION 32
+#CAMERA 11
+#phrase Elder  3
+Ludzie! Dzisiaj nadszed³ wspania³y dzieñ dla naszej wioski! Wszyscy pamiêtamy legendê o Wybrañcu, który mia³ siê pojawiæ siê przy Œwiêtych Ruinach - a teraz spójrzcie, jest tutaj, z krwi i koœci!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  4
+Hmm, rzeczywiœcie widzia³em jakieœ ruiny, kiedy powróci³em do zmys³ów... Czy to oznacza, ¿e naprawdê jestem Wybrañcem?
+#DESC Do siebie
+#ANIMATION 11
+#phrase Elder  5
+Najlepsze jedzenie, najlepszy dom, respekt i honor - to zapewnimy Wybrañcowi!  Niczego nie bêdzie mu brakowaæ!
+#ANIMATION 6
+#NOLIPS
+#CAMERA 10
+#phrase Hero  6
+Jak dla mnie, brzmi nieŸle!
+#DESC Do siebie
+#ANIMATION 31
+#phrase Elder  7
+Wybraniec jest naszym zbawc¹ i obroñc¹. Spójrzcie na jego odwa¿n¹ twarz: ten cz³owiek poradzi sobie z ka¿dym niebezpieczeñstwem!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  8
+Och... Wiêc mam stawiaæ czo³a niebezpieczeñstwom? Byæ mo¿e powinienem odmówiæ tego zaszczytu, zanim bêdzie za póŸno?
+#DESC Still to himself
+#ANIMATION 14
+#CAMERA 7
+#phrase Elder  9
+Ale oczywiœcie, jeœli oka¿e siê byæ oszustem ... Gort, czy móg³byœ nam powiedzieæ jaka kara by³aby odpowiednia za takie œwiêtokradztwo?
+#ANIMATION 3
+#CAMERA 8
+#phrase Sheriff  10
+Och, od razu byœmy siê nim zajêli - po prostu wrzucilibyœmy go do tego ognia, tak w³aœnie byœmy zrobili!
+#ANIMATION 9
+#CAMERA 3
+#phrase Elder  12
+Ale wszyscy widzimy dziwny ubiór Wybrañca, jego odwa¿n¹ twarz i co najwa¿niejsze jego prawdziwy, metalowy nó¿! Nawet ja nie mam takiego no¿a. To niepodwa¿alny dowód, ¿e mamy tutaj do czynienia z Wybrañcem. Pozwólmy mu pokazaæ nam swój nó¿ i opowiedzieæ o sobie!
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  13
+Dobrze, teraz wszystko jest jasne - albo zostanê Wybrañcem, którego wszyscy kochaj¹, albo oszustem, który zbezczeœci³ jakieœ ruiny czy coœ takiego! Có¿, wybór jest prosty, wiêc...
+#DESC Do siebie
+#CAMERA 6
+#ANIMATION 49
+#phrase Hero  14
+Tak, jestem Wybrañcem, aczkolwiek mo¿ecie mnie nazywaæ Zak. I naprawdê mam metalowy nó¿. Ja ... Ech... Bêdê ochrania³ was przed niebezpieczeñstwem! Tylko chcia³bym wiedzieæ dok³adnie có¿ to za niebezpieczeñstwo.
+#DESC At first loudly and almost confidently, then losing his ground
+#ANIMATION 9
+#CAMERA 3
+#phrase Elder  15
+Wiedzieliœmy! To jest nasz obroñca! Nie mo¿e siê doczekaæ, by ju¿ teraz skoczyæ w wir walki! Wiêc proszê pos³uchaj, Wybrañcze: nasza wioska w³aœnie zosta³a najechana przez Gobliny. Te wstrêtne kreatury za³o¿y³y nieopodal stra¿niczy posterunek, na wypadek gdybyœmy zdecydowali siê im odwzajemniæ.
+#ANIMATION 44
+#CAMERA 7
+#phrase Elder  16
+Jeœli którykolwiek z naszych wojowników opuœci wioskê, a gobliñski stró¿ ujrzy ich broñ i pancerz, natychmiast podnosi alarm. Ale ty, Wybrañcze, ze swoim niezwyczajnym sztyletem i prostym, skromnym ubiorem móg³byœ zabiæ stró¿a zanim zorientuje siê co siê dzieje.
+#ANIMATION 32
+#CAMERA 11
+#phrase Elder  17
+Zaczekamy na ciebie tutaj, ale naszymi myœlami przez ca³y czas bêdziemy z tob¹! Jednak nie bêdziemy siê martwiæ, poniewa¿ Wybraniec nie mo¿e zawieœæ! IdŸ, zabij Goblina i wróæ do nas najszybciej jak tylko mo¿esz!

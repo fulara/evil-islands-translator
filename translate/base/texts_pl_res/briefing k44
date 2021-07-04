@@ -1,0 +1,29 @@
+O posiad³oœciach Karansula
+#show Hero 1
+#show Kapitan 2
+#ANIMATION 11
+#CAMERA 3
+#phrase Kapitan  1
+Mój drogi m³odzieñcze, zdo³a³eœ ju¿ coœ odkryæ? Czy tylko narobi³eœ sobie k³opotów?
+#ANIMATION 46
+#CAMERA 2
+#phrase Hero  2
+Niestety! Wyda³em wszystkie pieni¹dze, a wszystko posz³o na marne. Obawiam siê, ¿e muszê poszukaæ sobie jakiejœ pracy. Mo¿e przez przypadek s³ysza³eœ coœ o naborze ludzi do kopalni Karansula?
+#ANIMATION 9
+#CAMERA 3
+#phrase Kapitan  3
+Byæ mo¿e, m³odzieñcze. Ca³kiem niedawno ko³o swojego domu zainstalowa³ mechaniczn¹ szlifierkê - pamiêtam, jak przydzieli³em mu stra¿e, by dopilnowali transportu.
+#ANIMATION 44
+#CAMERA 11
+#phrase Kapitan  4
+Karansul szuka œwiat³ych ludzi, którzy mogliby zajmowaæ siê t¹ maszyn¹. A to dlatego, ¿e kiedy tylko siê popsuje, wszyscy przerywaj¹ pracê i id¹ sprawdziæ co siê sta³o. Potem tam siedz¹ i gadaj¹, dopóki ktoœ nie naprawi szlifierki...
+#ANIMATION 11
+#CAMERA 3
+#phrase Kapitan  5
+Byæ mo¿e, mój drogi towarzyszu, móg³byœ siê nauczyæ j¹ obs³ugiwaæ! Jeœli nie naprawiaæ, to chocia¿ zepsuæ, cha-cha!
+#NOLIPS
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero  6
+Hm... Mo¿e powinienem spróbowaæ... Im wiêcej ludzi przyjdzie zobaczyæ co siê popsu³o tym razem, tym ³atwiej bêdzie siê zakraœæ do chaty nadzorcy.
+#DESC To himself

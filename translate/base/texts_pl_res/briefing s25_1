@@ -1,0 +1,49 @@
+Oskar¿ Erfara o zdradê
+#show Elder
+#show Hero
+#show Nsheriff
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  1
+Teraz wiem wszystko! Wiêc jaki rodzaj œmierci preferujesz!
+#ANIMATION 54
+#CAMERA 9
+#phrase Elder  2
+Nie, nie! Zosta³em wrobiony, to wszystko zosta³o ustawione, ja jestem niewinny! Pomocy, pomocy! Wybraniec oszala³!!!
+#DESC Frightened, but still hopes he is trusted
+#ANIMATION 29
+#CAMERA 2
+#phrase Hero  3
+Dobrze, krzycz. Im g³oœniej krzyczysz, tym wiêcej przyjemnoœci bêdê mia³ z zamkniêcia twoich k³amliwych ust!
+#DESC Icy voice
+#ANIMATION 11
+#CAMERA 8
+#phrase NSheriff  4
+Nie, lepiej nie krzycz. Inaczej ...to siê Ÿle dla ciebie skoñczy.
+#ANIMATION 56
+#CAMERA 9
+#phrase Elder  5
+Och Wybrañcze, jestem w twojej mocy... ale proszê nie zabijaj mnie, wci¹¿ móg³bym byæ dla ciebie u¿yteczny! Nikt oprócz mnie nie powie ci co by³o napisane w papierach, które znalaz³eœ. Daj mi s³owo, ¿e mnie wypuœcisz, a ja przet³umaczê je dla ciebie!
+#DESC Understands that he will not get away and abruptly changes his tone
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  6
+Có¿ za obraza! Dobrze, przyjacielu... i tak przet³umaczysz tê notatkê dla mnie, ale nie obiecuje co stanie siê potem. Mo¿e ......
+#DESC The first phrase amazedly, others - exaggeratedly sweet, like making a favor
+#ANIMATION 1
+#CAMERA 6
+#phrase Hero  7
+Znaczy, zastanowiê siê nad tym, naprawdê mocno...
+#ANIMATION 6
+#CAMERA 5
+#phrase Hero  8
+I jeœli bêdê w dobrym humorze ...
+#ANIMATION 61
+#CAMERA 9
+#phrase Hero  9
+Wtedy zdecyduje czy pozwolê ci ¿yæ, czy te¿ nie. Aczkolwiek ³ajdak nie zas³uguje na litoœæ. Rivar, powiedz swoim ludziom, ¿eby dobrze pilnowali Erfara!
+#DESC Cruelly and defiantly
+#ANIMATION 15
+#CAMERA 12
+#phrase NSheriff  10
+Tak, panie!

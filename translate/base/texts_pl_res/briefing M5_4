@@ -1,0 +1,27 @@
+O jasnowidzu i piramidzie
+#show Hero 1
+#show Smith 2
+#ANIMATION 29
+#CAMERA 9
+#phrase Smith  1
+Niech ciê Bóg b³ogos³awi, Wybrañcze! Teraz mo¿emy siê swobodnie poruszaæ poœród pagórków. Obieca³em ci nagrodê i dotrzymam swojego s³owa!
+#ANIMATION 45
+#CAMERA 2 -30 8 3
+#phrase Hero  7
+Och, a tak przy okazji, gdzie jest Ÿród³o pieniêdzy tu, w Gipath? Powiedziano mi, ¿e nie ma tu króla, a widzê prawdziwe królewskie monety. O co chodzi? 
+#ANIMATION 9
+#CAMERA 11
+#phrase Smith  8
+Có¿, to ¿adna tajemnica. Gipath nie zawsze by³o opustosza³ym miejscem, jakim jest dzisiaj - w staro¿ytnych czasach inni ludzie tutaj ¿yli, nie tacy jak my, rozumiesz! Ale znikneli bez œladu, zostawiaj¹c po sobie tylko ruiny... I monety - có¿, wygl¹da na to, ¿e s¹ ich spadkiem.
+#ANIMATION 7
+#CAMERA 10
+#phrase Hero  9
+Wiêc ka¿dy, kto dobrze rozejrzy siê po ruinach mo¿e zostaæ pierwszym najbogatszym cz³owiekiem w wiosce, bogatszym od ciebie, czy Erfara?
+#ANIMATION 15
+#CAMERA 3
+#phrase Smith  10
+Istnieje taka mo¿liwoœæ, ale problem le¿y w tym, ¿e wszystko zosta³o dawno zabrane z miejsc ³atwo dostêpnych. A w innych miejscach na nieostro¿nego poszukiwacza czekaj¹ znacznie mniej przyjemne rzeczy ni¿ pieni¹dze.
+#ANIMATION 11
+#CAMERA 9
+#phrase Smith  11
+Wiêc nie mo¿emy oczekiwaæ, ¿e zobaczymy wielu bogatych ludzi w okolicy. I, na wszystkie ruiny niefortunnego Gipath, nie mogê powiedzieæ, ¿ebym by³ nieszczêœliwy z tego powodu!

@@ -1,0 +1,49 @@
+O opuszczonych kopalniach
+#show Hero 1
+#show Kapitan 2
+#ANIMATION 44
+#CAMERA 2
+#phrase Hero  1
+Kapitanie, jeszcze siê nie podda³em w moich poszukiwaniach Ksiê¿niczki! Jestem ju¿ blisko, ale potrzebuje odrobinê pomocy. Oczywiœcie, moja wdziêcznoœæ by³aby bezgraniczna ... ech ... chcia³em powiedzieæ, w rozs¹dnych granicach.
+#ANIMATION 11
+#CAMERA 11
+#phrase Kapitan  2
+M³odzieñcze, móg³byœ przysi¹c, ¿e oddasz mi wszystkie obiecane pieni¹dze, a ja wci¹¿ nie zgodzê siê ci pomóc. Jestem œwiadom, ¿e do tych pieniêdzy do³¹czony jest awans do rangi Porucznika Stra¿y, a ja nie potrzebuje w moim oddziale oficerów, którzy s¹ zbyt niezale¿ni i energiczni.
+#ANIMATION 46
+#CAMERA 2
+#phrase Hero  3
+Och, z ³atwoœci¹ mogê zrzec siê wszelkich roszczeñ do tej czêœci nagrody!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  4
+I wszystkich innych równie¿! Ale gdybym siê wygada³, Tilvar móg³by nabraæ podejrzeñ...
+#DESC To himself
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  5
+I podzielimy pieni¹dze pó³ na pó³: tyle jestem gotów zap³aciæ za informacje o opuszczonych kopalniach.
+#ANIMATION 9
+#CAMERA 3
+#phrase Kapitan  6
+Och, myœlisz, ¿e w³aœnie tam przetrzymuj¹ Ksiê¿niczkê? W tym wypadku, m³odzieñcze, mogê ciê tylko rozczarowaæ: Gubernator zablokowa³ drog¹ do kopalni. Ale jeœli zdo³asz zainteresowaæ Jego Ekscelencjê, mo¿e j¹ dla ciebie otworzyæ, jako specjaln¹ ³askê.
+#ANIMATION 44
+#CAMERA 11
+#phrase Kapitan  7
+Aczkolwiek, gdybym by³ tob¹, nie cieszy³bym siê za bardzo. Z³a reputacja tych kopalni jest wszystkim znana: górnicy zak³ócili spokój Panów Podziemi i wszyscy wiedz¹, ¿e lepiej nie igraæ z tymi stworzeniami!
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  8
+Co za Panowie i W³adcy? Nic o nich nie wiem!
+#ANIMATION 43
+#CAMERA 11
+#phrase Kapitan  9
+"Im mniej wiesz, tym lepiej œpisz", mój przyjacielu. Te kreatury s¹ powszechnie znane jako Robalog³owi, ¿yj¹ g³êboko pod ziemi¹. Ludzie, którzy chocia¿ raz je widzieli przez miesi¹ce maj¹ koszmary o ich okropnym wygl¹dzie. S¹ inteligentne, znaj¹ magiê i nie maj¹ litoœci dla obcych... innymi s³owy, m³odzieñcze, jeœli pójdziesz do tych kopalni, zdobêdziesz moj¹ szczer¹ sympatiê. 
+#ANIMATION 31
+#CAMERA 3
+#phrase Kapitan  10
+I dam ci radê, zrodzon¹ z tej sympatii... s¹ trzy kopalnie, które wiod¹ do podziemia, numery jeden, dwa i trzy. Spróbuj t¹, najbardziej wysuniêt¹ na zachód, numer trzy... byæ mo¿e oka¿e siê mniej niebezpieczna.
+#ANIMATION 62
+#CAMERA 11
+#phrase Kapitan  11
+Gdzieœ w pó³nocno zachodniej czêœci katakumb znajdowa³ siê karcer dla górników - przestêpców. Tradycyjne wiêzienie, che-che. Tam w³aœnie rozpocz¹³em swoj¹ karierê, jako dowódca stra¿y tego wiêzienia. Och, m³odzieñcze! By³em tak naiwny, jak ty teraz i wierzy³em w sprawiedliwoœæ... chocia¿ ty tego nie zrozumiesz, ani mnie, jeszcze!

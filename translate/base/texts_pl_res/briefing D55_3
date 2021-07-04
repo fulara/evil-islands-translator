@@ -1,0 +1,45 @@
+O Wielkim Magu i zadaniu
+#show Hero 1
+#show Deva 2
+#ANIMATION 30
+#CAMERA 11
+#phrase Deva  1
+Tka-Rick... to imiê Maga z jednej z bajek, jakie s³ysza³am w dzieciñstwie! Ten Mag œpi w jaskini na odleg³ej wyspie a kiedy siê obudzi, dobre czasy powróc¹... lecz jakoœ nie wydaje mi siê, ¿eby rzeczywistoœæ pasowa³a do tego bajkowego opisu!
+#ANIMATION 62
+#CAMERA 2
+#phrase Hero  2
+Czy ja wiem... mo¿e jednak maj¹ coœ wspólnego. Tka-Rick ¿yje na odleg³ej wyspie i chce powrotu dobrych czasów. W³aœnie dlatego tu jestem - moj¹ misj¹ by³o odnalezienie ciebie.
+#ANIMATION 61
+#CAMERA 10
+#phrase Hero  4
+Wykona³em swoje zadanie i jestem teraz szczêœliwy. Nie dlatego, i¿ zosta³em poproszony przez Maga - jak by³by wielki - ale poniewa¿ spotka³em najrozkoszniejsz¹ i najpiêkniejsz¹ dziewczynê na œwiecie!
+#ANIMATION 40
+#CAMERA 5
+#phrase Hero  5
+Przysiêgam, ¿e od teraz nie istnieje dla mnie ¿adna inna kobieta, i przysiêgam ¿e... O niebiosa... Brak mi s³ów!
+#ANIMATION 31
+#CAMERA 11
+#phrase Deva  6
+Proszê, nie mów takich rzeczy, b³agam ciê. Ocali³eœ mnie i lubiê ciê... Ale kocham innego i nigdy go nie zdradzê, nawet jeœli jest daleko st¹d!
+#ANIMATION 43
+#CAMERA 10
+#phrase Hero  7
+Jak móg³ ciê opuœciæ? Myœlê ¿e jest po prostu tchórzem i jeœli nasze drogi siê kiedykolwiek zejd¹, po¿a³uje tego!
+#ANIMATION 73
+#CAMERA 3
+#phrase Deva  8
+Nie wa¿ siê mówiæ tak o At-Zako! Cudem uda³o nam siê wspólnie unikn¹æ Kl¹twy Joonów. Nie jesteœ w stanie sobie wyobraziæ tego horroru... rodzina i przyjaciele umarli, jeden po drugim, puste domy, krwawe œlady w kurzu na drogach i w koñcu Kl¹twa, potwór, nad którym nawet twój Wielki Mag nigdy nie zdo³a³by zapanowaæ.
+#ANIMATION 73
+#CAMERA 11
+#phrase Deva  9
+At-Zako uratowa³ mnie od pewnej œmierci parê razy, a zostawi³ mnie tylko ¿eby odwróciæ uwagê Kl¹twy ode mnie, ¿eby to jego œciga³a! Jeœli jeszcze powiesz coœ z³ego o nim, ja... ja... ja ciê tu zostawiê i bêdziesz móg³ wróciæ tam, sk¹d przyby³eœ!
+#ANIMATION 31
+#CAMERA 5
+#phrase Hero  10
+Muszê uszanowaæ twoj¹ wolê, Lu-a-Jallo, i przyrzekam ¿e nigdy wiêcej nie us³yszysz ode mnie z³ego s³owa o At-Zako.
+#CAMERA 10
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  11
+Ale on ode mnie us³yszy gdy siê spotkamy. A jeœli to spotkanie nie zakoñczy siê pojedynkiem, bêdzie jeszcze wiêkszym tchórzem ni¿ myœla³em!
+#DESC To himself

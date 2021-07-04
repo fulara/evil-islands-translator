@@ -1,0 +1,31 @@
+O zadaniu w Suslanger
+#show Hero 3
+#show Rick 4
+#CAMERA 1
+#ANIMATION 6
+#phrase Rick  1
+Gdy wysy³a³em ciê do Suslanger oczekiwa³em, ¿e znajdziesz tam przyjació³, którzy ci pomog¹ w spe³nieniu zadania.
+#CAMERA 11
+#ANIMATION 4
+#phrase Rick  2
+Jakkolwiek ca³kowicie nie przypuszcza³em, ¿e przyprowadzisz kogokolwiek tutaj, do Gipath! Oczywiœcie nie winiê ciê za to, ale czy nie by³o to przypadkiem nierozwa¿ne?
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  3
+Mo¿e i by³o, ale nie mog³em tam nikogo zostawiæ. To oznacza³oby pewn¹ œmieræ!  
+#CAMERA 7
+#ANIMATION 6
+#phrase Rick  4
+Tak mog³o byæ. Jednak nie chcê ¿adnych przybyszy w mojej jaskini!
+#ANIMATION 11
+#CAMERA 6
+#phrase Hero  5
+Wiêc co zrobimy? Skrzywdzisz osobê, która pomog³a mi w misji, któr¹ sam mi zada³eœ do wykonania?
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick  6
+Ile razy mam ci powtarzaæ, Zak: gdy jesteœ zbyt pochopny w swych przypuszczeniach, wtedy zdarzaj¹ siê pomy³ki! Nie mam zamiaru nikogo skrzywdziæ. Po prostu stworzê odwrotny teleport i wszystko wróci do normalnoœci. 
+#CAMERA 9
+#ANIMATION 6
+#phrase Rick  7
+Wiele siê nauczy³em na twoim przyk³adzie i upewniê siê, ¿e podró¿ od Portalu do jakiegoœ bezpiecznego miejsca minie niezauwa¿ona przez Khadagañskie stra¿e.

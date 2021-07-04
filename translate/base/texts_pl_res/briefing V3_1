@@ -1,0 +1,40 @@
+Rozmowa o planie Kapitana
+#show Hero 1
+#show Sheriff 2
+#ANIMATION 44
+#CAMERA 9
+#phrase Sheriff  1
+Dobrze, proponujê daæ posmakowaæ Goblinom ich w³asnych metod. Nie bêdziemy w stanie poradziæ sobie z ca³ym szczepem, ale jeœli pozbawimy skóry oko³o siedmiu albo oœmiu z nich, to bêdzie sposób.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  2
+A co potem?
+#ANIMATION 7
+#CAMERA 7
+#phrase Sheriff  3
+Ale ca³a wioska ¿yje nowymi wieœciami, ¿e Wybraniec chce ukaraæ Goblinów za atak.
+#ANIMATION 14
+#CAMERA 6
+#phrase Hero  4
+Doprawdy?! A sk¹d wpadli na taki pomys³?
+#ANIMATION 9
+#CAMERA 11
+#phrase Sheriff  5
+Starszy tak im powiedzia³. Widzisz, mia³em ju¿ wys³aæ swoich ludzi, ¿eby to za³atwili, ale skoro ty chcesz to zrobiæ - nie maj¹ nic przeciwko, nie maj¹ w sobie dumy. Bêd¹ szczêœliwi, mog¹c pozostaæ w domach.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  6
+Jasne... Rozumiem. A co jeœli zmieniê zdanie?
+#ANIMATION 7
+#CAMERA 9
+#phrase Sheriff  7
+Jak móg³byœ? Jesteœ Wybrañcem i masz tylko jedno s³owo. Zrobisz dok³adnie jak powiedzia³eœ. Nieprawda¿?
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero  8
+Tak, tak myœlê... Dziêkujê bardzo Erfar, wielkie dziêki tobie tak¿e Gort. Na pewno zapamiêtam wasz¹ uprzejmoœæ.
+#DESC (At first annoyed, then nastily)
+#ANIMATION 31
+#CAMERA 7
+#phrase Sheriff  9
+a  wiêc umowa stoi! Ale jeszcze jedna rzecz: lepiej nie zadzieraj z Orkami, uderz tylko w Goblinów. Orki s¹ o wiele silniejsze i maj¹ jasnowidza na podgórzu - to dopiero jest Mag, nie to co nasza WiedŸma!

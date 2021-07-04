@@ -1,0 +1,15 @@
+O znalezionych zw³okach
+#show Hero 1
+#show Shopper 2
+#ANIMATION 62
+#CAMERA 11
+#phrase Shopper  1
+Nie chcê z³orzeczyæ œmierci, ale zgin¹³ ze swojej w³asnej winy. Zaczepia³ wszystkich w okolicy, wtr¹ca³ siê do nie swoich interesów. Mogê siê za³o¿yæ o roczn¹ pensjê, ¿e zosta³ zasztyletowany za swoj¹ nadmiern¹ ciekawoœæ.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+W rzeczywistoœci, zosta³ zamordowany przez Ludzi Lasu.
+#ANIMATION 44
+#CAMERA 11
+#phrase Shopper  3
+Zg³upia³eœ, co? Lasy s¹ pe³ne ludzi, ale akurat Snoop zosta³ zabity. Jak myœlisz jaki sposób móg³ dokuczyæ Ludziom Lasu? Mo¿e przeszkadza³ te¿ komuœ innemu, co?

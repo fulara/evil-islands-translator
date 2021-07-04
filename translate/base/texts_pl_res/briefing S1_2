@@ -1,0 +1,47 @@
+O wieœniakach
+#show Hero 1
+#show Elder 2
+#ANIMATION 9
+#CAMERA 9
+#phrase Elder  1
+By³bym szczêœliwy, mog¹c opowiedzieæ Wybrañcowi o ludziach, którzy ¿yj¹ w wiosce! Mnie ju¿ znasz, jestem Starszy Erfar. Mam asystenta, Kapitana o imieniu Gort - bardzo wartoœciowy cz³owiek. Jest trochê szorstki, ale zawsze dok³adnie wype³nia moje rozkazy.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  3
+A jeœli ja wydam mu rozkaz? Czy¿ nie jestem wybrañcem?
+#ANIMATION 11
+#CAMERA 11
+#phrase Elder  4
+Oczywiœcie, ¿e jesteœ! Ale chodzi o to, ¿e Gort ... Có¿, jak widzisz, nie jest za bardzo inteligentny. Zwyczajnie mo¿e ciê nie zrozumieæ! Wiêc lepiej mi powiedz czego chcesz, a ja przeka¿ê twoje ¿yczenia Kapitanowi.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  5
+A kto pomaga ci w sprawach magii?
+#ANIMATION 44
+#CAMERA 9
+#phrase Elder  6
+To jest naprawdê smutna sprawa, Wybrañcze. Mieliœmy w wiosce WiedŸmê o imieniu Estera - z³¹, podejrzliw¹ i k³ótliw¹ staruchê. Ale wyprowadzi³a siê i osiedli³a na zewn¹trz. Teraz nie dopuszcza w pobli¿e siebie nikogo oprócz swojej prawnuczki Airy i uczennicy. Te biedne dziewczêta! Kiedy próbujê sobie wyobraziæ jak cierpi¹ u tej harpii, chce mi siê p³akaæ!
+#ANIMATION 46
+#CAMERA 7
+#phrase Elder  7
+Jedyn¹ osoba gorsz¹ od Estery jest Rzemieœlnik Babur Tightfist, chciwy i perfidny cz³owiek. On obrazi³ Wolnych £owców, dlatego najazd Goblinów jest jego win¹.
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  9
+Zaczekaj chwile, jacy £owcy? I jak Babur mo¿e byæ odpowiedzialny za najazd Goblinów? 
+#ANIMATION 9
+#CAMERA 11
+#phrase Elder  10
+Wolni £owcy ¿yj¹ w lasach niedaleko od wioski. Zazwyczaj bior¹ na siebie pierwsze ataki Goblinów. Niedawno kilku z nich ukrad³o parê ma³owartoœciowych drobiazgów z warsztatu Rzemieœlnika - nie jakieœ z³o, rozumiesz, tylko trochê ha³aœliwej zabawy.
+#ANIMATION 11
+#CAMERA 3
+#phrase Elder  11
+Ale nasz Tightfist zrobi³ z tego istne kretowisko, poszed³ do £owców i za¿¹da³ zwrotu jego b³yskotek! Wódz by³ tak zdenerwowany, ¿e nie zauwa¿y³ w porê wroga, dlatego Gobliny najecha³y nasz¹ wioskê. W ten sposób wioska znalaz³a siê na krawêdzi œmierci, a wszystko przez chciwoœæ Rzemieœlnika.
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  12
+Rozumiem... Czy to wszyscy, o których chcia³eœ wspomnieæ?
+#ANIMATION 31
+#CAMERA 11
+#phrase Elder  13
+Praktycznie wszyscy. Oczywiœcie, proœci wieœniacy tak¿e byliby szczêœliwi, mog¹c zapewniæ pomoc Wybrañcowi, ale nie s¹dzê, ¿eby ich starania mia³y dla ciebie jak¹kolwiek wartoœæ!

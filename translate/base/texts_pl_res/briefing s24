@@ -1,0 +1,22 @@
+O wyprawie po Kwiat
+#show Elder 3
+#show DriadIdol01 4
+#show Hero 5
+#phrase Hero  1
+Oto kwiat!
+#hide DriadIdol01
+#show DriadIdol01 5
+#ANIMATION 31
+#CAMERA 11
+#phrase Elder  2
+Nie wiem jak mogê wyraziæ swoj¹ wdziêcznoœæ! Ponownie, Wybraniec ratuje nasz¹ wioskê od niechybnej œmierci! Na szczêœcie, nikt jeszcze nie zachorowa³, twoja pomoc przysz³a we w³aœciwym czasie!
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  3
+Cieszê siê, ¿e mog³em zrobiæ dobry uczynek, ale teraz przejdŸmy do mniej przyjemnych spraw. Powiedz mi dlaczego kwiat by³ strze¿ony przez Orków, jakby wczeœniej wiedzieli, ¿e ktoœ po niego przyjdzie?
+#hide DriadIdol01
+#show DriadIdol01 4
+#ANIMATION 45
+#CAMERA 9
+#phrase Elder  4
+Dlaczego nad tym nie pomyœleæ? Kim by³ ten, który nie chcia³ byœ przyniós³ kwiat do mnie? To Babur i nikt inny.

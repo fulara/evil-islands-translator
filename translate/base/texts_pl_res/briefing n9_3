@@ -1,0 +1,11 @@
+Zabierz Nayê
+#show Hero 
+#show Merc3
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  1
+Có¿ Naya, zechcia³abyœ siê do nas przy³¹czyæ?
+#ANIMATION 31
+#CAMERA 3
+#phrase Merc3  2
+Przykro mi, Wybrañcze, ale twoja kompania jest dla mnie zbyt liczna. Przywyk³am do spokojnego leœnego ¿ywota i nie zniosê tylu ludzi wokó³ mnie.

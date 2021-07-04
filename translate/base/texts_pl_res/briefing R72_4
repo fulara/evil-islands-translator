@@ -1,0 +1,21 @@
+O zamianie
+#show JunBoy
+#show Rick
+#show Deva
+#ANIMATION 32
+#CAMERA 5
+#phrase JunBoy  1
+A wiêc to w³aœnie to by³o ukryte w mojej przesz³oœci. I przez ca³y ten czas szuka³em... siebie?
+#DESC (Amazed)
+#CAMERA 9
+#ANIMATION 6
+#phrase Rick  2
+Tak, At-Zako, tak w³aœnie by³o. Wielcy Magowie te¿ s¹ ludŸmi i te¿ pope³niaj¹ b³êdy... Szuka³em czegoœ daleko, bardzo daleko – i nie zauwa¿y³em tego, co mia³em pod samym nosem! Nie ma wyt³umaczenia dla mego zaœlepienia...
+#ANIMATION 9
+#CAMERA 10
+#phrase JunBoy  3
+O czym ty mówisz, wielki Tka-Rik? Dotrzyma³eœ obietnicy Zakowi, który by³ mn¹ – odda³eœ mu jego pamiêæ. I on dotrzyma³ s³owa – oto jestem przed tob¹! Wszystko jest tak, jak byæ powinno!
+#CAMERA 11
+#ANIMATION 6
+#phrase Rick  4
+Pewnie masz racjê... a teraz idŸ porozmawiaæ z Lu-a-Jalla: tak czeka³a na to po³¹czenie, a teraz myœli, ¿e ciê zrani³a!

@@ -1,0 +1,48 @@
+O Wielkim Magu
+#show Rick 1
+#show Hero 2
+#CAMERA 1
+#ANIMATION 5
+#phrase Rick  1
+Oczekiwa³em ciê, ty, którego zw¹ Wybrañcem!
+#DESC (Sonorous, impressive, even solemn)
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  2
+Czy ty... znasz mnie?
+#CAMERA 11
+#ANIMATION 6
+#phrase Rick  3
+Twoje niezwyk³e przybycie przyci¹gnê³o moj¹ uwagê, a kiedy zajrza³eœ w Magiczn¹ Kulê moje zainteresowanie twoj¹ osob¹ wzros³o jeszcze bardziej. Moja Dragonet towarzyszy³a ci wszêdzie, z tego co wiem, równie¿ to zauwa¿y³eœ - przypadkowo. Im bli¿ej by³eœ sukcesu, tym niecierpliwiej oczekiwa³em tego spotkania.
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  4
+Ale kim jesteœ? Jak siê nazywasz? Skoro jesteœ tak potê¿ny, ¿e mog³eœ mnie obserwowaæ bez opuszczania swojej jaskini, czy móg³byœ mi pomoc? Prawdopodobnie nie muszê ci nawet mówiæ o moich problemach - jestem pewien, ¿e wszystko wiesz...
+#CAMERA 9
+#ANIMATION 5
+#phrase Rick  5
+Zadajesz zbyt wiele pytañ, za szybko, bez ³adu... co bêdzie, jeœli ja odpowiem na nie w ten sam sposób? Aczkolwiek, twoja ciekawoœæ zostanie zaspokojona - czêœciowo.
+#CAMERA 11
+#ANIMATION 6
+#phrase Rick  6
+Moje imiê w twoim jêzyku brzmi Tka-a-Litan Rich-ty-a-Nik. Niecierpliwa osoba, taka jak ty, prawdopodobnie uzna³aby je za przyd³ugie, wiêc mo¿esz mnie nazywaæ po prostu Tka-Rik. Mo¿esz tak¿e dodaæ do mego imienia s³owa "Wspania³y Mag", aczkolwiek nie ma takiej potrzeby.
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick  7
+Mogê pomóc ci rozwi¹zaæ twoje problemy, ale... najpierw powinniœmy zawrzeæ pewn¹ umowê. Ja tak¿e potrzebuje twojej pomocy.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  8
+Ty? Wspania³y Mag? ¯artujesz!
+#CAMERA 7
+#ANIMATION 5
+#phrase Rick  9
+Och nie, to nie czas na ¿arty. Wszystko na œwiecie ma swoj¹ cenê, a ja zawszê p³acê ca³¹ sumê. ¯aden Wspania³y Mag nie ma prawa opuœciæ swojej wyspy - jestem przykuty do tego osamotnionego skrawka ziemi. Dlatego potrzebuje osoby, która wype³ni dla mnie kilka misji na innych terenach.
+#CAMERA 9
+#ANIMATION 6
+#phrase Rick  10
+Bêdziesz musia³ odnaleŸæ i przyprowadziæ tutaj na wyspê dwie m³ode osoby, mê¿czyznê i dziewczynê. S¹ tacy jak ja, nale¿¹ do niegdyœ wspania³ej rasy Joonów i muszê... Ale o tym powiem ci póŸniej, jeœli jesteœ zainteresowany. Odpowiedz, zgadzasz siê czy te¿ nie?
+#ANIMATION 32
+#CAMERA 5
+#phrase Hero  11
+Hm... Jakbyœ nie zna³ odpowiedzi. Oczywiœcie, ¿e siê zgadzam!

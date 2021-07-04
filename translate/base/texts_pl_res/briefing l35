@@ -1,0 +1,17 @@
+O skarbie Jaszczurów
+#show OLIZ 1
+#show Hero 2
+#CAMERA 9
+#phrase OLIZ  1
+Otrzyma³eœ skarb Jaszczurów? Jesteœ zadowolony?
+#ANIMATION 43
+#CAMERA 6
+#phrase Hero  2
+Bêdê zadowolony, kiedy twoje ³uski wrosn¹ g³êboko w twoj¹ skórê! Czemu mnie oszuka³eœ?
+#CAMERA 11 5 5 2
+#phrase OLIZ  3
+Czy ja ciê oszuka³em? Lubisz humor. Zrobi³em ci kawa³. Nie by³ œmieszny?
+#ANIMATION 7
+#CAMERA 5
+#phrase Hero  4
+Ani trochê. Wiesz co, Hermit... Myœlê, ¿e twój powa¿ny styl o wiele lepiej ci pasuje. Nie rób ju¿ wiêcej ¿adnych kawa³ów, dobrze?

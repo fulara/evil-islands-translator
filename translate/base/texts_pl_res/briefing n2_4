@@ -1,0 +1,11 @@
+Zostaw Eilê w osadzie
+#show Hero 
+#show Merc4
+#CAMERA 6
+#ANIMATION 45
+#phrase Hero  1
+S³uchaj Eila! W¹tpiê, ¿eby Shei-Varowi spodoba³ siê pomys³ twojego odejœcia ze mn¹. Mo¿e nie powinniœmy go denerwowaæ?
+#CAMERA 3
+#ANIMATION 15
+#phrase Merc4  2
+Masz racjê, nie myœla³am o tym. W takim razie pozostanê dzisiaj w osadzie.

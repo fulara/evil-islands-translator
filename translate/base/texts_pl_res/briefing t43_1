@@ -1,0 +1,45 @@
+O Karansulu
+#show Hero 1
+#show Trapper 2
+#ANIMATION 61
+#CAMERA 3
+#phrase Trapper  1
+Karansul trzyma mnie za gard³o obiema rêkami. Miejscowi go nienawidz¹: wszyscy s¹ mu coœ d³u¿ni, skupuje nasze trofea za drobne, a sprzedaje trzy razy dro¿ej. Biada temu, kto spróbuje znaleŸæ innego kupca! Karansul trzyma z lokalnym elementem przestêpczym. Jeden z³y ruch i wysy³a swoich podrzynaczy garde³, by siê tob¹ zajêli. A to równa siê, mój przyjacielu, po¿egnaniu z przyrod¹.
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  2
+Tak, widzê, ¿e to powa¿na sprawa. Ale czy nie znasz jakiegoœ sposobu, ¿eby przycisn¹æ tego robaka?
+#ANIMATION 11
+#CAMERA 11
+#phrase Trapper  3
+Zawrzyjmy uczciw¹ umowê - ty pomo¿esz mi, a ja tobie. Jeœli zrobisz coœ dla mnie, powiem ci wszystko co wiem o kupcu. Zgoda?
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  4
+Co chcesz, ¿ebym uczyni³?
+#ANIMATION 62
+#CAMERA 11
+#phrase Trapper  5
+Ca³kiem prost¹ rzecz... niebawem przybêdzie ze stolicy handlarz futer. Oferuje za skóry naprawdê konkurencyjne ceny, nie takie jak tutejszy pirat. Ale nie mogê siê z nim spotkaæ, poniewa¿ ³obuzy Karansula maj¹ na mnie oko.
+#show Hero
+#show Trapper
+#show SquirrelSkin 5
+#ANIMATION 44
+#CAMERA 3
+#phrase Trapper  6
+Gdybyœ móg³ zabraæ tam moje skóry... wtedy moglibyœmy odbyæ mi³a pogawêdkê! Droga do miejsca spotkania nie jest trudna, problem tkwi w tym, ¿e znajduje siê na terenach, kontrolowanych przez Karansula. Chyba teraz rozumiesz moj¹ ostro¿noœæ.
+#hide  SquirrelSkin
+#show SquirrelSkin 3
+#ANIMATION 46
+#CAMERA 2
+#phrase Hero  7
+Dobrze, zgadzam siê. Zaniosê tam twoje skóry, ale najpierw powiedz mi jak odnaleŸæ to miejsce....
+#hide  SquirrelSkin
+#ANIMATION 62
+#CAMERA 3
+#phrase Trapper  8
+To proste... kiedy dotrzesz na tereny Karansula, skrêæ w pierwsz¹ alejkê na po³udnie. Znajdziesz tam stary namiot z p³on¹cym ogniem. Nieopodal ognia s¹ wid³y, zawieœ na nich skóry i gotowe!
+#ANIMATION 44
+#CAMERA 11
+#phrase Trapper  9
+Tylko nie krêæ siê tam: w okolicy stacjonuje oddzia³ Stra¿y. Czasy s¹ ciê¿kie, dlatego Stra¿nicy najpierw bêd¹ strzelaæ, a dopiero potem zadawaæ pytania.

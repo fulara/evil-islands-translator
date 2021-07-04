@@ -1,0 +1,28 @@
+O zabitych poganiaczach niewolników
+#show Hero 3
+#show Glav 4
+#show Kuzn 5
+#ANIMATION 9
+#CAMERA 1
+#phrase Glav  1
+Nawet dobre zamiary mog¹ powodowaæ przykre konsekwencje, Bracie Blondynie. Nie mam ¿alu co do nadzorców, których zabi³eœ, ale mog³eœ zostawiæ œlady, mog¹ce sprowadziæ Stra¿ników do Ostatniej Kryjówki!
+#ANIMATION 6
+#CAMERA 7
+#phrase Glav  2
+Uznajê, ¿e to siê nie wydarzy³o i wybaczam twoj¹ niesubordynacjê. Ale proszê zapamiêtaj na przysz³oœæ... konsultuj ze mn¹ albo z innymi braæmi swoje zamiary zanim podejmiesz inne ryzykowne przedsiêwziêcia, niezale¿nie od swojego osobistego zadania.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  3
+Ale ja dzia³a³em na proœbê Brata Kowala!
+#ANIMATION 11
+#CAMERA 3
+#phrase Glav  4
+Tak, z nim te¿ zamieniê s³owo, mam nadziejê, ¿e zapamiêta co mu powiem - i ty tak¿e. Nasza kryjówka jest za ma³o bezpieczna. Mam nadziejê ¿e mnie rozumiesz.
+#ANIMATION 29
+#CAMERA 2
+#phrase Hero  5
+Tak, rozumiem, ale nie mogê trzymaæ siê z dala od ka¿dego stra¿nika na sto kroków! Prêdzej czy póŸniej bêdê musia³ ich spotkaæ, to nieuniknione!
+#ANIMATION 15
+#CAMERA 9
+#phrase Glav  6
+Ty te¿ masz po czêœci racjê, Bracie Blondynie. Ale jeœli rozpoczniesz walkê, musisz wygraæ i nie mo¿esz sobie pozwoliæ na pozostawienie ¿ywych wrogów. Mo¿e powinieneœ poprosiæ Brata Œlepca o lekcje... Sam go zaraz o to poproszê.

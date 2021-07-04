@@ -1,0 +1,19 @@
+Spotkanie z ¿o³nierzem
+#show Hero 1
+#show Merc1 2
+#ANIMATION 9
+#phrase Merc1  1
+Pos³uchaj, Wybrañcze... Zabierzesz mnie z sob¹, gdy udasz siê spuœciæ Goblinom jeszcze jedno lanie? Albo komukolwiek innemu, wszystko mi jedno!
+#DESC A bit embarrassed
+#ANIMATION 45
+#phrase Hero  2
+Hm... Kim ty w³aœciwie jesteœ
+#ANIMATION 9
+#phrase Merc1  3
+By³em kiedyœ pod dowództwem Gorta, byliœmy nawet przyjació³mi. Ale pogr¹¿y³em siê w ³ó¿ku z muchomorów... He he. Wiêc ju¿ ze sob¹ nie rozmawiamy, a ja obecnie nie jestem, ehm..., niczym zbytnio zajêty... Ale poka¿ mi topór, a wtedy ja poka¿ê ci wojownika! Zobaczysz!
+#ANIMATION 45
+#phrase Hero  4
+A wiêc jak siê nazywasz?
+#ANIMATION 3
+#phrase Merc1  5
+Na imiê mam Hador, ale lepiej mów mi Rowdy, jak wszyscy! Pomyœl o tym, dobrze? Kiedy jest czas na walkê, ja jestem w³aœciw¹ osob¹!

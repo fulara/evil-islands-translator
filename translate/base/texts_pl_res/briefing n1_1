@@ -1,0 +1,13 @@
+Zabierz Rowdy'ego
+#show Hero 
+#show Merc1
+#ANIMATION 9
+#phrase Merc1  1
+Eh, Wybrañcze, prowadzimy takie nudne ¿ycie, ¿adnych porz¹dnych rozrób! Tutaj w wiosce nie ma  z kim walczyæ...
+#ANIMATION 15
+#phrase Hero  2
+Dobrze, Rowdy, mam coœ dla ciebie, zaraz w pobli¿u... Spodoba ci siê!
+#ANIMATION 3
+#phrase Merc1  3
+Teraz, to ja rozumiem! Bêdê czeka³ przy bramach!
+#DESC Delighted and happy

@@ -1,0 +1,59 @@
+O znalezisku w jaskini
+#show Hero 3
+#show CryptRune00 4
+#show Smith 5
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  1
+Spójrz - czy mogê to zaoferowaæ WiedŸmie?
+#hide CryptRune00
+#show CryptRune00 5
+#ANIMATION 9
+#CAMERA 11
+#phrase Smith  2
+Tak, to jest Odrobina Magii, w porz¹dku, mo¿esz za¿¹daæ za ni¹ uczciwej ceny. Ale osobiœcie, nigdy bym tam nie poszed³! Droga do jaskini, w której ¿yje Estera, jest strze¿ona przez magiczne pu³apki.
+#ANIMATION 7
+#CAMERA 10
+#phrase Hero  3
+I nie ma sposobu, aby je omin¹æ?
+#ANIMATION 15
+#CAMERA 7
+#phrase Smith  4
+Nigdy nie próbowa³em tego robiæ - nie jestem g³upi, ¿eby ryzykowaæ pewn¹ œmierci¹! Aczkolwiek znam sposób, nie bêdzie on ³atwy. Widzisz, te pu³apki s¹ kontrolowane przez magiczne obeliski. I potrzebujesz do nich specjalnego klucza.
+#ANIMATION 8
+#CAMERA 6
+#phrase Hero  6
+Sk¹d o tym wiesz?
+#ANIMATION 9
+#CAMERA 3
+#phrase Smith  7
+Có¿, kto inny, oprócz mnie, móg³by wykonaæ zapasowy klucz dla WiedŸmy? Tak to wygl¹da...
+#show Hero 3
+#hide CryptRune00
+#show AmbushKey00 5
+#show Smith 5
+#ANIMATION 9
+#CAMERA 11
+#phrase Smith  8
+Estera trzyma go gdzieœ na koñcu zachodniego w¹wozu. Tam te¿ s¹ pu³apki, ale b³yskawice uderzaj¹ tylko w pewnych miejscach. Wiêc ktoœ móg³by spróbowaæ obejœæ je, a potem wy³¹czyæ obelisk, który kontroluje pu³apki. To niedaleko st¹d, na koñcu w¹wozu...
+#ANIMATION 44
+#CAMERA 7
+#phrase Smith  9
+Ale jest kolejny problem: Troll zawsze krêci siê niedaleko klucza. Nigdy nie zaczepia WiedŸmy, ale jeœli ktoœ spróbuje wzi¹æ klucz i Troll go zobaczy... Znaczy siê, bestia mia³aby wtedy ³adne œniadanie, czy¿ nie? Albo kolacjê - zale¿y, o której porze dnia - naprawdê.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  10
+Có¿, wielkie dziêki. Czy to wszystko co mo¿esz mi powiedzieæ? Mo¿e jakieœ podpowiedzi lub wskazówki?
+#ANIMATION 29
+#CAMERA 11
+#phrase Smith  11
+Ale¿ oczywiœcie! Moja rada: kiedy poka¿esz Esterze Odrobinê Magii, zaczekaj a¿ poda cenê. Kiedy to zrobi, zaczekaj jeszcze trochê, nastêpnie za¿¹daj trzy razy wiêcej. Zap³aci, nie bój siê! Ale pamiêtaj, po³owa jest dla mnie!
+#hide Smith
+#hide AmbushKey00 4
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2 0 2.2 2
+#phrase Hero  12
+Czy on naprawdê myœli, ¿e zamierzam siê targowaæ z WiedŸm¹? Potrzeba mi pomocy, nie pieniêdzy. Wyœwiadczy³em mieszkañcom wioski parê przys³ug, teraz czas aby pomyœleæ o sobie!
+#DESC To himself

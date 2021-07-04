@@ -1,0 +1,19 @@
+Przyjmij Myranê do dru¿yny
+#show Hero 
+#show Merc6
+#ANIMATION 11
+#CAMERA 3
+#phrase Merc6  1
+Tak wiêc, potrzebujesz mojej pomocy czy nie?
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+Skorzysta³bym, ale pewnie oczekujesz pieniêdzy w zamian za swoje us³ugi? Ryzyko, niebezpieczeñstwo, i takie tam...
+#ANIMATION 9
+#CAMERA 3
+#phrase Merc6  3
+Có¿, mówi¹c szczerze, nie jestem jeszcze cz³onkiem Gildii Najemników, wiêc nie mogê wymagaæ pieniêdzy. Moj¹ zap³at¹ bêdzie doœwiadczenie, jakie zdobêdê - co pomo¿e mi w póŸniejszym wst¹pieniu do Gildii. A poza tym zapewniam ciê, ¿e wynagrodzê ci stracony czas!
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  4
+Hmmm... tak wiêc w porz¹dku, zosta³aœ przyjêta!

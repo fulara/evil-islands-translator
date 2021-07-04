@@ -1,0 +1,15 @@
+Zostaw £ucznika w wiosce
+#show Hero 
+#show Merc2
+#CAMERA 2
+#ANIMATION 15
+#phrase Hero  1
+Musimy dziœ pozostaæ w wiosce.
+#CAMERA 3
+#ANIMATION 45
+#phrase Merc2  2
+Dlaczego? Coœ siê sta³o?
+#CAMERA 6
+#ANIMATION 8
+#phrase Hero  3
+Nic wielkiego. Zdecydowa³em, ¿e potrzebujesz trochê wypoczynku, zanim wyruszysz ze mn¹. Mamy wiele do zdzia³ania, nie chcê byœ by³ zmêczony w chwili, w której bêdê potrzebowa³ twego sokolego wzroku!

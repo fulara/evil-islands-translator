@@ -1,0 +1,11 @@
+Przykro mi ale jestem teraz zajêty...
+#show Hero
+#show Merc3
+#ANIMATION 31
+#CAMERA 7
+#phrase Merc3  1
+Nie mam nic przeciwko braniu udzia³u w twoich wyprawach, Wybrañcze! Lecz muszê wpierw za³atwiæ parê swoich spraw tu, w wiosce.
+#ANIMATION 15
+#CAMERA 3
+#phrase Merc3  2
+Dopiero wtedy bêdê gotowa wyruszyæ z tob¹ - oczywiœcie, jeœli do tej pory nie zapomnisz o mnie.

@@ -1,0 +1,11 @@
+Rozpocznij zadanie w Ingos
+#show Rick 1
+#show Hero 2
+#CAMERA 9
+#ANIMATION 6
+#phrase Rick  1
+Zaraz u¿yjê mojej magii i wyœlê ciê do Ingos. Ten amulet pomo¿e ci tu wróciæ, ale zadzia³a dopiero po znalezieniu dziewczyny!
+#CAMERA 11
+#ANIMATION 5
+#phrase Rick  2
+Przygotuj siê - poczujesz siê odrobinê oszo³omiony, kiedy wrócisz do swoich zmys³ów, bêdziesz ju¿ w innej krainie. Moja Dragonet bêdzie ci towarzyszyæ... niech twoje szczêœcie równie¿ bêdzie z tob¹!

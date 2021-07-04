@@ -1,0 +1,62 @@
+Odnalezienie ksiê¿niczki
+Dziewczyna jest ukryta gdzieœ g³êboko w katakumbach. Musisz j¹ odnaleŸæ i uratowaæ. Pamiêtaj, ¿e blisko wejœcia jaskini znajduj¹ siê posterunki obsadzone najemnikami na us³ugach Diery, a w g³êbinach ¿yj¹ Panowie Podziemia - magiczne istoty pa³aj¹ce nienawiœci¹ do wszystkiego, co pochodzi z powierzchni.
+#subobj  2
+ZnajdŸ by³e miejsce kaŸni
+W pó³nocno-zachodniej czêœci katakumb jest miejsce, które s³u¿y³o kiedyœ jako miejsce kaŸni dla niepokornych górników. Mo¿e to tam jest przetrzymywana dziewczyna?
+#subobj  3
+Odszukaj Dowódcê najemników
+Dowódca najemników Magini Diery jest w podziemnym obozie. Mo¿e ma on coœ, co pomo¿e ci wype³niæ zadanie?
+#subobj  4
+WeŸ rzeczy dowódcy
+Jeœli jest coœ, co mo¿e ci pomóc odnaleŸæ dziewczynê, bêdzie to mia³ Dowódca.
+#subobj  5
+Udaj siê do pó³nocno-wschodniej czêœci katakumb
+W by³ym miejscu kaŸni nie by³o ¿adnej dziewczyny. Mo¿e uda³o jej siê uciec, a teraz kryje siê g³êboko w katakumbach. Podziemne korytarze prowadz¹ na wschód od tamtego miejsca; powinieneœ kontynuowaæ swoje zadanie w pó³nocno-wschodniej czêœci podziemnego labiryntu. Istniej¹ dwie drogi, aby siê tam dostaæ. Pierwsza z nich jest bezpoœrednia, ale problemem s¹ zamkniête drzwi. Druga droga to pó³nocny korytarz. Nie jest to jakaœ bariera nie do pokonania, lecz to o wiele niebezpieczniejsze.
+#subobj  6
+Udaj siê do po³udniowo-wschodniej czêœci katakumb
+Prawdopodobnie dziewczynie uda³o siê dotrzeæ nawet dalej, wiêc rozejrzyj siê za ni¹ w po³udniowo-wschodniej czêœci podziemnego labiryntu. Ale b¹dŸ ostro¿ny: mo¿esz napotkaæ tam Robalog³owych - inteligentne stworzenia, nienawidz¹ce wszystkich mieszkañców na powierzchni oraz umiej¹ce pos³ugiwaæ siê magi¹.
+#subobj  7
+Odszukaj drzwi
+Jeœli to tu ukrywa siê dziewczyna, musi znajdowaæ siê za jednymi z drzwi, blokuj¹cych przejœcia.
+#subobj  8
+Otwórz drzwi
+Aby dowiedzieæ siê czy jest tutaj dziewczyna, musisz otworzyæ drzwi. Nie potrzebujesz do tego klucza.
+#subobj  9
+WejdŸ do kryjówki
+Dziewczyna jest tutaj!
+#subobj  10
+ZnajdŸ Po³udniowo-Wschodni¹ dŸwigniê
+Wrota, które otwieraj¹ drogê do po³udniowo-wschodniej czêœci katakumb, s¹ kontrolowane za pomoc¹ "Po³udniowo-Wschodniej" dŸwigni, umieszczonej w pó³nocno-wschodniej czêœci labiryntu, za jedn¹ z bram. Mo¿esz tam dojœæ drog¹ okrê¿n¹.
+#subobj  11
+Przesuñ Po³udniowo-Wschodni¹ dŸwigniê
+Kiedy "Po³udniowo-Wschodnia" dŸwignia zostanie w³¹czona, droga do po³udniowo-wschodniej czêœci katakumb zostanie otwarta.
+#subobj  12
+ZnajdŸ Po³udniow¹ dŸwigniê
+Ta dŸwignia znajduje siê w po³udniowej czêœci katakumb.
+#subobj  13
+Przesuñ Po³udniow¹ dŸwigniê
+Widocznie nie ma nic w pobli¿u dŸwigni, co mog³oby byæ przez ni¹ kontrolowane. Jednak¿e, jest ona tutaj z jakiejœ przyczyny: mo¿e otwiera przejœcia w innych czêœciach katakumb.
+#subobj  14
+ZnajdŸ Pó³nocno-Wschodni¹ dŸwigniê
+Widocznie nie ma nic w pobli¿u dŸwigni, co mog³oby byæ przez ni¹ kontrolowane. Jednak¿e, jest ona tutaj z jakiejœ przyczyny...
+#subobj  15
+Przesuñ Pó³nocno-Wschodni¹ dŸwigniê
+Mo¿e otwiera przejœcia w innych czêœciach katakumb.
+#subobj  16
+Bingo!
+Po przesuniêciu "Po³udniowej" dŸwigni otworzy³o siê przejœcie i czeka na ciebie tam coœ wcale nie bezu¿ytecznego...
+#subobj  17
+Podnieœ znalezisko
+Cokolwiek to nie jest, bêdzie siê czu³o lepiej w rêkach znalazcy ni¿ w jaskini.
+#subobj  18
+Tak! (Pó³nocno-Wschodnia dŸwignia)
+Po przesuniêciu "Pó³nocno-Wschodniej" dŸwigni otworzy³o siê przejœcie i czeka na ciebie tam coœ wcale nie bezu¿ytecznego...
+#subobj  19
+Podnieœ znalezisko
+Cokolwiek to nie jest, bêdzie siê czu³o lepiej w rêkach znalazcy ni¿ w jaskini.
+#subobj  20
+ZnajdŸ Pó³nocn¹ dŸwigniê
+Droga do pó³nocno-wschodniej czêœci katakumb jest zablokowana wrotami, kontrolowanymi za pomoc¹ dŸwigni. Aby j¹ odnaleŸæ, idŸ na wschód od by³ego miejsca kaŸni.
+#subobj  21
+Przesuñ Pó³nocn¹ dŸwigniê
+Aby przesun¹æ "Pó³nocn¹" dŸwigniê, u¿yj klucza, który mia³ Dowódca najemników.

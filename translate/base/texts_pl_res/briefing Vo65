@@ -1,0 +1,19 @@
+O podró¿y do miasta
+#show Hero 1
+#show Merc10 2
+#ANIMATION 64
+#CAMERA 9
+#phrase Merc10  1
+A wiêc, Blondynie, szkoda, ¿e nie spotkaliœmy siê wczeœniej. Moglibyœmy wspólnie ukraœæ mnóstwo rzeczy, oczyœciæ tyle domów!
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  2
+Ukraœæ? Co masz na myœli mówi¹c: ukraœæ? W tym mieœcie wpadam na stra¿nika co piêæ minut!
+#ANIMATION 61
+#CAMERA 3
+#phrase Merc10  3
+Ale po co iœæ do miasta. Bogacze maj¹ swoje rezydencje tak¿e na wsi, czy¿ nie? Nigdy takich nie widzia³eœ, gdy opuszcza³eœ jaskiniê? Czêsto myœla³am by spróbowaæ z³odziejstwa w³aœnie tam, ale nigdy dotychczas nie mia³am szansy?
+#ANIMATION 68
+#CAMERA 9
+#phrase Merc10  4
+Mo¿e zechcia³byœ siê tam rozejrzeæ? W takiej bogatej willi znajdziesz na pewno ³adnych parê skrzyñ, z u¿ytecznymi rzeczami w œrodku!

@@ -1,0 +1,15 @@
+Myrana nie chce byæ czwart¹
+#show Hero 
+#show Merc6
+#ANIMATION 11
+#CAMERA 3
+#phrase Merc6  1
+£adn¹ dru¿ynê skompletowa³eœ, ch³opcze!
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  2
+W³aœciwie, to zamierza³em w³aœnie ciê zapytaæ, czy nie zechcia³abyœ siê do nas przy³¹czyæ?
+#ANIMATION 15
+#CAMERA 3
+#phrase Merc6  3
+A na co ci jestem potrzebna? Troje z was poradzi sobie z ka¿dym.

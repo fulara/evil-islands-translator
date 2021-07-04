@@ -1,0 +1,51 @@
+Wa¿ne sprawy Starca
+#show Hero 1
+#show Elder 2
+#ANIMATION 9
+#CAMERA 9
+#phrase Elder  1
+Och Wybrañcze! Zebra³em wszystkie plotki, legendy oraz wiedzê Starszych naszej wioski i doszed³em do zadziwiaj¹cych wniosków - nasza wyspa nie jest tak odosobniona, jak s¹dziliœmy. Musimy sprawdziæ, czy to prawda, gdybyœ móg³ znaleŸæ sposób na porozumiewanie siê z innymi krainami - z moj¹ pokorn¹ pomoc¹, oczywiœcie - nasza wioska by³aby strasznie szczêœliwa...
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2 0 2.2 2
+#phrase Hero  2
+Och! Có¿, jestem pewien, ¿e na innych l¹dach mogê znaleŸæ naprawdê potê¿nych Magów, którzy przywróc¹ mi pamiêæ! By³oby o wiele ³atwiej przejœæ przez Portal ni¿ biegaæ po tym ca³ym zdewastowanym terenie Gipath!
+#DESC To himself
+#show Hero 1
+#show Elder 2
+#ANIMATION 15
+#CAMERA 5
+#phrase Hero  3
+Wiêc powiedz mi!
+#ANIMATION 9
+#CAMERA 3
+#phrase Elder  4
+Jest pewien Wódz ma³ego szczepu Goblinów, zwany GoGo. W miejscu, gdzie powinien mieæ oko, ma niebieski kamieñ. S³ysza³em, ¿e w staro¿ytnych czasach u¿ywano tego materia³u do produkcji bram, które mog³y przenosiæ ludzi z jednego miejsca do drugiego w u³amku sekundy. Gdybyœmy mogli siê dowiedzieæ sk¹d pochodzi ten kamieñ, wtedy móg³bym powiedzieæ czy mamy taki Portal w Gipath, czy te¿ nie.
+#ANIMATION 5
+#CAMERA 2
+#phrase Hero  5
+Doskona³y pomys³! Ale gdzie ja go znajdê... jak siê nazywa... GoGo?
+#ANIMATION 44
+#CAMERA 11
+#phrase Elder  6
+Sam do nas przyjdzie i powie wszystko co wie. Szczep GoGo wyznaje Pierwszego Goblina; wci¹¿ maj¹ jego czaszkê. Jeœli zagarniemy t¹ relikwiê, GoGo zrobi wszystko, ¿eby j¹ odzyskaæ! Tak to wygl¹da...
+#show Hero 3
+#show Elder 5
+#show GoblinFright00 5
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  7
+Trzeba byæ Goblinem, ¿eby czciæ taki... œwiêty przedmiot!
+#ANIMATION 3
+#CAMERA 7
+#phrase Elder  8
+Ale proszê - ani s³owa o Portalu zanim go nie odnajdziemy. Nie ma potrzeby dawaæ ludziom z³udnych nadziei.
+#hide Elder 
+#hide GoblinFright00 4
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2 0 2.2 2
+#phrase Hero  9
+Jakbym zamierza³ to komukolwiek powtórzyæ! Pierwsze, co powinienem zrobiæ, to samemu skorzystaæ z Portalu, a to bêdzie ostatni raz gdy mnie ujrz¹. Mo¿e nie... w koñcu, wydaj¹ siê pok³adaæ we mnie wszystkie swoje nadzieje... Aaaaaa!... Ta wioska istnia³a przez sto lat bez Wybrañca, wiêc przetrwa nastêpne sto bez niego!
+#DESC To himself

@@ -1,0 +1,6 @@
+     Zale¿nie od sytuacji, mo¿esz wybraæ jeden z dostêpnych trybów poruszania siê postaci. Aby prze³¹czaæ tryby, u¿yj panelu sterowania w dolnej lewej czêœci ekranu, lub klawiatury. Poszczególne tryby poruszania siê i ich opisy s¹ jak nastêpuje:
+
+     Chodzenie: kiedy postaæ chodzi, jej prêdkoœæ jest normalna. "Wigor" jest sta³y, co oznacza, ¿e nie bêdzie siê ani zmniejsza³ ani zwiêksza³ (klawisz <X>).
+     Bieganie: bieg jest szybszy ni¿ chód, jednak ma jedn¹ powa¿n¹ niedogodnoœæ - postaæ czyni przy nim o wiele wiêcej ha³asu ni¿ przy chodzeniu, co mo¿e zakoñczyæ siê zwróceniem na siebie uwagi wrogów, którzy normalnie by nic nie dostrzegli. Podczas biegu "Wigor" maleje, a kiedy osi¹gnie zero, postaæ automatycznie przejdzie do chodu (klawisz <Z>).
+     Skradanie siê: skradaj¹ca siê postaæ prawie nie powoduje ha³asu, przez co wróg mo¿e j¹ wykryæ tylko gdy siê na ni¹ natknie. Naturalnie, skradanie jest bardzo wolne, a "Wigor" pozostaje bez zmian (klawisz <C>).
+     Czo³ganie siê: czo³gaj¹ca siê postaæ jest o wiele mniej widoczna dla wrogów, lecz porusza siê bardzo, bardzo wolno. Tak jak skradanie, czo³ganie nie wp³ywa na "Wigor" (klawisz <V>).

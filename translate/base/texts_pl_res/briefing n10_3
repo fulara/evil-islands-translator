@@ -1,0 +1,15 @@
+Po¿egnaj Nayê
+#show Hero
+#show Merc3
+#ANIMATION 3
+#CAMERA 7
+#phrase Merc3  1
+Jak sobie ¿yczysz, Wybrañcze! Pewnego dnia zajmê miejsce Estery i bêdê przyjmowa³a w³asnych uczniów i z dum¹ bêdê im opowiada³a, jak to spotka³am ciebie.
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  2
+Mówisz tak, jakbyœmy ju¿ nigdy nie mieli siê spotkaæ! Czy uwa¿asz, ¿e w odleg³ych krainach spotkam swoj¹ œmieræ?
+#ANIMATION 44
+#CAMERA 7
+#phrase Merc3  3
+Nie, nie œmieræ... coœ innego. Lecz nie mogê ci powiedzieæ co - to by nie by³o uczciwe wobec Estery. Wychowankowie nie powinni robiæ tego, czego ich nauczyciele nie mog¹. ¯egnaj!

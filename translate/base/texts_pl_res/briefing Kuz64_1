@@ -1,0 +1,15 @@
+O pracy Kowala
+#show Hero 3
+#show Kuzn 5
+#ANIMATION 9
+#CAMERA 9
+#phrase Kuzn  1
+Moja historia jest prosta jak linia na piasku. Nieoczekiwanie ktoœ pchn¹³ moj¹ rêkê w momencie gdy po¿ycza³em pieni¹dze - nastêpnego dnia moja kuŸnia zosta³a puszczona z dymem! Nie jestem zbieg³ym niewolnikiem, bo uciek³em zanim zosta³em zniewolony.
+#ANIMATION 62
+#CAMERA 3
+#phrase Kuzn  2
+Niektórzy kupcy w mieœcie nadal sprzedaj¹ mi materia³y i próbki, tak wiêc tu, w Kryjówce, mamy broñ i ochronê. Oczywiœcie, musimy p³aciæ za to spore sumy z³ota, ale w koñcu ¿ebracy nie mog¹ byæ wybrañcami!
+#ANIMATION 44
+#CAMERA 11
+#phrase Kuzn  3
+Ty tak¿e musisz mi zap³aciæ - ¿ebym móg³ zap³aciæ za materia³y i czary, które robi dla mnie brat Kehel.

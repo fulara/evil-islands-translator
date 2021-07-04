@@ -1,0 +1,11 @@
+O z³odzieju w domu gubernatora
+#show Hero 1
+#show Kapitan 2
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  1
+Kapitanie! Czy Gubernator wyznaczy³ nagrodê za skradzion¹ walizkê?
+#ANIMATION 11
+#CAMERA 11
+#phrase Kapitan  2
+Bardzo mo¿liwe, ale ty jej nie otrzymasz, m³odzieñcze. Nie chcia³bym, ¿eby Gubernator uzna³, ¿e inni ludzie mog¹ wykonywaæ moj¹ prace lepiej ode mnie.

@@ -1,0 +1,44 @@
+O Z³otej Dolinie
+#show Smith 1
+#show Hero 2
+#ANIMATION 32
+#CAMERA 1
+#phrase Smith  1
+Z³ota Dolina to s³ynne miejsce. Sam chcia³em je odwiedziæ jakiœ czas temu...
+#ANIMATION 9
+#CAMERA 6
+#phrase Hero  2
+Czy¿by? Starzec powiedzia³ mi, ¿e jedynie on zna drogê.
+#ANIMATION 3
+#CAMERA 11
+#phrase Smith  3
+Jak zawsze sk³ama³. Wielu ludzi tam posz³o.
+#DESC "Lying like he always does" said with total conviction
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  4
+I co powiadaj¹ ci ludzie?
+#ANIMATION 11
+#CAMERA 11
+#phrase Smith  5
+Kto?
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  6
+S³uchaj, moja cierpliwoœæ siê koñczy. Dopiero co powiedzia³eœ, ¿e wielu mieszkañców wioski tam posz³o...
+#ANIMATION 7
+#CAMERA 3
+#phrase Smith  7
+Tak, powiedzia³em, nie zaprzeczam. Ale nie przypominam sobie ¿ebym mówi³, ¿e ktokolwiek wróci³. Nie, czekaj, to nie do koñca prawda! Jeden z nich wróci³, lecz ca³kiem postrada³ zmys³y.
+#ANIMATION 9
+#CAMERA 7
+#phrase Smith  8
+Mamrota³ coœ o szkieletach - ¿e niby pilnuj¹ z³ota i wykrywaj¹ ludzi, lecz nie dziêki oczom, a jakiemuœ specjalnemu zmys³owi... tak wiêc po namyœle postanowi³em jednak tam nie iœæ. Lepiej zostawiæ z³oto Orkom ni¿ straciæ w³asn¹ g³owê!
+#hide Smith
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  9
+Aha! Coœ tu nie gra. Jeœli sam Babur ba³ siê pójœæ po z³oto, w tym parowie musz¹ znajdowaæ siê naprawdê okropne niespodzianki. Mo¿e powinienem powiedzieæ Starcowi, ¿eby o tym zapomnia³?
+#DESC To himself

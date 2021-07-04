@@ -1,0 +1,65 @@
+O rzeczach Czerwonog³owych Bandytów
+#show Hero 3
+#show Smith 5
+#show Map00 4
+#ANIMATION 29
+#CAMERA 5
+#phrase Hero  1
+Pos³uchaj, znalaz³em tê mapê w torbie zbójcy zwanego Czerwonog³owym - tego który rozmawia³ z Orkami. Na tyle na ile to rozumiem, to ma coœ wspólnego z obiektem który maj¹ Orkowie. Spójrz, tu jest tak¿e rysunek Jasnowidza z kluczem...
+#hide Map00
+#show Map00 5
+#ANIMATION 29
+#CAMERA 7
+#phrase Smith  2
+Dobrze, daj mi spojrzeæ... Aha! Obraz przedstawiaj¹cy sarkofag z Odrobin¹ Magii w œrodku.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  3
+Masz na myœli runy?
+#ANIMATION 9
+#CAMERA 3
+#phrase Smith  4
+Nie, runy s¹ inne. Odrobiny s¹ ... ochhh, .. ¿abi oddech! Nie wiem jakie s¹, ale WiedŸma, kiedy ¿y³a w wiosce, p³aci³a za nie spore pieni¹dze. I myœlê, ¿e nie by³aby zbyt pod³a, gdyby ktoœ jej zaproponowa³ takie coœ... a wtedy podzielimy zyski!
+#ANIMATION 29
+#CAMERA 6
+#phrase Hero  5
+Jeszcze niczego nie znalaz³em a ty mówisz ju¿ o podziale zysków! Pos³uchaj jest tam Troll i coœ co wygl¹da na wejœcie do jaskini. Czy wiesz gdzie to mo¿e byæ?
+#ANIMATION 7
+#CAMERA 7
+#phrase Smith  6
+Jaskinia Trolla le¿y na pó³nocny-wschód od podgórza. Mo¿esz siê do niej ca³kiem ³atwo dostaæ: Troll, który jej pilnuje, jest du¿y, ale tak g³upi, ¿e ka¿dy mo¿e go oszukaæ. Wejœæ g³êbiej do jaskini to ju¿ inna historia.
+#ANIMATION 9
+#CAMERA 11
+#phrase Smith  7
+Orki to bardzo podstêpne diab³y, nie tylko s¹ dobrymi wojownikami, ale tak¿e robi¹ m¹dre rzeczy. Zaraz obok wejœcia do tej jaskini jest szczelina ze zwodzonym mostem. Odkry³em jak to dzia³a, ale nie mog³em opuœciæ mostu: ¿eby to zrobiæ, potrzeba pewnej ma³ej czêœci.
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero  8
+Czemu nie zrobisz czegoœ takiego?
+#hide Map00
+#show Map00 4
+#ANIMATION 45
+#CAMERA 9
+#phrase Smith  9
+A kto mi da plan konstrukcji - ty? Jeszcze jedno, ka¿dy szczep Orków ma swoje sekrety i gdybym mia³, powiedzmy, mechanizm do mostu Wyspy Orków, nie zadzia³a³by on z mostem w Jaskini Orków.
+#hide Map00
+#show Map00 5
+#ANIMATION 14
+#CAMERA 6
+#phrase Hero  10
+Czy to oznacza ¿e Orki z ró¿nych szczepów nie ufaj¹ sobie wzajemnie?
+#ANIMATION 29
+#CAMERA 11
+#phrase Smith  11
+O to chodzi! S³ysza³em plotkê, ¿e Orki z Wyspy wys³a³y grupê Goblinów, by wykrad³y mechanizm mostu z Jaskini Orków, a ludzie Kapitana zabrali im go.
+#ANIMATION 31
+#CAMERA 7
+#phrase Smith  12
+Wiêc dlaczego nie spróbowaæ wycisn¹æ tej rzeczy od Gorta? Oka¿ mu trochê szacunku, zrób coœ dla niego ... Bêdzie mia³ u ciebie d³ug, wtedy poproœ go o to.
+#hide Smith
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  13
+Tightfist jest Tigfistem. Dla niego œwiat sk³ada siê tylko z pieniêdzy i d³ugów. Mo¿e Starszy ma racjê ¿e jest podejrzliwy w stosunku do niego...
+#DESC To himself

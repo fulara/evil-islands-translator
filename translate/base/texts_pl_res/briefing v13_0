@@ -1,0 +1,15 @@
+O zdradzie
+#show Sheriff 1
+#show Hero 2
+#ANIMATION 9
+#CAMERA 1
+#phrase Sheriff  1
+Wybrañcze, gdzie siê podziewa³eœ? Czeka³em na ciebie z ludŸmi, ale nie pojawi³eœ siê, wiêc zdecydowa³em tu wróciæ...
+#ANIMATION 14
+#CAMERA 5
+#phrase Hero  2
+Ech, kto siê nie pojawi³? Twoi idioci zaatakowali mnie - s³yszysz, zaatakowali - a teraz oœmielasz siê mówiæ do mnie w ten sposób!!!
+#ANIMATION 3
+#CAMERA 11
+#phrase Sheriff  3
+Ja nic nie wiem! Mo¿e gdy mnie nie by³o, upili siê i wziêli ciê za Orka? Nie mog³eœ im powiedzieæ kim jesteœ? Ale pewnie zacz¹³eœ z nimi walczyæ? O Bogowie! Teraz s¹ pewnie strasznie Ÿli i nawet nie bêdê w stanie ich uspokoiæ!

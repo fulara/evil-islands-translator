@@ -1,0 +1,34 @@
+O wrogu w wiosce
+#show Witch 1
+#show Hero 2
+#CAMERA 9
+#ANIMATION 9
+#phrase Witch  1
+Wiêc, kochanie, co mówi¹ ludzie w wiosce?
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  2
+Myœlê, ¿e mo¿esz siê domyœliæ.
+#ANIMATION 8
+#CAMERA 11
+#phrase Witch  3
+Ka¿dy zwala winê na innych, ech?
+#ANIMATION 44
+#CAMERA 5
+#phrase Hero  4
+W pewien sposób, ale wydaje mi siê, ¿e obaj mówi¹ ca³kiem rozs¹dnie. Nie mogê dojœæ do sedna sprawy!
+#ANIMATION 63
+#CAMERA 9
+#phrase Witch  5
+Cierpliwoœci! Ty o niczym nie wiesz, prawda? Jeœli nie mo¿esz dotrzeæ do sedna, spraw by samo do ciebie przysz³o! Zastaw pu³apkê!
+#hide Witch 
+#show Hero 4
+#ANIMATION 30
+#CAMERA 6
+#phrase Hero  6
+Racja... Zastawiæ pu³apkê... Jak¹ pu³apkê móg³bym zastawiæ... o tak! Powiem ludziom w wiosce, ¿e Estera zdradzi³a mi sekret... Najwidoczniej w Œrodkowych Szczytach jest inny Bia³y Kwiat i obieca³em go dla niej zdobyæ.
+#DESC (Thinking aloud)
+#ANIMATION 44
+#CAMERA 5
+#phrase Hero  7
+Podam Baburowi jedn¹ lokalizacjê, a Starcowi drug¹. Kiedy zobaczê gdzie zastawiono pu³apkê, znajdê swojego zdrajcê.

@@ -1,0 +1,15 @@
+Poznaj Rycerza
+#show Hero 
+#show Merc9
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  1
+Przepraszam bardzo... Nie jesteœ przypadkiem Brissen, Dobry Rycerz? Wiele o tobie s³ysza³em w mieœcie, lecz powiedziano mi ¿e nie ¿yjesz!
+#ANIMATION 62
+#CAMERA 3
+#phrase Merc9  2
+Pog³oski o mojej œmierci s¹ wielce przesadzone. To tylko wymys³y paru ludzi, którym by³oby to bardzo na rêkê, wiêc za ka¿dym razem, kiedy wyruszam poza miasto - nie wa¿ne na jak d³ugo - plotki o mojej œmierci znów zaczynaj¹ kr¹¿yæ. Ale ja zawsze wracam, poniewa¿ wci¹¿ jestem s³ug¹ dobra, nie z³a!
+#ANIMATION 11
+#CAMERA 11
+#phrase Merc9  3
+A tak przy okazji, m³ody cz³owieku! Bardzo siê cieszê, ¿e mogê ciê poznaæ. Szary Liœæ powiedzia³ mi o tobie i twoim zadaniu. Myœlê, ¿e ty te¿ stoisz po stronie dobra, wiêc mo¿emy podró¿owaæ razem. Przemyœl moje s³owa!

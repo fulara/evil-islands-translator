@@ -1,0 +1,13 @@
+     Kiedy polecisz swojej postaci atak, mo¿esz okreœliæ, w któr¹ czêœæ cia³a ma celowaæ. U¿yj nastêpuj¹cych klawiszy na klawiaturze numerycznej:
+
+     4: celowanie w lew¹ rêkê (lew¹ przedni¹ nogê)
+     6: celowanie w praw¹ rêkê (praw¹ przedni¹ nogê)
+     1: celowanie w lew¹ nogê
+     3: celowanie w praw¹ nogê
+     5: celowanie w korpus
+     8: celowanie w g³owê
+
+     Aby zadaæ cios precyzyjny, naciœnij odpowiedni klawisz i najedŸ kursorem na przeciwnika. Twoja postaæ bêdzie celowaæ w zadan¹ czêœæ cia³a dopóki nie wydasz innej komendy lub dopóki "zdrowie" tej czêœci nie osi¹gnie zera. Jeœli przeciwnik jeszcze ¿yje, ciosy nie bêd¹ ju¿ precyzyjnymi.
+
+     Uwaga: niektóre stworzenia w grze nie posiadaj¹ r¹k czy nóg. Jeœli polecisz atakowaæ brakuj¹ce czêœci cia³a, twoja postaæ po prostu zignoruje takie ¿¹danie.
+     Uwaga: wszystkie czêœci cia³a postaci mog¹ byæ ochraniane przez zbrojê o specyficznych w³aœciwoœciach - np. zdolnoœæ przyjmowania obra¿eñ od broni tak, ¿e obra¿enia zadane w takie chronione czêœci cia³a bêd¹ l¿ejsze.

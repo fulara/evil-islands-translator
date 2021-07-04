@@ -1,0 +1,12 @@
+Zabierz Rowdy'ego
+#show Hero 
+#show Merc1
+#ANIMATION 45
+#phrase Merc1  1
+Dok¹d siê wybierasz z tym t³umem?
+#ANIMATION 8
+#phrase Hero  2
+Zanosi siê na coœ. Przy³¹czysz siê do nas? Wygl¹da na to, ¿e lubisz takie przedsiêwziêcia.
+#ANIMATION 32
+#phrase Merc1  3
+Nie, jest was ju¿ trzech. Znasz mnie – kiedy siê zapomnê, wtedy nie patrzê gdzie uderzam... To znaczy, w ogniu walki móg³bym trafiæ przyjaciela, rozumiesz?

@@ -1,0 +1,76 @@
+Porozmawiaj ze Smokiem
+#show Hero 4
+#show SKD 1
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  1
+Racja, wiêc tu jest szczyt góry... i oczywiœcie nie ma tu ¿adnego Maga - w rzeczy samej, ¿adnego. Czy zaszed³em tak daleko na pró¿no? Jestem tak blisko celu. To niedobrze...
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  2
+Lecz co to za ha³as? Brzmi jak... o nie, to jest Smok!!!
+#show SKD 1
+#show Hero 2
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  3
+A to co? Cz³owiek? Czego tu szukasz? Mo¿e chcesz ze mn¹ walczyæ, jak to by³o kiedyœ w zwyczaju? Nie mam nic przeciwko starym tradycjom, jednak szczerze nie widzê w tym ¿adnego celu...
+#CAMERA 7
+#phrase SKD  4
+Lecz nie bêdê zgadywa³. Bêdzie zabawniej jeœli sam mi powiesz. Wiêc?
+#ANIMATION 6
+#CAMERA 6
+#phrase Hero  5
+Ja ... eee... Ja nie spodziewa³em siê ujrzeæ tu ciebie, to pomy³ka...
+#DESC (We feel that hero is frightened, his throat is parched but he still manages to keep his dignity)
+#CAMERA 11
+#ANIMATION 5
+#phrase SKD  6
+Wierzê ci i zgadzam siê z tob¹. W rzeczy samej to wielka pomy³ka dla cz³owieka przyjœæ do legowiska smoka. Lecz nasza ma³a pogawêdka bawi mnie. Czy móg³byœ powiedzieæ mi kogo siê tu spodziewa³eœ zobaczyæ, po co przyszed³eœ, i takie tam rzeczy, hmmm?
+#ANIMATION 8
+#CAMERA 6
+#phrase Hero  7
+Mia³em nadziejê odnaleŸæ Maga, którego widzia³em w Magicznej Kuli... A poniewa¿ Kula pochodzi z Umar³ego Miasta, myœla³em ¿e Mag te¿ mo¿e tu mieszkaæ i dowodziæ szkieletami, które go ochraniaj¹!
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  8
+Có¿, brzmi ca³kiem wiarygodnie - jak na cz³owieka. Ale szuka³eœ Maga, a znalaz³eœ mnie. A co do szkieletów, te¿ siê myli³eœ: ja w³adam szkieletami, lecz bardzo rzadko - a i wtedy dla czystej zabawy. No i co ja mam z tob¹ teraz zrobiæ?
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  9
+Mo¿e nie powinieneœ ze mn¹ nic robiæ... i jeœli nie masz nic przeciwko, chcia³bym odejœæ i ju¿ nigdy wiêcej nie zak³ócaæ twego spokoju...
+#CAMERA 9
+#ANIMATION 5
+#phrase SKD  10
+Niestety, to nie jest mo¿liwe. Jak ju¿ powiedzia³em, szanujê stare tradycje, a zgodnie z nimi, nie mo¿esz ot tak sobie odejœæ. Napotka³eœ wiele niebezpieczeñstw i w³o¿y³eœ wiele wysi³ku w swoje zadanie. Nie mo¿esz tak po prostu wszystkiego rzuciæ.
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  11
+Móg³byœ wyzwaæ mnie na pojedynek, móg³byœ za¿¹daæ uwolnienia dziewicy, ostatecznie móg³byœ poprosiæ mnie o jakieœ zadanie. Jeœli je wykonasz, odpowiem na ka¿de pytanie jakie zadasz. Tak siê sk³ada, ¿e nie przetrzymujê w chwili obecnej ¿adnych dziewic, a widzê, ¿e idea walki ze mn¹ te¿ ci nie za bardzo odpowiada. Czyli zostaje zadanie dla ciebie. Czy jesteœ gotów?
+#DESC Counting
+#ANIMATION 30
+#NOLIPS
+#CAMERA 6
+#phrase Hero  12
+Mo¿e to moja szansa? Smok powiedzia³, ¿e mogê mu zadaæ dowolne pytanie - wiêc móg³bym spytaæ go kim jestem i sk¹d siê wzi¹³em. To jest warte ryzykowania ¿yciem!
+#DESC To himself
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  13
+Tak, oczywiœcie. Ca³y zamieniam siê w s³uch.
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  14
+Te tereny pe³ne s¹ jaskiñ. Wiele obrzydliwych stworzeñ, które ludzie zw¹ armadillo, ¿yje i rozmna¿a siê w tych jaskiniach. Kiedy zapada noc, ich m³ode wy³a¿¹ na powierzchniê, a nawet dochodz¹ tu, do mojej kryjówki. Robi¹ wiele ha³asu i ba³aganu, walcz¹c o k¹ski jedzenia - jednym s³owem, irytuj¹ mnie.
+#CAMERA 7
+#ANIMATION 5
+#phrase SKD  15
+Sam jestem za wielki aby dostaæ siê do jaskini, wiêc ty udasz siê do niej zamiast mnie. Dam ci miksturê do zatrucia podziemnego Ÿród³a, aby ¿yj¹cy pode mn¹ ju¿ mi wiêcej nie przeszkadzali.
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  16
+I nie opuszczaj jaskini dopóki nie zabijesz matki armadillo. Moja trucizna nie zabije jej, a tylko os³abi. A wtedy nawet ty, cz³owiek, bêdziesz w stanie j¹ wykoñczyæ. Potem wróæ do mnie, a bêdziesz móg³ zadaæ mi pytanie. Lecz pomyœl ostro¿nie zanim zapytasz albo po¿a³ujesz.
+#CAMERA 9
+#ANIMATION 4
+#phrase SKD  17
+Jednak szczerze w¹tpiê, ¿ebyœ móg³ spytaæ o coœ naprawdê interesuj¹cego.

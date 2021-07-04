@@ -1,0 +1,23 @@
+O s³u¿bie u Estery
+#show Merc3
+#show Witch
+#show Hero
+#ANIMATION 9
+#CAMERA 4
+#phrase Witch  1
+Dobrze, Wybrañcze, poznaj t¹ leniw¹ dziewczynê, nazywa siê Naya i jest moj¹ uczennic¹. Widzisz skarbie, pomyœla³am, ¿e przyda ci siê pomoc, mimo ¿e jesteœ Wybrañcem, potê¿nym i silnym – prawda?
+#ANIMATION 9
+#CAMERA 8
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  3
+Co za stara wiedŸma! Wie bardzo dobrze, ¿e nie jestem Wybrañcem, ale wci¹¿ siê ze mn¹ dra¿ni!
+#DESC To himself
+#ANIMATION 31
+#CAMERA 6
+#phrase Hero  4
+Dziêkujê ci za pomoc w mym zadaniu, Estero...
+#ANIMATION 9
+#CAMERA 4
+#phrase Witch  5
+Czy powiedzia³am, ¿e pójdê z tob¹ wszêdzie? Latanie w te i we wte pomiêdzy drzewami to ju¿ nie na moje lata! Ale Naya pójdzie z Tob¹, nawet do legowiska Orków, jeœli zajdzie taka potrzeba! No, a poza tym bêdzie to dla niej znakomity test - zobaczymy czy moja nauka nie posz³a w las.

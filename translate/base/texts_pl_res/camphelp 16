@@ -1,0 +1,2 @@
+Czar
+Mo¿esz ³¹czyæ zaklêcia z broni¹ z zbroj¹. Czar musi posiadaæ runê "przedmiotu", która determinuje kiedy dany czar bêdzie móg³ zadzia³aæ. Czêœci ekwipunku maj¹ pewne ograniczenia, które determinuj¹ si³ê i sposób dzia³ania zaimplementowanego zaklêcia. Mo¿esz te¿ zdezintegrowaæ "zaklêty" przedmiot - wtedy bêdziesz móg³ korzystaæ z czaru w tradycyjny sposób.

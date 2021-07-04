@@ -1,0 +1,8 @@
+     U¿yj ekranu Opcji aby ustawiæ parametry gry, najbardziej Ci odpowiadaj¹ce i zasobom twojego systemu. Ka¿da opcja posiada wyskakuj¹ce podpowiedzi, podaj¹ce wiêcej szczegó³ów. ¯eby zobaczyæ podpowiedŸ, umieœæ kursor nad elementem menu i poczekaj parê sekund.
+     Opcje s¹ podzielone na kilka sekcji. Ka¿da z nich tak¿e posiada w³asne podpowiedzi.
+
+     Poni¿sze informacje odnosz¹ siê do wszystkich opcji:
+     Aby zdefiniowaæ (przedefiniowaæ) klawisze, kliknij dwukrotnie na danej opcji. Ca³a linia z opcj¹ zostanie podœwietlona na czerwono. Wciœnij wybrany klawisz, a zostanie on przypisany danej opcji.
+     Aby w³¹czyæ/wy³¹czyæ opcjê, kliknij dwukrotnie na "W³." lub "Wy³.". Opcja zostanie uaktywniona/dezaktywowana.
+     Aby zwiêkszyæ/zmniejszyæ wartoœæ danej opcji, przeci¹gnij suwak ruchomego paska w lewo/prawo. W skrajnej lewej pozycji suwaka wartoœæ wynosi zero. (oznacza to wy³¹czenie danej opcji).
+     Aby zatwierdziæ zmiany, u¿yj przycisku <V>, aby anulowaæ - <X>.

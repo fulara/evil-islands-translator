@@ -1,0 +1,52 @@
+Poznawanie WiedŸmy
+#show Hero 1
+#show Witch 2
+#ANIMATION 61
+#CAMERA 9
+#phrase Witch  1
+Hej, ch³opcze! Jak zdo³a³eœ siê tu dostaæ? I czego chcesz, co? Wynoœ siê, zanim zrobiê z ciebie krwaw¹ miazgê!
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  2
+Có¿, jeœli nie jesteœ zainteresowana Odrobin¹ Magii... w takim razie ju¿ sobie idê!
+#show CryptRune00 5
+#ANIMATION 9
+#CAMERA 3
+#phrase Witch  3
+Hola, nie tak prêdko... Ojej, jaki niecierpliwy! Zatrzymasz siê? Oczywiœcie, ¿e jestem tym zainteresowana! Podejrzewam nawet, ¿e mog³abym okazaæ trochê entuzjazmu goœciowi, który przynosi mi taki podarunek.
+#hide CryptRune00
+#show Hero 1
+#show Witch 2
+#ANIMATION 11
+#CAMERA 11
+#phrase Witch  4
+A przy okazji... kim jesteœ? Nie znam ciê; nie jesteœ z wioski?
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  5
+Wiedz, o WiedŸmo Estero, ¿e jam jest Wybraniec! Zosta³em wys³any przez boskie si³y aby chroniæ lud Gipath!
+#DESC (Histrionically)
+#ANIMATION 62
+#CAMERA 7
+#phrase Witch  6
+Na oddech ropuchy, ale jesteœ dumny, nie? Nie próbuj mnie oszukaæ! I nie opowiadaj mi tych bajek o Wybrañcu, bo ja spogl¹dam prosto w twoj¹ duszê. B¹dŸ teraz cicho! Bardzo d³uga droga ciê czeka, œliczny ch³opcze, jest wiele zmartwieñ w twojej g³owie, a w twojej przesz³oœci... w przesz³oœci... a niech mnie dunder œwiœnie... nie mogê zobaczyæ co by³o w twojej przesz³oœci!
+#ANIMATION 46
+#CAMERA 5
+#phrase Hero  7
+W³aœnie, ja te¿ nie znam swojej przesz³oœci. Po prostu nic nie pamiêtam, rozumiesz?
+#ANIMATION 9
+#CAMERA 9
+#phrase Witch  8
+Och, dziêki wielkie, to wiele wyjaœnia. A ju¿ myœla³am, ¿e to mo¿e wina mojego wieku i czas na umieranie.
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  9
+Oj daj spokój, nie jesteœ przecie¿ a¿ tak stara! Powiedzia³bym nawet, ¿e jesteœ w kwiecie wieku!
+#ANIMATION 63
+#CAMERA 3
+#phrase Witch  10
+Wiem, ¿e k³amiesz, ale takie k³amstwa s¹ nadal muzyk¹ dla moich starych uszu. A ty jesteœ mi³ym ch³opcem, uprzejmym i przystojnym, zupe³nie innym od tych ba³wanów z wioski. Bêdziesz u mnie mile widziany. Z chêci¹ ciê znów zobaczê...
+#ANIMATION 30
+#CAMERA 9
+#phrase Witch  11
+Zastanawiam siê, dlaczego jestem dziœ taka uprzejma, hê? Pewnie nied³ugo bêdzie pada³o!

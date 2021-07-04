@@ -1,0 +1,19 @@
+Poznaj Kapitana
+#show Hero 1
+#show Sheriff 2
+#CAMERA 9
+#ANIMATION 3
+#phrase Sheriff  1
+Jestem Kapitanem! Znaczy siê, jestem szefem wszystkich ¿o³nierzy. Nazywam siê Gort, ale zw¹ mnie tak¿e Skullcrusher. Jeœli bêd¹ jakieœ k³opoty, po prostu zagwi¿d¿, a ja siê tym zajmê - to nie bêdzie ¿aden problem!!!
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  2
+Jaki rodzaj k³opotów?
+#ANIMATION 9
+#CAMERA 11 -15 5 4
+#phrase Sheriff  3
+Widzisz, mam kilku ludzi... oni myœl¹, ¿e s¹ bardzo m¹drzy... ale nie przejmuj siê! Najwa¿niejsz¹ spraw¹ jest, po prostu idŸ i za³atw tego Goblina Stró¿a! Ma³a szumowina przez ca³y czas wysy³a sygna³y do swojego gangu: gdy nasz pasterz zapêdzi œwinie na pole, w sekundê s¹ wokó³ nich, ale kiedy mê¿czyŸni i ja próbujemy ich dopaœæ, znikaj¹ bez œladu.
+#ANIMATION 31
+#CAMERA 7
+#phrase Sheriff  4
+Wiêc to bardzo dobrze mieæ ciê przy nas, Wybrañcze. Teraz jesteœ nasz¹ jedyn¹ nadziej¹.

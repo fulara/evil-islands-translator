@@ -1,0 +1,65 @@
+Nowoœci o Airy
+#show Daughter 5
+#show Witch 3
+#show Hero 4
+#ANIMATION 9
+#CAMERA 9
+#phrase Witch  1
+Zobacz, Wybrañcze, oto i ona! Przysz³a po prostu, jakby nic siê nie sta³o! Powinna dziêkowaæ swoim szczêœliwym gwiazdom, ¿e uda³o jej siê wymyœliæ coœ wiarygodnego, inaczej da³abym jej porz¹dne lanie, zuchwa³ej ³obuzicy! Ale wszystko dobre co siê dobrze koñczy... w porz¹dku, ty bezwstydnico, powiedz wszystko Wybrañcowi, dok³adnie to, co mi.
+#ANIMATION 62
+#CAMERA 7
+#phrase Daughter  2
+Có¿, na pó³noc od Œrodkowych Szczytów jest stare Obserwatorium, zbudowane przez tych samych ludzi, którzy zbudowali Umar³e Miasto. By³a tam biblioteka... Mo¿e znajdziesz tam coœ, co pozwoli ci wejœæ do miasta?
+#DESC Proudly
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  3
+Czy jesteœ tego pewna?
+#DESC With certain reservation
+#ANIMATION 7
+#CAMERA 3
+#phrase Daughter  4
+No có¿, niezbyt... Nie mo¿esz tak po prostu wejœæ do obserwatorium, jest tam bardzo du¿o harpii! Ale mo¿esz poradziæ sobie z nimi za pomoc¹ Smoka - oni zawsze walcz¹ ze sob¹!
+#DESC A bit embarrassed but then quickly recovers
+#ANIMATION 9
+#CAMERA 5
+#phrase Hero  5
+Aha, zatem to ³atwizna! Muszê tylko pójœæ i oswoiæ sobie Smoka, a wszystko bêdzie w porz¹dku!
+#DESC Nastily
+#ANIMATION 32
+#CAMERA 4
+#phrase Witch  6
+Nie musisz byæ sarkastyczny! W³aœnie sama to mia³am zaproponowaæ! 
+#ANIMATION 62
+#CAMERA 7
+#phrase Daughter  7
+Oczywiœcie ja nie umiem poskramiaæ Smoków, ale widzia³am jak robi¹ to Jaszczury! Maj¹ specjalny amulet i jeœli jego posiadacz natknie siê na Smoka, ten nie zaatakuje, ale bêdzie pod¹¿a³ za t¹ osob¹! Ale amulet dzia³a tylko na jednego specjalnego Smoka!
+#ANIMATION 44
+#CAMERA 7
+#phrase Daughter  8
+A wiem te¿ gdzie mo¿esz znaleŸæ Jaszczura, który posiada amulet: przebywa w starej kopalni w Œrodkowych Szczytach. Trzyma tam dwie oswojone ropuchy - s¹ takie grube i wstrêtne...
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  9
+Dobrze, dobrze. Przypuœæmy ¿e mam ju¿ ten amulet. Gdzie znajdê tego specjalnego Smoka?
+#ANIMATION 63
+#CAMERA 1
+#phrase Daughter  10
+Smok ¿yje po drugiej stronie jeziora ...jeœli zaczekasz na zimê, bêdziesz móg³ przejœæ po lodzie... ale teraz, w lecie, wielk¹ trudnoœæ sprawi ci odnalezienie drogi wzd³u¿ brzegu!
+#DESC Regretfully
+#ANIMATION 9
+#CAMERA 9
+#phrase Witch  11
+G³upia gêœ, sama sobie czekaj do zimy! Wybraniec mo¿e siê tam teraz dostaæ - z moj¹ pomoc¹, oczywiœcie. Na pó³noc od Umar³ego Miasta jest parów z zielonymi kryszta³ami. S¹ one blisko powi¹zane z lodem, wiesz przecie¿. Przynieœ mi jeden z nich, a zamro¿ê jezioro jakby to by³a zima!
+#ANIMATION 29
+#CAMERA 11
+#phrase Daughter  12
+Ja zdobêdê kryszta³!
+#ANIMATION 3
+#CAMERA 9
+#phrase Witch  13
+Spokojnie, trajkotko! Nigdy wiêcej ju¿ ciê nie spuszczê z oka! Jeœli Wybraniec chce, niech przyniesie kryszta³ sam.
+#ANIMATION 44
+#CAMERA 5
+#phrase Hero  14
+Rozumiem! Wiêc ¿eby dostaæ siê do Umar³ego Miasta, muszê dostaæ siê do Obserwatorium. Aby dostaæ siê do Obserwatorium, muszê oswoiæ Smoka. Aby oswoiæ Smoka, muszê mieæ amulet. A ¿eby dostaæ siê blisko Smoka, potrzebujê zielonego kryszta³u... i to tyle? Zatem teraz wszystko jest proste - pójœæ i zdobyæ te wszystkie rzeczy!

@@ -1,0 +1,16 @@
+O zabitych Goblinach
+#show Hero 1
+#show Sheriff 2
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  1
+Có¿, niez³a robota, eh? Teraz Gobliny nie prêdko bêd¹ chcia³y przypomnieæ sobie drogê powrotn¹ do wioski! 
+#ANIMATION 14
+#CAMERA 5
+#phrase Hero  2
+Hej Gort, co siê dzieje? Jesteœ nieszczêœliwy?
+#ANIMATION 9
+#CAMERA 11
+#phrase Sheriff  3
+Ha, Jestem... bardzo szczêœliwy. Hurra. Chwa³a, Wybrañcowi. I Starszy mówi, ¿e dostaniesz za to nagrodê. Gdybym ja tego dokona³, nagroda by³aby moja. Ale teraz ty j¹ dostaniesz.
+#DESC Without any enthusiasm at all

@@ -1,0 +1,41 @@
+Zdrada
+#show Hero
+#show Elder
+#ANIMATION 32
+#CAMERA 1
+#phrase Hero  1
+Ty tutaj? Sk¹d siê tu wzi¹³eœ?
+#DESC Now speaking to the Elder
+#ANIMATION 11
+#CAMERA 11
+#phrase Elder  2
+To proste, ha- ha! Urodzi³em siê tutaj w Suslanger, a twoje wstrêtne Gipath interesowa³o mnie tylko z jednego powodu...
+#ANIMATION 6
+#CAMERA 10
+#phrase Hero  3
+Meteoryt? Ten sam, którego poszukiwa³a Khadagañska ekspedycja?
+#DESC Hero suddenly understands what it is all about
+#ANIMATION 9
+#CAMERA 7
+#phrase Elder  4
+Ha-ha, dobrze zgad³eœ, Wybrañcze! Ja jako pierwszy odkry³em gdzie tu mo¿na zyskaæ fortunê! Osi¹gn¹³em Portal i uda³em siê do Gipath. Och... ci biedni, naiwni wieœniacy... Tak usilnie szukali mojego meteorytu i umarli... nawet nie wiedz¹c dlaczego!
+#DESC With theatrical mocking admiration, about villagers- with false pity.
+#ANIMATION 43
+#CAMERA 3
+#phrase Elder  5
+A ty... Ty te¿ mia³eœ umrzeæ, lecz jednak zdo³a³eœ zniweczyæ wszystkie moje plany. Wtedy mia³eœ przewagê, lecz teraz nadszed³ czas zemsty!
+#ANIMATION 7
+#CAMERA 11
+#phrase Elder  6
+Nie ok³ama³em ciê – naprawdê podoba³o mi siê to co mówi³eœ o dostaniu siê do Portalu, a w miêdzyczasie powiadomi³em Stra¿ników, którzy mieli doœæ czasu by dostaæ siê do wyjœcia z jaskini. A szczyt szczêœcia osi¹gnê, gdy bêdê patrzeæ jak umierasz, o Wielki Wybrañcze!
+#DESC Exulted
+#ANIMATION 11
+#CAMERA 9
+#phrase Elder  7
+Ale ci¹gle masz szansê: upadnij na kolana i b³agaj o litoœæ. Byæ mo¿e, w imiê starych, dobrych dni w Gipath, zgodzê siê zachowaæ ci ¿ycie. Ale spróbuj przekonaæ mnie do tego swymi krzykami i jêkami! No wiêc? Mo¿esz zaczynaæ!
+#DESC Still exulted, making the most of his triumph
+#ANIMATION 14
+#CAMERA 10
+#phrase Hero  8
+Zapominasz o jednej ma³ej rzeczy, Erfarze. Mam broñ, i nawet gdy ca³a stra¿ ruszy na mnie, ty bêdziesz pierwszym, którego zabijê!
+#DESC Exaggeratedly calm, but we can feel his hate

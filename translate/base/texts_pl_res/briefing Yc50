@@ -1,0 +1,62 @@
+O Mê¿czyŸnie w szaroœci
+#show Hero 1
+#show YCF 2
+#CAMERA 3
+#phrase YCF  1
+Nie by³o szans, ¿eby dzisiaj chmury zebra³y siê na pó³nocy, a moja fajka przesta³a dzia³aæ. Znowu przyszed³eœ, cz³owieku? Chcesz zrobiæ dobry uczynek?
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  2
+Mmm... Zale¿y co masz na myœli.
+#CAMERA 11
+#phrase YCF  3
+Strza³kê, któr¹ znalaz³eœ w zw³okach? Zwróæ j¹ Zielonemu Klanowi! Zniszczymy j¹ z naszym zwyczajem!
+#ANIMATION 44
+#CAMERA 2
+#phrase Hero  4
+Och, mogê ci oddaæ strza³kê, nie ma problemu... Ale chcia³em ciê o coœ spytaæ, Wodzu, czy twój szczep wie cokolwiek o cz³owieku, ubranym na szaro? Byæ mo¿e widzia³eœ osobê, która zas³ania sw¹ twarz.....
+#CAMERA 3
+#phrase YCF  5
+Och, cz³owiek-który-zas³ania-sw¹-twarz... Ten, który patrzy na chybiony wygl¹d esencji. Sarna biegnie do wodopoju, ale wpada w dziurê z ostr¹ dzid¹.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  6
+Mmmm... Mój mózg dzia³a za wolno czy co?
+#CAMERA 11
+#phrase YCF  7
+Jeleñ nigdy nie zrozumie pieœni jednoro¿ców, cz³owiek nie zrozumie mowy lasu. Spróbujê ci to wyjaœniæ: widzieliœmy t¹ osobê, zarazem z zakryt¹ jak i odkryt¹ twarz¹.
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  8
+Jak wygl¹da bez swojego przebrania?
+#CAMERA 3
+#phrase YCF  9
+Ta osoba nie wygl¹da jak ty... myœlê, ¿e tê rasê ludzi nazywacie kobietami. Jej w³osy by³y bia³e niczym œnieg!
+#CAMERA 10
+#NOLIPS
+#ANIMATION 30
+#phrase Hero  10
+Kobieta z bia³ymi w³osami... to Magiczka Diera! Wiêc to ona rozkaza³a zabiæ Snoopa, który prawie odnalaz³ Ksiê¿niczkê... to oznacza, ¿e Diera jest porywaczem!
+#DESC To himself
+#ANIMATION 43
+#CAMERA 2
+#phrase Hero  11
+Gdzie potem mog³a pójœæ? Co zrobi³a?!
+#CAMERA 3
+#phrase YCF  12
+Czasami spotyka siê z ludŸmi, którzy mieszkaj¹ na zachodnim brzegu jeziora. Ale czêœciej chodzi wokó³ jeziora od wschodu, a¿ do bramy, blokuj¹cej przejœcie do opuszczonych kopalni.
+#CAMERA 11
+#phrase YCF  13
+My nigdy dalej siê nie zapuszczamy... za t¹ bram¹ s¹ ludzie w ¿elaznych zbrojach! Jednak to nie s¹ stra¿nicy z miasta!
+#hide YCF
+#show Hero 4
+#NOLIPS
+#ANIMATION 30
+#CAMERA 10
+#phrase Hero  14
+Opuszczone kopalnie, uzbrojeni mê¿czyŸni - wygl¹da na to, ¿e tam przetrzymuj¹ Ksiê¿niczkê! Czy¿by? Byæ mo¿e jestem w b³êdzie? Ale istnieje sposób, ¿eby to sprawdziæ...
+#NOLIPS
+#ANIMATION 30
+#CAMERA 2
+#phrase Hero  15
+Muszê wróciæ do miasta i niewinnie spytaæ Dierê o te kopalnie. Jeœli zacznie unikaæ odpowiedzi, znaczy, ¿e prawid³owo odgad³em!

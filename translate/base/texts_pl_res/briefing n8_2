@@ -1,0 +1,15 @@
+Rozmawiaj z £ucznikiem
+#show Hero 
+#show Merc2
+#CAMERA 6
+#ANIMATION 9
+#phrase Hero  1
+Hej, przyjacielu! Zauwa¿y³em ciê ju¿ dawno temu: jesteœ naprawdê wielkim strzelcem. Co powiesz na to: oferujê ci szansê na trafianie bardziej interesuj¹cych celów. Na przyk³ad ghouli, które zawsze staj¹ mi na drodze podczas moich wypraw.
+#CAMERA 3
+#ANIMATION 15
+#phrase Merc2  2
+Nie nazywaj¹ mnie £ucznikiem be przyczyny. Moje strza³y nie lubi¹ spoczywaæ bezczynnie w ko³czanie. Ale nie mogê tak po prostu sobie pójœæ. Podlegam Kapitanowi.
+#CAMERA 2
+#ANIMATION 11
+#phrase Hero  3
+Rozumiem. Ale wci¹¿ nalegam, byœ rozwa¿y³ m¹ propozycjê!

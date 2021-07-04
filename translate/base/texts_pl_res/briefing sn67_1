@@ -1,0 +1,33 @@
+Prezent Kholaia
+#show Hero 
+#show OldNekro
+#ANIMATION 58
+#CAMERA 11
+#phrase OldNekro  1
+Och, a tak przy okazji, m³odzieñcze! Twoja wizyta mo¿e byæ dla mnie u¿yteczna z jeszcze innego powodu. Dziêki temu frajerowi, Taivo, mam teraz wiele wolnego czasu dla siebie. Mogê teraz przeprowadzaæ ró¿ne eksperymenty, na które nie mog³em sobie wczeœniej pozwoliæ.
+#ANIMATION 57
+#CAMERA 3
+#phrase OldNekro  2
+A teraz, chcê poddaæ wyniki testom. I bêdê potrzebowaæ twojej pomocy, m³ody cz³owieku!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2
+#phrase Hero  3
+Czy¿by? Jeœli spróbuje ze mnie zrobiæ jakiegoœ specjalnego zombie, ja uderzê wczeœniej i szybciej!
+#DESC To himself, wary, tense
+#ANIMATION 58
+#CAMERA 7
+#phrase OldNekro  4
+Ha-ha-ha! M³odzieñcze, nie ukryjesz przede mn¹ swoich uczuæ, s¹ wypisane na twojej twarzy! Spokojnie, nie zamierzam u¿yæ ciê do swoich eksperymentów, chocia¿ materia³ jest niez³y, ca³kiem niez³y...
+#ANIMATION 57
+#CAMERA 11
+#phrase OldNekro  5
+Dam ci przedmiot, który wypróbujesz w... powiedzmy, bojowych warunkach? Jeœli prze¿yjesz, wtedy eksperyment zakoñczy siê sukcesem.
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  6
+A jeœli nie?
+#ANIMATION 59
+#CAMERA 7
+#phrase OldNekro  7
+Wtedy bêdê zmuszony opracowaæ now¹ teoriê. Tak wiêc wygram, niezale¿nie od tego co siê wydarzy, a twoje szanse s¹ po³owiczne. W koñcu to ca³kiem sporo jak na Suslanger!

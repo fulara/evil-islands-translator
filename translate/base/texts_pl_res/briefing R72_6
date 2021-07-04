@@ -1,0 +1,48 @@
+O Kl¹twie Joon
+#show JunBoy 3
+#show Rick 4
+#show Deva 5
+#ANIMATION 6
+#CAMERA 5
+#phrase JunBoy  1
+Mam do ciebie powa¿ne pytanie, Tka-Rik! Khadagañskiemu naukowcowi uda³o siê oszukaæ Kl¹twê Joonów, zamieniaj¹c mnie w osobê o imieniu Zak. Czy to oznacza, ¿e gdy powrócê do mej starej postaci wtedy znów stanê siê ofiar¹ Kl¹twy?
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick  2
+Niestety, to prawda. Co wiêcej, nie mogê ciê ponownie ukryæ pod postaci¹ innej osoby: poprzedni czar transformacji by³ rzucany w poœpiechu przez Maga o niewystarczaj¹cych umiejêtnoœciach. Nie chcia³em ci tego mówiæ, ale mog³eœ straciæ pamiêæ na zawsze. Nie wytrzymasz jeszcze jednej zmiany osobowoœci. Niestety, nawet moja wiedza o magii gdzieœ siê koñczy.
+#ANIMATION 6
+#CAMERA 12
+#phrase Deva  3
+Wiêc nasze nadzieje s¹ pró¿ne? Musimy znów uciekaæ?
+#CAMERA 7
+#ANIMATION 6
+#phrase Rick  4
+T¹ decyzjê mo¿ecie podj¹æ tylko wy. Je¿eli uciekniecie, pomogê wam i utrzymam Kl¹twê w szachu tak d³ugo, jak zdo³am. Ale jest inne wyjœcie...
+#ANIMATION 8
+#CAMERA 10
+#phrase JunBoy  5
+Jakie?
+#CAMERA 11
+#ANIMATION 3
+#phrase Rick  6
+By skoñczyæ z Kl¹tw¹ raz na zawsze!
+#CAMERA 3
+#ANIMATION 6
+#phrase Rick  7
+Ty, At-Zako, jesteœ teraz tak silny i zdolny, jak nigdy wczeœniej. Za tob¹ stoi Tka-Rik, wcale nie najs³abszy spoœród Magów na tym œwiecie. Wezwiemy Kl¹twê, by przyby³a do Gipath i stawimy jej czo³a! To bêdzie niebezpieczne: ¿adne s³owa nie opisz¹ gróŸb, które wi¹¿¹ siê z Kl¹tw¹ Joonów. Ale mamy cieñ szansy na pokonanie jej, i ta szansa wcale nie jest tak ma³a, jak mog³oby ci siê wydawaæ.
+#CAMERA 9
+#ANIMATION 6
+#phrase Rick  8
+Wrêczê ci ekwipunek staro¿ytnych Joonów abyœ móg³ go natchn¹æ najsilniejszymi czarami. I bêdê walczy³ po twojej stronie, gdy nadejdzie rozstrzygaj¹ca godzina.
+#CAMERA 11
+#ANIMATION 3
+#phrase Rick  9
+Wybór nale¿y do ciebie – bêdziesz ucieka³, czy bêdziesz walczy³?
+#ANIMATION 3
+#CAMERA 10
+#phrase JunBoy  10
+Wybór jest prosty, Tka-Rik. Gdy by³em Zakiem nie wiedzia³em dlaczego tak czêsto ryzykujê ¿yciem. Teraz mam wszystko, o czym mê¿czyzna mo¿e marzyæ. Czy s¹dzi³eœ, ¿e nie bêdê broni³ mego marzenia i mej mi³oœci?
+#CAMERA 1
+#ANIMATION 6
+#phrase Rick  11
+Dokona³eœ wyboru. Przygotuj siê do bitwy, At-Zako!

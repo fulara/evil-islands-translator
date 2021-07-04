@@ -1,0 +1,62 @@
+O straconej m³odoœci
+#show Hero 1
+#show Merc10 2
+#ANIMATION 64
+#CAMERA 9
+#phrase Merc10  1
+Och, jaka szkoda! Strasznie chcia³bym zobaczyæ tego czerwonoskórego m³odego cz³owieka. Czy jest œliczny? Chêtnie ukrad³abym jednego, choæ zazwyczaj kradnê tylko przedmioty i pieni¹dze!
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  2
+Widzia³em w ¿yciu tylko jednego Joona i by³a to dziewczyna. By³a najpiêkniejsz¹ osob¹ jak¹ kiedykolwiek widzia³em!
+#ANIMATION 66
+#CAMERA 11
+#phrase Merc10  3
+Kochasz j¹, a ona ciebie nie? Nie zaprzeczaj! Dam ci dobr¹ radê: przestañ szukaæ m³odego Joona. Bêdzie smutna przez jakiœ czas, lecz potem zacznie spogl¹daæ na ciebie. Serce kobiety jest zmienne, dobrze o tym wiem!
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  4
+Obieca³em, ¿e go odnajdê. Obieca³em, rozumiesz?
+#ANIMATION 64
+#CAMERA 3
+#phrase Merc10  5
+Ha! Typowy mê¿czyzna... dajesz s³owo zbyt pochopnie, dopiero potem zdajesz sobie sprawê, ¿e musisz go dotrzymaæ! Kobiety zachowuj¹ siê inaczej!
+#ANIMATION 6
+#CAMERA 10
+#phrase Hero  6
+Proszê, czy mo¿emy wróciæ do sedna sprawy?
+#ANIMATION 65
+#CAMERA 11
+#phrase Merc10  7
+Mój drogi, czy¿byœmy byli niecierpliwi? W porz¹dku, pos³uchaj: odwiedzi³am kiedyœ dom, który by³ pe³en ró¿nych rodzajów rzeczy: pot³uczonych statuetek, zakurzonych manuskryptów, nieczytelnych obrazów. Myœla³am, ¿e to znalezisko przyniesie mi niez³e pieni¹dze, ale paser nie chcia³ tego wzi¹æ – najwyraŸniej antyki Joonów wysz³y z mody!
+#ANIMATION 32
+#CAMERA 6
+#phrase Hero  9
+Doskonale! W³aœciciel kolekcji bêdzie szczêœliwy z odzyskania nawet jej czêœci, a w zamian odpowie na wszystkie moje pytania. Mo¿esz daæ mi parê tych rzeczy?
+#ANIMATION 63
+#CAMERA 7
+#phrase Merc10  10
+Mo¿esz wzi¹æ wszystkie, bylebym nie musia³a ich przynosiæ tutaj, do Ostatniej Kryjówki. S¹ ukryte w pobli¿u Miasta, w starych, zrujnowanych barakach nad brzegiem rzeki. Przynios³abym je sama, lecz wybudowano tam w pobli¿u nowe baraki, a ja niezbyt chcia³abym znów spotkaæ stra¿ników. Wiêc jeœli chcesz wykorzystaæ moje znalezisko, musisz je najpierw przynieœæ tutaj!
+#show Note 5
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  11
+W porz¹dku, ale powiedz mi gdzie znajduje siê dom, w którym mieszka ów mi³oœnik Jooñskich antyków? Chêtnie zaprosi³bym go tutaj na pogawêdkê.
+#ANIMATION 64
+#CAMERA 11
+#phrase Merc10  12
+Na oczy ropuchy, nie! Nie mo¿esz tutaj nikogo zapraszaæ! Dobrze ¿e Brat Khatul tego nie us³ysza³ – zaufanie, które w tobie pok³ada wygas³oby bardzo szybko!
+#ANIMATION 7
+#CAMERA 2
+#phrase Hero  13
+Ale ja nie chcê rozmawiaæ z kolekcjonerem w jego w³asnym domu! Móg³by próbowaæ ró¿nych sztuczek...
+#ANIMATION 63
+#CAMERA 3
+#phrase Merc10  14
+Kto tu mówi o jego domu? Zaproponuj jakieœ odosobnione miejsce na spotkanie. Jeœli nie znasz ¿adnego takiego, zapytaj Brata Kowala, on czêsto spotyka siê z kupcami i zna wszystkie bezpieczne miejsca. Je¿eli Brat nie bêdzie mia³ nic przeciwko, powie ci wszystko.
+#hide Note
+#show Note 4
+#ANIMATION 69
+#CAMERA 9
+#phrase Merc10  15
+Nie mo¿esz przegapiæ tego domu. Kolekcjoner umieœci³ przy wejœciu dwie kamienne figury. Musia³ siê napracowaæ, ¿eby je tam przywlec!

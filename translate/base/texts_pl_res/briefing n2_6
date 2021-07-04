@@ -1,0 +1,15 @@
+Zostaw Myranê w mieœcie
+#show Hero 1
+#show Merc6 2
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  1
+Uwa¿am, ¿e tym razem powinnaœ zostaæ w mieœcie, przynajmniej zachowuj¹c pozory. Nie s¹dzê aby Kapitan Tilvar ufa³ mi za bardzo, a jego podejrzenia dosiêgnê³yby tak¿e i ciebie.
+#ANIMATION 31
+#CAMERA 3
+#phrase Merc6  2
+Dziêkujê ci za zrozumienie! Szczerze mówi¹c, i tak mia³am o to zapytaæ.
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  3
+Umowa stoi. Ale gdy sprawy przyjm¹ spokojniejszy obrót, mogê znów potrzebowaæ twych us³ug.

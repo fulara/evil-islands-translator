@@ -1,0 +1,16 @@
+Spotkanie z Rzemieœlnikiem
+#show Hero 1
+#show Smith 2
+#ANIMATION 11
+#CAMERA 1 -15 6 3
+#phrase Smith  1
+Wiêc jesteœ Wybrañcem? I przyszed³eœ siê ze mn¹ spotkaæ? No dobrze, w porz¹dku, przyjmijmy nazywam siê Babur. Coœ jeszcze?
+#DESC Defiantly, clearly wanting to start a conflict
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  2
+Czy zawsze jesteœ taki uprzejmy?
+#ANIMATION 29
+#CAMERA 11
+#phrase Smith  3
+Nie lubisz mnie, w ka¿dej chwili mo¿esz odejœæ.

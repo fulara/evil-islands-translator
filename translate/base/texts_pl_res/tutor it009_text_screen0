@@ -1,0 +1,6 @@
+     Sk³adasz przedmioty w konstruktorze. ¯eby z³o¿yæ przedmiot, potrzebny jest schemat i materia³y. Schemat okreœla rodzaj materia³u, który bêdzie potrzebny. Na przyk³ad, nie mo¿esz wykonaæ kamiennej w³óczni, u¿ywaj¹c schematu w³óczni koœcianej.
+
+     Mo¿esz u¿yæ w³asnych schematów i materia³ów albo kupiæ je w sklepie - tak jak inne przedmioty.
+     Jeœli chcesz dowiedzieæ siê czegoœ wiêcej o dowolnej czêœci konstruktora, najedŸ na ni¹ kursorem i przeczytaj opis, który pojawi siê w prawym panelu.
+
+     Dostêpne miejsca s¹ oznaczone migocz¹c¹ ramk¹. Jeœli umieœcisz schemat w pustym konstruktorze, oznacza to, ¿e chcesz z³o¿yæ przedmiot. Jeœli umieœcisz tam przedmiot, znaczy to ¿e chcesz go roz³o¿yæ. Zobacz nastêpne ekrany aby dowiedzieæ siê wiêcej o szczegó³ach sk³adania/rozk³adania przedmiotów.

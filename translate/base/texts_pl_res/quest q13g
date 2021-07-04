@@ -1,0 +1,11 @@
+Udaremnij najazd Goblinów
+Gobliny planuj¹ wielki najazd na wioskê. Trwaj¹ jednak przygotowania do po³¹czonego kontrataku ze strony stacjonuj¹cych we wsi ¿o³nierzy i zbójców. Gobliny musz¹ zostaæ zniszczone, a ich plany ataku udaremnione.
+#subobj  1
+Spotkaj siê z Porucznikiem Herszta
+Spotkanie ma siê odbyæ w miejscu, gdzie droga ku rzece opuszcza dolinê pomiêdzy wzgórzami. Powinien byæ sam i nieuzbrojony.
+#subobj  2
+Odszukaj Gobliny
+Gobliny zbieraj¹ siê na skraju bagna, niedaleko wysokiej góry, przypominaj¹cej filar lub z³amany z¹b. Góra jest ostatni¹ na zachód, dalej teren staje siê bardziej równinny.
+#subobj  3
+Zabij Gobliny
+Atak Goblinów musi zostaæ powstrzymany za wszelk¹ cenê.

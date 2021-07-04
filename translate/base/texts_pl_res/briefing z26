@@ -1,0 +1,14 @@
+O papierze, znalezionym w opuszczonym obozie
+#show Witch 3
+#show CodedHadaganNote 5
+#show Hero 5
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  1
+Spójrz, znalaz³em te papiery. Znasz takie litery?
+#hide CodedHadaganNote
+#show CodedHadaganNote 4
+#ANIMATION 15
+#CAMERA 9
+#phrase Witch  2
+Tak, znam je... Ale nie zrozum mnie Ÿle. Nie powiedzia³em, ¿e mogê je odczytaæ, chcia³em powiedzieæ, ¿e widzia³em takie zapisy dawno, dawno temu; Starszy je mia³.

@@ -1,0 +1,11 @@
+Przyjmij ponownie Myranê
+#show Hero 1
+#show Merc6 2
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  1
+Znów potrzebujê twojej kuszy. Czy mogê na ni¹ liczyæ?
+#ANIMATION 9
+#CAMERA 3
+#phrase Merc6  2
+Oczywiœcie! Sprawi³eœ ¿e Stra¿nicy mnie toleruj¹... Czy uwa¿asz ¿e mog³abym ci odmówiæ pomocy?

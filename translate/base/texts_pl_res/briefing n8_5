@@ -1,0 +1,24 @@
+Poznaj Maga
+#show Hero 1
+#show Merc5 2
+#ANIMATION 11
+#CAMERA 3
+#phrase Merc5  1
+S³ysza³em, ¿e poszukujesz Ksiê¿niczki? Nie przyda³aby ci siê mo¿e osoba o specjalnych zdolnoœciach?
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+A kim¿e ty jesteœ? Jakie to s¹ zdolnoœci, sprecyzuj.
+#ANIMATION 45
+#CAMERA 11
+#phrase Merc5  3
+Moje imiê jest zbyt d³ugie, lecz mo¿esz mnie zwaæ Rinas. Co do moich zdolnoœci... nie jestem z³ym czarodziejem, chocia¿ odk¹d Diera przyby³a do miasta, ¿aden z innych Magów nie ma siê co z ni¹ mierzyæ. Gubernator zabroni³ nam praktyk - wszystkim prócz tej albinoski. 
+#ANIMATION 43
+#CAMERA 11
+#phrase Merc5  4
+Nie, nie zni¿ê siê do poziomu drobnych utarczek. Ujmijmy to w ten sposób: to bardzo wyrachowana i nie tak bardzo wybredna kobieta.
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  5
+Hm... Taki cz³owiek naprawdê móg³by mi siê przydaæ. Powinienem go sobie zapamiêtaæ!
+#DESC To himself

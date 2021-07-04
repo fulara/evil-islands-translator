@@ -1,0 +1,19 @@
+O Starcu
+#show Smith
+#show Hero
+#ANIMATION 32
+#CAMERA 9
+#phrase Smith  1
+Wybrañcze, jesteœ naprawdê podstêpny! Zdo³a³eœ nawet mnie oszukaæ z tym drugim kwiatem! Ale teraz Starszy jest skoñczony! Kiedy dowiedzia³em siê, ¿e go zdemaskowa³eœ, a¿ podskoczy³em z radoœci!
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  2
+To zrozumia³e, zawsze mia³eœ ich na oku. Ale co mówi¹ ludzie w wiosce?
+#ANIMATION 29
+#CAMERA 3
+#phrase Smith  3
+Mówi¹ "Dobra robota, Wybrañcze". Myœlisz, ¿e byli zakochani w Starcu? Nic z tych rzeczy! Siedzieli cicho, poniewa¿ bali siê, ale teraz wszyscy zaczn¹ pokazywaæ swoj¹ niechêæ i z³oœæ, zobaczysz!.
+#ANIMATION 8
+#CAMERA 9
+#phrase Smith  4
+Teraz mówi¹, ¿e Wybraniec zosta³ przys³any, by uwolniæ wioskê od tego ³ajdaka. Ale myœlê, ¿e to nigdy nie mog³o siê zakoñczyæ inaczej miêdzy wami - ty albo on i tak w³aœnie siê sta³o.

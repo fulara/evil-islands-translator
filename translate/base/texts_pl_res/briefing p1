@@ -1,0 +1,12 @@
+Kopnij œwiniê
+#show Hero 1
+#show Pig 2
+#CAMERA 10
+#phrase Hero  1
+Wynocha!
+#CAMERA 3 30 6 4
+#phrase Pig  2
+Hrrr... Kwiiiiiiiik!
+
+(T³umaczenie ze œwiñskiego: "Na moje biedne raciczki, kiedy w koñcu przyjdzie mi umrzeæ?!!")
+#DESC The sentcence in parenthesis is not sounds, but appears on the screen only

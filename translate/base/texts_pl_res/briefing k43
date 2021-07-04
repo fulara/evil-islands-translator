@@ -1,0 +1,18 @@
+O znalezionych zw³okach
+#show Hero 3
+#show DriadArrow00 4
+#show Kapitan 5
+#ANIMATION 31
+#CAMERA 5
+#phrase Hero  1
+Kapitanie! Znalaz³em zw³oki cz³owieka w lesie, zosta³ zabity t¹ strza³k¹. Wydaje mi siê, ¿e to jest Snoop, ten z miasta...
+#hide DriadArrow00
+#show DriadArrow00 5
+#ANIMATION 61
+#CAMERA 11
+#phrase Kapitan  2
+Acha! Ludzie Lasu pogwa³cili nasz uk³ad i zabili cz³owieka! Wreszcie mam powód, by pokazaæ tym ¿abo-stworom, kto tu rz¹dzi! Natychmiast wyœlê karn¹ ekspedycjê, ludzie bêd¹ o tym mówiæ w ca³ym Ingos. Na honor!
+#ANIMATION 11
+#CAMERA 3
+#phrase Kapitan  3
+Myœlê, ¿e powinieneœ pokazaæ tê strza³kê Gubernatorowi. On lubi takie rzeczy i nigdy nie zaszkodzi odrobiny lizusostwa, czy¿ nie? Powiem mu o tobie. Ale pamiêtaj, m³odzieñcze, Jego Ekscelencja lubi pokazywaæ goœciom swoje kolekcje i wprost uwielbia, kiedy wzbudza to w nich podziw, dla niego i jego zbiorów!

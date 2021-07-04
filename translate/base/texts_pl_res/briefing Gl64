@@ -1,0 +1,24 @@
+Porozmawiaj z Khatul
+#show Hero 3
+#show Glav 4
+#show Kuzn 5
+#ANIMATION 31
+#CAMERA 9
+#phrase Glav  1
+Przepraszam za moj¹ szorstkoœæ, bracie! Mam nadziejê, ¿e to nie popsuje nic miêdzy nami. Wygl¹dasz teraz jak pisklê w zniszczonym gnieŸdzie, lecz Bractwo Ostatniej Kryjówki mo¿e ofiarowaæ ci nowy dom i now¹ rodzinê.
+#ANIMATION 15
+#CAMERA 3
+#phrase Glav  2
+I mo¿esz zataiæ swoj¹ przesz³oœæ. Lecz lepiej jeœli powiesz nam pokrótce o sobie i jak to siê sta³o, ¿e znalaz³eœ siê w Kanionie.
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  3
+To ¿adna tajemnica. Poszukujê m³odego mê¿czyzny z rasy Joonów. Jedyne, co o nim wiem, to ¿e ma czerwon¹ skórê. Nie mam ¿adnego innego celu tu, w Suslanger i jak tylko go odnajdê, wrócê do Gipath...
+#ANIMATION 9
+#CAMERA 5
+#phrase Hero  4
+Nazywacie ten teren Bezu¿ytecznymi L¹dami, a to jest tak blisko domu... jakkolwiek dziwne to siê mo¿e wam wydawaæ.
+#ANIMATION 44
+#CAMERA 7
+#phrase Glav  5
+Przykro mi, ale nie do³¹czysz do nas. Lecz ja, Khatul, pierwszy poœród równych w naszym bractwie, szanujê twoj¹ decyzjê, a ktokolwiek mo¿e niech pomaga ci w zadaniu!

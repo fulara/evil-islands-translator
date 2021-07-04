@@ -1,0 +1,32 @@
+Porozmawiaj z nowym Kapitanem
+#show Hero 
+#show NSheriff 
+#CAMERA 9
+#phrase NSheriff  1
+Hm... Szczerze, nie wiem co mam powiedzieæ. Jestem Rivar. Ludzie zw¹ mnie Hulk i wybrali mnie na swojego nowego Kapitana. A Starszy z jakiegoœ powodu nie mia³ nic przeciwko, jednak¿e obawia siê, ¿e nie jestem zbytnio rozkochany w walce.
+#CAMERA 2
+#phrase Hero  2
+Có¿, jeœli nie wiesz co powiedzieæ, pozwól mi coœ zasugerowaæ. Mo¿e zacznij od "Przysiêgam, ¿e nigdy nie uczyniê Wybrañcowi krzywdy, a ka¿dy, kto spróbuje to uczyniæ, zostanie surowo ukarany!"
+#CAMERA 3
+#phrase NSheriff  3
+Przysiêgam, ¿e nigdy nie uczyniê Wybrañcowi ¿adnej krzywdy, a ka¿dy, kto spróbuje to zrobiæ, zostanie surowo ukarany!
+#DESC Eager, happy, solemn
+#CAMERA 3
+#phrase NSheriff  4
+Mmm... to brzmia³o ca³kiem mi³o! Lepiej bym tego nie powiedzia³, jestem bardzo marnym mówc¹.
+#CAMERA 2
+#phrase Hero  5
+No to co? Masz inne zdolnoœci. Spójrz na swoje ramiona! Za³o¿ê siê ¿e jesteœ najsilniejszym cz³owiekiem w wiosce.
+#CAMERA 3
+#phrase NSheriff  6
+Ha, tak myœlê... pewnie dlatego wybrano mnie na Kapitana. Mój ojciec te¿ by³ najsilniejszym cz³owiekiem, tak samo, jak i mój dziadek. Mamy rodzinny sekret - jak powiêkszyæ tê¿yznê fizyczn¹. Sekretem tym jest specjalne s³owo - nie wymawiaj go g³oœno, tylko powiedz szeptem sam do siebie. Mam ci powiedzieæ? Mam ci je teraz szepn¹æ?
+#DESC Pretends to be modest but clearly with pride
+#CAMERA 2
+#phrase Hero  7
+Dobrze, czemu nie? Mo¿e to coœ da?
+#CAMERA 2
+#phrase Hero  8
+No wiêc? Nie oci¹gaj siê, wyszeptaj je, Hulk!
+#CAMERA 3
+#phrase NSheriff  9
+Zrobione! Tylko spróbuj, zobaczysz ró¿nicê! Lecz nie dziêkuj mi, bo wiêcej to nie zadzia³a.

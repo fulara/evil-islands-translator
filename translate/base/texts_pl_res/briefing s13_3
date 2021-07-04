@@ -1,0 +1,24 @@
+O liœcie w jêzyku Orków
+#show Elder 3
+#show Instruction4orcs00 4
+#show Hero 5
+#ANIMATION 14
+#CAMERA 5
+#phrase Hero  1
+Mam doœæ tych œlepych podejrzeñ! Nie uczyniê nic wiêcej dopóki nie dowiem co tu siê dzieje z³ego. Tutaj jest notatka Orków i, o ile pamiêtam, ty umiesz czytaæ te bazgro³y. Czytaj!
+#ANIMATION 30
+#CAMERA 9
+#phrase Elder  2
+Eh... mmmmm...có¿, jednym s³owem mówi¹c, jest tu napisane, ¿e chc¹ ciê zabiæ i ¿e jest spora nagroda dla twojego zabójcy! Ponadto... ehh... Starzec, czyli ja, nigdy nie mo¿e siê o tym dowiedzieæ.
+#hide Instruction4orcs00
+#show Instruction4orcs00 5
+#ANIMATION 9
+#CAMERA 11
+#phrase Elder  3
+Tak, teraz wszystko dla mnie jasne. Babur stoi za tym wszystkim! Ju¿ wiadomo co siê sta³o ze skradzionym z³otem! Jakiego jeszcze dowodu trzeba? Teraz powinienem wezwaæ Kapitana i w koñcu daæ temu dwulicowemu zdrajcy dobr¹ nauczkê!
+#hide Instruction4orcs00
+#show Instruction4orcs00 4
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  4
+Nie, czekaj! Dla mnie sytuacja jeszcze nie jest taka jasna.

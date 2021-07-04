@@ -1,0 +1,14 @@
+Przejœcie przez labirynt
+Ludzie Lasu z Zielonego Klanu przenieœli swoj¹ siedzibê. Udali siê w rejon górskich dolin w po³udniowej czêœci terenów Karansula. Mo¿na tam dotrzeæ tylko przez labirynt znajduj¹cy siê w górach otaczaj¹cych miasto.
+#subobj  1
+Odszukaj wejœcie do labiryntu
+Bramy do labiryntu znajduj¹ siê na wschód od terenów Zielonego Klanu, na przedmieœciach.
+#subobj  2
+Otwórz wejœcie do labiryntu
+Nie potrzebujesz klucza aby otworzyæ bramy labiryntu.
+#subobj  3
+Odszukaj bramy wyjœciowe
+Wyjœcie z labiryntu jest w jego wschodniej czêœci. B¹dŸ ostro¿ny w labiryncie: jest tam wiele potworów, w³¹czaj¹c magiczne, a te naprawdê trudno trafiæ.
+#subobj  4
+Otwórz bramy wyjœciowe
+Nie potrzebujesz klucza aby otworzyæ bramy wyjœciowe.

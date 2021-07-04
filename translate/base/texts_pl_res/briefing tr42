@@ -1,0 +1,15 @@
+O zaginionej dziewczynie
+#show Hero 1
+#show Shopper 2
+#ANIMATION 63
+#CAMERA 11
+#phrase Shopper  1
+Chodz¹ s³uchy, m³odzianie, ¿e próbujesz odnaleŸæ Ksiê¿niczkê? Czemu nie zrobisz tego samemu? Nazywam siê Karansul - kupiec. Sprzedaje dobry towar za dobre pieni¹dze i nic innego mnie nie obchodzi.
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  2
+W porz¹dku, to mi wystarcza... ale chcia³em kupiæ coœ magicznego, gdzie powinienem siê udaæ? Byæ mo¿e jesteœ niez³ym kupcem, jednak nie wygl¹dasz na Maga!
+#ANIMATION 44
+#CAMERA 11
+#phrase Shopper  3
+Wygl¹d mo¿e byæ zwodniczy. Kontrolujê ca³y handel w mieœcie. Sprzedaje równie¿ runy. I niewa¿ne kto jest dla mnie robi. Nie p³acê Czarodziejce Dierze za darmo, prawda?

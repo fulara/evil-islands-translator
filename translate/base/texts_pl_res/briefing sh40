@@ -1,0 +1,47 @@
+Zapytaj Shei-Var o Airy
+#show OrcC 1
+#show Hero 2
+#CAMERA 9
+#ANIMATION 4
+#phrase OrcC  1
+Czemu tu przychodziæ? Zaraz byæ ci bardzo-bardzo przykro! Ty ¿yjesz-¿yjesz w wiosce, wioska jest daleko, Shei-Vara nie obchodzi wioska. Czemu-czemu obchodzi ciê Shei-Var?
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero  2
+To bardzo prosta sprawa: chcia³bym, ¿ebyœ uwolni³ dziewczynê, przyprowadzon¹ przez Gobliny. Je¿eli ¿¹dasz okupu, podaj swoj¹ cenê!
+#ANIMATION 5
+#CAMERA 7
+#phrase OrcC  3
+Shei-Var nie potrzebowaæ twojego okup-okup! Sami chcieæ u¿yæ tej dziewczyny jako okup-okup. Cz³owiek-Demon przychodziæ z pó³nocnych Szczytów - z³y, straszny, ³apaæ Orki, zabieraæ ze sob¹. Shei-Var myœla³-myœla³ i zdecydowaæ: jeœli Demon dostaæ dziewczynê, byæ mniej z³y.
+#ANIMATION 43
+#CAMERA 2 -30 5 3
+#phrase Hero  4
+Skoro tak, wezmê wiêŸnia si³¹. Jeœli o mnie s³ysza³eœ, musisz wiedzieæ kim jestem!
+#CAMERA 3
+#ANIMATION 9
+#phrase OrcC  5
+Shei-Var ciê zna - Wybraniec-Wybraniec. Shei-Var ukryæ dziewczynê, wiêc ty jej nie znaleŸæ. Zacz¹æ si³¹, dziewczyna wielka krzywda. Tego chcieæ?
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  6
+Nie, czekaj! Co jeœli Demon przestanie was k³opotaæ? Czy wtedy wypuœcisz dziewczynê? Powiedzia³eœ, ¿e nie obchodz¹ ciê ludzie, mam racjê?
+#CAMERA 7
+#ANIMATION 4
+#phrase OrcC  7
+Cz³owieku, ty rozœmieszaæ-rozœmieszaæ Shei-Var. Demon mocny. Ty s³aby. Mówiæ, ¿e mo¿esz pokonaæ Demon-Demon? Nie wierze ci!
+#ANIMATION 11
+#CAMERA 6
+#phrase Hero  8
+Czemu mnie nie poddasz próbie? Chcesz bym pokona³ najsilniejszego z twoich wojowników?
+#CAMERA 3
+#ANIMATION 6
+#phrase OrcC  9
+Ja sam potrzebowaæ-potrzebowaæ moich wojownik. Chcieæ pokazaæ jak silny jesteœ, ty otworzyæ kufer Ogra Utundry i przynieœæ wszystko co znaleŸæ. Orki Kharu-Khary i Khamsy-Khamsy lubiæ Utundry, bo on byæ bogaty. Jeœli on byæ biedny Kharu i Khamsy s³uchaæ mnie - ja byæ wtedy bogaty w Piaski.
+#CAMERA 7
+#ANIMATION 7
+#phrase OrcC  11
+Ale byæ to trudne-trudne: Utundry wielki-wielki brat w rodzinie, byæ jeszcze bracia bliŸniacy Byr i Gym. 
+#CAMERA 9
+#ANIMATION 8
+#phrase OrcC  12
+Ka¿dy Ogr mieæ kufer-kufer i wymieniaæ siê kluczami. ¯eby otworzyæ kufer Utundry musieæ najpierw-najpierw przeszukaæ kufer Byra, a potem zajrzeæ-zajrzeæ w kufer Gyma. Ty pokonaæ Utundry, ty przyjœæ tutaj-tutaj. Ja powiedzieæ ci gdzie znaleŸæ Demon-Demon.

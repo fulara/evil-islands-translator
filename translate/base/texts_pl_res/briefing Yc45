@@ -1,0 +1,27 @@
+O strza³ce, znalezionej w ciele
+#show Hero 1
+#show YCF 2
+#show DriadIdol00 5
+#CAMERA 3
+#phrase YCF  1
+Przynios³eœ Œwiêty Kwiat! Dziêki ci, cz³owieku, ale wielkie zmartwienie torturuje moje serce niczym szpony drapie¿nika...
+#ANIMATION 11
+#CAMERA 2
+#hide DriadIdol00
+#show DriadIdol00 3
+#phrase Hero  2
+Nie rozumiem. Oto kwiat, przynios³em ci go. Czy coœ siê sta³o?
+#CAMERA 11
+#hide DriadIdol00
+#phrase YCF  3
+Jeœli w¹¿ k³amie w s³oñcu paŸdziernika, czy oznacza to, i¿ nie bêdzie œniegu? Jeœli mê¿czyzna podaje ci pomocn¹ d³oñ, czy oznacza to, i¿ nigdy nie robi nikczemnych rzeczy? Szpieg Stra¿ników porwa³ naszego starego Wodza, Wielkiego Habbura. Musimy go uratowaæ!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  4
+Skoro musimy, z pewnoœci¹ go uratujemy. Powiedz mi gdzie siê teraz znajduje?
+#CAMERA 3
+#phrase YCF  5
+Na terenach, które osoba o imieniu Karansul, uwa¿a za swoje. Jeœli pod¹¿ysz za wstaj¹cym s³oñcem, ujrzysz Stra¿ników, którzy pilnuj¹ Habbura. Mury s¹ wysokie, twierdza jest mocna, a Stra¿nicy sprytni - ale jeœli jesteœ silny i zwinny, zdo³asz przyprowadziæ do nas Habbura!
+#CAMERA 11
+#phrase YCF  6
+Muszê ci wyznaæ jeszcze jedn¹ rzecz: jeœli czarne chmury zas³oni¹ s³oñce, jeœli z³y los zatriumfuje nad nadziej¹, jeœli Starszy umrze... wróæ do mnie i powiadom mnie. Kilka s³ów gorzkiej prawdy jest lepsze od wielu dni bezowocnych nadziei!

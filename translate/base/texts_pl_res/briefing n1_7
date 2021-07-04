@@ -1,0 +1,14 @@
+Przyjmij Harada do dru¿yny
+#show Hero 
+#show Merc7
+#CAMERA 3
+#phrase Merc7  1
+Bracie Blondynie, wiem o twoim zadaniu. Pozwól mi pomóc ci! Pozwól mojej zemœcie równie¿ s³u¿yæ szlachetnemu celowi.
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  2
+Zgadzam siê, lecz pamiêtaj: okie³znaj swoje ¿¹dze. Z ca³¹ pewnoœci¹ nie chcia³bym zobaczyæ ciê martwego z powodu samodzielnego zaatakowania ca³ej armii!
+#ANIMATION 3
+#CAMERA 3
+#phrase Merc7  3
+O to siê nie martw. Tak, moim ¿yciowym celem jest zemsta! Ale chcê pozostaæ przy ¿yciu jak najd³u¿ej, poniewa¿ jeœli umrê, to co to bêdzie za zemsta?

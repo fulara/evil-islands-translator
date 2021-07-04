@@ -1,0 +1,24 @@
+Porozmawiaj z Wielkim Magiem
+#show Hero 3
+#show Rick 4
+#show Deva 5
+#CAMERA 1
+#ANIMATION 5
+#phrase Rick  1
+Wed³ug podañ mojego ludu, Fortuna zawsze by³a przedstawiana jako dziki koñ w szalonym galopie bez grzywy, której mo¿naby siê przytrzymaæ. Nieliczni mog¹ go dosi¹œæ, a jeszcze mniej ludzi utrzyma siê na nim przez d³u¿szy czas. W Ingos trzyma³eœ Fortunê kurczowo w rêkach - nie pozwól jej zeœlizgn¹æ siê w Suslanger! Jest wielu ludzi, którzy uciesz¹ siê gdy zostaniesz zrzucony prosto w piach...
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  2
+W Ingos te¿ ich by³o co niemiara. Sama Diera jest najlepszym przyk³adem!
+#ANIMATION 14
+#CAMERA 1
+#phrase Deva  3
+Nawet mi o niej nie przypominaj! Ta... Ooohh! Nie znajdujê wystarczaj¹co z³ych s³ów by opisaæ t¹ kobietê. Diera uwa¿a³a mnie za jej rywalkê o wzglêdy Gubernatora!
+#ANIMATION 7
+#CAMERA 12
+#phrase Deva  4
+Nawet nie próbowa³a mnie wys³uchaæ gdy stara³am siê j¹ przekonaæ, ¿e nie istnieje dla mnie nikt inny poza At-Zako. Nadal trzêsê siê, przypominaj¹c sobie te katakumby, w których mnie wiêzi³a! Jakie to szczêœcie, ¿e At-Zako nigdy nie doœwiadczy tej wilgoci i zimna!
+#CAMERA 1
+#ANIMATION 6
+#phrase Rick  5
+Ma³o siê znam na innych l¹dach, ale jedno wiem o Suslanger - ani tam wilgotno ani zimno. Ale nie mogê zagwarantowaæ, ¿e tamtejszy klimat bêdzie dla nas przyjazny.

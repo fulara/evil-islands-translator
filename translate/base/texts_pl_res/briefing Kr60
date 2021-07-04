@@ -1,0 +1,27 @@
+Porozmawiaj z Odalisk¹
+#show Hero 1
+#show Nalo 2
+#ANIMATION 3
+#CAMERA 2 -30 10 10
+#phrase Nalo  1
+W koñcu poszed³ ten poganiacz. Pos³uchaj, ch³opcze, bo chcê ci coœ powiedzieæ!
+#ANIMATION 6
+#CAMERA 2 0 3 0.8
+#phrase Hero  2
+Kim jesteœ? Czego chcesz?
+#ANIMATION 31
+#CAMERA 2 30 7 7
+#phrase Nalo  3
+Nie mam imienia. Jestem niewolnic¹ Kardaura, zabawk¹ bez twarzy dla tego œcierwa! ale nie przysz³am tu by narzekaæ! Powinnam wykraœæ klucz do klatki mojemu panu i ciê wypuœciæ.
+#ANIMATION 8
+#CAMERA 2 0 3 0.8
+#phrase Hero  5
+Ale dlaczego chcesz mi pomóc? Nie myœl, ¿e jestem niewdziêcznikiem, ale...
+#ANIMATION 44
+#CAMERA 2 35 6 1.5
+#phrase Nalo  6
+To proste -  ¿eby uciec z fortecy, musisz zabiæ stra¿nika przy bramie. Tej nocy to Kardaur trzyma stra¿... Och, ale bêdê szczêœliwa, widz¹c jego martwe cia³o!
+#ANIMATION 3
+#CAMERA 2 -30 7 7
+#phrase Nalo  9
+Ktoœ nadchodzi! Muszê uciekaæ - stra¿ników klatki nie bêdzie obchodzi³o kim jestem...

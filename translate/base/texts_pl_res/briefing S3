@@ -1,0 +1,41 @@
+O zabitym Bia³ym Wilku
+#show Hero 3
+#show White_Wolf_Hide 4
+#show Elder 5
+#ANIMATION 15
+#CAMERA 1
+#phrase Hero  1
+W porz¹dku, o jeden ból g³owy mniej!
+#hide White_Wolf_Hide
+#show White_Wolf_Hide 5
+#ANIMATION 29
+#CAMERA 11
+#phrase Elder  2
+Wiedzia³em, ¿e Wybraniec nie mo¿e zawieœæ! Wielkie œwiêto nasta³o w naszej wiosce! Bia³y Wilk nie ¿yje! Niech ¿yje Wybraniec!
+#show Hero 1
+#hide White_Wolf_Hide 4
+#show Elder 2
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  3
+Ju¿ dobrze, ju¿ dobrze, uspokój siê. Zabi³em wiêc szczeniê i mia³em te¿ nieco zabawy... W tym nie ma nic niezwyk³ego. 
+#ANIMATION 9
+#CAMERA 7
+#phrase Elder  4
+Cieszê siê widz¹c, ¿e jesteœ tak skromny, Wybrañcze... Ale jeœli tak, czy zgodzi³byœ siê oddaæ g³owê wilka Kapitanowi Gortowi? Powiedzia³eœ, ¿e to dla ciebie bez znaczenia, a Kapitan potrzebuje utrzymaæ swój presti¿ w wiosce.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  5
+Co za bezczelnoœæ, co za przebieg³y stary lis! Teraz muszê oddaæ g³owê wilka, lub bêd¹ mówiæ ¿e nie dotrzymujê s³owa.
+#DESC To himself
+#show Hero 1
+#show Elder 2
+#CAMERA 2
+#ANIMATION 46
+#phrase Hero  6
+W porz¹dku, dostanie tê g³owê.
+#ANIMATION 9
+#CAMERA 7
+#phrase Elder  7
+Có¿ za hojny z ciebie cz³owiek! Najtrudniejsze przedsiêwziêcie jest dla ciebie niczym, tylko zabaw¹! Skoro tak, mo¿e chcia³byœ siê jeszcze trochê zabawiæ? Kapitan ma plan, chcia³bym, ¿ebyœ wzi¹³ w nim udzia³! A ja przeka¿ê mieszkañcom wioski dobr¹ nowinê, ¿e Wybraniec ponownie zgodzi³ siê nam pomóc!

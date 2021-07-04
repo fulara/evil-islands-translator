@@ -1,0 +1,15 @@
+Poznaj Maga
+#show Hero
+#show Merc8
+#ANIMATION 45
+#phrase Merc8  1
+Bracia nie s¹ tu, w Ostatniej Kryjówce, najlepszymi powiernikami tajemnic. Wiem, ¿e masz przed sob¹ d³ugie i trudne zadanie do wykonania, wymagaj¹ce podró¿y po ca³ej wyspie - tak wiêc mo¿e nie zaszkodzi ci trochê pomocy od Maga?
+#ANIMATION 9
+#phrase Merc8  2
+Ka¿dy z nas, ¿yj¹cych tu pod ziemi¹,  ma powody by nienawidziæ tych, którzy pozostali na zewn¹trz. Ja tak¿e mam swoje powody i z ogromn¹ chêci¹ sprawiê tym niby-praworz¹dnym durniom tyle k³opotów, ile to tylko mo¿liwe!
+#ANIMATION 32
+#phrase Hero  3
+Ale to w ogóle nie jest moim celem!
+#ANIMATION 31
+#phrase Merc8  4
+Nie, nie, to ja wiem. Ale zwa¿ na me s³owa, nie zdo³asz uczyniæ nic, jeœli nie wybierzesz: zabijaæ albo zostaæ zabitym. A w tym celu ja, Mag Fairakh, mogê byæ ci szalenie pomocny. No i oczywiœcie, sprawi mi to przyjemnoœæ!

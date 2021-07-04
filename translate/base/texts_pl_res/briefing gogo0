@@ -1,0 +1,35 @@
+Porozmawiaj z GoGo
+#show Hero 3
+#show bGoblinC 4
+#show Sheriff 5
+#CAMERA 5
+#ANIMATION 45
+#phrase Hero  1
+Czy to ty jesteœ Gobliñski Wódz, Gogo?
+#CAMERA 9
+#phrase bGoblinC  2
+Ja GoGo, Wódz GoGo, przyjœæ prosiæ, wy daæ Pierwszy Goblin z powrotem!
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  3
+Mo¿e to uczyniê, lecz najpierw musisz mi coœ powiedzieæ.
+#ANIMATION 3
+#CAMERA 8
+#phrase Sheriff  4
+Hej ty, jednooki, zamknij ryj, albo ja ci j¹ zamknê! Nikt ci nie powiedzia³, ¿e masz siedzieæ cicho?
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  5
+Co to jest?!
+#ANIMATION 9
+#CAMERA 4
+#phrase Sheriff  6
+Starszy powiedzia³, ¿eby nie przes³uchiwaæ Goblina, kiedy go przy tym nie ma, i nie pozwalaæ mu za du¿o gadaæ. Powiedzia³, ¿e on i Wybraniec póŸniej bêd¹ mieli przyjacielsk¹ pogawêdkê, bez œwiadków.
+#ANIMATION 43
+#CAMERA 6
+#phrase Hero  7
+Oto i jestem. W czym rzecz?
+#ANIMATION 44
+#CAMERA 1
+#phrase Sheriff  8
+Wiêc jesteœ tutaj, Ale Erfar nie, w tym rzecz! A ja robiê dok³adnie co mi powiedziano. Inaczej nie by³oby porz¹dku, a kiedy nie ma porz¹dku panuje nieporz¹dek, czy¿ nie, he-he-he! Mam to poczucie humoru, co nie?!

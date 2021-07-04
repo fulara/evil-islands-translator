@@ -1,0 +1,68 @@
+Porozmawiaj ze Smokiem
+#show SKD 1
+#show Hero 2
+#CAMERA 1
+#phrase SKD  1
+Zadziwiasz mnie, cz³owiecze. Jak do tej pory wszystko posz³o tak, jak sobie tego ¿yczy³em, zgodnie ze starymi tradycjami. Wykona³eœ zadanie, polecone przeze mnie. A teraz jestem gotów udzieliæ ci odpowiedzi.
+#ANIMATION 32
+#CAMERA 6
+#phrase Hero  2
+Och m¹dry Smoku! Dotknê³o mnie nieszczêœcie. Straci³em wszystkie wspomnienia przesz³oœci, nawet nie znam swego w³asnego imienia. Czy jesteœ w stanie powiedzieæ mi kim naprawdê jestem?
+#DESC Solemnly, like a prepared speech
+#CAMERA 9
+#ANIMATION 5
+#phrase SKD  3
+Hm... Widocznie pomyli³em siê. To jednak ciekawe pytanie... a obawiam siê, ¿e nawet ja nie mogê na nie odpowiedzieæ! I co nale¿y uczyniæ w takiej sytuacji? Czy powinienem zjeœæ cz³owieka? Wola³bym tego nie robiæ...
+#DESC Speaks loudly but to himself as if the hero was not there
+#ANIMATION 30
+#NOLIPS
+#CAMERA 6
+#phrase Hero  4
+No, ja te¿ bym tego nie chcia³...
+#DESC To himself
+#CAMERA 3
+#phrase SKD  5
+Oto co zrobimy: powiem ci co myœlê o twoim problemie, a ty bêdziesz mia³ szansê zadaæ mi inne pytanie. Co do tego... Powiedzmy ¿e nie dos³ysza³em.
+#CAMERA 9
+#ANIMATION 5
+#phrase SKD  6
+Tak wiêc chcia³byœ, aby wróci³a ci pamiêæ. Aby tak siê sta³o, musisz odnaleŸæ Maga, i to nie zwyk³ego - tylko Wielki Mag jest w stanie ci pomóc. Oczywiœcie, Wielki Mag jest tutaj, w Gipath, inaczej ta ziemia dawno by ju¿ zniknê³a, ³¹cznie z wszystkimi, którzy tu ¿yj¹.
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  7
+Lecz widaæ, jest bardzo skryty. Nawet ja nie mam pojêcia jak wygl¹da i gdzie go mo¿na znaleŸæ. Mo¿e Jaszczury wiedz¹ coœ o nim - by³y tu na d³ugo przed Smokami... lecz jeœli dojdziesz z nimi do porozumienia, dopiero bêdê zdziwiony.
+#CAMERA 11
+#phrase SKD  8
+Prawdopodobnie powinieneœ opuœciæ Gipath i poszukaæ pomocy na innych ziemiach. Mo¿e Wielcy Magowie nie bêd¹ tam tak nieuchwytni.
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  9
+Tak! S³ysza³em, ¿e gdzieœ tutaj by³ Portal! Powinienem wiêc spytaæ gdzie on jest?
+#DESC Interrupting
+#CAMERA 3
+#ANIMATION 5
+#phrase SKD  10
+Hm... Szczerze mówi¹c, nigdy mnie to nie interesowa³o. Lecz na pewno jest tu Portal. Ostatnio widzia³em obóz ludzi nosz¹cych prawdziwe zbroje - nie te skórzane, noszone przez tubylców. Oni byli na pewno z innych wysp, wiêc myœlê, ¿e wiedz¹ o portalach!
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  11
+Gdzie by³ ten obóz?
+#CAMERA 9
+#ANIMATION 5
+#phrase SKD  12
+Aah, w koñcu zada³eœ sensowne pytanie. Widzia³em obóz na pó³noc od Umar³ego Miasta. Obecnie jest tam grupa moich szkieletów, ale odwo³am ich.
+#CAMERA 3
+#phrase SKD  13
+W sumie mia³em niez³¹ rozrywkê z tymi nowoprzyby³ymi! Wys³a³em moje ma³e szkielety przeciwko ich ¿o³nierzom, lecz ci okazali siê byæ dla nich godnymi przeciwnikami!
+#DESC Not so much to the hero as to himself, reminiscing with gusto
+#ANIMATION 32
+#CAMERA 6
+#phrase Hero  14
+Wiêc ludzie prze¿yli? Jestem pewien, ¿e mog³eœ ich zniszczyæ!
+#CAMERA 3
+#phrase SKD  15
+Oczywiœcie, mog³em. Lecz kiedy gram, robiê to godnie i z poszanowaniem zasad. A kiedy zawsze wygrywasz, staje siê to nudne...
+#CAMERA 9
+#ANIMATION 4
+#phrase SKD  16
+¯egnaj, cz³owiecze. Odpowiedzia³em na twe pytania. Teraz mo¿esz odejœæ.

@@ -1,0 +1,8 @@
+O instrukcjach jak zabiæ Wybrañca
+#show Hero 3
+#show Manual 4
+#show Smith 5
+#ANIMATION 29
+#CAMERA 1
+#phrase Smith  1
+Ostrzega³em ciê! To napisa³ Kapitan Gort, a prawdopodobnie podyktowa³ mu to Wódz!

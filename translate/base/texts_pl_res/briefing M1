@@ -1,0 +1,28 @@
+O pracy Rzemieœlnika
+#show Hero 1
+#show Smith 2
+#ANIMATION 11
+#CAMERA 9
+#phrase Smith  1
+Ojej! Czy¿ to nie Wybraniec? Jak s¹dzê przyszed³eœ spytaæ mnie o coœ, nie oferuj¹c nic w zamian, prawda? Wiêc, powiem ci tyle: kimkolwiek jesteœ, nie dostaniesz ode mnie nic za darmo!
+#ANIMATION 9
+#CAMERA 6
+#phrase Hero  2
+Pos³uchaj mnie: Potrzebujê twych us³ug nie z³ych humorów! Nikt nie bêdzie za to p³aci³ pieniêdzy. Starszy powiedzia³ mi...
+#ANIMATION 46
+#CAMERA 11
+#phrase Smith  3
+Nie obchodzi mnie co wódz Silvertongue ci powiedzia³. I tak nigdy go nie lubi³em, a teraz ju¿ w ogóle nie bêdê go s³ucha³. Daj mu najpierw odzyskaæ od nich moje rzeczy!
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  4
+Jakie rzeczy? Od kogo odzyskaæ? Mo¿esz wyra¿aæ siê jaœniej?
+#ANIMATION 44
+#CAMERA 3
+#phrase Smith  5
+Wydaje mi siê to ca³kiem jasne. Oni to oni ... "Wolni £owcy", tak teraz powinniœmy ich nazywaæ. Starszy mówi, ¿e s¹ naszymi przyjació³mi, ale oni mnie okradli! Mój uczeñ widzia³ ich i próbowa³ powstrzymaæ - wiêc spuœcili mu takie lanie, ¿e przez dwa dni nie móg³ pracowaæ!
+#DESC The words "Free Hunters" pronounces with obvious disgust.
+#ANIMATION 7
+#CAMERA 11
+#phrase Smith  6
+Zabrali wiele, ale g³ównie moje ulubione narzêdzia. Wiêc zanim nie odzyskam skradzionych narzêdzi, nie mogê nic wyprodukowaæ!

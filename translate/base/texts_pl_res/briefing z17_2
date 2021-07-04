@@ -1,0 +1,32 @@
+O niebieskim krysztale
+#show Hero 3
+#show LeftCrystal 4
+#show Witch 5
+#ANIMATION 9
+#CAMERA 1
+#phrase Witch  1
+Có¿ za pracowita pszczó³ka! Prosi³am o zielony kryszta³, a przynosisz mi tak¿e niebieski, chocia¿ nie potrzebujê go do czaru lodowego.
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  2
+To co mam z nim teraz zrobiæ? Wyrzuciæ?
+#hide LeftCrystal
+#show LeftCrystal 5
+#ANIMATION 61
+#CAMERA 11
+#phrase Witch  3
+O nie, nie wyrzucaj go, g³uptasie! Nie jest przydatny do tego czaru, ale mo¿e pomóc przy innym, który chodzi mi po g³owie. Mogê go od ciebie kupiæ.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  4
+A co zamierzasz z nim zrobiæ?
+#ANIMATION 32
+#CAMERA 7
+#phrase Witch  5
+Och, to tajemnica! Nie wyjawiê jej nawet tobie!
+#CAMERA 11
+#ANIMATION 30
+#NOLIPS
+#phrase Witch  6
+Przez ca³e ¿ycie mogê nie przypomnieæ sobie do czego s³u¿y ten kryszta³! Ale mogê mu tego nie mówiæ, czy powinnam teraz? Mo¿e przypomnê sobie któregoœ dnia...
+#DESC To herself

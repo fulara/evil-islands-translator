@@ -1,0 +1,24 @@
+Porozmawiaj z Tricksterem
+#show Hero
+#show MThief
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  1
+Jestem przyjacielem Svera - ludzie zw¹ go Traperem - a on poradzi³ mi porozmawiaæ z tob¹. Powiedzia³, ¿e znasz sekret, który pozwala na... eee... bezg³oœne poruszanie siê kiedy okolicznoœci tego wymagaj¹.
+#ANIMATION 63
+#CAMERA 3
+#phrase MThief  2
+Ha! Wiele gadasz, a ma³o robisz! Nie obra¿aj siê: dziêki moim umiejêtnoœciom widzê od razu, ¿e nie jesteœ zbytnio zapracowany.
+#ANIMATION 9
+#CAMERA 11
+#phrase MThief  3
+Ale da siê temu zaradziæ... i myœlê, ¿e w tym celu przys³a³ ciê do mnie Traper, czy¿ nie?
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  4
+Szczerze, tak. Powiedzia³, ¿e móg³byœ mnie wytrenowaæ.
+#ANIMATION 11
+#CAMERA 3
+#phrase MThief  5
+A to stary lis! Kiedyœ Traper wyœwiadczy³ mi ogromn¹ przys³ugê i wie, ¿e teraz nie móg³bym mu odmówiæ!
+#DESC Genially, tender

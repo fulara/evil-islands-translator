@@ -1,0 +1,37 @@
+Oddawanie Goblinowi jego "œwiêtego obiektu"
+#show Hero 
+#show BGoblinC
+#ANIMATION 45
+#CAMERA 1
+#phrase Hero  1
+S³uchaj GoGo, jak d³ugo zamierzasz tu zostaæ? Miesi¹c? Rok? Dziesiêæ lat?
+#CAMERA 11
+#phrase BGoblinC  2
+Ja tu zostaæ dopóki ty mi daæ g³owa Pierwszy Goblin. Inaczej ja tu umrzeæ!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  3
+Dlaczego mam ci oddaæ tego stracha na wróble? Nigdy nie mówisz mi nic po¿ytecznego!
+#CAMERA 3
+#phrase BGoblinC  4
+Ja mówiæ wszystko, co wiedzieæ, nie moja wina to nie po¿yteczna!
+#ANIMATION 43
+#CAMERA 6
+#phrase Hero  5
+No, to tak¿e nie moja wina! Wiesz, myœlê, ¿e chyba po prostu wrzucê to do ognia - mo¿e wtedy wreszcie sobie pójdziesz!
+#show VoodooWand 5
+#CAMERA 7
+#ANIMATION 60
+#phrase BGoblinC  6
+Nie w ogieñ! Nie wrzucaæ! GoGo chcieæ kupiæ Pierwszy Goblin. Wymieniæ za lalka - nie, nie zwyk³a lalka, magiczna lalka!
+#ANIMATION 29
+#CAMERA 5
+#phrase Hero  7
+Postrada³eœ rozum, jednooki? Czy myœlisz, ¿e bêdê siê bawi³ lalkami?
+#CAMERA 11
+#phrase BGoblinC  8
+Ta lalka nie do zabawa! Ta lalka do magia! Os³abia wróg, odbiera si³a!
+#ANIMATION 46
+#CAMERA 10
+#phrase Hero  9
+Hm... to ciekawe...  No dobrze, daj mi tê lalkê. Ale jeœli to jakaœ sztuczka, biada ci!

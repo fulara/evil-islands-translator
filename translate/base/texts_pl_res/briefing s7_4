@@ -1,0 +1,30 @@
+O Magicznej Kuli
+#show Hero 1
+#show Elder 2
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  1
+Erfarze! Chcia³bym us³yszeæ twoj¹ opowieœæ o Magicznej Kuli! Na pewno jej nie zapomnia³eœ... S³ysza³em, ¿e jesteœ cz³owiekiem, który definitywnie zna wszystkie odpowiedzi.
+#ANIMATION 29
+#CAMERA 9
+#phrase Elder  2
+Oczywiœcie pamiêtam te¿ o Kuli. Ale by³o to bardzo dawno, naprawdê, to d³uga, d³uga historia...
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  3
+To nie szkodzi, nigdzie mi siê nie spieszy. Opowiedz, tylko nie owijaj w bawe³nê.
+#ANIMATION 9
+#CAMERA 11
+#phrase Elder  4
+Có¿, z³apaliœmy raz Goblina i okaza³o siê, ¿e by³ on s³ug¹ Orkijskiego Jasnowidza. Gobliny to g³upie stworzenia, wiêc trudno by³o go zrozumieæ.
+#ANIMATION 44
+#CAMERA 3
+#phrase Elder  5
+Zdo³a³em tylko zrozumieæ, ¿e Magiczna Kula le¿y na o³tarzu, gdzieœ na najbardziej wysuniêtej na po³udnie wyspie. I najwidoczniej Orki wysoko j¹ sobie ceni¹, poniewa¿ trzymaj¹ wyspê pod mocn¹ stra¿¹. Tak mi przykro, Wybrañcze, ale jeœli myœla³eœ, ¿e Kula spocznie w twoich rêkach, bêdziesz musia³ o tym zapomnieæ: droga do odleg³ych wysp jest tak niebezpieczna, ¿e nie powinieneœ ryzykowaæ!
+#hide Elder 
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  7
+G³ówna sprawa to mieæ mechanizm do mostu zwodzonego na wyspy; a dotarcie do o³tarza to ju¿ mój problem!
+#DESC To himself

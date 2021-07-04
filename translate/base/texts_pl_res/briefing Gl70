@@ -1,0 +1,20 @@
+O portalu
+#show Zaku 3
+#show Hero 4 
+#show Glav 5
+#ANIMATION 9
+#CAMERA 9
+#phrase Glav  1
+Nieszczêœliwie siê sk³ada, ¿e chcesz nas opuœciæ, Bracie. Mia³em nadziejê, ¿e zajmiesz moje miejsce, gdy odejdê. Pomyœl o tym.
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  2
+Podj¹³em ju¿ decyzjê, Bracie Khatul.
+#ANIMATION 6
+#CAMERA 4
+#phrase Glav  3
+Twoja podró¿ bêdzie niebezpieczna: Portal jest strze¿ony, jakby by³ drog¹ do domu ze z³ota, a nie do Bezu¿ytecznych Ziem. Ale jeden z naszych Braci wie jak siê tam dostaæ. Bracie Bez Twarzy, polegam na tobie! Brat Blondyn jest wart naszej pomocy.
+#ANIMATION 32
+#CAMERA 11
+#phrase Zaku  4
+O tak, Bracie Khatul. Na pó³nocnych wzgórzach pustyni, gdzie znajduje siê Portal, jest jaskinia. Spotkamy siê tam i poka¿ê Bratu Blondynowi jak otrzymaæ klucz, który otwiera Portal i wyjaœniê jak przemkn¹æ przez stra¿e. Przyrzekam, ¿e otrzyma wszystko, na co zas³uguje!

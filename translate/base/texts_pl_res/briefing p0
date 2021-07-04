@@ -1,0 +1,9 @@
+Kopnij œwiniê
+#show Hero 1
+#show Pig 2
+#CAMERA 10
+#phrase Hero  1
+Wynocha st¹d!
+#CAMERA 3 30 6 4
+#phrase Pig  2
+Chrr-chrrr... Kwiiiii!!!

@@ -1,0 +1,15 @@
+Poznaj ¯o³nierza
+#show Hero
+#show Merc7 
+#CAMERA 3
+#ANIMATION 9
+#phrase Merc7  1
+Brat Khatul powiedzia³, ¿e mo¿esz potrzebowaæ mojej pomocy, Bracie Blondynie. Moje imiê brzmi Kharad. Dotychczas moj¹ najwy¿sz¹ ambicj¹ by³o ³apanie i zabijanie ludzi takich jak ty.
+#CAMERA 3
+#ANIMATION 32
+#phrase Merc7  2
+Ale okaza³o siê, ¿e wielcy Khadagañczycy wiedz¹ mniej o honorze i prawoœci ni¿ zwyk³y kmiot! Wiêc teraz jedynym celem mojego ¿ycia jest odegraæ siê na tych, którym s³u¿y³em!
+#ANIMATION 3
+#CAMERA 2
+#phrase Hero  3
+Có¿, jeœli bêdê potrzebowa³ towarzysza, odezwê siê do ciebie.

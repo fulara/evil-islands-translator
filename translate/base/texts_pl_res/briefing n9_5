@@ -1,0 +1,11 @@
+Rinas nie chce byæ czwartym
+#show Hero 
+#show Merc5
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  1
+Rinasie, gotów jesteœ do³¹czyæ do nas i zwiedziæ kraj?
+#ANIMATION 43
+#CAMERA 3
+#phrase Merc5  2
+Trzy to zaprawdê szczêœliwa liczba, lecz cztery, niefortunnie tak¹ nie jest. Ja nie chcê byæ czwarty! 

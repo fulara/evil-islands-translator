@@ -1,0 +1,16 @@
+Zapytaj o magiczn¹ pomoc
+#show Hero 1
+#show Witch 2
+#ANIMATION 63
+#CAMERA 5
+#phrase Hero  1
+Estero, czy ty naprawdê wiesz jak tworzyæ nowe czary za pomoc¹ runów? Wiem jak u¿ywaæ istniej¹cych, lecz ¿eby robiæ nowe... Myœla³em ¿e tylko najm¹drzejsi i najbardziej doœwiadczeni Magowie to potrafi¹!
+#ANIMATION 11
+#CAMERA 11
+#phrase Witch  2
+Ty to wiesz, jak komuœ schlebiaæ, przyznajê ci s³usznoœæ! Dlaczego po prostu nie spytasz o pomoc magiczn¹?
+#DESC (A bit mockingly)
+#ANIMATION 7
+#CAMERA 9
+#phrase Witch  4
+No dobrze, dobrze, udajmy, ¿e tak zrobi³eœ. A oto moja odpowiedŸ: Wykonam dla ciebie czary jakie chcesz, œliczny ch³opcze - zak³adaj¹c oczywiœcie, ¿e masz wystarczaj¹c¹ iloœæ pieniêdzy. Nie policzê ci a¿ tyle, co Babur, ale nie oczekuj ¿e coœ dostaniesz za nic!

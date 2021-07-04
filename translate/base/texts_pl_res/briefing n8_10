@@ -1,0 +1,12 @@
+O misjach w Suslanger
+#show Hero 
+#show Merc10
+#ANIMATION 61
+#phrase Merc10  1
+Hej ch³opcze, jesteœ szczêœciarzem! Spojrza³am na ciebie i pomyœla³am, ho-ho! Nie mia³abym nic przeciwko temu, ¿eby czêœæ tego szczêœcia przypad³a mi w udziale...
+#ANIMATION 9
+#phrase Hero  2
+Szczêœcie to z³udna rzecz. Nie mo¿esz sobie tak ot odci¹æ kawa³eczka, ale mo¿emy go poszukaæ razem!
+#ANIMATION 64
+#phrase Merc10  3
+Có¿, ch³opcze, ty to powiedzia³eœ, nie ja. Teraz oczekujê twojego zaproszenia, a jeœli takowe nie nadejdzie, wtedy, na mój honor, bêdê zmuszona uznaæ, ¿e chcia³eœ mnie oszukaæ!

@@ -1,0 +1,35 @@
+O straconej m³odoœci
+#show Hero 3
+#show Kuzn 5
+#ANIMATION 61
+#CAMERA 1
+#phrase Kuzn  1
+Nic nie wiem o Joonach - ¿yli zbyt dawno temu. Zawsze uwa¿a³em historie o nich za zwyk³e bajki. Uwa¿am, ¿e powinieneœ rozejrzeæ siê za czerwonoskórym m³odym cz³owiekiem w lochach Stra¿y - te psy nienawidz¹ ludzi, którzy nie wygl¹daj¹ normalnie!
+#ANIMATION 62
+#CAMERA 3
+#phrase Kuzn  2
+Nie mam nic przeciwko, jeœli zabijesz jednego czy dwóch stra¿ników. A jeœli to bêd¹ Lash-Aga i Whip-Aga, to jeszcze lepiej. To bracia i wielka szkoda, ¿e ich matka nie zmar³a zanim spotka³a ich ojca!
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  3
+Có¿ za dziwne imiona!
+#ANIMATION 61
+#CAMERA 7
+#phrase Kuzn  4
+Nie imiona, lecz tak nazwali ich ludzie... domyœl siê dlaczego. Mam z nimi stare rachunki do wyrównania, oj bardzo stare. Gdybym tu nie przyby³, znalaz³bym kogoœ kto chêtnie da³by nauczkê jednemu i drugiemu! Ale, z drugiej strony, mogê ciebie o to poprosiæ, czy¿ nie?
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  6
+Oczywiœcie, ¿e mo¿esz, ale ja niczego nie obiecujê!
+#ANIMATION 44
+#CAMERA 3
+#phrase Kuzn  7
+Nie ma takiej potrzeby, nie wierzê w przyrzeczenia ju¿ od bardzo dawna... tak wiêc powiem ci tylko, gdzie mo¿esz znaleŸæ braci Aga, a ty sam zdecydujesz czy zabiæ ich czy nie.
+#ANIMATION 62
+#CAMERA 11
+#phrase Kuzn  8
+Podczas gdy rozmawiamy, te dwa szakale torturuj¹ wieœniaków, pracuj¹cych na plantacji na pó³nocny wschód od miasta. Jeden z braci nadzoruje plantacje centralne, drugi po³udniowe. Odnajdziesz ich z ³atwoœci¹ - jest tam sieæ kana³ów.
+#ANIMATION 14
+#CAMERA 9
+#phrase Kuzn  9
+OdnajdŸ ich i zabij! Nikt nie bêdzie po nich p³aka³, a ja bêdê ci dozgonnie wdziêczny.

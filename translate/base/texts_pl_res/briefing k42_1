@@ -1,0 +1,27 @@
+O zaginionej dziewczynie
+#show Hero 1
+#show Kapitan 2
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  1
+Kapitanie! Czy móg³byœ mi daæ jakieœ wskazówki, gdzie szukaæ dziewczyny? Rozumiem, ¿e jesteœ bardzo zajêty, oczywiœcie.....
+#ANIMATION 44
+#CAMERA 3
+#phrase Kapitan  2
+Przecie¿ ju¿ ci powiedzia³em moj¹ opiniê o tej sprawie, m³odzieñcze, nie ka¿ mi jej powtarzaæ! Jeœli nie masz nic lepszego do roboty, spróbuj odnaleŸæ Dobrego Rycerza Brissena, cha-cha!
+#ANIMATION 3
+#CAMERA 2
+#phrase Hero  3
+Wybacz, kogo?
+#ANIMATION 63
+#CAMERA 11
+#phrase Kapitan  4
+S³uchaj, z jakiej ty wioski pochodzisz? Wszyscy znaj¹ Rycerza Brissena, który zdecydowa³, i¿ miasta s¹ siedliskiem z³a i zamieszka³ w lesie. Ale kiedy odwa¿y³ siê go opuœciæ, zapanowa³ totalny chaos. 
+#ANIMATION 62
+#CAMERA 3
+#phrase Kapitan  5
+Czasami zabija³ poborców podatkowych i zostawia³ pieni¹dze na drodze, nastêpnie ugania³ siê za ³owczymi - rzekomo polowali na jelenie poza sezonem albo z jakiegoœ innego g³upiego powodu. Stad siê wziê³o jego przezwisko - Dobry Rycerz.
+#ANIMATION 45
+#CAMERA 11
+#phrase Kapitan  6
+Chocia¿ muszê przyznaæ, ¿e ostatnio nie s³ysza³em o nim ¿adnych opowieœci... mo¿e umar³ ... w takim wypadku, chyba dobrze siê sta³o... sprawia³ wiêcej k³opotów bêd¹c ¿ywy, ni¿ kiedy jest martwy.

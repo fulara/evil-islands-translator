@@ -1,0 +1,52 @@
+O opuszczonych kopalniach
+#show Hero 1
+#show Shopper 2
+#ANIMATION 11
+#CAMERA 11
+#phrase Shopper  1
+Ach, gawêdziarzu... Czego chcesz teraz? Opowiedzieæ nastêpn¹, nie?
+#ANIMATION 9
+#CAMERA 2
+#phrase Hero  2
+Wiem, ¿e masz tutaj du¿e kupieckie interesy, wiêc musisz wszystko wiedzieæ o tych czêœciach?
+#ANIMATION 11
+#CAMERA 11
+#phrase Shopper  3
+Tak s¹dzê... i?
+#DESC (Suspiciously)
+#ANIMATION 44
+#CAMERA 2
+#phrase Hero  4
+S¹ tutaj zamkniête kopalnie, myœla³em, ¿e te tereny s¹ bogate. Dlaczego po³owa kopalni jest nieczynna?
+#ANIMATION 62
+#CAMERA 11
+#phrase Shopper  5
+Pracuj¹ pod ziemi¹, gdzie ¿yj¹ kreatury wszelakiego rodzaju. Górnicy natkn¹ siê na gniazdo ghuli i wszyscy twoi ludzie i materialne inwestycje znikaj¹. Wiêc Gubernator wyda³ dekret, ¿eby zamkn¹æ takie kopalnie... Zaczekaj! Chcesz w nich pracowaæ?
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  6
+Mo¿liwe, mo¿liwe. Ale muszê znaleŸæ sposób na zdobycie pozwolenia Gubernatora. Byæ mo¿e móg³byœ pomóc - opowiedzia³em ci tak¹ dobr¹ historyjkê, ¿e jesteœmy ju¿ bliskimi przyjació³mi, czy¿ nie?
+#ANIMATION 30
+#NOLIPS
+#CAMERA 11
+#phrase Shopper  7
+Przyjaciele tacy jak ty le¿¹ w lesie z rozprutymi brzuchami, zobaczysz! Ale w porz¹dku, ch³opcze, te¿ zagram w t¹ grê...
+#DESC To himself
+#ANIMATION 63
+#CAMERA 3
+#phrase Shopper  8
+Czemu nie daæ Gubernatorowi czegoœ "wytwornego, cennego i stylowego", albo zwyczajnie czegoœ kosztownego. Jak stara grudka z³ota. Natychmiast zainteresuje siê kopalniami i da ci pozwolenie na rozpoczêcie prac, wierz mi. A ty nawet nie musisz schodziæ pod ziemiê!
+#ANIMATION 61
+#CAMERA 11
+#phrase Shopper  9
+Na terenie opuszczonych kopalni, na po³udniowy wschód, znajduje siê kolejny szyb, równie¿ zamkniêty, poniewa¿ robotnicy byli leniwi i zwolnili siê. Jeden z nich powiedzia³ mi, ¿e w najbardziej wysuniêtej na po³udnie czêœci szybu ukry³ grudkê z³ota . 
+#ANIMATION 62
+#CAMERA 3
+#phrase Shopper  10
+Ci leniwi robotnicy opowiedzieli jedn¹ piekieln¹ historyjkê, wiêc Gubernator rozkaza³ zamkn¹æ teren. Ale jesteœmy przyjació³mi, dlatego dam ci klucz do bram. S¹ ³atwe do znalezienia: wejdŸ na teren opuszczonych kopalni, idŸ na wschód, od pó³nocy omiñ wojskowy obóz i ju¿ prawie jesteœ na miejscu.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 11
+#phrase Shopper  11
+IdŸ, idŸ odszukaj grudkê! W tych szybach definitywnie jest zbyt ma³o koœci... Gawêdziarzu, che-che!
+#DESC To himself

@@ -1,0 +1,39 @@
+O rzekomych poszukiwaniach Ksiê¿niczki
+#show Hero 1
+#show Magess 2
+#ANIMATION 11
+#CAMERA 3
+#phrase Magess  1
+Och, nasz m³ody bohater? Brakuje szczêœcia w poszukiwaniach Ksiê¿niczki, echh? A mo¿e ju¿ siê podda³eœ?
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  2
+Mia³aœ racjê, kiedy opowiada³aœ o trudnoœciach, Diera. Jestem ca³kowicie zagubiony, przeszuka³em wszystkie tereny wokó³ miasta. Ale s³ysza³em, ¿e opuszczone kopalnie s¹ dobrym miejsce na ukrycie kogoœ. S¹dzisz, ¿e powinienem tam spróbowaæ?
+#ANIMATION 45
+#CAMERA 3
+#phrase Magess  3
+Och daj spokój mój drogi, chyba nie chcesz daæ wiary takim nonsensom? Oczywiœcie, ¿e mo¿esz spróbowaæ, jeœli chcesz marnowaæ czas, ale zdradzê ci pewien sekret: droga do kopalni jest uci¹¿liwa i niebezpieczna, a wejœcia zawali³y siê ju¿ dawno temu.
+#ANIMATION 44
+#CAMERA 11
+#phrase Magess  4
+I mo¿esz siê tam natkn¹æ na okrutnych bandytów. Je¿eli wsadzisz nos do kopalni, mo¿esz go straciæ - razem z g³ow¹.
+#ANIMATION 9
+#CAMERA 3
+#phrase Magess  5
+Wiêc drogi ch³opcze, wszystkie te rozmowy o starych kopalniach s¹ tylko niedorzecznym nonsensem, nie bêdê na to traci³a swojego czasu... mam tak wiele rzeczy do zrobienia... mam nadziejê, ¿e rozumiesz moj¹ aluzjê?
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  6
+Och tak, oczywiœcie, przepraszam!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2
+#phrase Hero  7
+Bingo! Czemu tak bardzo stara³aby siê przekonaæ mnie, bym nie szed³ w pobli¿e kopalni, gdyby nic nie by³o tam schowane!
+#DESC To himself
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  8
+I nie by³ to zbieg okolicznoœci, ¿e tak nagle zabrak³o jej wolnego czasu... Byæ mo¿e podejrzewa, ¿e ju¿ coœ wiem i teraz chce ostrzec swoich najemników?
+#DESC To himself

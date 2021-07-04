@@ -1,0 +1,31 @@
+O opuszczonych kopalniach
+#show Hero 1
+#show Trapper 2
+#ANIMATION 9
+#CAMERA 2
+#phrase Hero  1
+Dzieñ dobry, Sver! Chcia³em ci podziêkowaæ - naprawdê mi pomog³eœ, Karansul jest teraz dla mnie jak brat.
+#ANIMATION 43
+#CAMERA 11
+#phrase Trapper  2
+Ufasz mu?
+#ANIMATION 62
+#CAMERA 2
+#phrase Hero  3
+Faktycznie, nie. O tym chcia³em z tob¹ porozmawiaæ. Karansul da³ mi klucz do bram wschodnich szybów na terenach opuszczonych kopalni. Mówi, ¿e mogê tam znaleŸæ grudkê z³ota. Nie sprawi³by mi takiego prezentu, czy¿ nie?
+#ANIMATION 46
+#CAMERA 11
+#phrase Trapper  4
+Oczywiœcie, ¿e nie! Chce ciê mieæ martwego, o to chodzi. Zna³em mê¿czyznê, który pracowa³ w tych szybach.
+#ANIMATION 63
+#CAMERA 3
+#phrase Trapper  5
+By³ w robocie jak zwykle, kiedy nagle rozwœcieczony tygrys wy³oni³ siê z b³êkitu, ludzie musieli uciekaæ. Wiêc uciekli. Poganiacze niewolników darli siê na nich, ¿eby zabierali z³oto, ale robotnicy... có¿, wiesz jacy s¹ robotnicy, kiedy siê ich przyciœnie. 
+#ANIMATION 61
+#CAMERA 11
+#phrase Trapper  6
+Wiêc ca³e z³oto tam zosta³o, a Gubernator rozkaza³ zapieczêtowaæ wejœcia. Rzeczywiœcie jest tam z³oto, ale nie ³atwo siê do niego dobraæ.                                                                                                                                                                      
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  7
+Có¿, odk¹d pamiêtam, nie by³o mi ³atwo! Ale w ka¿dym razie dziêki za ostrze¿enie.

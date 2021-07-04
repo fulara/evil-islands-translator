@@ -1,0 +1,39 @@
+Oskar¿ Erfara o zdradê
+#show Elder
+#show Hero
+#show Nsheriff
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  1
+Teraz wiem wszystko! Wiêc jaki rodzaj œmierci preferujesz!
+#ANIMATION 54
+#CAMERA 9
+#phrase Elder  2
+Nie, nie! Zosta³em wrobiony, to wszystko zosta³o ustawione, ja jestem niewinny! Pomocy, pomocy! Wybraniec oszala³!!!
+#DESC Frightened, but still hopes he is trusted
+#ANIMATION 29
+#CAMERA 2
+#phrase Hero  3
+Dobrze, krzycz. Im g³oœniej krzyczysz, tym wiêcej przyjemnoœci bêdê mia³ z zamkniêcia twoich k³amliwych ust!
+#DESC Icy voice
+#ANIMATION 11
+#CAMERA 8
+#phrase NSheriff  4
+Nie, lepiej nie krzycz. Inaczej ...to siê Ÿle dla ciebie skoñczy.
+#ANIMATION 56
+#CAMERA 11
+#phrase Elder  5
+Och Wybrañcze, jestem w twojej mocy... ale proszê nie zabijaj mnie, wci¹¿ móg³bym byæ dla ciebie u¿yteczny! Nikt oprócz mnie nie powie ci co by³o napisane w papierach, które znalaz³eœ. Daj mi s³owo, ¿e mnie wypuœcisz, a ja przet³umaczê je dla ciebie!
+#DESC Understands that he will not get away and abruptly changes his tone
+#ANIMATION 9
+#CAMERA 10
+#phrase Hero  6
+Nie mogê sobie wyobraziæ czemu tak myœlisz, ale nie zabije ciê ... jeszcze. Pozwolê ci ¿yæ odrobinê d³u¿ej, by zdecydowaæ co z tob¹ zrobiæ. Nie wiem, byæ mo¿e istnieje jakiœ zwyczaj w wiosce, który okreœla jak postêpowaæ z takim brudem jak ty!
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  7
+Rivar, powiedz swoim ludziom, ¿eby mieli Erfara na oku!
+#ANIMATION 15
+#CAMERA 12
+#phrase NSheriff  8
+Tak, panie!

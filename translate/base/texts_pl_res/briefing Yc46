@@ -1,0 +1,16 @@
+O porwaniu Starca
+#show Hero 1
+#show YCF 2
+#CAMERA 3
+#phrase YCF  1
+Jeœli kruk zabierze zdobycz soko³a, co pozostanie soko³owi? Tylko dokonaæ zemsty na kruku! Jeœli jeden cz³owiek œmiertelnie nas obrazi, wtedy inny cz³owiek dokona na nim zemsty.
+#CAMERA 11
+#phrase YCF  2
+Udaj siê na ziemie opuszczonych kopalni na wschód od przedmieœci miasta. Ujrzysz tam wojskowy obóz pomiêdzy dwoma wzgórzami i trenuj¹cych sztukê zabijania ¿o³nierzy. Szpieg poœród nich jest niczym tygrys poœród szczurów, z pewnoœci¹ go nie przegapisz. Zrobisz dobry uczynek, jeœli zemœcisz siê na porywaczu Habbura!
+#ANIMATION 43
+#CAMERA 10
+#phrase Hero  3
+Wygl¹da na to, ¿e ostatnio nie robiê nic innego tylko dobre uczynki. Jakimœ sposobem w koñcu wszyscy gin¹ z mojej rêki. Nie jestem ani cz³owiekiem czystego serca, ani wynajêtym morderc¹!
+#CAMERA 11
+#phrase YCF  4
+£owca zabija tygrysa i sprzedaje jego skórê. Czy to oznacza, ¿e tygrys by³ niegroŸnym kotkiem? Przyjaciel Zielonego Klanu pomœci porwanie Habbura. Czy to oznacza, ¿e martwy porywacz by³ niewinn¹ ofiar¹? Zastanów siê nad tym, cz³owieku!

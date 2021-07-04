@@ -1,0 +1,14 @@
+Poszukiwanie magicznego przedmiotu
+Orkowie ¿yj¹cy w jaskini na pó³nocny wschód od podnó¿a gór maj¹ w posiadaniu godny zainteresowania magiczny przedmiot. Zgodnie z zabran¹ od opryszka map¹, przedmiot jest ukryty w zamkniêtym sarkofagu. Szaman jaskiniowych Orków posiada klucz. Aby dotrzeæ do jaskini, idŸ drog¹ na pó³nocny wschód od podnó¿a gór i wykiwaj trolla ¿yj¹cego obok wejœcia do jaskini. ¯eby zejœæ do ni¿szej czêœci jaskiñ, potrzebny bêdzie mechanizm steruj¹cy mostem zwodzonym. Jeœli go nie masz, zapytaj Kapitana.
+#subobj  1
+Opuœæ most
+Aby dostaæ siê do wewnêtrznych czêœci jaskini musisz obni¿yæ most zwodzony. Aby to osi¹gn¹æ, potrzebujesz czêœci mostu.
+#subobj  2
+ZnajdŸ klucz do sarkofagu
+Ma go Jasnowidz Orków.
+#subobj  3
+ZnajdŸ sarkofag, zawieraj¹cy odrobinê magii
+Sarkofag, zawieraj¹cy odrobinê magii, musi byæ gdzieœ blisko miejsca gdzie ¿yj¹ Orkowie. Szukaæ tego w dalekich przejœciach? Nie za bardzo produktywne!
+#subobj  4
+WeŸ odrobinê
+Aby wzi¹æ odrobinê, musisz otworzyæ sarkofag za pomoc¹ klucza.

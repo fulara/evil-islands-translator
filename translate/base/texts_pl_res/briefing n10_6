@@ -1,0 +1,23 @@
+Po¿egnaj Myranê
+#show Hero 
+#show Merc6
+#ANIMATION 11
+#CAMERA 3
+#phrase Merc6  1
+Chyba czas powiedzieæ sobie do widzenia?
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  2
+Niestety, Myrano, masz racjê. Przykro mi, ¿e nie mo¿esz udaæ siê ze mn¹ do innych l¹dów...
+#ANIMATION 9
+#CAMERA 3
+#phrase Merc6  3
+Nie musisz przepraszaæ, Zak. I tak bym odmówi³a. Mój dom jest tutaj, w Ingos i nie chcê go opuszczaæ.
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  4
+Có¿, w takim razie mogê opuœciæ ciê z czystym sumieniem. ¯egnaj, Myrano.
+#ANIMATION 15
+#CAMERA 3
+#phrase Merc6  5
+¯egnaj!

@@ -1,0 +1,11 @@
+O zaginionej dziewczynie
+#show Hero 1
+#show Magess 2
+#ANIMATION 9
+#CAMERA 3
+#phrase Magess  1
+Och, Ksiê¿niczka? Ta szczup³a z czerwon¹ skór¹? Nic o niej nie wiem i nie chcê wiedzieæ, po prostu mnie nie interesuje. I przy okazji, m³odzieñcze... nie wygl¹dasz na wsiowego g³upka, wiêc ja, Czarodziejka Diera, dam ci radê, tylko dlatego, ¿e ciê lubiê: nie interesuj siê losem tej zaginionej dziewczyny.
+#ANIMATION 45
+#CAMERA 11
+#phrase Magess  2
+Ostatnio taki jeden amator Snoop równie¿ zagin¹³. Mo¿e umar³, mo¿e siê zgubi³ w lesie... pomyœl o jego losie, m³odzieñcze. ¯yczê wszystkiego najlepszego!

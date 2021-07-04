@@ -1,0 +1,15 @@
+¯egnaj, przyjacielu!
+#show Hero 
+#show Merc9
+#ANIMATION 11
+#CAMERA 11
+#phrase Merc9  1
+Och, m³ody cz³owieku! Chyba nie zamierzasz zejœæ ze œcie¿ki prawoœci w tej chwili? Pod¹¿asz ni¹ przecie¿ tak krótko!
+#ANIMATION 31
+#CAMERA 10
+#phrase Hero  2
+Niestety, to mój obowi¹zek. A teraz nie pozostaje nic innego, jak wzajemnie po¿egnanie.
+#ANIMATION 45
+#CAMERA 11
+#phrase Merc9  3
+Có¿, nie myœl o mnie Ÿle! I jeœli znów us³yszysz pog³oski o mojej œmierci, nie ufaj im!

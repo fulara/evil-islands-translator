@@ -1,0 +1,15 @@
+Po¿egnaj £ucznika
+#show Hero 
+#show Merc2
+#CAMERA 6
+#ANIMATION 7
+#phrase Hero  1
+Dobrze, £uczniku, zdaje siê, ¿e nadszed³ czas, by siê po¿egnaæ. Bez twojego celnego strza³u bêdzie mi naprawdê trudno.
+#CAMERA 7
+#ANIMATION 8
+#phrase Merc2  2
+Dziêkujê za mi³e s³owa... Mam nadziejê, ¿e spotkasz innego dobrego strzelca, który pomo¿e ci w twej zagranicznej misji. Do zobaczenia, Wybrañcze!
+#CAMERA 6
+#ANIMATION 11
+#phrase Hero  3
+Do widzenia, £uczniku!

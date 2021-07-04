@@ -1,0 +1,22 @@
+O ¿yciu w wiosce
+#show Hero 1
+#show Sheriff 2
+#CAMERA 5
+#phrase Hero  1
+Czemu jesteœ taki markotny, Gort?
+#ANIMATION 32
+#CAMERA 11
+#phrase Sheriff  2
+Hmm... Chcia³em spuœciæ Baburowi lanie, ale Starszy mi nie pozwoli³. Mówi, ¿e jeszcze nie czas. Heh, jak dla mnie w sam raz! Rzemieœlnik jest zbyt arogancki... liczy sobie zbyt wiele, nikogo na to nie staæ!
+#ANIMATION 14
+#CAMERA 3
+#phrase Sheriff  3
+I ta historia z Wolnymi £owcami - nawet nie chcê o tym mówiæ. Zrobi³ taki szum o nic! Ale niewa¿ne, Starszy i ja sprawimy, ¿e jeszcze za wszystko zap³aci!
+#ANIMATION 7
+#CAMERA 10
+#phrase Hero  4
+Có¿, to nie mój interes. Powiedz mi tylko... Kilka razy widzia³em... Nawet nie wiem jak to opisaæ... Coœ jakby ma³y Smok, ale bardzo ma³y, jak mucha, naprawdê. Podlatywa³ do mnie, pobrzêcza³o dooko³a i odlatywa³o. Co to jest?
+#ANIMATION 31
+#CAMERA 7
+#phrase Sheriff  5
+Och, nie mam zbyt wiele czasu na te muchy - zgnieœæ je, to jest to! Teraz mucha, zaraz p³atek, he-he-he!

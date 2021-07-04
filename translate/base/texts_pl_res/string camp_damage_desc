@@ -1,0 +1,1 @@
+Kiedy trafiasz przeciwnika broñ zadaje obra¿enia wiêksze od wartoœci minimalnej, ale nie osi¹ga maksymalnej wartoœci parametru 'obra¿eñ'. Jeœli wróg jest chroniony przez pancerz, obra¿enia zadane broni¹ zmniejszaj¹ siê o wartoœæ parametru zbroi. Jeœli pancerz wroga przekracza wartoœæ maksymalnych obra¿eñ, broñ jest nieskuteczna.

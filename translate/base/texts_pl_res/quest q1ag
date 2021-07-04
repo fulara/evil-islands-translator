@@ -1,0 +1,8 @@
+Zabicie gobliñskiego stra¿nika
+Gobliñski wartownik stale obserwuje wioskê i melduje prze³o¿onym o wszelkich aktywnoœciach. Oznacza to, ¿e ludzie nie mog¹ wyprowadziæ byd³a na pastwisko albo wys³aæ wojsko do walki z Goblinami. Kiedy wartownik zauwa¿y ¿o³nierza, natychmiast ucieknie, wiêc jedynie ktoœ, kto nie przypomina zbrojnego mo¿e podejœæ doœæ blisko, by zabiæ goblina. Kiedy wartownik bêdzie martwy wróæ do wioski. Podnó¿a gór nie s¹ jednak zbyt bezpiecznym miejscem do samotnej wêdrówki, szczególnie dla lekkozbrojnych.
+#subobj  1
+ZnajdŸ Goblina wartownika
+Goblin wartownik obserwuje drogê do Pagórków. Jego posterunek znajduje siê w pobli¿u wioski.
+#subobj  2
+Zabij Goblina wartownika
+Musisz go zabiæ, a nastêpnie wróciæ do wioski.

@@ -1,0 +1,47 @@
+Spotkanie z w³aœcicielem kolekcji
+#show Junofil 1
+#show Hero 2
+#ANIMATION 57
+#CAMERA 9
+#phrase Junofil  1
+Niech w³osy niczym s³oma wyrosn¹, wewn¹trz twej czaszki, szumowino! Ukrad³eœ pracê ca³ego mojego ¿ycia i jeszcze œmiesz spojrzeæ mi w oczy?
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  2
+Spokojnie, spokojnie, nigdy nic ci nie ukrad³em. Wprost przeciwnie, znalaz³em parê skradzionych przedmiotów.
+#ANIMATION 58
+#CAMERA 11
+#phrase Junofil  3
+Nie wierzê ci! Jeœli nie jesteœ z³odziejem, z pewnoœci¹ jesteœ wspó³sprawc¹. Obyœcie obydwaj wpadli do Czarnej Jaskini, niech Pan Podziemi po¿re wasze mózgi, a wasze cia³a niech p³on¹ w rzekach lawy!
+#hide Junofil
+#show Hero 4
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  4
+£atwiej bêdzie poczekaæ a¿ skoñczy deklamowaæ... wtedy przemówiê.
+#DESC To himself
+#show Junofil 1
+#show Hero 2
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  5
+W porz¹dku, proszê pana, mam tu pañskie rzeczy. Ale dostanie je pan dopiero wtedy, gdy odpowie pan na moje pytania. Czy wie pan cokolwiek o m³odym Joonie, który ostatnio odwiedzi³ Suslanger?
+#ANIMATION 59
+#CAMERA 3
+#phrase Junofil  6
+Oczywiœcie, ¿e tak! Powiem ci, szumowino, ¿e by³em pierwszym, który rozpozna³, ¿e ten m³ody ch³opak jest ¿ywym Joonem. Gdyby by³o po mojemu, ¿y³by spokojnie w moim domu do koñca swego ¿ycia. Ale te t³uste szakale, ci... naukowcy przys³ali Stra¿ników. Ty tchórzliwie okrad³eœ mnie w nocy, oni zrobili to otwarcie w bia³y dzieñ.
+#ANIMATION 32
+#CAMERA 6
+#phrase Hero  7
+Wiêc oni maj¹ teraz m³odzieñca? Gdzie mogê znaleŸæ tych naukowców?
+#ANIMATION 58
+#CAMERA 7
+#phrase Junofil  8
+Lepiej poszukaj ich grobów! Tuzin dni póŸniej zosta³em wezwany do laboratorium Nekromanty Taivo, a on pokaza³ mi kilka cia³. To byli ci, tak zwani, uczeni Magowie, a ich cia³a by³y tak zniekszta³cone, ¿e ledwo zdo³a³em ich rozpoznaæ. Oby to samo spotka³o ciebie i drugiego wspó³winnego kradzie¿y!
+#hide Junofil
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  9
+Co takiego on powiedzia³? Laboratorium Taivo? Powinienem zapytaæ o to starego Nekromanty z Ostatniej Kryjówki.
+#DESC To himself

@@ -1,0 +1,43 @@
+Uwolnij dziewczynê
+#show Hero 1
+#show Deva 2
+#ANIMATION 72
+#CAMERA 11
+#phrase Deva  1
+Stój! Jeszcze jeden krok i wezwê W³adców Podziemi - a wtedy umrzesz w mêczarniach!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 10
+#phrase Hero  2
+Chyba ju¿ i tak jestem zagubiony... O niebiosa, jaka ona jest piêkna!
+#DESC Speaks like he is charmed
+#ANIMATION 11
+#CAMERA 3
+#phrase Deva  3
+Co, czego siê tak przerazi³eœ, ¿e nie mo¿esz wypowiedzieæ nawet s³owa? Wiedzia³am, ¿e moi porywacze to banda tchórzy!
+#ANIMATION 45
+#NOLIPS
+#CAMERA 2
+#phrase Hero  4
+A jej g³os! Móg³bym s³uchaæ go godzinami... chwileczkê, co ona powiedzia³a?
+#DESC Still with charmed voice, then comes to his senses and continues worriedly 
+#ANIMATION 72
+#CAMERA 11
+#phrase Deva  5
+A twoja pani, Diera, to nic wiêcej jak mierna, dwulicowa kreatura, ³¿¹ca jak z nut!
+#ANIMATION 63
+#CAMERA 2
+#phrase Hero  6
+Chwileczkê, Ksiê¿niczko, chwileczkê! Ja nie jestem tym, za którego mnie bierzesz! Nie jestem cz³owiekiem Diery, wrêcz przeciwnie, w³aœnie walczy³em z jej najemnikami! Przeby³em te jaskinie ¿eby ciê uratowaæ!
+#ANIMATION 45
+#CAMERA 3
+#phrase Deva  7
+Ty? A kim ty jesteœ? I sk¹d wiedzia³eœ ¿e tu jestem?
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  9
+Zosta³em wys³any przez Wielkiego Maga Tka-Ricka... Ale to d³uga historia. Wszystko ci opowiem. Ale wpierw muszê odpocz¹æ po tych jaskiniowych przygodach!
+#ANIMATION 11
+#CAMERA 3
+#phrase Deva  10
+W porz¹dku. Ale nie nazywaj mnie Ksiê¿niczk¹. Mam na imiê Lu-a-Jalla i chcia³abym zapomnieæ ten g³upi przydomek.

@@ -1,0 +1,56 @@
+Porozmawiaj o rzeczach wziêtych od Wodza
+#show Hero 1
+#show Smith 2
+#show Awl 6
+#show Knife 7
+#phrase Hero  1
+Spójrz! Zabra³em je wodzowi i jego ¿onie.
+#ANIMATION 29
+#CAMERA 11
+#phrase Smith  2
+Ale ... to s¹ narzêdzia, które mi skradziono! Nie mogê uwierzyæ w³asnym oczom!
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  3
+Wiêc ich dotknij!
+#ANIMATION 9
+#CAMERA 7
+#phrase Smith  4
+S¹ prawdziwe, moje narzêdzia! Wybrañcze, teraz mo¿esz zamówiæ ode mnie co tylko zechcesz! Nie robiê czarów do magicznych rzeczy, bêdziesz musia³ o tym porozmawiaæ z WiedŸm¹. Ale na zwyk³¹ robotê nawet dam ci zni¿kê.
+#DESC (At first enthusiastically, then catches himself at talking too much)
+#CAMERA 3
+#phrase Smith  15
+Znaczy siê, ma³¹ zni¿kê, oczywiœcie...
+#DESC (Much less enthusiastically)
+#CAMERA 11
+#phrase Smith  16
+Znaczy siê, jeœli mnie poprosisz ...
+#DESC (With great pain)
+#ANIMATION 7
+#CAMERA 6
+#phrase Hero  17
+Uspokój siê, nie chcê od ciebie ¿adnych zni¿ek. Ale powiedz mi czemu Wolni £owcy ¿yj¹c tak blisko Goblinów nie zostali jeszcze rozgniecieni na miazgê?
+#DESC (At first squeamishly, then businesslike)
+#ANIMATION 6
+#CAMERA 7
+#phrase Smith  18
+Wolni £owcy ... W mojej ksi¹¿ce Rozbójnicy byli i bêd¹ Rozbójnikami. I nie zwracaj uwagi na to, co mówi Starszy! To nie by³ pierwszy raz kiedy mnie okradli ...
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  19
+Pos³uchaj, czy mo¿emy porozmawiaæ o twych ¿alach póŸniej! Pyta³em ciê o Gobliny!
+#ANIMATION 9
+#CAMERA 11
+#phrase Smith  20
+A jak myœlisz co ci w³aœnie powiedzia³em? S³uchaj! Jest pewna plotka, ¿e Rozbójnicy robi¹ interesy nie tylko z Goblinami, ale równie¿ z Orkami. Kilku wieœniaków przysiêga, ¿e kilka razy widzieli Zbójcê - o przezwisku Czerwonog³owy - rozmawiaj¹cego z Orkiem na drodze do jaskini Trolla.
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  21
+Có¿, prawie rozumiem. Leœni ludzie narobili Elderowi k³opotów a jednoczeœnie uwa¿aj¹ siê za wybawicieli wioski!
+#CAMERA 3
+#phrase Smith  22
+Narobili Erfarowi k³opotów? Przypuszczam ...
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  23
+Jestem prawie pewien ¿e mam racjê! Musimy znaleŸæ tylko tego Czerwonog³owego, a wtedy wszystko siê wyjaœni.

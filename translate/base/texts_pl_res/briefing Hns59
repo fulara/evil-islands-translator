@@ -1,0 +1,55 @@
+Porozmawiaj z Aiset-Bek
+#show Hero 3
+#show Karh 5
+#show IZ 4
+#ANIMATION 32
+#CAMERA 2 -30 10 10
+#phrase Karh  1
+O wspania³y Aiset-Beku! Mamy nowego wiêŸnia w naszym lochu. Uwa¿am, ¿e ten cz³owiek to wartoœciowy okaz. Z³apaliœmy go w pobli¿u Portalu, prowadz¹cego do Bezu¿ytecznych L¹dów, a opiera³ siê nam jak wœciek³y pies! Jest dobrze zbudowany i wygl¹da na inteligentnego. Mam nadziejê, ¿e moje starania zostan¹ docenione!
+#ANIMATION 14
+#CAMERA 4 30 5 3
+#phrase IZ  2
+Œmiesz nazywaæ tego nie dokarmionego psa wartoœciowym okazem? Powinienem kazaæ ciê dobrze wych³ostaæ za takie ¿¹dania!
+#ANIMATION 31
+#CAMERA 2 30 7 7
+#phrase Karh  3
+Z ca³ym szacunkiem, wielmo¿ny panie, nie mogê siê z tob¹ zgodziæ. Przysiêgam na wszystkich moich przodków do ósmego pokolenia wstecz, ¿e ten cz³owiek jest bardzo dobry, albo nie jestem Porucznik Kardaur!
+#ANIMATION 11
+#CAMERA 4 30 5 3
+#phrase IZ  4
+Gdzieœ mam twoje zapewnienia. Jedyne, czego potrzebujê, to porz¹dny trening dla moich ¿o³nierzy! Hej, blond szakalu! Gadaj! Chcesz prze¿yæ jeszcze parê godzin? Czy mam ciê zaszlachtowaæ w tej chwili?
+#ANIMATION 6
+#CAMERA 2 0 3 0.8
+#phrase Hero  5
+Ka¿dy jest bohaterem wobec bezbronnego wiêŸnia. Oddaj mi moj¹ broñ i zbrojê, wypuœæ i zobaczymy kto jak d³ugo po¿yje.
+#ANIMATION 32
+#CAMERA 4 30 5 3
+#phrase IZ  6
+Aha! Szczeniak pokazuje z¹bki!
+#ANIMATION 3
+#CAMERA 2 30 7 7
+#phrase Karh  7
+Zapewniam was, panie, ¿e gryŸæ te¿ potrafi!
+#ANIMATION 9
+#CAMERA 4 30 5 3
+#phrase IZ  8
+W takim razie w porz¹dku. Mo¿esz go u¿yæ, lecz pamiêtaj: jeœli wykona mniej ni¿ po³owê drogi, zajmiesz jego miejsce i nie pomo¿e ¿adne twoje skamlenie!
+#ANIMATION 15
+#CAMERA 2 -30 7 7
+#phrase Karh  9
+Tylko rozka¿, a udam siê zaraz do Kanionu Œmierci. A moje ostatnie s³owa bêd¹ s³owami mi³oœci dla ciebie, mój panie!
+#hide IZ
+#show Hero 1
+#show Karh 2
+#ANIMATION 6
+#CAMERA 2 35 6 1.5
+#phrase Karh  10
+A teraz s³uchaj uwa¿nie, ty ¿a³osne zero. Jutro z rana dostaniesz jedzenie i broñ. Potem zostaniesz wypuszczony do Kanionu Œmierci w pobli¿u g³ównej bramy po³udniowej fortecy. I do³¹czy do ciebie paru m³odych ¿o³nierzy, którzy gor¹co czekaj¹ awansu.
+#ANIMATION 9
+#CAMERA 2 -30 7 7
+#phrase Karh  11
+Twoim zadaniem bêdzie osi¹gn¹æ bramê pó³nocnej fortecy, a zadaniem ¿o³nierzy - przeszkodziæ ci w tym. Szczerze, to nie bêdzie uczciwy sport, ha ha, dodatkowo bêdziesz musia³ stawiæ czo³a paj¹kom, æwiczonym specjalnie by ³apaæ zbieg³ych wiêŸniów.
+#ANIMATION 11
+#CAMERA 2 35 6 1.5
+#phrase Karh  12
+Mo¿esz siê opieraæ, nie bêdziesz za to ukarany. Ale jeœli umrzesz przed czasem i wspania³y Aiset-Bek bêdzie niezadowolony, przyrzekam ci, ¿e zap³acê wystarczaj¹co du¿o Nekromantom, ¿eby torturowali twoj¹ duszê tak, jakby niedoœwiadczony rzeŸnik torturowa³ twoje cia³o, tylko ¿e znacznie, znacznie d³u¿ej!

@@ -1,0 +1,23 @@
+Po¿egnaj z³odzieja
+#show Hero 
+#show Merc10
+#ANIMATION 64
+#CAMERA 7
+#phrase Merc10  1
+Hej, ch³opcze, zawsze uwa¿a³am, ¿e jesteœ wyj¹tkowy! Rozmawiasz z Magami jak równy z równym. A twoja dziewczyna to prawdziwa kocica!
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  2
+Gdyby tylko by³a moja...
+#ANIMATION 65
+#CAMERA 7
+#phrase Merc10  3
+No có¿, nied³ugo twoj¹ bêdzie, porzuæ obawy! Wierz mi, ja dostrzegam takie rzeczy... lecz o radê mnie nie pytaj: musisz sam sobie wszystko wypracowaæ. A teraz pozwól, ¿e ciê opuszczê: Wielki Mag wysy³a mnie z powrotem do Suslanger! Nie chcê tu zostaæ: Ÿle bym siê czu³a, gdybym musia³a okradaæ przyjació³, a we krwi mam z³odziejski fach.
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  4
+W takim razie chyba powinniœmy powiedzieæ sobie do widzenia?
+#ANIMATION 67
+#CAMERA 7
+#phrase Merc10  5
+Nie do widzenia. ¯egnaj!

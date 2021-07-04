@@ -1,0 +1,19 @@
+Odmów towarzystwa Nayi
+#show Hero 1
+#show Merc3 2
+#ANIMATION 3
+#CAMERA 6
+#phrase Hero  1
+Przykro mi Naya, ale mam uzasadnione powody aby nie braæ ciê ze sob¹ tym razem.
+#ANIMATION 14
+#CAMERA 7
+#phrase Merc3  2
+Ja zazwyczaj nie zadajê pytañ. Ale chcia³abym wiedzieæ: czy to dlatego, ¿e nie satysfakcjonuj¹ ciê moje zdolnoœci?
+#ANIMATION 31
+#CAMERA 6
+#phrase Hero  3
+Nie mam nic przeciwko tobie. To z powodów czysto osobistych...
+#ANIMATION 15
+#CAMERA 3
+#phrase Merc3  4
+Rozumiem. Có¿, jeœli bêdziesz mnie potrzebowaæ jeszcze kiedyœ, wiesz gdzie mnie znaleŸæ!

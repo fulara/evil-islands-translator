@@ -1,0 +1,11 @@
+Przyjmij ponownie Harada do dru¿yny
+#show Hero 3
+#show Merc7 
+#CAMERA 2
+#ANIMATION 9
+#phrase Hero  1
+Dobre wieœci, Haradzie! Znowu nadszed³ twój czas!
+#CAMERA 3
+#ANIMATION 15
+#phrase Merc7  2
+Powiem ¿e to dobra wiadomoœæ dopiero gdy zobaczê krew wrogów...

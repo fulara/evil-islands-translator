@@ -1,0 +1,19 @@
+Zabierz £ucznika
+#show Hero 
+#show Merc2
+#CAMERA 3
+#ANIMATION
+#phrase Merc2  1
+Pos³uchaj Wybrañcze, wci¹¿ chcesz zabraæ mnie ze sob¹?
+#CAMERA 10
+#ANIMATION 29
+#phrase Hero  2
+Oczywiœcie, dobry strzelec zawsze siê przyda! Ale myœla³em, ¿e jesteœ zajêty, ¿e masz obowi¹zki...
+#CAMERA 11
+#ANIMATION 6
+#phrase Merc2  3
+Wszystko siê zmieni³o, teraz mogê sam o sobie decydowaæ!
+#CAMERA 6
+#ANIMATION 15
+#phrase Hero  4
+Doskonale. W takim razie czekaj na mnie przy bramach!

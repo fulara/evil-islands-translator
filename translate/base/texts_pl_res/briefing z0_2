@@ -1,0 +1,19 @@
+Poznawanie wnuczki Estery
+#show Daughter
+#show Witch
+#show Hero
+#phrase Witch  1
+Oto moja wnuczka Airy. A teraz s³uchaj mnie. Nawet nie myœl o jakichkolwiek próbach podrywania jej! Airy jest nadal bardzo m³oda i g³upiutka, broñ Bo¿e ¿eby siê w tobie zakocha³a. A my nawet nie wiemy kim naprawdê jesteœ, nieprawda¿?
+#ANIMATION 3
+#CAMERA 7
+#phrase Daughter  2
+Babciu, nie jestem dzieckiem! Czy ty kiedykolwiek zaczniesz traktowaæ mnie jak doros³¹?
+#ANIMATION 32
+#CAMERA 12
+#phrase Witch  3
+Ojej! Pod³oga nie wyczyszczona, talerze nie umyte, a ty przeszkadzasz nam w rozmowie! A teraz idŸ!
+#hide Daughter 
+#ANIMATION 7
+#CAMERA 8
+#phrase Witch  4
+Krn¹brna dziewucha, zupe³nie jak ja! A ty strze¿ siê: jeœli spróbujesz czegokolwiek z moj¹ wnuczk¹, znajdê ciê i spalê!

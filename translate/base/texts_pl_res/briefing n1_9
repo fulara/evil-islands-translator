@@ -1,0 +1,19 @@
+Przyjmij Rycerza do dru¿yny
+#show Hero 
+#show Merc9
+#ANIMATION 61
+#CAMERA 2
+#phrase Hero  1
+Eh... Szanowny Rycerzu! Pe³ni¹ szczêœcia by³oby przyj¹æ twoje towarzystwo, ale... czasami jestem zmuszony... có¿... u¿ywaæ niezbyt uczciwych metod i nie wiem jak móg³byœ na to zareagowaæ, jeœli rozumiesz co mam na myœli...
+#ANIMATION 63
+#CAMERA 3
+#phrase Merc9  2
+Mówi¹c, ¿e s³u¿ê dobru, nie powiedzia³em ¿e jestem niewinnym anio³kiem. W sztuce wojennej wszystko jest dozwolone, nawet jeœli to wojna pomiêdzy dobrem i z³em. Przysiêgam ¿e pójdê za tob¹ wszêdzie i uczyniê wszystko co bêdzie potrzebne!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  3
+Tak, ale od czasu do czasu bêdê musia³ udaæ siê do miasta!
+#ANIMATION 9
+#CAMERA 11
+#phrase Merc9  4
+Och, nie przejmuj siê tym wcale. Wewn¹trz murów miasta nie pozosta³ nikt, kto pamiêta³by moj¹ twarz!

@@ -1,0 +1,9 @@
+Przyjmij Sahiliê ponownie do dru¿yny
+#show Hero 
+#show Merc10
+#ANIMATION 45
+#phrase Hero  1
+Mia³aœ racjê: Potrzebujê twojej pomocy. Mam nadziejê, ¿e mi nie odmówisz?
+#ANIMATION 71
+#phrase Merc10  2
+A dlaczegó¿ mia³abym? Tu jest tak nudno!

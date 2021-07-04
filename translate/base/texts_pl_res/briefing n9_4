@@ -1,0 +1,14 @@
+Zabierz Eilê
+#show Hero 
+#show Merc4
+#CAMERA 3
+#phrase Merc4  1
+To niebezpieczne, a ja nie bêdê ryzykowa³a niepotrzebnie, udaj¹c siê na Piaski z takim mot³ochem!
+#ANIMATION 14
+#CAMERA 6
+#phrase Hero  2
+Jakim mot³ochem? Jest nas tylko trójka!
+#CAMERA 3
+#ANIMATION 32
+#phrase Merc4  3
+No to ze mn¹ bêdzie czwórka. A cztery osoby to dla mnie ju¿ prawdziwy t³ok!

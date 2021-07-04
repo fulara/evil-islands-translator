@@ -1,0 +1,23 @@
+Porozmawiaj z Kholai
+#show Hero 1
+#show OldNekro 2
+#ANIMATION 32
+#CAMERA 2
+#phrase Hero  1
+O, wasza wspania³oœæ! Czy by³byœ tak uprzejmy w swej, eee... przeogromnej m¹droœci, by e..., rozwa¿yæ proœbê marnego œmiertelnika? Twoja, e... znacz¹ca osoba wype³nia mnie groz¹ i podziwem!!!
+#ANIMATION 59
+#CAMERA 11
+#phrase OldNekro  2
+M³ody cz³owieku! Dobre pochlebstwo powinno byæ jak zatruty sztylet owiniêty jedwabiem... miêkki i czu³y, z zabójcz¹ trucizn¹ wewn¹trz. Obecnie tylko kilkoro ludzi mo¿e o sobie powiedzieæ, ¿e opanowa³o t¹ trudn¹ sztukê, a ty z pewnoœci¹ nie jesteœ jedn¹ z nich. Powiedz jasno: czego ode mnie chcesz?
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  3
+Muszê porozmawiaæ z duchem jednego z naukowców, których cia³a spoczywaj¹ w twoim by³ym laboratorium. W zamian jestem gotowy ofiarowaæ ci g³owê Taivo – czy to wystarczy?
+#ANIMATION 57
+#CAMERA 3
+#phrase OldNekro  4
+Sam mogê zabiæ Taivo. Nie chcê by zgin¹³, chcê by zosta³ upokorzony i zhañbiony. Chcê ujrzeæ jak traci swój stopieñ i swój urz¹d, chcê s³yszeæ jego skargi i jêki, jego ¿ebranie o monety... i wierzê, ¿e jesteœ w stanie  pomóc mi to osi¹gn¹æ, m³ody cz³owieku.
+#ANIMATION 59
+#CAMERA 11
+#phrase OldNekro  5
+Chcê aby cia³o, lub co najmniej g³owa jednego z cia³, zniknê³a z laboratorium i pojawi³a siê w moim obejœciu. Bêdziesz mia³ swoj¹ pogawêdkê z duchem, a ja... Oh, jakie doniesienia napiszê o Taivo, jakie plotki bêd¹ o nim kr¹¿yæ! Po¿a³uje dnia, w którym zdecydowa³ siê wyst¹piæ przeciwko mnie!

@@ -1,0 +1,46 @@
+Porozmawiaj ze œlepym
+#show Hero
+#show Guru
+#show Glav
+#ANIMATION 3
+#CAMERA 5
+#phrase Glav  1
+Bracie Œlepcu! Przyby³em omówiæ z tob¹ powa¿n¹ sprawê.
+#ANIMATION 32
+#CAMERA 3
+#phrase Guru  2
+B¹dŸ b³ogos³awiony œwiat³em, którego ja zosta³em pozbawiony! Co mogê dla ciebie uczyniæ Bracie Blondynie?
+#ANIMATION 45
+#CAMERA 2
+#phrase Hero  3
+Sk¹d wiesz ¿e ja tu by³em? I sk¹d wiesz, ¿e czegoœ potrzebujê?
+#ANIMATION 6
+#CAMERA 3
+#phrase Guru  4
+Jestem œlepy, nie g³uchy. I jeszcze nie postrada³em zmys³ów.
+#ANIMATION 44
+#CAMERA 4
+#phrase Glav  5
+Brat Œlepiec zdo³a us³yszeæ szczura wychodz¹cego ze swej nory daleko na koñcu jaskini! A jeœliby mia³ kuszê, trafi³by go za pierwszym razem!
+#ANIMATION 31
+#CAMERA 3
+#phrase Guru  6
+Mi³o z twej strony, ¿e tak mówisz, lecz ja na ogó³ nie strzelam do szczurów. S¹ wiêksze i szczytniejsze cele. Tak wiêc czego chcesz od biednego œlepego cz³owieka?
+#ANIMATION 8
+#CAMERA 8
+#phrase Glav  7
+By³eœ doskona³ym nauczycielem dla wielu ludzi tu, w Ostatniej Kryjówce. Czy móg³byœ tak¿e czegoœ nauczyæ Brata Blondyna?
+#hide Glav
+#ANIMATION 11
+#CAMERA 3
+#phrase Guru  8
+He-he! Tutaj, w Ostatniej Kryjówce, ka¿dy powinien wype³niaæ polecenia Brata Khatula szybciej ni¿ rozkazy Sier¿anta w Stra¿y Cesarza! Czy chcia³byœ zwiêkszyæ swoj¹ sprawnoœæ, Blondynie?
+#DESC A bit nastily but on the whole clearly approves
+#ANIMATION 14
+#CAMERA 2
+#phrase Hero  9
+Tak, bardzo chêtnie! Lecz czy da siê to szybko zrobiæ?
+#ANIMATION 9
+#CAMERA 9
+#phrase Guru  10
+Nigdy nie obiecujê rzeczy niemo¿liwych. Sam siê przekonasz!

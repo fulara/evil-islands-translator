@@ -1,0 +1,32 @@
+O znaleziskach w Obserwatorium
+#show Witch 3
+#show Hero 4
+#show DCBook 4
+#ANIMATION 63
+#CAMERA 9
+#phrase Witch  1
+Przyjrza³am siê twoim znaleziskom... naprawdê jesteœ szczêœciarzem, wiesz! Jeœli jesteœ zwyk³ym cz³owiekiem, to cud, a mo¿e rzeczywiœcie jest w tobie trochê Wybrañca?
+#hide DCBook
+#show DCBook 5
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  2
+W porz¹dku, w porz¹dku, bez pochlebstw, powiedz mi tylko co jest w tej ksi¹¿ce!
+#ANIMATION 9
+#CAMERA 11
+#phrase Witch  3
+Dobrze, teraz s³uchaj, s³odziutki. Istnieje tajne przejœcie do miasta, jakby w¹ski korytarz w górze. Zaczyna siê na po³udnie od bramy. Aby wejœæ, musisz powiedzieæ "Valir i Cania!".
+#ANIMATION 45
+#CAMERA 6
+#phrase Hero  4
+A co to znaczy?
+#ANIMATION 61
+#CAMERA 7
+#phrase Witch  5
+Nie mam pojêcia co to znaczy, ale brzmi imponuj¹co. Nastêpna sprawa: jeœli to ja by³abym mistrzem Umar³ego Miasta, za³o¿y³abym je na szczycie Samotnej Góry. Widaæ j¹ z tego miejsca, nie mo¿esz jej nie zauwa¿yæ. To tam musisz siê udaæ.
+#hide DCBook
+#show DCBook 4
+#ANIMATION 31
+#CAMERA 9
+#phrase Witch  6
+Có¿, powodzenia! A kiedy spotkasz tego starego mê¿czyznê, b¹dŸ uprzejmy! Mo¿esz byæ zuchwa³y wobec starych, bezu¿ytecznych ropuch jak ja, ale Magów musisz traktowaæ powa¿nie i z szacunkiem!

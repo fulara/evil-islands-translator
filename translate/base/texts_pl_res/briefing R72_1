@@ -1,0 +1,35 @@
+O amulecie teleportu
+#show Hero
+#show Rick
+#CAMERA 9
+#ANIMATION 6
+#phrase Rick  1
+A teraz, jeœli jesteœ gotowy by kontynuowaæ zadanie, daj mi proszê strzêpki teleportuj¹cego amuletu, które znalaz³eœ w Suslanger.
+#show BrokenToy 5
+#CAMERA 3
+#ANIMATION 2
+#phrase Rick  2
+Teraz b¹dŸ cicho przez chwilê, muszê us³yszeæ co te strzêpki mówi¹...
+#CAMERA 11
+#phrase Rick  3
+Co?! To niewiarygodne...
+#DESC (Amazed)
+#ANIMATION 3
+#CAMERA 10
+#phrase Hero  4
+Co siê sta³o?
+#hide BrokenToy
+#CAMERA 7
+#ANIMATION 6
+#phrase Rick  5
+Teleport by³ skierowany tutaj, do Gipath! Ale ka¿dy kto tu przyby³ ostatnio trafi³ tu poprzez stary Portal, tylko jedna osoba przyby³a tu inaczej, a t¹ osob¹ by³eœ ty!
+#DESC (As if he cannot believe himself)
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  6
+Zaczekaj... Czy to znaczy, ¿e... nie! Przecie¿ to niemo¿liwe! Ja jestem mn¹!
+#DESC (Almost frightened)
+#CAMERA 9
+#ANIMATION 4
+#phrase Rick  7
+Tak, ty jesteœ tob¹. Do widzenia, Zak. Witaj w Gipath, At-Zako!

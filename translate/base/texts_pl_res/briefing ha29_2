@@ -1,0 +1,16 @@
+Porozmawiaj z Jaszczurem
+#show Hero 1
+#show OLIZ 2
+#CAMERA 5
+#phrase OLIZ  1
+Cz³owieku, mogê ciê uwolniæ.
+#ANIMATION 32
+#CAMERA 2
+#phrase Hero  2
+S³ucham? Ty mo¿esz mówiæ? Kim i dlaczego tu jesteœ?
+#CAMERA 5
+#phrase OLIZ  3
+Zadajesz zbyt wiele pytañ, cz³owieku. Na jedno odpowiem ci teraz: zw¹ mnie Hermit. Na resztê pytañ tak¿e otrzymasz odpowiedzi. PóŸniej. Mogê ciê uwolniæ i podarowaæ Staro¿ytny Szpon. Musisz daæ s³owo, ¿e przyjdziesz to mojego domu. Tam porozmawiamy.
+#CAMERA 5
+#phrase OLIZ  4
+Pomyœl nad tym. Przyjdê póŸniej.

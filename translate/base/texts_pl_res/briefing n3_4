@@ -1,0 +1,15 @@
+Przyjmij ponownie Eilê
+#show Hero 
+#show Merc4
+#CAMERA 3
+#ANIMATION 45
+#phrase Merc4  1
+Czy nadal ¿yczysz sobie, ¿ebym zosta³a w osadzie?
+#CAMERA 6
+#ANIMATION 15
+#phrase Hero  2
+Z drugiej jednak strony potrzebujê twojej magii!
+#CAMERA 3
+#ANIMATION 3
+#phrase Merc4  3
+No wiêc w czym problem? Jestem chêtna i gotowa!

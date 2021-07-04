@@ -1,0 +1,21 @@
+Starzec to zdrajca!
+#show NSheriff
+#show Hero
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  1
+Pos³uchaj, chcia³em z tob¹ omówiæ bardzo istotn¹ sprawê. Przypuœæmy, ¿e poprosi³bym ciê o jedn¹ rzecz, a Starszy o coœ zupe³nie innego - co byœ uczyni³?
+#DESC Quietly, very seriously
+#ANIMATION 9
+#CAMERA 3
+#phrase Nsheriff  2
+To proste pytanie. Jesteœ Wybrañcem i, jak na razie, wszystko robisz dobrze. Starszy? Wed³ug mnie jest trochê dziwny. Albo trzyma z Rozbójnikami, albo ma jakieœ ciemne interesy zwi¹zane ze skradzionym z³otem, albo te¿ jego Kapitan jest zdrajc¹. Nie do koñca mu ufam. Albo... czy powiedzia³em coœ nie tak?
+#DESC Still quietly and seriously. At the end a bit frightened: what if he said something stupid? After it is the Elder, such an important man...
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  3
+Ale¿ nie, wszystko w porz¹dku. W koñcu widzê, ¿e to ten Starszy chcia³ mnie niejednokrotnie zniszczyæ. Ale teraz rozpocznê z nim otwart¹ walkê.
+#ANIMATION 6
+#CAMERA 9
+#phrase Nsheriff  4
+Rozumiem... Myœla³em, ¿e coœ by³o nie tak w naszej wiosce! Nie martw siê, Wybrañcze. Jestem po twojej stronie, mo¿esz liczyæ na mnie i moich ludzi!

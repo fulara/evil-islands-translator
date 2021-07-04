@@ -1,0 +1,20 @@
+O strza³ce, która zabi³a Snoopa
+#show Hero 3
+#show YCF 5
+#ANIMATION 63
+#CAMERA 2
+#phrase Hero  1
+Co siê sta³o? Czemu jesteœ tu sam? Mia³em nadziejê, ¿e dotrê do sedna tajemnicy Snoopa... Widzisz, odkry³em, ¿e morderca nie jest jednym z Ludzi Lasu, ale cz³owiekiem, który dzia³a³ z czyjegoœ rozkazu. Dlatego, teraz muszê dowiedzieæ siê, kto wyda³ ten rozkaz!
+#ANIMATION 62
+#CAMERA 10
+#phrase Hero  2
+Wygl¹da na to, ¿e Ludzie Lasu maj¹ pewne informacje, które s¹ niebezpieczne dla tego ³ajdaka, wiêc wszystko zosta³o ustawione, tak by ca³a wina spad³a na ciebie. Ale gdzie s¹ twoi ludzie? Gdzie oni poszli?
+#CAMERA 3
+#phrase YCF  5
+Poszliœmy na wschód sekretn¹ œcie¿k¹. Trzyma³em siê z ty³u, ¿eby ci o tym powiedzieæ, poniewa¿ bramy do œcie¿ki powinny byæ dla ciebie otwarte.
+#CAMERA 11
+#phrase YCF  6
+Udaj siê na wschód, otwórz bramê i wejdŸ do labiryntu pomiêdzy wzgórzami. PrzejdŸ przez labirynt, otwórz nastêpn¹ bramê i wejdŸ w górzyste doliny. Dawno, dawno temu ¿yli tam - Magowie, którzy wynajdywali nowe zaklêcia wojenne, ale ju¿ dawno opuœcili tamten teren. Tak jak powódŸ zostawia po sobie b³oto i odpadki, tak oni zostawili ruiny i œlady po ich œmiertelnej magii w tych górzystych dolinach.
+#CAMERA 3
+#phrase YCF  7
+Ale Zielony Klan zdo³a³ kontrolowaæ tê magiê i zrobiæ z niej dobry u¿ytek. IdŸ wzd³u¿ po³udniowej œciany dolin i u¿yj naszego o³tarza: magiczna pu³apka powstrzyma dzikie tygrysy, byœ móg³ pod¹¿aæ na po³udniowy-wschód, do nowej rezydencji Zielonego Klanu.

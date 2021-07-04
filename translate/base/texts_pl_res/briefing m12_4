@@ -1,0 +1,11 @@
+O nowej wyprawie przeciwko Goblinom
+#show Smith 1
+#show Hero 2
+#ANIMATION 3
+#CAMERA 5
+#phrase Hero  1
+Baburze, pos³uchaj! Gort i Erfar poprosili mnie o udzia³ w zasadzce na Goblinów, któr¹ planuj¹ wraz z Rozbójnikami. Co o tym s¹dzisz?
+#ANIMATION 8
+#CAMERA 3
+#phrase Smith  2
+Wiesz, Wybrañcze, ja wolê siê w to nie wdawaæ. Mówi³eœ, ¿e Starszy i Kapitan uknuli wszystko? Tak wiêc ich zapytaj. A ja ci daje tylko jedn¹ radê... nie ufaj im, cokolwiek powiedz¹.

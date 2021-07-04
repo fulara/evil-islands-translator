@@ -1,0 +1,45 @@
+O nowej wyprawie przeciwko Goblinom
+#show Hero
+#show Sheriff
+#show Elder
+#ANIMATION 9
+#phrase Elder  1
+Z powodu œmierci Czerwonog³owego Wolni Myœliwi s¹ bardzo na ciebie Ÿli, Wybrañcze, lecz uda³o mi siê wyt³umaczyæ im, ¿e dzia³a³eœ w jak najlepszej intencji. A oni, aby okazaæ sw¹ dobr¹ wolê, powiedzieli, ¿e Gobliny planuj¹ kolejny najazd. Zgodziliœmy siê, ¿e Wolni Myœliwi i ¿o³nierze Gorta uderz¹ na Gobliny pierwsi. By³bym wdziêczny gdyby i Wybraniec wzi¹³ udzia³ w tym przedsiêwziêciu.
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2 0 2.2 2
+#phrase Hero  2
+Czy kiedykolwiek ktoœ mnie zapyta co chcia³bym zrobiæ? Ale dobrze, mogê to uczyniæ - Gobliny nie przera¿aj¹ mnie tak bardzo.
+#DESC To himself
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  3
+Dobrze, zrobiê to.
+#ANIMATION 32
+#CAMERA 4
+#phrase Sheriff  4
+Cudownie! Podczas naszej rozmowy Gobliny zbiera³y siê na zachodnim skraju bagien, obok rzecznych pagóreczków. Lecz najpierw musisz zobaczyæ siê z porucznikiem Wodza. Czeka on na ciebie tam gdzie zaczyna siê droga na bagna.
+#ANIMATION 45
+#CAMERA 10
+#phrase Hero  6
+Sam?
+#ANIMATION 29
+#CAMERA 7
+#phrase Sheriff  7
+Oczywiœcie! I bez broni! Inni bêd¹ os³aniali dojœcie do miejsca spotkania. Prawdopodobnie ju¿ wiesz, jak okrutne to s¹ ziemie, wiêc ludzie zachowaj¹ wszelkie œrodki ostro¿noœci. Kiedy dotrzesz na miejsce, bêdzie tam niez³a balanga!
+#ANIMATION 15
+#CAMERA 9
+#phrase Elder  8
+Ale nie mów o tym Baburowi. Mo¿esz siê z nim przyjaŸniæ, lecz pamiêtaj, ¿e zrobi on wszystko dla pieniêdzy!
+#ANIMATION 7
+#NOLIPS
+#CAMERA 2 0 2.2 2
+#phrase Hero  9
+Nie podoba mi siê to wszystko... Mogê nawet wskazaæ, co jest nie tak... Rozbójnicy jakoœ zbyt szybko mi wybaczyli! Z drugiej strony, mo¿e Starzec rzeczywiœcie doszed³ z nimi do porozumienia? Jego s³owa mog³yby os³odziæ nawet oddech ropuchy!
+#DESC To himself
+#ANIMATION 30
+#NOLIPS
+#CAMERA 2 0 2.2 2
+#phrase Hero  10
+Jak powiadaj¹, proste jak drut w kieszeni. Tak wiêc powinienem na siebie uwa¿aæ!
+#DESC To himself

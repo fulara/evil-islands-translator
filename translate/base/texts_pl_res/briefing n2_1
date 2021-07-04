@@ -1,0 +1,15 @@
+Zostaw Rowdy'ego w wiosce
+#show Hero 1
+#show Merc1 2
+#ANIMATION 9
+#phrase Hero  1
+Przykro mi, ale tym razem potrzebujê ciê tutaj.
+#ANIMATION 45
+#phrase Merc1  2
+A to dlaczego?
+#ANIMATION 45
+#phrase Hero  3
+Taka jest moja decyzja. Czy to ci nie wystarcza?
+#ANIMATION 15
+#phrase Merc1  4
+Oczywiœcie... Ale jeœli bêdê potrzebny, znajdziesz mnie w wiosce!

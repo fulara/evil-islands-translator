@@ -1,0 +1,7 @@
+     Mo¿esz zaczarowaæ przedmioty takie jak zbroje czy broñ ¿eby nadaæ im w³aœciwoœci magiczne. ¯eby to uczyniæ, czar musi zawieraæ runê, która na to pozwoli. Takie runy nazywane s¹ "Przedmiot (wyzwalacz)" i "Przedmiot (kontynuacja)". Stan¹ siê dostêpne dla ciebie póŸniej w grze.
+     Gwoli œcis³oœci: nie musisz posiadaæ takiej runy, ¿eby z³o¿yæ ró¿d¿kê, zawieraj¹c¹ czary.
+W konstruktorze jest specjalne miejsce na czary "umieszczalne", po³o¿one poni¿ej miejsca na plany. Miejsce to bêdzie dostêpne po umieszczeniu planu i niezbêdnej iloœci materia³ów w konstruktorze. Aby umieœciæ tam czar z inwentarza, po prostu kliknij na jego obrazku.
+
+     Aby z³o¿yæ przedmiot, u¿yj przycisku <V>, aby anulowaæ - <X>.
+
+     Uwaga: zarówno zaklêcie, jak i przedmiot, który chcesz zaczarowaæ, posiadaj¹ parametr okreœlaj¹cy stopieñ komplikacji. Taka wartoœæ w przedmiocie musi byæ wy¿sza ni¿ w zaklêciu. W koñcu nie ma sensu zaklinaæ prostego przedmiotu czarem zbyt z³o¿onym. Podobnie, nie mo¿esz zaklinaæ przedmiotu, posiadaj¹cego nisk¹ wartoœæ "energii" czarem wymagaj¹cym wysokiego "wigoru".

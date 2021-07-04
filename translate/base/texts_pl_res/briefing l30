@@ -1,0 +1,63 @@
+Dowiedz siê, czego chce Jaszczur
+#show OLIZ 1
+#show Hero 2
+#CAMERA 9
+#phrase OLIZ  1
+Przyszed³eœ, cz³owieku. To dobrze.
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  2
+Czy to wszystko, co chcia³eœ mi powiedzieæ?
+#CAMERA 3
+#phrase OLIZ  3
+Jesteœ taki pospieszny. Pamiêtam twoje pytania i odpowiem na nie. Przyszed³em do ludzi, którzy wdziewaj¹ ¿elazo, by zawrzeæ umowê. Ale  zobaczy³em co z tob¹ zrobili. Oni nie dotrzymuj¹ s³owa, wiêc ju¿ im nie wierzê. Ty dotrzyma³eœ s³owa. Wiêc dam ci propozycjê.
+#CAMERA 11 10 5 2
+#phrase OLIZ  4
+Ludzie lubi¹ z³oto. Jaszczury nie s¹ zainteresowane z³otem. Wype³nij misjê, a otrzymasz ode mnie ca³e z³oto, jakie mam. A ja mam du¿o z³ota.
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  5
+Hmmm... z³oto... nie wyrz¹dzi mi ¿adnej krzywdy, jak s¹dzê... 
+#DESC (Reflecting, not very interested)
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  6
+Ale wola³bym, ¿ebyœ mi pomóg³ znaleŸæ dom starego Czarodzieja, którego szukam od tak dawna. Jaszczury s¹ przecie¿ staro¿ytn¹ ras¹, pomyœla³em, ¿e mo¿esz mieæ te informacje.
+#CAMERA 9
+#phrase OLIZ  7
+Masz racjê. Jaszczury s¹ staro¿ytn¹ ras¹. Mogê zebraæ ca³¹ wiedzê jak¹ mamy o tym starcu. Zgadzasz siê wype³niæ moj¹ misjê?
+#ANIMATION 3
+#CAMERA 10 -20 5 2
+#phrase Hero  8
+Ale¿ oczywiœcie! Masz to za³atwione.
+#CAMERA 11 10 5 2
+#phrase OLIZ  9
+Za³atwione? Próbujesz mnie oszukaæ?
+#DESC (Seriously)
+#ANIMATION 9
+#CAMERA 5
+#phrase Hero  10
+Tak naprawdê, to chcia³em ci zrobiæ kawa³, bo jesteœ taki powa¿ny.
+#CAMERA 9
+#phrase Oliz  11
+Teraz rozumiem. To by³ kawa³. Byæ mo¿e ja te¿ ci zrobiê kawa³. PóŸniej. Ale teraz przywróæ wodê w Kanale. Orki ukrad³y nasz¹ wodê.
+#CAMERA 7
+#show DumbLever 7
+#phrase Oliz  12
+IdŸ na po³udnie wzd³u¿ wody. Ujrzysz tamê i kana³. Musisz podnieœæ tamê. DŸwigni¹. Dam ci j¹. Musisz zablokowaæ kana³. Kamieniem. Kamienia ci nie dam. Ju¿ tam jest - na brzegu kana³u. W górê rzeki od tamy. Kamieñ jest ciê¿ki. Kiedy Orki tam kopa³y, wiele czasu poœwiêci³y na podniesienie go. Popchnij go, a sam spadnie.
+#CAMERA 11 10 5 2
+#phrase Oliz  13
+Po wszystkim wróæ do mnie. Powiem ci wszystko co znajdê o sêdziwym Czarowniku.
+#ANIMATION 15
+#CAMERA 10 -20 5 2
+#hide DumbLever
+#phrase Hero  14
+Zgoda! Jeœli, przy okazji, dorzucisz do opowieœci kilka monet, wcale siê nie obra¿ê. 
+#CAMERA 9
+#phrase Oliz  15
+Po monety idŸ do moich Jaszczurzych przyjació³, którzy ¿yj¹ na p³yciznach, dalej na po³udnie. PrzejdŸ na najodleglejsz¹ wyspê, trzeci¹. Skarb bêdzie twój!
+#nolips
+#CAMERA 11 10 5 2
+#phrase OLIZ  16
+Dziwne. Ten cz³owiek lubi humor. Zrobi³em kawa³. Cz³owiek siê nie œmia³. Bardzo dziwne.
+#DESC To himself

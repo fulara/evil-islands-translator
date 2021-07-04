@@ -1,0 +1,15 @@
+Przyjmij Fairakha do dru¿yny
+#show Hero 
+#show Merc8
+#ANIMATION 45
+#phrase Merc8  1
+Nie dokoñczyliœmy chyba ostatnio naszej rozmowy, wiêc chcia³em zapytaæ ponownie... czy ¿yczysz sobie pomocy Maga?
+#ANIMATION 15
+#phrase Hero  2
+O tak, powiedzia³bym ¿e bardzo! Lecz tylko jeœli obiecasz, ¿e nie bêdzie ¿adnej nieusprawiedliwionej przemocy.
+#ANIMATION 9
+#phrase Merc8  3
+Oczywiœcie, ¿e nie. Z twoimi wrogami uczyniê co w mojej mocy, lecz dopiero kiedy mi ka¿esz. Natomiast, jeœli zdarzy nam siê natrafiæ na moich w³asnych nieprzyjació³, poznasz co to przemoc!
+#ANIMATION 15
+#phrase Hero  4
+W porz¹dku, chodŸ wiêc ze mn¹. Lecz lepiej dla nas obu jeœli mo¿esz dotrzymaæ s³owa.

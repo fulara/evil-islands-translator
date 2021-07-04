@@ -1,0 +1,12 @@
+Zapytaj o znaleziony papier ponownie
+#show Elder 3
+#show CodedHadaganNote 4
+#show Hero 5
+#ANIMATION 45
+#CAMERA 1
+#phrase Hero  1
+Przet³umaczy³eœ ju¿ papiery, o który ciê prosi³em?
+#ANIMATION 32
+#CAMERA 9
+#phrase Elder  2
+Wybacz Wybrañcze, nie mia³em na to czasu. Wiesz jak trudn¹ mamy teraz sytuacjê, zarówno w wiosce jak i wokó³ niej.

@@ -1,0 +1,15 @@
+Spróbuj zawrzeæ umowê
+#show Hero 1
+#show HWLeader 2
+#ANIMATION 8
+#CAMERA 5
+#phrase HWLeader  1
+Czego chcesz, niegodziwcze?
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  2
+Dobrze, kiedy by³em ze œwiniami, ujrza³em cz³owieka - jednego z twoich ludzi. Nosi³ okulary. Czy mnie wypuœcisz, jeœli powiem, gdzie mo¿na go znaleŸæ?
+#ANIMATION 3
+#CAMERA 5
+#phrase HWLeader  3
+Naprawdê jesteœ g³upcem, czy¿ nie? Czemu myœlisz, ¿e potrzebuje jakiegoœ marnego urzêdnika? Zamknij siê i siedŸ cicho, jeœli nie chcesz, by moi ludzie zajêli siê tob¹ od zaraz!

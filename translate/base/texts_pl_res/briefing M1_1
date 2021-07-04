@@ -1,0 +1,25 @@
+Wiêcej o kradzie¿y
+#show Hero 1
+#show Smith 2
+#phrase Hero  1
+Widzê ¿e jesteœ bardzo oszczêdny. Gdyby ukradli ci ostatni grosz zrozumia³bym twoj¹ z³oœæ, ale nie wygl¹dasz mi na biednego cz³owieka!
+#ANIMATION 45
+#CAMERA 11
+#phrase Smith  2
+Có¿, ostatni grosz czy nie, nie mogê byæ szczêœliwy kiedy mnie okradaj¹, prawda? I po drugie, myœla³em, ¿e to ju¿ wyjaœni³em: nie chodzi o pieni¹dze, sêk w tym, ¿e ukradli mój szpikulec i d³uto!
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  3
+To wszystko? A myœla³em ¿e to coœ powa¿nego! O rety naprawdê wielka strata - nó¿ i skrobak!
+#ANIMATION 9
+#CAMERA 7
+#phrase Smith  4
+Tak, widzê jakim mistrzem jesteœ w rzemioœle. To by³y ¿elazne narzêdzia! Nie da siê ich tak ³atwo zast¹piæ, rozumiesz? Teraz ta gruba Przywódczyni u¿ywa mojego szpikulca do naprawy butów, a Wódz trzyma d³uto!
+#ANIMATION 44
+#CAMERA 11
+#phrase Smith  5
+Samemu nigdy bym siê nie przedosta³ do ich obozowiska. Bezpoœrednia droga do podgórza jest strze¿ona przez Rozbójników. Jeœli zaœ spróbujesz pójœæ inn¹ drog¹, przez bród w górze rzeki, ¿aby ca³ego opluj¹ ciê trucizn¹.
+#ANIMATION 8
+#CAMERA 2 -30 5 3
+#phrase Hero  6
+Có¿, nie obawiam siê ¿ab... W porz¹dku, Babur no¿e zobaczysz jeszcze kiedyœ swoje metalowe zabawki!

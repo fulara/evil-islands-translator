@@ -1,0 +1,52 @@
+Ucieczka
+#show Hero 1
+#show OLIZ 2
+#CAMERA 5
+#phrase OLIZ  1
+Namyœli³eœ siê? Chcesz, ¿ebym ci pomóg³ w ucieczce?
+#CAMERA 2
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  2
+Czy on sobie ¿artuje? Oni zamierzaj¹ mnie torturowaæ, a on siê mnie pyta czy chce uciec!
+#DESC (Exclaims to himself)
+#ANIMATION 29
+#CAMERA 2
+#phrase Hero  3
+Tak, oczywiœcie, zgadzam siê! Tylko pomó¿ mi siê stad wydostaæ, najszybciej jak to tylko mo¿liwe!
+#DESC (Trying to speak calmly but failing)
+#CAMERA 5
+#phrase OLIZ  4
+Nie da³eœ mi s³owa.
+#CAMERA 2
+#ANIMATION 30
+#NOLIPS
+#phrase Hero  5
+Móg³bym daæ nawet dziesiêæ s³ów - ¿eby tylko siê st¹d wydostaæ, im szybciej tym lepiej.
+#DESC (Exclaims to himself)
+#ANIMATION 31
+#CAMERA 2
+#phrase Hero  6
+Daje s³owo, ¿e przyjdê do ciebie. Wiêc? Czy teraz mnie uwolnisz?
+#DESC (Makes the promise evenly and calmly; then speaks resignedly)
+#CAMERA 5
+#phrase OLIZ  7
+Mój dom znajdziesz na pó³nocny-zachód od miejsca zwanego Piaski. ¯eby siê tam dostaæ, bêdziesz musia³ przemierzyæ ziemie z pó³nocy do po³udnia, tam gdzie znajduje siê Umar³e Miasto, stamt¹d wejdziesz na Piaski. Zapamiêta³eœ wszystko?
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  8
+Tak. Mam nadziejê, ¿e nie bêdê musia³ wchodziæ do samego miasta?
+#CAMERA 5
+#phrase OLIZ  9
+Nie. Idziesz z pó³nocy na po³udnie i wkraczasz na Piaski. Udaj siê na pó³nocny-zachód tamtego obszaru. Zanim dotrzesz do mojego domu, ujrzysz pierœcieñ wody i wyspê. Na wyspie znajduj¹ siê kamienne filary. To pu³apka. Dam ci Staro¿ytny Szpon, którym prawdopodobnie bêdziesz móg³ kontrolowaæ pu³apkê.
+#ANIMATION 3
+#CAMERA 2
+#phrase Hero  10
+Hej, zaczekaj chwilê! Co rozumiesz przez "prawdopodobnie"? Chcesz powiedzieæ, ¿e mo¿e mi siê nie udaæ? Co siê wtedy stanie?
+#CAMERA 5
+#phrase OLIZ  11
+Wtedy nie bêdê móg³ z tob¹ porozmawiaæ. By³oby lepiej gdybyœ pokona³ pu³apkê. Zgadzasz siê?
+#ANIMATION 8
+#CAMERA 2
+#phrase Hero  12
+Bez sprzeciwu... a teraz daj mi ten szpon i wypuœæ mnie st¹d!

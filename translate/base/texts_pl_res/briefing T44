@@ -1,0 +1,51 @@
+Jak naciskaæ Karansula
+#show Hero 1
+#show Trapper 2
+#ANIMATION 63
+#CAMERA 11
+#phrase Trapper  1
+M³odzianie, pomog³eœ mi, a teraz ja zrobiê, co obieca³em. Otrzymasz czêœæ moich zysków i opowiem ci, co wiem. Karansul jest okropnie bogaty. Nawet sobie nie wyobra¿asz jak bardzo.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  2
+Sk¹d czerpie te wszystkie bogactwa?
+#ANIMATION 61
+#CAMERA 3
+#phrase Trapper  3
+¯adnych niespodzianek! Jest w³aœcicielem kopalni, m³ynów, tartaków, lista jest d³uga... i p³aci tylko jedn¹ dziesi¹t¹ nale¿nych podatków. Zarabia du¿o pieniêdzy, sprzedaje bezpoœrednio do stolicy, Gubernator nic z tego nie dostaje - powiem ci coœ w zaufaniu. 
+#ANIMATION 44
+#CAMERA 11
+#phrase Trapper  5
+Gubernator ufa Karansulowi. On wie, jak uprzejmie rozmawiaæ i czasami obdarowuje Gubernatora przedmiotami do jego kolekcji. Ale nikt nigdy nie przegl¹da³ jego ksiêgi handlowej. 
+#ANIMATION 32
+#CAMERA 2
+#phrase Hero  6
+Twierdzisz, ¿e brak dowodów oznacza brak przestêpstwa, tak?
+#ANIMATION 63
+#CAMERA 11
+#phrase Trapper  7
+W³aœnie tak. Jedno spojrzenie na jego konto i od razu zauwa¿ysz, ¿e wiêkszoœæ transakcji jest nielegalna... niestety Karansul ma swoj¹ przyboczn¹ stra¿. M³odzieñcze, mo¿esz to sprawdziæ, ale i tak nic nie poradzisz.
+#ANIMATION 15
+#CAMERA 2
+#phrase Hero  8
+Ale mogê spróbowaæ?
+#ANIMATION 63
+#CAMERA 3
+#phrase Trapper  9
+Nadstaw uszu! Nadzorca kopalni nosi ze sob¹ ksiêgê ze wszystkimi zapiskami. Kopalnie i tartaki Karansula znajduj¹ siê nieopodal jeziora. Na pó³nocnym brzegu s¹ dwa wa¿ne budynki - dom nadzorcy i mechaniczna szlifierka. Ta maszyna wiele go kosztowa³a, to naprawdê m¹dre urz¹dzenie.
+#ANIMATION 61
+#CAMERA 11
+#phrase Trapper  11
+Ale nie o to dok³adnie chodzi. Rozpoznasz dom nadzorcy po dwóch krótkich kominach na dachu. Tylko najpierw siê upewnij, czy nie pomyli³eœ budynku z kantyn¹ Stra¿y, ona te¿ ma dwa kominy, tyle ¿e d³u¿sze.
+#ANIMATION 63
+#CAMERA 3
+#phrase Trapper  12
+I jeszcze dwie sprawy: po pierwsze, zapytaj Kapitana o interesy Karansula. Wstaw mu jak¹œ bajeczkê, ¿e nie masz ju¿ ¿adnych pieniêdzy i szukasz pracy. Mo¿e uda ci siê coœ z niego wycisn¹æ! Po drugie, znajdŸ w mieœcie cz³owieka o imieniu Trickster i pozdrów go ode mnie.
+#ANIMATION 11
+#CAMERA 2
+#phrase Hero  13
+I co potem?
+#ANIMATION 62
+#CAMERA 3
+#phrase Trapper  14
+Dok³adnie nie wiem. Widzisz, Trickster jest z³odziejem, ale w gruncie rzeczy to dobry ch³op. Mo¿e da ci jak¹œ radê, zdradzi kilka tajemnic ... tylko mu powiedz, ¿e ja ciê przysy³am.

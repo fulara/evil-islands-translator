@@ -1,0 +1,9 @@
+Przyjmij ponownie Fairakha
+#show Hero 3
+#show Merc8 5
+#ANIMATION 45
+#phrase Hero  1
+Bracie Fairakh, czy teraz mo¿esz siê ze mn¹ udaæ? Nasi wrogowie prawdopodobnie s¹ znudzeni brakiem twojej magii!
+#ANIMATION 15
+#phrase Merc8  2
+Ja sam siê trochê nudzê! Oczywiœcie, ju¿ jestem gotów ci towarzyszyæ.

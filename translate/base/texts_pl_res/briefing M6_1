@@ -1,0 +1,43 @@
+O wizycie z³o¿onej WiedŸmie
+#show Hero 
+#show Smith 
+#ANIMATION 31
+#CAMERA 9
+#phrase Smith  1
+Ech... Przepraszam, czy jakiœ czasu temu nie wspominaliœmy o pieni¹dzach za Odrobinê Magii?
+#ANIMATION 29
+#CAMERA 10
+#phrase Hero  2
+Tak rozmawialiœmy. Jeœli dobrze pamiêtam chcia³eœ po³owê lub coœ oko³o tego?
+#ANIMATION 15
+#CAMERA 11
+#phrase Smith  4
+To prawda, chcia³em. I nadal chcê.
+#ANIMATION 32
+#CAMERA 6
+#phrase Hero  5
+A wiêc weŸ to!
+#ANIMATION 5
+#CAMERA 7
+#phrase Smith  6
+Wzi¹æ co? Niczego mi jeszcze nie zaoferowa³eœ!
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  7
+W³aœnie! To dok³adnie po³owa sumy któr¹ otrzyma³em od WiedŸmy.
+#ANIMATION 3
+#CAMERA 11
+#phrase Smith  8
+Coooo? Nie zap³aci³a? To stara WiedŸma, nikczemna kobieta!
+#DESC Amazed, nastily
+#ANIMATION 14
+#CAMERA 9
+#phrase Smith  9
+A ty ... Masz mózg ¿aby, ³agodnie mówi¹c. A to tak¿e moja wina: wypuœci³em z r¹k tak kosztowny przedmiot! Teraz mogê poca³owaæ pieni¹dze na do widzenia!
+#DESC At first defiantly, after "you" a pause - he wanted to say something else but reconsidered just in time. After that talks darkly, admitting his own fault.
+#nolips
+#ANIMATION 30
+#CAMERA 2 0 2.2 2
+#phrase Hero  10
+Tak, tak, zapomnij o tym. Nigdy byœ nie zrozumia³ co dostanê w zamian za t¹ rzecz!
+#DESC To himself, mockingly. Accent on "what"

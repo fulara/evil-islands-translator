@@ -1,0 +1,19 @@
+O bogatej twierdzy
+#show Hero 1
+#show Merc10 2
+#ANIMATION 61
+#CAMERA 11
+#phrase Merc10  1
+A niech mnie! Taki przystojny m³odzieniec i wszystko na nic... co za strata...
+#ANIMATION 14
+#CAMERA 10
+#phrase Hero  2
+Co? Ja, straszny?
+#ANIMATION 45
+#CAMERA 3
+#phrase Merc10  3
+Powiedzia³am: co za strata! Odnajdziesz tego m³odego Joona i popêdzisz do tego niedobrego Gipath. I to bêdzie twój koniec...
+#ANIMATION 64
+#CAMERA 9
+#phrase Merc10  4
+Sam mi przecie¿ powiedzia³eœ, ¿e nie ma tam domów bogaczy, nie ma co kraœæ, i nie ma komu sprzedawaæ. Mówiê ci, zmarnujesz swój talent, a gdy bêdziesz ju¿ stary i zmêczony, wtedy przypomnisz sobie, ¿e ciê ostrzega³am, lecz wtedy bêdzie ju¿ za póŸno!

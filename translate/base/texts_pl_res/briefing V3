@@ -1,0 +1,37 @@
+O zabitym Bia³ym Wilku
+#show Hero 1
+#show Sheriff 2
+#ANIMATION 9
+#CAMERA 9
+#phrase Sheriff  1
+Pos³uchaj, Wybrañcze... mam tutaj szybk¹ propozycjê: czy rozwa¿ysz oddanie mi g³owy Bia³ego Wilka?
+#show Hero 3
+#show Sheriff 5
+#show White_Wolf_Hide 5
+#ANIMATION 32
+#CAMERA 10
+#phrase Hero  2
+Masz na myœli tê?
+#ANIMATION 29
+#CAMERA 11
+#phrase Sheriff  3
+Ha! Na nic ci siê nie przyda, prawda? A ja jej potrzebujê dla mojego presti¿u i autorytetu. Taki jest zwyczaj, rozumiesz?
+#hide White_Wolf_Hide
+#show White_Wolf_Hide 4
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  4
+Podoba mi siê to! Gdy ktoœ ma pobiegaæ dooko³a i wy³apaæ wilki, przychodzicie jêczeæ "O drogi Wybrañcze, czy nam pomo¿esz?" A gdy wszystko jest zrobione, wy zabieracie wszystkie profity.
+#hide White_Wolf_Hide
+#show White_Wolf_Hide 5
+#ANIMATION 32
+#CAMERA 3
+#phrase Sheriff  5
+I ty pozazdroœcisz tego, czy¿ nie? A có¿ to, nabawi³eœ siê pod³oœci od Babura Tightfista? A ja mia³em nadziejê, ¿e zostaniemy przyjació³mi. Starszy ju¿ wszystkim powiedzia³, ¿e mi pomo¿esz w moim planie...
+#show Hero 1
+#show Sheriff 2
+#hide White_Wolf_Hide
+#ANIMATION 11
+#CAMERA 2 -20 5 3
+#phrase Hero  6
+Zobaczymy jak to bêdzie. A co do Eldera i jego planu - powiesz mi o nim póŸniej.

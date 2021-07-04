@@ -1,0 +1,19 @@
+Przyjmij ponownie Rinasa
+#show Hero 1
+#show Merc5 2
+#ANIMATION 14
+#CAMERA 3
+#phrase Merc5  1
+Bardzo przepraszam, ale chcia³bym ponownie przy³¹czyæ siê do twojej grupy.
+#ANIMATION 11
+#CAMERA 10
+#phrase Hero  2
+Chcia³byœ? A co siê sta³o?
+#ANIMATION 44
+#CAMERA 3
+#phrase Merc5  3
+Okolicznoœci wymagaj¹ a¿ebym jak najszybciej opuœci³ miasto. Podj¹³em ju¿ odpowiednie œrodki, które zwiêkszy³y nieznacznie moje zasoby finansowe, lecz niestety znacznie pogorszy³y stosunki ze Stra¿nikami. Czy przyjmiesz mnie z powrotem?
+#ANIMATION 46
+#CAMERA 2
+#phrase Hero  4
+Nie obchodz¹ mnie twoje uk³ady ze Stra¿nikami. Ale mo¿e przydaæ mi siê twoja pomoc!

@@ -1,0 +1,11 @@
+Po¿egnaj Rowdy'ego
+#show Hero
+#show Merc1
+#ANIMATION 9
+#CAMERA 6
+#phrase Hero  1
+Rowdy, jesteœ dobrym kompanem i wiele mi pomog³eœ. Ale od tej chwili bêdê musia³ radzi sobie sam. Dbaj o siebie!
+#ANIMATION 3
+#CAMERA 7
+#phrase Merc1  2
+Nie ma o czym mówiæ... powodzenia! Wracaj ca³y i zdrowy!

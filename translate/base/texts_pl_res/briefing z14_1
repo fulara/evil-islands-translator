@@ -1,0 +1,66 @@
+O Smoczym amulecie
+#show Witch 
+#show Daughter
+#show DragonAmulet 4
+#show Hero
+#ANIMATION 45
+#CAMERA 5
+#phrase Hero  1
+Proszê bardzo, jeden Smoczy amulet. Co mam teraz z nim zrobiæ?
+#DESC (A bit irritated)
+#hide DragonAmulet
+#show DragonAmulet 5
+#ANIMATION 30
+#NOLIPS
+#CAMERA 11
+#phrase Witch  2
+Hm, w rzeczy samej, co teraz?
+#DESC To herself
+#ANIMATION 3
+#CAMERA 11
+#phrase Witch  3
+Airy, sama to wszystko rozpoczê³aœ, wiêc skoro powiedzia³aœ A, musisz powiedzieæ B. No, dalej, powiedz nam o co w tym wszystkim chodzi? Nie mamy wiele czasu!
+#ANIMATION 63
+#CAMERA 8
+#phrase Daughter  4
+To wszystko bardzo proste! Jeœli podejdziesz blisko zielonego Smoka, który mieszka po drugiej stronie jeziora, a masz na sobie amulet, Smok potulnie bêdzie pod¹¿a³ za tob¹, gdzie siê nie udasz. Zdob¹dŸ amulet, a reszta to pestka.
+#DESC Happy that she can help
+#ANIMATION 9
+#CAMERA 4
+#phrase Daughter  5
+DoprowadŸ Smoka do obserwatorium, a kiedy zobaczy on harpie, zaatakuje je i oczyœci ci drogê!
+#hide DragonAmulet
+#ANIMATION 61
+#CAMERA 11
+#phrase Witch  6
+Chwileczkê, stop! Co za stara idiotka ze mnie... prawie wys³a³am ch³opaka na pewn¹ œmieræ! ¯e te¿ mi nie przypomnia³aœ!!
+#ANIMATION 3
+#CAMERA 12
+#phrase Daughter  7
+Babciu, co masz na myœli?
+#ANIMATION 8
+#CAMERA 3
+#phrase Witch  8
+Mam na myœli Jaszczury, ¿yj¹ce w Œrodkowych Szczytach obok przejœcia do jeziora!
+#ANIMATION 45
+#CAMERA 8
+#phrase Daughter  9
+Ale one s¹ pokojowo nastawione!
+#ANIMATION 46
+#CAMERA 7
+#phrase Witch  10
+Kiedyœ by³y przyjazne, ale ju¿ nie s¹! Jeœli dostrzeg¹ Wybrañca, mo¿emy o nim zapomnieæ! Nawet nie jestem pewna co z nimi zrobiæ... jednak mo¿e jest jeden sposób...
+#ANIMATION 62
+#CAMERA 9
+#phrase Witch  11
+A mo¿e zamieniæ s³owo z Baburem, Wybrañcze? On chodzi do Odleg³ych Szczytów po kamienie, a Jaszczury nigdy go nie atakuj¹. Ale nawet nie myœl o wyruszeniu do Œrodkowych Szczytów zanim nie znajdziesz sposobu na uspokojenie tych stworzeñ!
+#ANIMATION 15
+#CAMERA 10
+#phrase Hero  12
+Rozumiem... a wiêc na dodatek muszê zawrzeæ pokój z jakimiœ przeklêtymi Jaszczurami! Jakie to wszystko mêcz¹ce! Ale dziêkujê i tak za radê, Estero, a tak¿e za twoje informacje, Airy. Jesteœ naprawdê bardzo zdoln¹ panienk¹, maleñka!
+#ANIMATION 30
+#NOLIPS
+#CAMERA 12
+#phrase Daughter  13
+A ten znowu swoje! "Maleñka!" Kiedy ludzie uœwiadomi¹ sobie, ¿e nie jestem ma³¹ dziewczynk¹?! Czy nigdy nie udowodniê Wybrañcowi ¿e zas³ugujê na wiêcej ni¿ kilka s³ów? Ale ja siê nigdy nie poddam!
+#DESC To herself

@@ -1,0 +1,15 @@
+Zabierz ponownie Rowdy'ego
+#show Hero 1
+#show Merc1 2
+#ANIMATION 45
+#phrase Hero  1
+Hej, Rowdy, chcesz siê zabawiæ?
+#ANIMATION 45
+#phrase Merc1  2
+Zabawiæ? No jasne! Co masz konkretnie na myœli?
+#ANIMATION 9
+#phrase Hero  3
+Zawsze jest robota dla dobrego ¿o³nierza, takiego jak ty. Chcia³bym abyœ jeszcze raz mi towarzyszy³, dobrze?
+#ANIMATION 15
+#phrase Merc1  4
+Dobre dla ciebie, znaczy dobre i dla mnie!

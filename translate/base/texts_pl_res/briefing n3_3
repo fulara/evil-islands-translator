@@ -1,0 +1,15 @@
+Przyjmij ponownie Nayê
+#show Hero 1
+#show Merc3 2
+#ANIMATION 45
+#CAMERA 9
+#phrase Merc3  1
+Pewnie nadal nie potrzebujesz mojej pomocy, nieprawda¿?
+#ANIMATION 15
+#CAMERA 6
+#phrase Hero  2
+A jednak potrzebujê. O tym w³aœnie chcia³em z tob¹ pogadaæ.
+#ANIMATION 3
+#CAMERA 7
+#phrase Merc3  3
+Znakomicie. Ja nadal jestem zainteresowana uczestniczeniem w twoich przygodach!
