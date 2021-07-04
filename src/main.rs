@@ -1,4 +1,10 @@
+use encoding::{DecoderTrap, Encoding};
+use itertools::Itertools;
 use serde::Deserialize;
+use std::fs;
+use std::fs::File;
+use std::io::Read;
+use std::path::{Path, PathBuf};
 use std::collections::{VecDeque, HashMap};
 use std::process::Command;
 use structopt::StructOpt;
@@ -130,16 +136,133 @@ enum Options {
     Verify(VerifyOptions),
 }
 
+struct Translation {
+    path: PathBuf,
+    lang_key: String,
+}
+
+fn verify_translations(baseline: Translation, translations: &[Translation]) {
+    println!("Proceeding to verify translation");
+    // encoding::all::WINDOWS_1251.decode()
+    let baseline_files: Vec<_> = fs::read_dir(&baseline.path)
+        .unwrap()
+        .map(|e| e.unwrap())
+        .collect();
+    let baseline_files: HashMap<_, _> = baseline_files
+        .iter()
+        .map(|de| {
+            let name = de.file_name().to_str().unwrap().to_owned();
+            let mut buff = Vec::new();
+            let mut file = File::open(de.path()).unwrap().read(&mut buff);
+            let decoded = encoding::all::WINDOWS_1251
+                .decode(&buff, DecoderTrap::Strict)
+                .expect("Decoding failed");
+            (
+                name,
+                decoded.lines().map(|l| l.to_string()).collect::<Vec<_>>(),
+            )
+        })
+        .collect();
+    for t in translations {
+        println!("Doing stuff on: {}", t.lang_key);
+        let files: Vec<_> = fs::read_dir(&t.path).unwrap().map(|e| e.unwrap()).collect();
+        let files: HashMap<_, _> = files
+            .iter()
+            .map(|de| {
+                let name = de.file_name().to_str().unwrap().to_owned();
+                let content = fs::read_to_string(de.path()).expect("Failed to read file");
+                (
+                    name,
+                    content.lines().map(|l| l.to_string()).collect::<Vec<_>>(),
+                )
+            })
+            .collect();
+        if baseline_files.len() != files.len() {
+            println!("Mismatch file count in translation: {}", t.lang_key);
+            for filename in baseline_files.keys() {
+                if !files.contains_key(filename) {
+                    println!(
+                        "File: {:?} present in base translation(ru) but not in translation({})",
+                        filename, t.lang_key
+                    )
+                }
+            }
+            for filename in files.keys() {
+                if !baseline_files.contains_key(filename) {
+                    println!(
+                        "File: {:?} present in translation: {} but not in base translation(ru)",
+                        filename, t.lang_key
+                    )
+                }
+            }
+            panic!("Integrity verification failed.");
+        }
+    }
+}
+
+fn verify() {
+    let paths = fs::read_dir("translate").unwrap();
+    for path in paths {
+        let path = path.unwrap();
+        let metadata = path.metadata().unwrap();
+        if metadata.is_dir() {
+            println!("Will verify: {:?}", path.file_name());
+            let paths: Vec<_> = fs::read_dir(path.path())
+                .unwrap()
+                .filter_map(|rd| {
+                    let rd = rd.unwrap();
+                    if rd.metadata().unwrap().is_dir() {
+                        Some(rd.path())
+                    } else {
+                        None
+                    }
+                })
+                .collect();
+            let mut baseline_translation = None;
+            let mut translations = vec![];
+
+            for path in paths.into_iter() {
+                let file_name = path.file_name().unwrap().to_str().unwrap();
+                assert!(
+                    file_name.starts_with("texts") && file_name.ends_with("_res"),
+                    "Unexpected dir name: {:?}",
+                    file_name
+                );
+                let lang_key = &file_name[file_name.len() - 6..file_name.len() - 4];
+                let translation = Translation {
+                    path: path.clone(),
+                    lang_key: lang_key.to_owned(),
+                };
+                if lang_key == "ru" {
+                    baseline_translation = Some(translation);
+                } else {
+                    translations.push(translation);
+                }
+            }
+            let baseline_translation =
+                baseline_translation.expect("Russian is a base translation its always required");
+            println!(
+                "There are {} translation available: ru,{}",
+                translations.len() + 1,
+                translations.iter().map(|t| &t.lang_key).join(",")
+            );
+            verify_translations(baseline_translation, &translations);
+        }
+    }
+}
+
 fn main() {
     assert!(
-        std::fs::metadata("translate")
+        fs::metadata("translate")
             .expect("translate dir does not exists")
             .is_dir(),
         "translate dir should exist in the dir you are running the tool from"
     );
     let opt = Options::from_args();
     match opt {
-        Options::Verify(opts) => {}
+        Options::Verify(opts) => {
+            verify();
+        }
     }
 }
 
