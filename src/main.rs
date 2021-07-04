@@ -1,5 +1,6 @@
 use std::collections::VecDeque;
 use std::process::Command;
+use structopt::StructOpt;
 
 fn google_auth_token() -> String {
     let output = Command::new("cmd")
@@ -118,15 +119,24 @@ fn translate(token: &str, text: &str) -> String {
     sanitized.reverse(&translated)
 }
 
+#[derive(StructOpt)]
+struct VerifyOptions {
+
+}
+
+#[derive(StructOpt)]
+#[structopt(rename_all="kebab_case")]
+enum Options {
+    Verify(VerifyOptions),
+}
+
 fn main() {
-    let token = google_auth_token();
-    let response = translate(
-        &token,
-        r#"заброшенная земля
-#potato
-заброшенная земля"#,
-    );
-    println!("Hello, world! {}", response);
+    let opt = Options::from_args();
+    match opt {
+        Options::Verify(opts) => {
+
+        }
+    }
 }
 
 #[cfg(test)]
