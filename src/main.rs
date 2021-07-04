@@ -28,7 +28,7 @@ fn google_auth_token() -> String {
 }
 
 struct PreparedTranslateInput {
-    text: Vec<String>,
+    text: String,
     comments: VecDeque<(usize, String)>,
     line_count_name: VecDeque<(usize, String)>,
 }
@@ -37,7 +37,6 @@ impl PreparedTranslateInput {
     fn new(names_contents: &[(String, String)]) -> Self {
         // All this just because I could not get the gcloud working on windows in rust? ..
         // Why not just use vm? oh well we are almost there...
-        let mut result = Vec::new();
         let mut sanitized = String::new();
         let mut comments = VecDeque::new();
         let mut line_count_name = VecDeque::new();
@@ -52,9 +51,6 @@ impl PreparedTranslateInput {
                         sanitized.push_str("\n");
                     }
                     sanitized.push_str(line);
-                    if sanitized.len() > 1000 {
-                        result.push(mem::take(&mut sanitized));
-                    }
                 }
                 line_no += 1;
             }
@@ -62,22 +58,17 @@ impl PreparedTranslateInput {
             line_count_name.push_back((line_count, filename.to_string()));
         }
 
-        if !sanitized.is_empty() {
-            result.push(sanitized);
-        }
-
         PreparedTranslateInput {
-            text: result,
+            text: sanitized,
             comments,
             line_count_name,
         }
     }
 
-    fn reverse(mut self, text: &[String]) -> Vec<(String, String)> {
-        let lined = text.join("\n");
+    fn reverse(mut self, response: &str) -> Vec<(String, String)> {
+        let mut lines = response.lines();
         let mut text = String::new();
         let mut line_no = 0;
-        let mut lines = lined.lines();
         let mut current_file_count = 0;
         let mut result = Vec::new();
         loop {
@@ -143,39 +134,32 @@ fn translate_text(
     names_contents: &[(String, String)],
 ) -> Vec<(String, String)> {
     let sanitized = PreparedTranslateInput::new(names_contents);
-    let mut responses = Vec::new();
-    for text in &sanitized.text {
-        let request = Request {
-            q: text.clone(),
-            source: "ru".into(),
-            target: target_lang.into(),
-            format: "text".into(),
-        };
-        std::fs::write("request.json", serde_json::to_string(&request).unwrap())
-            .expect("couldn't write request.json");
-        let mut cmd = Command::new("curl");
-        cmd.args(&[
-            "-X",
-            "POST",
-            "-H",
-            &format!("Authorization: Bearer {}", token),
-            "-H",
-            "Content-Type: application/json; charset=utf-8",
-            "-d",
-            "@request.json",
-            "https://translation.googleapis.com/language/translate/v2",
-        ]);
-        let output = cmd.output().unwrap();
-        assert!(output.status.success());
-        let response = String::from_utf8(output.stdout).expect("curl failed");
-        let response: Response = serde_json::from_str(&response).expect("Failed to deserialize");
-        responses.push(
-            response.data.get("translations").unwrap()[0]
-                .translated_text
-                .clone(),
-        );
-    }
-    sanitized.reverse(&responses)
+    let request = Request {
+        q: sanitized.text.clone(),
+        source: "ru".into(),
+        target: target_lang.into(),
+        format: "text".into(),
+    };
+    std::fs::write("request.json", serde_json::to_string(&request).unwrap())
+        .expect("couldn't write request.json");
+    let mut cmd = Command::new("curl");
+    cmd.args(&[
+        "-X",
+        "POST",
+        "-H",
+        &format!("Authorization: Bearer {}", token),
+        "-H",
+        "Content-Type: application/json; charset=utf-8",
+        "-d",
+        "@request.json",
+        "https://translation.googleapis.com/language/translate/v2",
+    ]);
+    let output = cmd.output().unwrap();
+    assert!(output.status.success());
+    let response = String::from_utf8(output.stdout).expect("curl failed");
+    let response: Response = serde_json::from_str(&response).expect("Failed to deserialize");
+    let response = &response.data.get("translations").unwrap()[0].translated_text;
+    sanitized.reverse(&response)
 }
 
 #[derive(StructOpt)]
