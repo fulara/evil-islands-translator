@@ -2,7 +2,7 @@ use encoding::{DecoderTrap, Encoding};
 use itertools::Itertools;
 use serde::Deserialize;
 use std::fs;
-use std::fs::File;
+use std::fs::{read_to_string, File};
 use std::io::Read;
 use std::path::{Path, PathBuf};
 use std::collections::{VecDeque, HashMap};
@@ -95,8 +95,7 @@ struct Response {
     data: HashMap<String, Vec<ResponseTranslation>>,
 }
 
-fn translate(token: &str, text: &str) -> String {
-
+fn translate_text(token: &str, text: &str) -> String {
     let sanitized = PreparedTranslateInput::new(text);
     let request = format!(
         r#"{{
@@ -133,13 +132,35 @@ struct VerifyOptions {}
 
 #[derive(StructOpt)]
 #[structopt(rename_all = "kebab_case")]
+struct TranslateOptions {
+    #[structopt(long)]
+    target_lang_key: String,
+    #[structopt(long)]
+    mod_name: String,
+}
+
+#[derive(StructOpt)]
+#[structopt(rename_all = "kebab_case")]
 enum Options {
     Verify(VerifyOptions),
+    Translate(TranslateOptions),
 }
 
 struct Translation {
     path: PathBuf,
     lang_key: String,
+}
+
+fn path_to_name_contents(path: &Path) -> (String, String) {
+    let mut buff = Vec::new();
+    File::open(path).unwrap().read_to_end(&mut buff).unwrap();
+    let contents = encoding::decode(&buff, DecoderTrap::Strict, encoding::all::WINDOWS_1251)
+        .0
+        .unwrap();
+    (
+        path.file_name().unwrap().to_str().unwrap().to_owned(),
+        contents,
+    )
 }
 
 fn verify_translations(baseline: Translation, translations: &[Translation]) {
@@ -252,6 +273,43 @@ fn verify() {
     }
 }
 
+fn translate(opts: &TranslateOptions) {
+    let mut path = Path::new("translate").join(&opts.mod_name);
+    let paths: Vec<_> = fs::read_dir(&path).unwrap().map(|de| de.unwrap()).collect();
+    let mut baseline = None;
+    for p in paths {
+        let filename = p.file_name();
+        let filename = filename.to_str().unwrap();
+        if filename.contains("_ru_") {
+            baseline = Some(p.path());
+        }
+    }
+    let baseline = baseline.expect("No russian translation available for chosen mod");
+    let target = path.clone().join(
+        baseline
+            .file_name()
+            .unwrap()
+            .to_str()
+            .unwrap()
+            .replace("_ru_", &format!("_{}_", opts.target_lang_key)),
+    );
+    fs::create_dir_all(&target).expect("Could not create target translation");
+
+    for f in baseline.read_dir().unwrap() {
+        let f = f.unwrap();
+        println!("Processing: {:?}", f.file_name());
+        let target = target.join(f.file_name());
+        let (source_name, source_contents) = path_to_name_contents(&f.path());
+        println!("contents: {}", source_contents);
+        if target.exists() {
+            println!("exists!")
+        } else {
+            println!("nope!")
+        }
+        break;
+    }
+}
+
 fn main() {
     assert!(
         fs::metadata("translate")
@@ -263,6 +321,9 @@ fn main() {
     match opt {
         Options::Verify(opts) => {
             verify();
+        }
+        Options::Translate(opts) => {
+            translate(&opts);
         }
     }
 }
