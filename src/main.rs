@@ -1,12 +1,12 @@
 use encoding::{DecoderTrap, Encoding};
 use itertools::Itertools;
-use serde::Deserialize;
-use std::fs;
+use serde::{Deserialize, Serialize};
+use std::collections::{HashMap, VecDeque};
 use std::fs::{read_to_string, File};
 use std::io::Read;
 use std::path::{Path, PathBuf};
-use std::collections::{VecDeque, HashMap};
 use std::process::Command;
+use std::{fs, mem};
 use structopt::StructOpt;
 
 fn google_auth_token() -> String {
@@ -32,7 +32,7 @@ const NEWLINE_MARKER: &str = " ź ";
 struct PreparedTranslateInput {
     text: String,
     comments: VecDeque<(usize, String)>,
-    line_count_name: VecDeque<(usize, String)>
+    line_count_name: VecDeque<(usize, String)>,
 }
 
 impl PreparedTranslateInput {
@@ -122,18 +122,25 @@ struct Response {
     data: HashMap<String, Vec<ResponseTranslation>>,
 }
 
+#[derive(Serialize)]
+#[serde(rename_all = "camelCase")]
+struct Request {
+    q: String,
+    source: String,
+    target: String,
+    format: String,
+}
+
 fn translate_text(token: &str, names_contents: &[(String, String)]) -> Vec<(String, String)> {
     let sanitized = PreparedTranslateInput::new(names_contents);
-    let request = format!(
-        r#"{{
-  "q": "{}",
-  "source": "ru",
-  "target": "en",
-  "format": "text"
-}}"#,
-        sanitized.text
-    );
-    std::fs::write("request.json", request).expect("couldn't write request.json");
+    let request = Request {
+        q: sanitized.text.clone(),
+        source: "ru".into(),
+        target: "en".into(),
+        format: "text".into(),
+    };
+    std::fs::write("request.json", serde_json::to_string(&request).unwrap())
+        .expect("couldn't write request.json");
     let mut cmd = Command::new("curl");
     cmd.args(&[
         "-X",
@@ -324,22 +331,34 @@ fn translate(opts: &TranslateOptions) {
     fs::create_dir_all(&target).expect("Could not create target translation");
 
     let token = google_auth_token();
+    let mut total_length = 0;
+    let mut to_translate = Vec::new();
     for f in baseline.read_dir().unwrap() {
         let f = f.unwrap();
         println!("Processing: {:?}", f.file_name());
         let (source_name, source_contents) = path_to_name_contents(&f.path());
-        println!("contents: {}", source_contents);
-        if target.join(f.file_name()).exists() {
-            println!("exists!")
-        } else {
-            let response = translate_text(&token, &[(source_name, source_contents)]);
-            for (filename, contents) in response {
-                let path = target.join(filename);
-                fs::write(&path, contents).unwrap();
+        if source_contents.len() == 0 {
+            fs::create_dir_all(target.join(f.file_name()));
+        } else if !target.join(f.file_name()).exists() {
+            total_length += source_contents.len();
+            to_translate.push((source_name, source_contents));
+            if total_length > 1000 {
+                let response = translate_text(&token, &to_translate);
+                for (filename, contents) in response {
+                    let path = target.join(filename);
+                    fs::write(&path, contents).unwrap();
+                }
+                to_translate.clear();
+                total_length = 0;
             }
-            println!("ok did something");
         }
-        break;
+    }
+    if !to_translate.is_empty() {
+        let response = translate_text(&token, &to_translate);
+        for (filename, contents) in response {
+            let path = target.join(filename);
+            fs::write(&path, contents).unwrap();
+        }
     }
 }
 
@@ -367,12 +386,20 @@ mod tests {
 
     #[test]
     fn prepare_input() {
-        let file1 = ("abc".to_string(), r#"заброшенная земля
+        let file1 = (
+            "abc".to_string(),
+            r#"заброшенная земля
 #potato
-заброшенная земля"#.to_string());
-        let file2 = ("bca".to_string(), r#"green potato
+заброшенная земля"#
+                .to_string(),
+        );
+        let file2 = (
+            "bca".to_string(),
+            r#"green potato
 #potato
-that's flying"#.to_string());
+that's flying"#
+                .to_string(),
+        );
         let test_input = vec![file1, file2];
         let prepared = PreparedTranslateInput::new(&test_input);
         let exact_response = prepared.text.clone();
