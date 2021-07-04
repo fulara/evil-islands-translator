@@ -27,8 +27,6 @@ fn google_auth_token() -> String {
         .to_string()
 }
 
-const NEWLINE_MARKER: &str = " źż ";
-
 struct PreparedTranslateInput {
     text: Vec<String>,
     comments: VecDeque<(usize, String)>,
@@ -51,7 +49,7 @@ impl PreparedTranslateInput {
                     comments.push_back((line_no, line.to_string()));
                 } else {
                     if !sanitized.is_empty() {
-                        sanitized.push_str(NEWLINE_MARKER);
+                        sanitized.push_str("\n");
                     }
                     sanitized.push_str(line);
                     if sanitized.len() > 1000 {
@@ -76,7 +74,7 @@ impl PreparedTranslateInput {
     }
 
     fn reverse(mut self, text: &[String]) -> Vec<(String, String)> {
-        let lined = text.join("\n").replace(NEWLINE_MARKER, "\n");
+        let lined = text.join("\n");
         let mut text = String::new();
         let mut line_no = 0;
         let mut lines = lined.lines();
