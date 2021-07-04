@@ -44,7 +44,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ei-transl"
+name = "evil-islands-translator"
 version = "0.1.0"
 dependencies = [
  "serde",

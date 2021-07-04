@@ -1,5 +1,5 @@
 [package]
-name = "ei-transl"
+name = "evil-islands-translator"
 version = "0.1.0"
 authors = ["fulara <ntszar@gmail.com>"]
 edition = "2018"
