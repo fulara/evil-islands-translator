@@ -30,7 +30,7 @@ fn google_auth_token() -> String {
 const NEWLINE_MARKER: &str = " źż ";
 
 struct PreparedTranslateInput {
-    text: String,
+    text: Vec<String>,
     comments: VecDeque<(usize, String)>,
     line_count_name: VecDeque<(usize, String)>,
 }
@@ -39,6 +39,7 @@ impl PreparedTranslateInput {
     fn new(names_contents: &[(String, String)]) -> Self {
         // All this just because I could not get the gcloud working on windows in rust? ..
         // Why not just use vm? oh well we are almost there...
+        let mut result = Vec::new();
         let mut sanitized = String::new();
         let mut comments = VecDeque::new();
         let mut line_count_name = VecDeque::new();
@@ -49,10 +50,13 @@ impl PreparedTranslateInput {
                 if line.starts_with("#") {
                     comments.push_back((line_no, line.to_string()));
                 } else {
-                    if line_no != 0 {
+                    if !sanitized.is_empty() {
                         sanitized.push_str(NEWLINE_MARKER);
                     }
                     sanitized.push_str(line);
+                    if sanitized.len() > 1000 {
+                        result.push(mem::take(&mut sanitized));
+                    }
                 }
                 line_no += 1;
             }
@@ -60,15 +64,19 @@ impl PreparedTranslateInput {
             line_count_name.push_back((line_count, filename.to_string()));
         }
 
+        if !sanitized.is_empty() {
+            result.push(sanitized);
+        }
+
         PreparedTranslateInput {
-            text: sanitized,
+            text: result,
             comments,
             line_count_name,
         }
     }
 
-    fn reverse(mut self, text: &str) -> Vec<(String, String)> {
-        let lined = text.replace(NEWLINE_MARKER, "\n");
+    fn reverse(mut self, text: &[String]) -> Vec<(String, String)> {
+        let lined = text.join("\n").replace(NEWLINE_MARKER, "\n");
         let mut text = String::new();
         let mut line_no = 0;
         let mut lines = lined.lines();
@@ -137,32 +145,39 @@ fn translate_text(
     names_contents: &[(String, String)],
 ) -> Vec<(String, String)> {
     let sanitized = PreparedTranslateInput::new(names_contents);
-    let request = Request {
-        q: sanitized.text.clone(),
-        source: "ru".into(),
-        target: target_lang.into(),
-        format: "text".into(),
-    };
-    std::fs::write("request.json", serde_json::to_string(&request).unwrap())
-        .expect("couldn't write request.json");
-    let mut cmd = Command::new("curl");
-    cmd.args(&[
-        "-X",
-        "POST",
-        "-H",
-        &format!("Authorization: Bearer {}", token),
-        "-H",
-        "Content-Type: application/json; charset=utf-8",
-        "-d",
-        "@request.json",
-        "https://translation.googleapis.com/language/translate/v2",
-    ]);
-    let output = cmd.output().unwrap();
-    assert!(output.status.success());
-    let response = String::from_utf8(output.stdout).expect("curl failed");
-    println!("response we got is: {}", response);
-    let response: Response = serde_json::from_str(&response).expect("Failed to deserialize");
-    sanitized.reverse(&response.data.get("translations").unwrap()[0].translated_text)
+    let mut responses = Vec::new();
+    for text in &sanitized.text {
+        let request = Request {
+            q: text.clone(),
+            source: "ru".into(),
+            target: target_lang.into(),
+            format: "text".into(),
+        };
+        std::fs::write("request.json", serde_json::to_string(&request).unwrap())
+            .expect("couldn't write request.json");
+        let mut cmd = Command::new("curl");
+        cmd.args(&[
+            "-X",
+            "POST",
+            "-H",
+            &format!("Authorization: Bearer {}", token),
+            "-H",
+            "Content-Type: application/json; charset=utf-8",
+            "-d",
+            "@request.json",
+            "https://translation.googleapis.com/language/translate/v2",
+        ]);
+        let output = cmd.output().unwrap();
+        assert!(output.status.success());
+        let response = String::from_utf8(output.stdout).expect("curl failed");
+        let response: Response = serde_json::from_str(&response).expect("Failed to deserialize");
+        responses.push(
+            response.data.get("translations").unwrap()[0]
+                .translated_text
+                .clone(),
+        );
+    }
+    sanitized.reverse(&responses)
 }
 
 #[derive(StructOpt)]
@@ -337,23 +352,42 @@ fn translate(opts: &TranslateOptions) {
     let token = google_auth_token();
     let mut total_length = 0;
     let mut to_translate = Vec::new();
+    let mut cache = HashMap::new();
+    let mut caches_hit = 0;
+
     for f in baseline.read_dir().unwrap() {
         let f = f.unwrap();
-        println!("Processing: {:?}", f.file_name());
         let (source_name, source_contents) = path_to_name_contents(&f.path());
-        if source_contents.len() == 0 {
-            fs::create_dir_all(target.join(f.file_name()));
+        if source_contents.len() == 0 || source_name.contains(".") {
+            fs::remove_file(target.join(f.file_name()));
+            fs::copy(f.path(), target.join(f.file_name()));
+            println!("Copied: {}", f.path().display())
         } else if !target.join(f.file_name()).exists() {
-            total_length += source_contents.len();
-            to_translate.push((source_name, source_contents));
-            if total_length > 5000 {
-                let response = translate_text(&token, &opts.target_lang_key, &to_translate);
-                for (filename, contents) in response {
-                    let path = target.join(filename);
-                    fs::write(&path, contents).unwrap();
+            println!("fname is: {:?}", f);
+            if let Some(cached_result) = cache.get(&source_contents) {
+                let path = target.join(&source_name);
+                fs::write(&path, cached_result).unwrap();
+                caches_hit += 1;
+                println!(
+                    "Cache hit in: {} total hit: {}",
+                    f.path().display(),
+                    caches_hit
+                );
+            } else {
+                total_length += source_contents.len();
+                to_translate.push((source_name, source_contents));
+                if total_length > 1000 {
+                    let response = translate_text(&token, &opts.target_lang_key, &to_translate);
+                    for ((filename, contents), (_, original_contents)) in
+                        response.into_iter().zip(to_translate.iter())
+                    {
+                        cache.insert(original_contents.clone(), contents.clone());
+                        let path = target.join(filename);
+                        fs::write(&path, contents).unwrap();
+                    }
+                    to_translate.clear();
+                    total_length = 0;
                 }
-                to_translate.clear();
-                total_length = 0;
             }
         }
     }
@@ -390,22 +424,27 @@ mod tests {
 
     #[test]
     fn prepare_input() {
-        let file1 = (
-            "abc".to_string(),
-            r#"заброшенная земля
+        let mut test_input = Vec::new();
+        for _ in 0..100 {
+            let file1 = (
+                "abc".to_string(),
+                r#"заброшенная земля
 #potato
 заброшенная земля"#
-                .to_string(),
-        );
-        let file2 = (
-            "bca".to_string(),
-            r#"green potato
+                    .to_string(),
+            );
+            let file2 = (
+                "bca".to_string(),
+                r#"green potato
 #potato
 that's flying"#
-                .to_string(),
-        );
-        let test_input = vec![file1, file2];
+                    .to_string(),
+            );
+            test_input.push(file1);
+            test_input.push(file2);
+        }
         let prepared = PreparedTranslateInput::new(&test_input);
+        assert!(prepared.text.len() > 1);
         let exact_response = prepared.text.clone();
         assert_eq!(test_input, prepared.reverse(&exact_response));
     }
