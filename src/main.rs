@@ -131,6 +131,12 @@ enum Options {
 }
 
 fn main() {
+    assert!(
+        std::fs::metadata("translate")
+            .expect("translate dir does not exists")
+            .is_dir(),
+        "translate dir should exist in the dir you are running the tool from"
+    );
     let opt = Options::from_args();
     match opt {
         Options::Verify(opts) => {}
