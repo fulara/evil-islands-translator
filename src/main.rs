@@ -32,40 +32,67 @@ const NEWLINE_MARKER: &str = " ź ";
 struct PreparedTranslateInput {
     text: String,
     comments: VecDeque<(usize, String)>,
+    line_count_name: VecDeque<(usize, String)>
 }
 
 impl PreparedTranslateInput {
-    fn new(text: &str) -> Self {
+    fn new(names_contents: &[(String, String)]) -> Self {
+        // All this just because I could not get the gcloud working on windows in rust? ..
+        // Why not just use vm? oh well we are almost there...
         let mut sanitized = String::new();
         let mut comments = VecDeque::new();
-        for (line_no, line) in text.lines().enumerate() {
-            if line.starts_with("#") {
-                comments.push_back((line_no, line.to_string()));
-            } else {
-                if line_no != 0 {
-                    sanitized.push_str(NEWLINE_MARKER);
+        let mut line_count_name = VecDeque::new();
+        let mut line_no = 0;
+        for (filename, contents) in names_contents {
+            let line_no_before = line_no;
+            for line in contents.lines() {
+                if line.starts_with("#") {
+                    comments.push_back((line_no, line.to_string()));
+                } else {
+                    if line_no != 0 {
+                        sanitized.push_str(NEWLINE_MARKER);
+                    }
+                    sanitized.push_str(line);
                 }
-                sanitized.push_str(line);
+                line_no += 1;
             }
+            let line_count = line_no - line_no_before;
+            line_count_name.push_back((line_count, filename.to_string()));
         }
 
         PreparedTranslateInput {
             text: sanitized,
             comments,
+            line_count_name,
         }
     }
 
-    fn reverse(mut self, text: &str) -> String {
+    fn reverse(mut self, text: &str) -> Vec<(String, String)> {
         let lined = text.replace(NEWLINE_MARKER, "\n");
         let mut text = String::new();
         let mut line_no = 0;
         let mut lines = lined.lines();
+        let mut current_file_count = 0;
+        let mut result = Vec::new();
         loop {
+            let (file_original_line_count, filename) = self.line_count_name.front().unwrap();
+            if current_file_count == *file_original_line_count {
+                text.pop();
+                result.push((filename.to_owned(), text.to_string()));
+                text.clear();
+                current_file_count = 0;
+                self.line_count_name.pop_front().unwrap();
+                if self.line_count_name.is_empty() {
+                    break;
+                }
+            }
+
             if let Some((comment_line, comment)) = self.comments.front() {
                 if *comment_line == line_no {
                     text.push_str(comment);
                     text.push_str("\n");
                     line_no += 1;
+                    current_file_count += 1;
                     self.comments.pop_front();
                     continue;
                 }
@@ -75,12 +102,12 @@ impl PreparedTranslateInput {
                 text.push_str(line);
                 text.push_str("\n");
                 line_no += 1;
+                current_file_count += 1;
             } else {
                 break;
             }
         }
-        text.pop();
-        text
+        result
     }
 }
 
@@ -95,8 +122,8 @@ struct Response {
     data: HashMap<String, Vec<ResponseTranslation>>,
 }
 
-fn translate_text(token: &str, text: &str) -> String {
-    let sanitized = PreparedTranslateInput::new(text);
+fn translate_text(token: &str, names_contents: &[(String, String)]) -> Vec<(String, String)> {
+    let sanitized = PreparedTranslateInput::new(names_contents);
     let request = format!(
         r#"{{
   "q": "{}",
@@ -122,6 +149,7 @@ fn translate_text(token: &str, text: &str) -> String {
     let output = cmd.output().unwrap();
     assert!(output.status.success());
     let response = String::from_utf8(output.stdout).expect("curl failed");
+    println!("response we got is: {}", response);
     let response: Response = serde_json::from_str(&response).expect("Failed to deserialize");
     sanitized.reverse(&response.data.get("translations").unwrap()[0].translated_text)
 }
@@ -295,16 +323,21 @@ fn translate(opts: &TranslateOptions) {
     );
     fs::create_dir_all(&target).expect("Could not create target translation");
 
+    let token = google_auth_token();
     for f in baseline.read_dir().unwrap() {
         let f = f.unwrap();
         println!("Processing: {:?}", f.file_name());
-        let target = target.join(f.file_name());
         let (source_name, source_contents) = path_to_name_contents(&f.path());
         println!("contents: {}", source_contents);
-        if target.exists() {
+        if target.join(f.file_name()).exists() {
             println!("exists!")
         } else {
-            println!("nope!")
+            let response = translate_text(&token, &[(source_name, source_contents)]);
+            for (filename, contents) in response {
+                let path = target.join(filename);
+                fs::write(&path, contents).unwrap();
+            }
+            println!("ok did something");
         }
         break;
     }
@@ -334,9 +367,13 @@ mod tests {
 
     #[test]
     fn prepare_input() {
-        let test_input = r#"заброшенная земля
+        let file1 = ("abc".to_string(), r#"заброшенная земля
 #potato
-заброшенная земля"#;
+заброшенная земля"#.to_string());
+        let file2 = ("bca".to_string(), r#"green potato
+#potato
+that's flying"#.to_string());
+        let test_input = vec![file1, file2];
         let prepared = PreparedTranslateInput::new(&test_input);
         let exact_response = prepared.text.clone();
         assert_eq!(test_input, prepared.reverse(&exact_response));
