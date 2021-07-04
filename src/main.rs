@@ -42,6 +42,7 @@ impl PreparedTranslateInput {
         let mut line_count_name = VecDeque::new();
         let mut line_no = 0;
         for (filename, contents) in names_contents {
+            let contents = contents.trim();
             let line_no_before = line_no;
             for line in contents.lines() {
                 if line.starts_with("#") {
@@ -358,7 +359,7 @@ fn translate(opts: &TranslateOptions) {
             } else {
                 total_length += source_contents.len();
                 to_translate.push((source_name, source_contents));
-                if total_length > 1000 {
+                if total_length > 10000 {
                     let response = translate_text(&token, &opts.target_lang_key, &to_translate);
                     for ((filename, contents), (_, original_contents)) in
                         response.into_iter().zip(to_translate.iter())
