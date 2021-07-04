@@ -128,6 +128,7 @@ fn translate(token: &str, text: &str) -> String {
 }
 
 #[derive(StructOpt)]
+#[structopt(rename_all = "kebab_case")]
 struct VerifyOptions {}
 
 #[derive(StructOpt)]
