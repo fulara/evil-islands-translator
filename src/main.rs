@@ -27,7 +27,7 @@ fn google_auth_token() -> String {
         .to_string()
 }
 
-const NEWLINE_MARKER: &str = " ź ";
+const NEWLINE_MARKER: &str = " źż ";
 
 struct PreparedTranslateInput {
     text: String,
@@ -131,12 +131,16 @@ struct Request {
     format: String,
 }
 
-fn translate_text(token: &str, names_contents: &[(String, String)]) -> Vec<(String, String)> {
+fn translate_text(
+    token: &str,
+    target_lang: &str,
+    names_contents: &[(String, String)],
+) -> Vec<(String, String)> {
     let sanitized = PreparedTranslateInput::new(names_contents);
     let request = Request {
         q: sanitized.text.clone(),
         source: "ru".into(),
-        target: "en".into(),
+        target: target_lang.into(),
         format: "text".into(),
     };
     std::fs::write("request.json", serde_json::to_string(&request).unwrap())
@@ -342,8 +346,8 @@ fn translate(opts: &TranslateOptions) {
         } else if !target.join(f.file_name()).exists() {
             total_length += source_contents.len();
             to_translate.push((source_name, source_contents));
-            if total_length > 1000 {
-                let response = translate_text(&token, &to_translate);
+            if total_length > 5000 {
+                let response = translate_text(&token, &opts.target_lang_key, &to_translate);
                 for (filename, contents) in response {
                     let path = target.join(filename);
                     fs::write(&path, contents).unwrap();
@@ -354,7 +358,7 @@ fn translate(opts: &TranslateOptions) {
         }
     }
     if !to_translate.is_empty() {
-        let response = translate_text(&token, &to_translate);
+        let response = translate_text(&token, &opts.target_lang_key, &to_translate);
         for (filename, contents) in response {
             let path = target.join(filename);
             fs::write(&path, contents).unwrap();
