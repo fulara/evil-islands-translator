@@ -1,3 +1,4 @@
+use serde::{Deserialize, Serialize};
 use signal_hook::consts::{SIGINT, SIGQUIT, SIGTERM};
 use signal_hook::iterator::Signals;
 use signal_hook::low_level::signal_name;
@@ -23,3 +24,6 @@ pub fn setup_signal_handler(interrupted: Arc<AtomicBool>) -> anyhow::Result<()> 
     });
     Ok(())
 }
+
+#[derive(Copy, Clone, Eq, PartialEq, Debug, Serialize, Deserialize)]
+pub struct Action {}
