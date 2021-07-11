@@ -1,13 +1,12 @@
+use mio::net::TcpStream;
 use serde::{Deserialize, Serialize};
 use signal_hook::consts::{SIGINT, SIGQUIT, SIGTERM};
 use signal_hook::iterator::Signals;
 use signal_hook::low_level::signal_name;
 use std::convert::TryInto;
 use std::io::{ErrorKind, Read, Write};
-use std::net::TcpStream;
 use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::Arc;
-use std::time::Duration;
 use std::{mem, thread};
 
 pub fn setup_signal_handler(interrupted: Arc<AtomicBool>) -> anyhow::Result<()> {
@@ -38,12 +37,6 @@ pub fn network_send(
     action: &Action,
     state: Option<WriteState>,
 ) -> anyhow::Result<Option<WriteState>> {
-    // Maybe Create a writer type that will set timeout on construction?
-    if stream.write_timeout()?.is_none() {
-        stream
-            .set_write_timeout(Some(Duration::from_secs(1)))
-            .expect("Failed to set_read_timeout");
-    }
     let mut state = match state {
         None => {
             let data = serde_json::to_vec(&action).expect("Failed to serialize?");
@@ -115,12 +108,6 @@ pub fn network_try_read(
     stream: &mut TcpStream,
     state: &mut ReadState,
 ) -> anyhow::Result<Option<Action>> {
-    // Maybe Create a reader type that will set timeout on construction?
-    if stream.read_timeout()?.is_none() {
-        stream
-            .set_read_timeout(Some(Duration::from_secs(1)))
-            .expect("Failed to set_read_timeout");
-    }
     match state {
         ReadState::ReadingHeader(offset, buf) => match stream.read(&mut buf[*offset..]) {
             Ok(0) => Err(anyhow::format_err!("Disconnected")),

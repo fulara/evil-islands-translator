@@ -1,6 +1,8 @@
 use crossbeam_channel::{Receiver, Sender};
+use mio::net::{TcpListener, TcpStream};
 use pseudo_parti::{network_send, setup_signal_handler, Action};
-use std::net::{SocketAddr, TcpListener, TcpStream};
+use std::io::ErrorKind;
+use std::net::SocketAddr;
 use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::Arc;
 use std::thread;
@@ -50,6 +52,7 @@ fn accept_incoming_forever(
                 handles.push(handle);
                 counter += 0;
             }
+            Err(e) if e.kind() == ErrorKind::WouldBlock => {}
             Err(e) => {
                 // TODO: read when this happens
                 println!("Accept failed. {:?}", e);
@@ -71,8 +74,9 @@ fn cli(_tx: &Sender<Action>, interrupted: Arc<AtomicBool>) -> JoinHandle<()> {
         .spawn(move || {
             let stdin = console::Term::stdout();
             while !interrupted.load(Ordering::Relaxed) {
-                let char = stdin.read_char().expect("cli failed");
-                println!("Got char: {}", char);
+                if let Ok(char) = stdin.read_char() {
+                    println!("Got char: {}", char);
+                }
             }
         })
         .unwrap()
@@ -83,7 +87,7 @@ fn main() -> anyhow::Result<()> {
     let interrupted = Arc::new(AtomicBool::new(false));
     setup_signal_handler(interrupted.clone())?;
     let address = SocketAddr::from(([127, 0, 0, 1], opts.port));
-    let listener = TcpListener::bind(&address)?;
+    let listener = TcpListener::bind(address)?;
     println!("Now listening on port: {}", opts.port);
     let (tx, rx) = crossbeam_channel::unbounded();
     let mut handles = Vec::new();

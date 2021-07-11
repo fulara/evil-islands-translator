@@ -10,6 +10,7 @@ edition = "2018"
 anyhow = "1"
 console = "0.14"
 crossbeam-channel = "0.5"
+mio = { version = "0.7", features = ["net", "os-poll"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = { version = "1"}
 signal-hook = "0.3"
