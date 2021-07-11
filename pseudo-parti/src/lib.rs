@@ -10,10 +10,6 @@ use std::sync::Arc;
 use std::time::Duration;
 use std::{mem, thread};
 
-pub fn say_hello() -> &'static str {
-    "hello"
-}
-
 pub fn setup_signal_handler(interrupted: Arc<AtomicBool>) -> anyhow::Result<()> {
     let mut signals = Signals::new(&[SIGINT, SIGQUIT, SIGTERM])?;
     thread::spawn(move || {
@@ -99,6 +95,22 @@ pub enum ReadState {
     ReadingBody(usize, Vec<u8>),
 }
 
+impl ReadState {
+    fn reading_header() -> Self {
+        ReadState::ReadingHeader(0, [0u8; 2])
+    }
+
+    fn reading_body(len: u16) -> Self {
+        ReadState::ReadingBody(len.into(), Vec::with_capacity(len.into()))
+    }
+}
+
+impl Default for ReadState {
+    fn default() -> Self {
+        Self::reading_header()
+    }
+}
+
 pub fn network_try_read(
     stream: &mut TcpStream,
     state: &mut ReadState,
@@ -115,8 +127,7 @@ pub fn network_try_read(
             Ok(read) => {
                 *offset += read;
                 if *offset == buf.len() {
-                    let len: usize = u16::from_be_bytes(*buf).into();
-                    *state = ReadState::ReadingBody(len, Vec::with_capacity(len));
+                    *state = ReadState::reading_body(u16::from_be_bytes(*buf))
                 }
                 Ok(None)
             }
@@ -130,7 +141,7 @@ pub fn network_try_read(
                 if *offset == buf.len() {
                     let action: Action =
                         serde_json::from_slice(buf).expect("Failed to deserialize message");
-                    *state = ReadState::ReadingHeader(0, [0u8; 2]);
+                    *state = ReadState::reading_header();
                     return Ok(Some(action));
                 }
                 Ok(None)
