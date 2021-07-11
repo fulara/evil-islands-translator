@@ -1,5 +1,5 @@
 use crossbeam_channel::Receiver;
-use pseudo_parti::{setup_signal_handler, Action};
+use pseudo_parti::{network_send, setup_signal_handler, Action};
 use std::net::{SocketAddr, TcpListener, TcpStream};
 use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::Arc;
@@ -12,11 +12,16 @@ struct Options {
     port: u16,
 }
 
-fn slave(_stream: TcpStream, rx: Receiver<Action>) {
+fn slave(mut stream: TcpStream, rx: Receiver<Action>) -> anyhow::Result<()> {
     while let Ok(action) = rx.recv() {
         println!("received: action: {:?} will propagate", action);
+        let mut state = network_send(&mut stream, &action, None)?;
+        while let Some(new_state) = state {
+            state = network_send(&mut stream, &action, Some(new_state))?;
+        }
     }
     println!("Channel died, shutting down.");
+    Ok(())
 }
 
 fn accept_incoming_forever(
@@ -25,21 +30,34 @@ fn accept_incoming_forever(
     interrupted: &AtomicBool,
 ) -> anyhow::Result<()> {
     let mut counter = 0usize;
+    let mut handles = Vec::new();
     while !interrupted.load(Ordering::Relaxed) {
         let name = format!("c_{}", counter);
-        let (stream, source) = listener.accept()?;
-        println!("Connection:{} accepted from: {:?}", name, source);
-        thread::Builder::new()
-            .name(name)
-            .spawn({
-                let rx = rx.clone();
-                || {
-                    slave(stream, rx);
-                }
-            })
-            .unwrap();
-        counter += 0;
+        match listener.accept() {
+            Ok((stream, source)) => {
+                println!("Connection:{} accepted from: {:?}", name, source);
+                let handle = thread::Builder::new()
+                    .name(name)
+                    .spawn({
+                        let rx = rx.clone();
+                        || slave(stream, rx)
+                    })
+                    .unwrap();
+                handles.push(handle);
+                counter += 0;
+            }
+            Err(e) => {
+                // TODO: read when this happens
+                println!("Accept failed. {:?}", e);
+            }
+        }
     }
+
+    println!("Joining handles.");
+    for handle in handles {
+        println!("{:?}", handle.join());
+    }
+
     Ok(())
 }
 
