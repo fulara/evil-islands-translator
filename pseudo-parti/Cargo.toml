@@ -8,4 +8,5 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1"
+signal-hook = "0.3"
 structopt = "0.3"
