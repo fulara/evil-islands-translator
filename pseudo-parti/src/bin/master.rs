@@ -1,4 +1,5 @@
-use pseudo_parti::setup_signal_handler;
+use crossbeam_channel::Receiver;
+use pseudo_parti::{setup_signal_handler, Action};
 use std::net::{SocketAddr, TcpListener, TcpStream};
 use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::Arc;
@@ -11,9 +12,18 @@ struct Options {
     port: u16,
 }
 
-fn slave(_stream: TcpStream) {}
+fn slave(_stream: TcpStream, rx: Receiver<Action>) {
+    while let Ok(action) = rx.recv() {
+        println!("received: action: {:?} will propagate", action);
+    }
+    println!("Channel died, shutting down.");
+}
 
-fn accept_incoming_forever(listener: TcpListener, interrupted: &AtomicBool) -> anyhow::Result<()> {
+fn accept_incoming_forever(
+    listener: TcpListener,
+    rx: Receiver<Action>,
+    interrupted: &AtomicBool,
+) -> anyhow::Result<()> {
     let mut counter = 0usize;
     while !interrupted.load(Ordering::Relaxed) {
         let name = format!("c_{}", counter);
@@ -21,8 +31,11 @@ fn accept_incoming_forever(listener: TcpListener, interrupted: &AtomicBool) -> a
         println!("Connection:{} accepted from: {:?}", name, source);
         thread::Builder::new()
             .name(name)
-            .spawn(|| {
-                slave(stream);
+            .spawn({
+                let rx = rx.clone();
+                || {
+                    slave(stream, rx);
+                }
             })
             .unwrap();
         counter += 0;
@@ -37,6 +50,7 @@ fn main() -> anyhow::Result<()> {
     let address = SocketAddr::from(([127, 0, 0, 1], opts.port));
     let listener = TcpListener::bind(&address)?;
     println!("Now listening on port: {}", opts.port);
-    accept_incoming_forever(listener, &interrupted)?;
+    let (_tx, rx) = crossbeam_channel::unbounded();
+    accept_incoming_forever(listener, rx, &interrupted)?;
     Ok(())
 }
