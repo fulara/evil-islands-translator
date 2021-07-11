@@ -11,7 +11,7 @@ struct Options {
 }
 
 fn main() -> anyhow::Result<()> {
-    let opts = Options::from_args();
+    let opts: Options = Options::from_args();
     let interrupted = Arc::new(AtomicBool::new(false));
     setup_signal_handler(interrupted.clone())?;
     println!("Slave connecting to master on: {:?}", opts.host);

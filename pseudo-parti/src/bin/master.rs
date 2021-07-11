@@ -1,15 +1,19 @@
-use crossbeam_channel::Receiver;
+use crossbeam_channel::{Receiver, Sender};
 use pseudo_parti::{network_send, setup_signal_handler, Action};
 use std::net::{SocketAddr, TcpListener, TcpStream};
 use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::Arc;
 use std::thread;
+use std::thread::JoinHandle;
 use structopt::StructOpt;
 
 #[derive(Debug, StructOpt)]
 struct Options {
     #[structopt(long)]
     port: u16,
+
+    #[structopt(long)]
+    cli: bool,
 }
 
 fn slave(mut stream: TcpStream, rx: Receiver<Action>) -> anyhow::Result<()> {
@@ -61,14 +65,35 @@ fn accept_incoming_forever(
     Ok(())
 }
 
+fn cli(_tx: &Sender<Action>, interrupted: Arc<AtomicBool>) -> JoinHandle<()> {
+    thread::Builder::new()
+        .name("cli".into())
+        .spawn(move || {
+            let stdin = console::Term::stdout();
+            while !interrupted.load(Ordering::Relaxed) {
+                let char = stdin.read_char().expect("cli failed");
+                println!("Got char: {}", char);
+            }
+        })
+        .unwrap()
+}
+
 fn main() -> anyhow::Result<()> {
-    let opts = Options::from_args();
+    let opts: Options = Options::from_args();
     let interrupted = Arc::new(AtomicBool::new(false));
     setup_signal_handler(interrupted.clone())?;
     let address = SocketAddr::from(([127, 0, 0, 1], opts.port));
     let listener = TcpListener::bind(&address)?;
     println!("Now listening on port: {}", opts.port);
-    let (_tx, rx) = crossbeam_channel::unbounded();
+    let (tx, rx) = crossbeam_channel::unbounded();
+    let mut handles = Vec::new();
+    if opts.cli {
+        handles.push(cli(&tx, interrupted.clone()));
+    }
     accept_incoming_forever(listener, rx, &interrupted)?;
+    println!("Joining threads");
+    for handle in handles {
+        println!("Joined: {:?}", handle.join().unwrap());
+    }
     Ok(())
 }
