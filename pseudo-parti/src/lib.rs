@@ -25,7 +25,9 @@ pub fn setup_signal_handler(interrupted: Arc<AtomicBool>) -> anyhow::Result<()> 
 }
 
 #[derive(Copy, Clone, Eq, PartialEq, Debug, Serialize, Deserialize)]
-pub struct Action {}
+pub enum Action {
+    Test(char),
+}
 
 pub enum WriteState {
     WritingHeader(usize, [u8; 2], usize, Vec<u8>),
@@ -37,10 +39,16 @@ pub fn network_send(
     action: &Action,
     state: Option<WriteState>,
 ) -> anyhow::Result<Option<WriteState>> {
+    println!("xxx {}", state.is_some());
     let mut state = match state {
         None => {
             let data = serde_json::to_vec(&action).expect("Failed to serialize?");
             let len: u16 = data.len().try_into().expect("serialized len exceeds u16");
+            println!(
+                "We are sending: {}: {}",
+                ::std::str::from_utf8(&data).unwrap(),
+                len
+            );
             WriteState::WritingHeader(0, len.to_be_bytes(), 0, data)
         }
         Some(state) => state,
@@ -94,7 +102,9 @@ impl ReadState {
     }
 
     fn reading_body(len: u16) -> Self {
-        ReadState::ReadingBody(len.into(), Vec::with_capacity(len.into()))
+        let mut buff = Vec::with_capacity(len.into());
+        unsafe { buff.set_len(len.into()) }
+        ReadState::ReadingBody(0, buff)
     }
 }
 
@@ -110,9 +120,13 @@ pub fn network_try_read(
 ) -> anyhow::Result<Option<Action>> {
     match state {
         ReadState::ReadingHeader(offset, buf) => match stream.read(&mut buf[*offset..]) {
-            Ok(0) => Err(anyhow::format_err!("Disconnected")),
             Ok(read) => {
                 *offset += read;
+                println!(
+                    "while reading header. read: {} expected len: {}",
+                    *offset,
+                    buf.len()
+                );
                 if *offset == buf.len() {
                     *state = ReadState::reading_body(u16::from_be_bytes(*buf))
                 }
@@ -122,9 +136,13 @@ pub fn network_try_read(
             Err(e) => Err(e.into()),
         },
         ReadState::ReadingBody(offset, buf) => match stream.read(&mut buf[*offset..]) {
-            Ok(0) => Err(anyhow::format_err!("Disconnected")),
             Ok(read) => {
                 *offset += read;
+                println!(
+                    "while reading body. read: {} expected len: {}",
+                    *offset,
+                    buf.len()
+                );
                 if *offset == buf.len() {
                     let action: Action =
                         serde_json::from_slice(buf).expect("Failed to deserialize message");

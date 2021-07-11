@@ -68,7 +68,7 @@ fn accept_incoming_forever(
     Ok(())
 }
 
-fn cli(_tx: &Sender<Action>, interrupted: Arc<AtomicBool>) -> JoinHandle<()> {
+fn cli(tx: Sender<Action>, interrupted: Arc<AtomicBool>) -> JoinHandle<()> {
     thread::Builder::new()
         .name("cli".into())
         .spawn(move || {
@@ -76,6 +76,7 @@ fn cli(_tx: &Sender<Action>, interrupted: Arc<AtomicBool>) -> JoinHandle<()> {
             while !interrupted.load(Ordering::Relaxed) {
                 if let Ok(char) = stdin.read_char() {
                     println!("Got char: {}", char);
+                    let _ = tx.send(Action::Test(char));
                 }
             }
         })
@@ -92,7 +93,7 @@ fn main() -> anyhow::Result<()> {
     let (tx, rx) = crossbeam_channel::unbounded();
     let mut handles = Vec::new();
     if opts.cli {
-        handles.push(cli(&tx, interrupted.clone()));
+        handles.push(cli(tx, interrupted.clone()));
     }
     accept_incoming_forever(listener, rx, &interrupted)?;
     println!("Joining threads");

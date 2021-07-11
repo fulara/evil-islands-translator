@@ -30,9 +30,11 @@ fn main() -> anyhow::Result<()> {
     connection.set_read_timeout(Some(Duration::from_millis(1000)))?;
     connection.set_write_timeout(Some(Duration::from_millis(1000)))?;
     let mut connection = mio::net::TcpStream::from_std(connection);
+    let mut state = ReadState::default();
     while !interrupted.load(Ordering::Relaxed) {
-        let mut state = ReadState::default();
-        network_try_read(&mut connection, &mut state)?;
+        if let Some(action) = network_try_read(&mut connection, &mut state)? {
+            println!("Client got action: {:?}", action);
+        }
     }
     Ok(())
 }
